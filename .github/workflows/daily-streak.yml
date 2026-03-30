@@ -1,0 +1,55 @@
+name: Daily Financial Update & Streak
+
+on:
+  schedule:
+    # 03:00 UTC is 08:30 IST (Daily)
+    - cron: '30 3 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  run-daily:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas requests
+
+      - name: Run Collector
+        run: |
+          mkdir -p datasets
+          python scripts/collector.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: 10 Streak Commits
+        run: |
+          # The user wants 10 commits daily.
+          # We'll create small updates for each commit.
+          for i in {1..10}
+          do
+            echo "Streak Update #$i at $(date)" >> streak.txt
+            git add streak.txt
+            # If collector created datasets, add them to the first few commits
+            if [ -d "datasets" ]; then git add datasets/; fi
+            
+            git commit -m "Financial Update Streak #$i [$(date +'%Y-%m-%d')]"
+            # Use --allow-empty if there are no changes, but here we change streak.txt
+          done
+          git push origin main
