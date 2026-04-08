@@ -15,5 +15,22 @@ Finity- is an automated financial data collection repository designed to build a
 - `datasets/`: The primary location for training data.
 - `streak.txt`: A simple file to track daily streak activity.
 
+## 🛠️ Technical Roadmap
+
+### Phase 1: Data Ingestion (Current)
+- [x] Basic `yfinance` integration.
+- [x] Daily automated collection via GitHub Actions.
+- [x] Master dataset CSV accumulation.
+
+### Phase 2: Signal Processing (Next)
+- [ ] Technical indicator computation (RSI, MACD, EMA).
+- [ ] News sentiment analysis integration using NLP.
+- [ ] Correlation matrix generation between global and local indices.
+
+### Phase 3: AI Advisor (Future)
+- [ ] Fine-tuning LLM on curated financial snapshots.
+- [ ] Interactive dashboard for personal portfolio advice.
+- [ ] Predictive signal generation.
+
 ---
 *Created with ❤️ for intelligence in finance.*
