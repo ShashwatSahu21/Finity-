@@ -5,7 +5,10 @@ import os
 from datetime import datetime
 
 # Configuration
-TICKERS = ["^NSEI", "^BSESN", "BTC-USD", "RELIANCE.NS", "TCS.NS", "AAPL", "MSFT"]
+TICKERS = [
+    "^NSEI", "^BSESN", "BTC-USD", "RELIANCE.NS", "TCS.NS", "HDFCBANK.NS", 
+    "INFY.NS", "AAPL", "MSFT", "GOOGL", "TSLA", "NVDA", "ETH-USD"
+]
 DATA_DIR = "datasets"
 
 def get_stock_data():
