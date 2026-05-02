@@ -10,5 +10,15 @@ venv/
 .vscode/
 .idea/
 *.log
+node_modules/
+dist/
+.DS_Store
+*.local
+
 # Do NOT ignore datasets as they are the training data
 # datasets/
+
+# ML model files (large)
+# *.h5
+# *.joblib
+# *.pkl
