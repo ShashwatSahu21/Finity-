@@ -1,0 +1,47 @@
+name: Market Data Ingestion Pipeline
+
+on:
+  schedule:
+    # Run every 6 hours (4 times a day) to capture intraday pricing data realistically
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  ingest-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yfinance pandas requests
+
+      - name: Run Market Data Collector
+        run: |
+          mkdir -p datasets
+          python scripts/collector.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'ShashwatSahu21'
+          git config --global user.email 'shashwatsahu2103@gmail.com'
+          
+          git add datasets/
+          
+          # Only commit if there are changes to datasets
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(data): ingest live market pricing for tracked tickers" -m "Automated update of master_dataset.csv and daily pricing snapshots."
+            git push origin main
+          else
+            echo "No new market data to commit."
+          fi
