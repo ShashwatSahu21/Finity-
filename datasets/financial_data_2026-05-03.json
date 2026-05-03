@@ -1,7 +1,7 @@
 [
     {
         "symbol": "^NSEI",
-        "timestamp": "2026-05-03T03:51:19.710791",
+        "timestamp": "2026-05-03T08:08:21.312593",
         "price": 23997.55078125,
         "change": 0.6015625,
         "open": 23996.94921875,
@@ -261,7 +261,7 @@
     },
     {
         "symbol": "^BSESN",
-        "timestamp": "2026-05-03T03:51:19.903228",
+        "timestamp": "2026-05-03T08:08:21.726192",
         "price": 76913.5,
         "change": -100.7109375,
         "open": 77014.2109375,
@@ -449,14 +449,138 @@
     },
     {
         "symbol": "BTC-USD",
-        "timestamp": "2026-05-03T03:51:20.080118",
-        "price": 78184.0,
-        "change": -485.5546875,
+        "timestamp": "2026-05-03T08:08:22.149863",
+        "price": 78455.5,
+        "change": -214.0546875,
         "open": 78669.5546875,
         "high": 78705.171875,
-        "low": 78100.9375,
-        "volume": 17099503616,
+        "low": 78093.3046875,
+        "volume": 15927919616,
         "news": [
+            {
+                "id": "877fb1fc-4f94-3309-be3e-cc01eb42de7b",
+                "content": {
+                    "id": "877fb1fc-4f94-3309-be3e-cc01eb42de7b",
+                    "contentType": "STORY",
+                    "title": "Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants",
+                    "description": "",
+                    "summary": "Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...",
+                    "pubDate": "2026-05-03T04:19:58Z",
+                    "displayTime": "2026-05-03T04:19:58Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                        "originalWidth": 1194,
+                        "originalHeight": 432,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 1194,
+                                "height": 432,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Simply Wall St.",
+                        "url": "https://simplywall.st/",
+                        "sourceId": "simply_wall_st__316"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "846d0547-18c5-3071-8174-f8033b3d1a24",
+                "content": {
+                    "id": "846d0547-18c5-3071-8174-f8033b3d1a24",
+                    "contentType": "STORY",
+                    "title": "Assessing MicroStrategy (MSTR) Valuation After Institutional Buying And Expanded Bitcoin Treasury",
+                    "description": "",
+                    "summary": "The latest move in Strategy (MSTR) has been driven by Alberta Investment Management Corporation\u2019s first major stake, continued large scale Bitcoin purchases, and a steady 11.5% STRC preferred dividend supporting renewed investor interest. See our latest analysis for Strategy. That renewed interest comes on top of a sharp shift in recent performance, with a 30 day share price return of 47.85% and a 90 day share price return of 26.89% contrasting with a 1 year total shareholder return of 55.08%...",
+                    "pubDate": "2026-05-03T04:19:07Z",
+                    "displayTime": "2026-05-03T04:19:07Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                        "originalWidth": 1194,
+                        "originalHeight": 432,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 1194,
+                                "height": 432,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Simply Wall St.",
+                        "url": "https://simplywall.st/",
+                        "sourceId": "simply_wall_st__316"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-microstrategy-mstr-valuation-institutional-041907457.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-microstrategy-mstr-valuation-institutional-041907457.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
             {
                 "id": "a30550e3-2fa1-3303-bb57-4156afd69ca4",
                 "content": {
@@ -642,136 +766,12 @@
                     },
                     "storyline": null
                 }
-            },
-            {
-                "id": "b6fea283-872b-33e7-a456-5f123f96a808",
-                "content": {
-                    "id": "b6fea283-872b-33e7-a456-5f123f96a808",
-                    "contentType": "STORY",
-                    "title": "Is\u00a0Strategy Inc (MSTR)\u00a0A Good Stock\u00a0To\u00a0Buy Now?",
-                    "description": "",
-                    "summary": "Is MSTR a good stock to buy? We came across a bullish thesis on Strategy Inc on The Analyst\u2019s Journal\u2019s Substack by RA_Capital. In this article, we will summarize the bulls\u2019 thesis on MSTR. Strategy Inc\u2019s share was trading at $170.81 as of April 20th. MSTR\u2019s trailing and forward P/E were 5.30 and 1.29, respectively according to Yahoo Finance. Strategy Inc, [\u2026]",
-                    "pubDate": "2026-05-02T18:04:03Z",
-                    "displayTime": "2026-05-02T18:04:03Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/c5e077b1003ff3386af5fe4df3d3b858",
-                        "originalWidth": 768,
-                        "originalHeight": 512,
-                        "caption": "Bitcoin and ethereum coins",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/DJ6tCKKCwGYLAQgWyHydtQ--~B/aD01MTI7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c5e077b1003ff3386af5fe4df3d3b858",
-                                "width": 768,
-                                "height": 512,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/FBM8rEU1wfjaPouvEOJcxg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c5e077b1003ff3386af5fe4df3d3b858",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "Insider Monkey",
-                        "url": "http://www.insidermonkey.com",
-                        "sourceId": "insidermonkey.com"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-inc-mstr-good-stock-180403768.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-inc-mstr-good-stock-180403768.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "5d35a996-aee7-3a37-ab48-022d6df3702b",
-                "content": {
-                    "id": "5d35a996-aee7-3a37-ab48-022d6df3702b",
-                    "contentType": "STORY",
-                    "title": "Cathie Wood buys $40 million of beaten-down fintech stock",
-                    "description": "",
-                    "summary": "Most investors see a stock drop 13% after a bad earnings report and walk away. One of the most closely watched portfolio managers in the market saw the same setup and moved in the opposite direction. What Cathie Wood's ARK Invest did the very next morning is the kind of move that forces the market ...",
-                    "pubDate": "2026-05-02T17:33:00Z",
-                    "displayTime": "2026-05-02T17:33:00Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/thestreet_881/8ca90183e0f9c759e24191a4ddf8d6e9",
-                        "originalWidth": 1200,
-                        "originalHeight": 675,
-                        "caption": "",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/MJ5aJrdIxg0X2SWvTuF4Pg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/8ca90183e0f9c759e24191a4ddf8d6e9",
-                                "width": 1200,
-                                "height": 675,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/xOa6oU1OIY11X6GeoM0NDA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/8ca90183e0f9c759e24191a4ddf8d6e9",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "TheStreet",
-                        "url": "https://www.thestreet.com/",
-                        "sourceId": "thestreet_881"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://www.thestreet.com/investing/stocks/cathie-wood-buys-40-million-of-beaten-down-fintech-stock",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-40-million-173300772.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
             }
         ]
     },
     {
         "symbol": "RELIANCE.NS",
-        "timestamp": "2026-05-03T03:51:20.314014",
+        "timestamp": "2026-05-03T08:08:22.635491",
         "price": 1436.0,
         "change": 27.0,
         "open": 1409.0,
@@ -1074,7 +1074,7 @@
     },
     {
         "symbol": "TCS.NS",
-        "timestamp": "2026-05-03T03:51:20.585338",
+        "timestamp": "2026-05-03T08:08:23.046423",
         "price": 2474.800048828125,
         "change": -4.199951171875,
         "open": 2479.0,
@@ -1396,7 +1396,7 @@
     },
     {
         "symbol": "HDFCBANK.NS",
-        "timestamp": "2026-05-03T03:51:20.810883",
+        "timestamp": "2026-05-03T08:08:23.511752",
         "price": 774.75,
         "change": 4.75,
         "open": 770.0,
@@ -1680,7 +1680,7 @@
     },
     {
         "symbol": "INFY.NS",
-        "timestamp": "2026-05-03T03:51:21.123610",
+        "timestamp": "2026-05-03T08:08:23.918345",
         "price": 1182.5999755859375,
         "change": 15.0999755859375,
         "open": 1167.5,
@@ -1964,7 +1964,7 @@
     },
     {
         "symbol": "AAPL",
-        "timestamp": "2026-05-03T03:51:21.532382",
+        "timestamp": "2026-05-03T08:08:24.413658",
         "price": 280.1400146484375,
         "change": 1.280029296875,
         "open": 278.8599853515625,
@@ -2041,7 +2041,7 @@
                     "contentType": "STORY",
                     "title": "Berkshire Investors Praise Greg Abel at Post-Buffett Meeting",
                     "description": "",
-                    "summary": "(Bloomberg) -- Greg Abel didn\u2019t take long to address the elephant in the room.Most Read from BloombergWorld\u2019s Largest Container Carrier Plans Route Avoiding HormuzTrump Vows 25% Tariff on European Autos in Escalating Trade RiftTrump Rues State of Iran Talks, Says Prefers Not to StrikeTrump Family-Backed Drone Firm Signs Weapons Deal With USBeijing Tells Chinese Firms to Ignore US Sanctions on RefinersIn his first few minutes addressing Berkshire Hathaway Inc. shareholders on Saturday \u2014 the first",
+                    "summary": "(Bloomberg) -- Greg Abel didn\u2019t take long to address the elephant in the room.Most Read from BloombergSupertanker Appears to Have Crossed the Strait of HormuzWorld\u2019s Largest Container Carrier Plans Route Avoiding HormuzBeijing Tells Chinese Firms to Ignore US Sanctions on RefinersTrump Rues State of Iran Talks, Says Prefers Not to StrikeTrump Vows 25% Tariff on European Autos in Escalating Trade RiftIn his first few minutes addressing Berkshire Hathaway Inc. shareholders on Saturday \u2014 the first",
                     "pubDate": "2026-05-02T23:35:23Z",
                     "displayTime": "2026-05-02T23:35:23Z",
                     "isHosted": true,
@@ -2286,7 +2286,7 @@
     },
     {
         "symbol": "MSFT",
-        "timestamp": "2026-05-03T03:51:21.849794",
+        "timestamp": "2026-05-03T08:08:24.860497",
         "price": 414.44000244140625,
         "change": 1.6400146484375,
         "open": 412.79998779296875,
@@ -2608,7 +2608,7 @@
     },
     {
         "symbol": "GOOGL",
-        "timestamp": "2026-05-03T03:51:22.154294",
+        "timestamp": "2026-05-03T08:08:25.260193",
         "price": 385.69000244140625,
         "change": 4.05999755859375,
         "open": 381.6300048828125,
@@ -2617,156 +2617,32 @@
         "volume": 30075200,
         "news": [
             {
-                "id": "9daad260-3072-339e-a68e-91d34883c8ae",
+                "id": "b2dfd3dc-2437-30c0-b09a-7e7b002ede44",
                 "content": {
-                    "id": "9daad260-3072-339e-a68e-91d34883c8ae",
+                    "id": "b2dfd3dc-2437-30c0-b09a-7e7b002ede44",
                     "contentType": "STORY",
-                    "title": "Alphabet Is Outgrowing Amazon and Microsoft Where It Matters Most -- Why This Makes Alphabet Stock a Buy",
+                    "title": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
                     "description": "",
-                    "summary": "The search giant's cloud business is suddenly leaving its biggest peers behind in growth -- and the gap could keep widening.",
-                    "pubDate": "2026-05-03T01:51:00Z",
-                    "displayTime": "2026-05-03T01:51:00Z",
+                    "summary": "Tesla Inc. (NASDAQ:TSLA) recently ramped up its Robotaxi operations in Texas, providing unsupervised Robotaxi rides in Dallas and Houston, while it was already providing rides in Austin. While the ramp-up in Cybercab production could provide another boost in its Robotaxi exploits, Tesla remains far behind its rival Alphabet Inc.\u2018s (NASDAQ:GOOGL) (NASDAQ:GOOG) Waymo. Tesla Vs Waymo On Thursday, Electrek reported that Tesla had increased the size of its unsupervised Robotaxi fleet to 25 across the",
+                    "pubDate": "2026-05-03T07:32:27Z",
+                    "displayTime": "2026-05-03T07:32:27Z",
                     "isHosted": true,
                     "bypassModal": false,
                     "previewUrl": null,
                     "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7fb25379c763a813287383f0cb66ae44",
-                        "originalWidth": 1400,
-                        "originalHeight": 787,
-                        "caption": "A large data center.",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/6gMGG7MhwxEZU.i4wvProA--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7fb25379c763a813287383f0cb66ae44",
-                                "width": 1400,
-                                "height": 787,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/xOvoKOFE7xpCCR7Yf2vVfQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7fb25379c763a813287383f0cb66ae44",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "Motley Fool",
-                        "url": "http://www.fool.com/",
-                        "sourceId": "motleyfool.com"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://www.fool.com/investing/2026/05/02/alphabet-is-outgrowing-amazon-and-microsoft-where/",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-outgrowing-amazon-microsoft-where-015100643.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "993df502-8bad-38ed-aa32-b9a414bc40d0",
-                "content": {
-                    "id": "993df502-8bad-38ed-aa32-b9a414bc40d0",
-                    "contentType": "STORY",
-                    "title": "Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating",
-                    "description": "",
-                    "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 10 Best American Tech Stocks to Buy. On April 30, Pivotal Research increased its price target on Alphabet Inc. (NASDAQ:GOOGL) from $420 to $470 and kept its Buy rating on the stock. The research firm pointed to the company\u2019s first-quarter results. Search revenue growth accelerated for the fifth [\u2026]",
-                    "pubDate": "2026-05-02T22:39:29Z",
-                    "displayTime": "2026-05-02T22:39:29Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/6469679c78d003445a578485413f37fc",
-                        "originalWidth": 5760,
-                        "originalHeight": 3840,
-                        "caption": "Pivotal Research Raises Alphabet (GOOGL) Price Target, Keeps Buy Rating",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/RDHoYzkgH3yY8gW6eA1.BA--~B/aD0zODQwO3c9NTc2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/6469679c78d003445a578485413f37fc",
-                                "width": 5760,
-                                "height": 3840,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/GzK4VqsBWYSJR41NUirmSA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/6469679c78d003445a578485413f37fc",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "Insider Monkey",
-                        "url": "http://www.insidermonkey.com",
-                        "sourceId": "insidermonkey.com"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/pivotal-research-raises-alphabet-googl-223929609.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/pivotal-research-raises-alphabet-googl-223929609.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "563779c4-be1e-300f-8418-84f8c98a0087",
-                "content": {
-                    "id": "563779c4-be1e-300f-8418-84f8c98a0087",
-                    "contentType": "STORY",
-                    "title": "Big Tech will burn $700 billion on AI by the end of 2026 \u2014 and one NYU professor says it's the biggest waste of money",
-                    "description": "",
-                    "summary": "Big Tech is pouring hundreds of billions into artificial intelligence, driving record growth\u2014but raising fresh concerns about whether the payoff will justify the cost.",
-                    "pubDate": "2026-05-02T22:35:00Z",
-                    "displayTime": "2026-05-02T22:35:00Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/moneywise_327/059a7a1d98302a9049a0fb517315795d",
+                        "originalUrl": "https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
                         "originalWidth": 1024,
                         "originalHeight": 576,
-                        "caption": "NYU professor Gary Marcus",
+                        "caption": "",
                         "resolutions": [
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/UXox_Db.2daYyVeLXr2uWw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_327/059a7a1d98302a9049a0fb517315795d",
+                                "url": "https://s.yimg.com/uu/api/res/1.2/xUNpeC0VpuA_4gODV7iYyw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
                                 "width": 1024,
                                 "height": 576,
                                 "tag": "original"
                             },
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/yyT3FBoAPWf8Cc0ldNTzLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/059a7a1d98302a9049a0fb517315795d",
+                                "url": "https://s.yimg.com/uu/api/res/1.2/XTL2zCGUqbvMRYpEXXU5Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
                                 "width": 170,
                                 "height": 128,
                                 "tag": "170x128"
@@ -2774,18 +2650,18 @@
                         ]
                     },
                     "provider": {
-                        "displayName": "Moneywise",
-                        "url": "https://moneywise.com/",
-                        "sourceId": "moneywise_327"
+                        "displayName": "Benzinga",
+                        "url": "http://www.benzinga.com/",
+                        "sourceId": "Benzinga"
                     },
                     "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-burn-700-billion-223500179.html",
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
                     },
                     "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/big-tech-burn-700-billion-223500179.html",
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
@@ -2803,94 +2679,32 @@
                 }
             },
             {
-                "id": "08a6ec7b-961c-3ba2-8029-8405643fda04",
+                "id": "5ba83176-9d2e-3fa9-8ff2-66bb55334c85",
                 "content": {
-                    "id": "08a6ec7b-961c-3ba2-8029-8405643fda04",
+                    "id": "5ba83176-9d2e-3fa9-8ff2-66bb55334c85",
                     "contentType": "STORY",
-                    "title": "Farewell, Jeeves: Ask.com shuts down",
+                    "title": "Alphabet Is Dropping $190 Billion on AI Infrastructure: 3 Semiconductor Stocks Set to Win Big",
                     "description": "",
-                    "summary": "Owner IAC says it's discontinuing its search business.",
-                    "pubDate": "2026-05-02T21:11:28Z",
-                    "displayTime": "2026-05-02T21:11:28Z",
+                    "summary": "Don't overthink the AI spending spree.",
+                    "pubDate": "2026-05-03T06:22:51Z",
+                    "displayTime": "2026-05-03T06:22:51Z",
                     "isHosted": true,
                     "bypassModal": false,
                     "previewUrl": null,
                     "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/967dc34907c3f795b8dcdaa6f533e1bc",
-                        "originalWidth": 1024,
-                        "originalHeight": 683,
-                        "caption": "Ask.com logo",
+                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/790cde6300ca61744263c63f2a0bcd3d",
+                        "originalWidth": 1200,
+                        "originalHeight": 675,
+                        "caption": "A person with images around their head.",
                         "resolutions": [
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/TiJfvBWRwXMR9QLs9q4VJQ--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/967dc34907c3f795b8dcdaa6f533e1bc",
-                                "width": 1024,
-                                "height": 683,
+                                "url": "https://s.yimg.com/uu/api/res/1.2/tZjt8pgQVZh9G_n8iOA5Hw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/790cde6300ca61744263c63f2a0bcd3d",
+                                "width": 1200,
+                                "height": 675,
                                 "tag": "original"
                             },
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/F59o03SrnSDhYLdSA_b9xw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/967dc34907c3f795b8dcdaa6f533e1bc",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "TechCrunch",
-                        "url": "https://techcrunch.com/",
-                        "sourceId": "techcrunch_finance_785"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/farewell-jeeves-ask-com-shuts-211128581.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/farewell-jeeves-ask-com-shuts-211128581.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "62b7d65f-eb4f-3981-ac18-1304e53a77c4",
-                "content": {
-                    "id": "62b7d65f-eb4f-3981-ac18-1304e53a77c4",
-                    "contentType": "STORY",
-                    "title": "Major Hyperscalers Just Reported Earnings. Nvidia Was The Winner",
-                    "description": "",
-                    "summary": "Nvidia's shareholders should be celebrating.",
-                    "pubDate": "2026-05-02T20:50:00Z",
-                    "displayTime": "2026-05-02T20:50:00Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c882401b6957db4da6e2195c89eb6f14",
-                        "originalWidth": 1400,
-                        "originalHeight": 933,
-                        "caption": "Person working in a data center. ",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/LWuKlVrp15dBYwOpFXL_Sg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c882401b6957db4da6e2195c89eb6f14",
-                                "width": 1400,
-                                "height": 933,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/m5bs.ZLXFplChmhSaQk1xg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c882401b6957db4da6e2195c89eb6f14",
+                                "url": "https://s.yimg.com/uu/api/res/1.2/BbfYsq88emQGD0md78I29Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/790cde6300ca61744263c63f2a0bcd3d",
                                 "width": 170,
                                 "height": 128,
                                 "tag": "170x128"
@@ -2903,13 +2717,199 @@
                         "sourceId": "motleyfool.com"
                     },
                     "canonicalUrl": {
-                        "url": "https://www.fool.com/investing/2026/05/02/major-hyperscalers-just-reported-earnings-nvidia-w/",
+                        "url": "https://www.fool.com/investing/2026/05/03/alphabet-dropping-190-billion-on-ai-infrastructure/",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
                     },
                     "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/major-hyperscalers-just-reported-earnings-205000662.html",
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/alphabet-dropping-190-billion-ai-062251579.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "129fcf7b-0361-3309-baf3-ddb0b6c48ab7",
+                "content": {
+                    "id": "129fcf7b-0361-3309-baf3-ddb0b6c48ab7",
+                    "contentType": "STORY",
+                    "title": "Reddit (RDDT) Is Up 7.5% After AI Ad And Data Deals Turbocharge Q1 Results - What's Changed",
+                    "description": "",
+                    "summary": "In the first quarter of 2026, Reddit reported revenue of US$663.41 million and net income of US$203.98 million, both sharply higher than a year earlier, as advertising and user engagement drove strong growth. Management also highlighted seven consecutive quarters of revenue growth above 60%, industry\u2011high gross margins above 90%, and rising contributions from AI-driven advertising tools and data licensing partnerships with Google and OpenAI. With Reddit\u2019s quarterly results beating...",
+                    "pubDate": "2026-05-03T06:07:58Z",
+                    "displayTime": "2026-05-03T06:07:58Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857",
+                        "originalWidth": 1194,
+                        "originalHeight": 432,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/jtwePbKEAZvFHrncXoq7iQ--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857",
+                                "width": 1194,
+                                "height": 432,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/_uD.j9oYgojBMjShi1XsLw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ee047812921f935c11e8b8a18a28c857",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Simply Wall St.",
+                        "url": "https://simplywall.st/",
+                        "sourceId": "simply_wall_st__316"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-7-5-ai-060758929.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-7-5-ai-060758929.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "1668217d-55af-3bba-b763-aff1e82cae50",
+                "content": {
+                    "id": "1668217d-55af-3bba-b763-aff1e82cae50",
+                    "contentType": "STORY",
+                    "title": "My Top 5 Stocks to Buy in May",
+                    "description": "",
+                    "summary": "The AI build-out is driving many stocks higher.",
+                    "pubDate": "2026-05-03T05:32:00Z",
+                    "displayTime": "2026-05-03T05:32:00Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1609522bc83be61f07cd6888c166c3ca",
+                        "originalWidth": 1400,
+                        "originalHeight": 933,
+                        "caption": "Investor analyzing stocks.",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/BjEv2ud2rL2.tuEZpNF.oA--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1609522bc83be61f07cd6888c166c3ca",
+                                "width": 1400,
+                                "height": 933,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/.yHQLHfh6BEjBKHz0JNPEA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1609522bc83be61f07cd6888c166c3ca",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Motley Fool",
+                        "url": "http://www.fool.com/",
+                        "sourceId": "motleyfool.com"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://www.fool.com/investing/2026/05/03/my-top-5-stocks-to-buy-in-may/",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-stocks-buy-may-053200363.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "877fb1fc-4f94-3309-be3e-cc01eb42de7b",
+                "content": {
+                    "id": "877fb1fc-4f94-3309-be3e-cc01eb42de7b",
+                    "contentType": "STORY",
+                    "title": "Cipher Digital Shifts From Bitcoin Mining To AI Infrastructure With Tech Giants",
+                    "description": "",
+                    "summary": "Cipher Digital (NasdaqGS:CIFR) is shifting from Bitcoin mining to AI infrastructure services. The company has entered into multi billion dollar, long term leasing agreements with Amazon Web Services and Google. These contracts position Cipher Digital as a high performance computing data center provider to two major cloud platforms. Cipher Digital has historically operated in Bitcoin mining, a business tied closely to crypto price cycles and mining difficulty. By committing capacity to...",
+                    "pubDate": "2026-05-03T04:19:58Z",
+                    "displayTime": "2026-05-03T04:19:58Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                        "originalWidth": 1194,
+                        "originalHeight": 432,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/gnGTQ_q9KCdl7Xvx_ppB0g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 1194,
+                                "height": 432,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/ohfGTui2cNwMrQr9fJT_kw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/0fe4d5d105492213ce106a92b49639d4",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Simply Wall St.",
+                        "url": "https://simplywall.st/",
+                        "sourceId": "simply_wall_st__316"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/cipher-digital-shifts-bitcoin-mining-041958723.html",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
@@ -2930,7 +2930,7 @@
     },
     {
         "symbol": "TSLA",
-        "timestamp": "2026-05-03T03:51:22.466702",
+        "timestamp": "2026-05-03T08:08:25.674184",
         "price": 390.82000732421875,
         "change": 8.33001708984375,
         "open": 382.489990234375,
@@ -2938,6 +2938,68 @@
         "low": 378.79998779296875,
         "volume": 65210000,
         "news": [
+            {
+                "id": "b2dfd3dc-2437-30c0-b09a-7e7b002ede44",
+                "content": {
+                    "id": "b2dfd3dc-2437-30c0-b09a-7e7b002ede44",
+                    "contentType": "STORY",
+                    "title": "Elon Musk's Robotaxi Plans Take Shape With Dallas, Houston Rollout, But Tesla Is Still Far Behind Waymo",
+                    "description": "",
+                    "summary": "Tesla Inc. (NASDAQ:TSLA) recently ramped up its Robotaxi operations in Texas, providing unsupervised Robotaxi rides in Dallas and Houston, while it was already providing rides in Austin. While the ramp-up in Cybercab production could provide another boost in its Robotaxi exploits, Tesla remains far behind its rival Alphabet Inc.\u2018s (NASDAQ:GOOGL) (NASDAQ:GOOG) Waymo. Tesla Vs Waymo On Thursday, Electrek reported that Tesla had increased the size of its unsupervised Robotaxi fleet to 25 across the",
+                    "pubDate": "2026-05-03T07:32:27Z",
+                    "displayTime": "2026-05-03T07:32:27Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
+                        "originalWidth": 1024,
+                        "originalHeight": 576,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/xUNpeC0VpuA_4gODV7iYyw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
+                                "width": 1024,
+                                "height": 576,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/XTL2zCGUqbvMRYpEXXU5Cg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/0bcde6e6507c9bc91690cffab6c154c7",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Benzinga",
+                        "url": "http://www.benzinga.com/",
+                        "sourceId": "Benzinga"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-robotaxi-plans-shape-073227135.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
             {
                 "id": "c7d7d494-bd83-3bed-abe7-0c8d34fce06e",
                 "content": {
@@ -3185,34 +3247,46 @@
                     },
                     "storyline": null
                 }
-            },
+            }
+        ]
+    },
+    {
+        "symbol": "NVDA",
+        "timestamp": "2026-05-03T08:08:26.063058",
+        "price": 198.4499969482422,
+        "change": -2.8300018310546875,
+        "open": 201.27999877929688,
+        "high": 203.0,
+        "low": 197.1199951171875,
+        "volume": 128257500,
+        "news": [
             {
-                "id": "ce436dd0-cebf-3ed9-9c11-e75a0d957438",
+                "id": "433ca43f-1055-3f9d-a956-d49071d99000",
                 "content": {
-                    "id": "ce436dd0-cebf-3ed9-9c11-e75a0d957438",
+                    "id": "433ca43f-1055-3f9d-a956-d49071d99000",
                     "contentType": "STORY",
-                    "title": "Tesla's (NASDAQ:TSLA) Shareholders Have More To Worry About Than Only Soft Earnings",
+                    "title": "Is Nvidia's Deal With Oklo a Game Changer?",
                     "description": "",
-                    "summary": "A lackluster earnings announcement from Tesla, Inc. ( NASDAQ:TSLA ) last week didn't sink the stock price. We think...",
-                    "pubDate": "2026-05-02T12:27:30Z",
-                    "displayTime": "2026-05-02T12:27:30Z",
+                    "summary": "Nvidia and Oklo recently joined forces as reliable energy sources become the new bottleneck for artificial intelligence data centers.",
+                    "pubDate": "2026-05-03T07:41:00Z",
+                    "displayTime": "2026-05-03T07:41:00Z",
                     "isHosted": true,
                     "bypassModal": false,
                     "previewUrl": null,
                     "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                        "originalWidth": 1194,
-                        "originalHeight": 432,
-                        "caption": "",
+                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/44b67410be77e8556fb729a51293f20f",
+                        "originalWidth": 1400,
+                        "originalHeight": 835,
+                        "caption": "Small modular reactors at an energy utility site.",
                         "resolutions": [
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                                "width": 1194,
-                                "height": 432,
+                                "url": "https://s.yimg.com/uu/api/res/1.2/BLV7o70x03kHMyuByUa67A--~B/aD04MzU7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/44b67410be77e8556fb729a51293f20f",
+                                "width": 1400,
+                                "height": 835,
                                 "tag": "original"
                             },
                             {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                "url": "https://s.yimg.com/uu/api/res/1.2/O6NwLQtJ3jizZjDD_dsrjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/44b67410be77e8556fb729a51293f20f",
                                 "width": 170,
                                 "height": 128,
                                 "tag": "170x128"
@@ -3220,18 +3294,18 @@
                         ]
                     },
                     "provider": {
-                        "displayName": "Simply Wall St.",
-                        "url": "https://simplywall.st/",
-                        "sourceId": "simply_wall_st__316"
+                        "displayName": "Motley Fool",
+                        "url": "http://www.fool.com/",
+                        "sourceId": "motleyfool.com"
                     },
                     "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-nasdaq-tsla-shareholders-more-122730526.html",
+                        "url": "https://www.fool.com/investing/2026/05/03/is-nvidias-deal-with-oklo-a-game-changer/",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
                     },
                     "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-nasdaq-tsla-shareholders-more-122730526.html",
+                        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidias-deal-oklo-game-changer-074100349.html",
                         "site": "finance",
                         "region": "US",
                         "lang": "en-US"
@@ -3247,19 +3321,193 @@
                     },
                     "storyline": null
                 }
-            }
-        ]
-    },
-    {
-        "symbol": "NVDA",
-        "timestamp": "2026-05-03T03:51:22.774320",
-        "price": 198.4499969482422,
-        "change": -2.8300018310546875,
-        "open": 201.27999877929688,
-        "high": 203.0,
-        "low": 197.1199951171875,
-        "volume": 128257500,
-        "news": [
+            },
+            {
+                "id": "3d1fccb2-b9ba-367d-a5fb-5e0ad85ff5a5",
+                "content": {
+                    "id": "3d1fccb2-b9ba-367d-a5fb-5e0ad85ff5a5",
+                    "contentType": "STORY",
+                    "title": "SpaceX IPO: Is This the 10X Stock You've Been Waiting For?",
+                    "description": "",
+                    "summary": "The SpaceX IPO should be one of the biggest in history.",
+                    "pubDate": "2026-05-03T05:25:00Z",
+                    "displayTime": "2026-05-03T05:25:00Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/e1eac57b4a04c5d7f6c8c865a33add20",
+                        "originalWidth": 1200,
+                        "originalHeight": 675,
+                        "caption": "An astronaut in an office building.",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/l25krQJkqJWZDoiUGcrBRw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/e1eac57b4a04c5d7f6c8c865a33add20",
+                                "width": 1200,
+                                "height": 675,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/IBz5aAqhN0ykErpk.fuXIA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/e1eac57b4a04c5d7f6c8c865a33add20",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Motley Fool",
+                        "url": "http://www.fool.com/",
+                        "sourceId": "motleyfool.com"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://www.fool.com/investing/2026/05/03/spacex-ipo-is-this-the-10x-stock-youve-been-waitin/",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-10x-stock-youve-052500692.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "88630b49-1ed5-3f57-bd51-41dfc548946d",
+                "content": {
+                    "id": "88630b49-1ed5-3f57-bd51-41dfc548946d",
+                    "contentType": "STORY",
+                    "title": "Oklo Links Nuclear Reactors To AI Growth With NVIDIA And LANL Partnership",
+                    "description": "",
+                    "summary": "Oklo (NYSE:OKLO) has entered into a partnership with NVIDIA and Los Alamos National Laboratory to support nuclear powered AI infrastructure and plutonium fuel research. The collaboration aims to combine Oklo's advanced reactor work with NVIDIA's AI systems and LANL's nuclear research capabilities to support energy hungry data centers and nuclear R&D. The news highlights Oklo's effort to link its reactor projects to the growing demand from AI and advanced computing sectors. For investors...",
+                    "pubDate": "2026-05-03T05:10:56Z",
+                    "displayTime": "2026-05-03T05:10:56Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/88fedce06307b8d0a5a6b7fe29a1be66",
+                        "originalWidth": 1194,
+                        "originalHeight": 432,
+                        "caption": "",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/cN.LlIUoN3tMXpqeuiUx9A--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/88fedce06307b8d0a5a6b7fe29a1be66",
+                                "width": 1194,
+                                "height": 432,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/ffoe_u68sX_rfXjneg8oYQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/88fedce06307b8d0a5a6b7fe29a1be66",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Simply Wall St.",
+                        "url": "https://simplywall.st/",
+                        "sourceId": "simply_wall_st__316"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://finance.yahoo.com/sectors/energy/articles/oklo-links-nuclear-reactors-ai-051056484.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/sectors/energy/articles/oklo-links-nuclear-reactors-ai-051056484.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
+            {
+                "id": "ac1addab-def9-3a16-a151-5250efd60fb9",
+                "content": {
+                    "id": "ac1addab-def9-3a16-a151-5250efd60fb9",
+                    "contentType": "STORY",
+                    "title": "Why Nike Stock Lost 16% in April",
+                    "description": "",
+                    "summary": "The stock tumbled on earnings and never recovered.",
+                    "pubDate": "2026-05-03T04:50:00Z",
+                    "displayTime": "2026-05-03T04:50:00Z",
+                    "isHosted": true,
+                    "bypassModal": false,
+                    "previewUrl": null,
+                    "thumbnail": {
+                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/529cc8a4070b0e1d46c91d991b791167",
+                        "originalWidth": 720,
+                        "originalHeight": 380,
+                        "caption": "NKE Chart",
+                        "resolutions": [
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/w6zyRBIDDqyNMJ0Xrz._Mg--~B/aD0zODA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/529cc8a4070b0e1d46c91d991b791167",
+                                "width": 720,
+                                "height": 380,
+                                "tag": "original"
+                            },
+                            {
+                                "url": "https://s.yimg.com/uu/api/res/1.2/d6yTk7W.MrJ_R3czjFqJbQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/529cc8a4070b0e1d46c91d991b791167",
+                                "width": 170,
+                                "height": 128,
+                                "tag": "170x128"
+                            }
+                        ]
+                    },
+                    "provider": {
+                        "displayName": "Motley Fool",
+                        "url": "http://www.fool.com/",
+                        "sourceId": "motleyfool.com"
+                    },
+                    "canonicalUrl": {
+                        "url": "https://www.fool.com/investing/2026/05/03/why-nike-stock-lost-16-in-april/",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "clickThroughUrl": {
+                        "url": "https://finance.yahoo.com/markets/stocks/articles/why-nike-stock-lost-16-045000917.html",
+                        "site": "finance",
+                        "region": "US",
+                        "lang": "en-US"
+                    },
+                    "metadata": {
+                        "editorsPick": false
+                    },
+                    "finance": {
+                        "premiumFinance": {
+                            "isPremiumNews": false,
+                            "isPremiumFreeNews": false
+                        }
+                    },
+                    "storyline": null
+                }
+            },
             {
                 "id": "59a07442-3446-31cd-a72e-3930f4621fde",
                 "content": {
@@ -3321,247 +3569,18 @@
                     },
                     "storyline": null
                 }
-            },
-            {
-                "id": "b1d4f3cd-989b-3c91-b179-c16949ea0163",
-                "content": {
-                    "id": "b1d4f3cd-989b-3c91-b179-c16949ea0163",
-                    "contentType": "STORY",
-                    "title": "Nvidia\u2019s pivot to physical AI ignites rally across Asian supply chain",
-                    "description": "",
-                    "summary": "Investing.com -- Nvidia Corp.\u2019s strategic expansion into \"physical AI\" is driving a significant rally among its Asian partners as the region becomes increasingly integral to the chip giant\u2019s production ecosystem, according to a report from Bloomberg.",
-                    "pubDate": "2026-05-03T03:04:51Z",
-                    "displayTime": "2026-05-03T03:04:51Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": null,
-                    "provider": {
-                        "displayName": "Investing.com",
-                        "url": "https://www.investing.com/",
-                        "sourceId": "investing_com_631"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-pivot-physical-ai-ignites-030451238.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-pivot-physical-ai-ignites-030451238.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "7095f39d-58dc-3117-9ed5-56b6a26a3bce",
-                "content": {
-                    "id": "7095f39d-58dc-3117-9ed5-56b6a26a3bce",
-                    "contentType": "STORY",
-                    "title": "This High-Yield Emerging Funds ETF Offers International Diversification",
-                    "description": "",
-                    "summary": "The WisdomTree Emerging Markets High Dividend Fund (NYSEARCA:DEM) was built for a specific problem: U.S. investors who own the S&P 500, a few mega-cap tech names, and call it a day are sitting on a portfolio that is almost entirely tied to one currency, one economy, and one set of Federal Reserve decisions. DEM screens ... This High-Yield Emerging Funds ETF Offers International Diversification",
-                    "pubDate": "2026-05-03T02:05:37Z",
-                    "displayTime": "2026-05-03T02:05:37Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/4148d77129a9bbf1dcd3415896e6bd8f",
-                        "originalWidth": 1500,
-                        "originalHeight": 1020,
-                        "caption": "",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/B_vczKqDdp9GtRBOlSaLDw--~B/aD0xMDIwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/4148d77129a9bbf1dcd3415896e6bd8f",
-                                "width": 1500,
-                                "height": 1020,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/Scj7eiL6.TGMtB5p71HRew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/4148d77129a9bbf1dcd3415896e6bd8f",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "24/7 Wall St.",
-                        "url": "https://247wallst.com/",
-                        "sourceId": "24_7_wall_st__718"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://247wallst.com/investing/2026/05/02/this-high-yield-emerging-funds-etf-offers-international-diversification/",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/high-yield-emerging-funds-etf-020537941.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "927b0ae2-fc46-3417-b75d-150c81bb0f99",
-                "content": {
-                    "id": "927b0ae2-fc46-3417-b75d-150c81bb0f99",
-                    "contentType": "STORY",
-                    "title": "Why Sprouts Farmers Market Stock Rebounded This Week",
-                    "description": "",
-                    "summary": "The natural and organic food purveyor continues to crank out cash.",
-                    "pubDate": "2026-05-03T01:21:21Z",
-                    "displayTime": "2026-05-03T01:21:21Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c1f095423a021557475742c0a06c9260",
-                        "originalWidth": 1200,
-                        "originalHeight": 800,
-                        "caption": "Sprouts Farmers Market's logo is superimposed on one of its grocery stores. ",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/sDtrpEd29G.we96CLlWyTg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c1f095423a021557475742c0a06c9260",
-                                "width": 1200,
-                                "height": 800,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/Z_fN8JjGBnanSP9.xbPNPA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c1f095423a021557475742c0a06c9260",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "Motley Fool",
-                        "url": "http://www.fool.com/",
-                        "sourceId": "motleyfool.com"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://www.fool.com/investing/2026/05/02/why-sprouts-farmers-market-stock-is-up/",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/why-sprouts-farmers-market-stock-012121360.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
-            },
-            {
-                "id": "2f77f805-57ca-36b7-a332-62e7e5c1e4ed",
-                "content": {
-                    "id": "2f77f805-57ca-36b7-a332-62e7e5c1e4ed",
-                    "contentType": "STORY",
-                    "title": "Why Wix.com Stock Plummeted in April",
-                    "description": "",
-                    "summary": "AI disruption fears only grew during the month for the DIY design service provider.",
-                    "pubDate": "2026-05-03T00:07:12Z",
-                    "displayTime": "2026-05-03T00:07:12Z",
-                    "isHosted": true,
-                    "bypassModal": false,
-                    "previewUrl": null,
-                    "thumbnail": {
-                        "originalUrl": "https://media.zenfs.com/en/motleyfool.com/24d6144471228922c64e2eb981513ce7",
-                        "originalWidth": 1400,
-                        "originalHeight": 933,
-                        "caption": "Person seated at a desk with two PC monitors holding head in hands.",
-                        "resolutions": [
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/bGsycatpZGTVzAEQePoZeQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/24d6144471228922c64e2eb981513ce7",
-                                "width": 1400,
-                                "height": 933,
-                                "tag": "original"
-                            },
-                            {
-                                "url": "https://s.yimg.com/uu/api/res/1.2/CKpurHB1fXGsGTgq0JTLJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/24d6144471228922c64e2eb981513ce7",
-                                "width": 170,
-                                "height": 128,
-                                "tag": "170x128"
-                            }
-                        ]
-                    },
-                    "provider": {
-                        "displayName": "Motley Fool",
-                        "url": "http://www.fool.com/",
-                        "sourceId": "motleyfool.com"
-                    },
-                    "canonicalUrl": {
-                        "url": "https://www.fool.com/investing/2026/05/02/why-wixcom-stock-plummeted-in-april/",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "clickThroughUrl": {
-                        "url": "https://finance.yahoo.com/markets/stocks/articles/why-wix-com-stock-plummeted-000712860.html",
-                        "site": "finance",
-                        "region": "US",
-                        "lang": "en-US"
-                    },
-                    "metadata": {
-                        "editorsPick": false
-                    },
-                    "finance": {
-                        "premiumFinance": {
-                            "isPremiumNews": false,
-                            "isPremiumFreeNews": false
-                        }
-                    },
-                    "storyline": null
-                }
             }
         ]
     },
     {
         "symbol": "ETH-USD",
-        "timestamp": "2026-05-03T03:51:23.047926",
-        "price": 2301.2099609375,
-        "change": -15.437744140625,
+        "timestamp": "2026-05-03T08:08:26.419555",
+        "price": 2310.89990234375,
+        "change": -5.747802734375,
         "open": 2316.647705078125,
         "high": 2316.647705078125,
-        "low": 2299.129638671875,
-        "volume": 7225152000,
+        "low": 2297.55322265625,
+        "volume": 7241785344,
         "news": [
             {
                 "id": "149731c0-5ab3-3a47-82df-3af4d726b1d0",
