@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-05T15:58:12.918436",
+    "collection_timestamp": "2026-05-05T15:58:22.875388",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-05T15:58:09.026378",
+            "timestamp": "2026-05-05T15:58:18.724500",
             "price": 24032.80078125,
             "change": -19.798828125,
             "open": 24052.599609375,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-05T15:58:09.278571",
+            "timestamp": "2026-05-05T15:58:18.870227",
             "price": 77017.7890625,
             "change": -85.9296875,
             "open": 77103.71875,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-05T15:58:09.511104",
-            "price": 81576.6796875,
-            "change": 1752.4609375,
+            "timestamp": "2026-05-05T15:58:19.081377",
+            "price": 81558.5234375,
+            "change": 1734.3046875,
             "open": 79824.21875,
             "high": 81650.203125,
             "low": 79824.21875,
@@ -716,7 +716,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-05T15:58:09.696206",
+            "timestamp": "2026-05-05T15:58:19.384213",
             "price": 1463.5999755859375,
             "change": 3.5999755859375,
             "open": 1460.0,
@@ -1019,7 +1019,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-05T15:58:09.885844",
+            "timestamp": "2026-05-05T15:58:19.705309",
             "price": 2427.300048828125,
             "change": -2.699951171875,
             "open": 2430.0,
@@ -1341,7 +1341,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-05T15:58:10.144067",
+            "timestamp": "2026-05-05T15:58:19.976221",
             "price": 772.2999877929688,
             "change": -2.10003662109375,
             "open": 774.4000244140625,
@@ -1625,7 +1625,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-05T15:58:10.348655",
+            "timestamp": "2026-05-05T15:58:20.214254",
             "price": 1178.0999755859375,
             "change": 8.5999755859375,
             "open": 1169.5,
@@ -1909,13 +1909,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-05T15:58:10.583185",
-            "price": 280.2200012207031,
-            "change": 3.32000732421875,
+            "timestamp": "2026-05-05T15:58:20.471149",
+            "price": 280.1600036621094,
+            "change": 3.260009765625,
             "open": 276.8999938964844,
             "high": 283.2099914550781,
             "low": 276.5010070800781,
-            "volume": 16343438,
+            "volume": 16347473,
             "news": [
                 {
                     "id": "e59bf101-cba8-3db2-a597-7587d7f22d0e",
@@ -2226,13 +2226,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-05T15:58:10.772429",
+            "timestamp": "2026-05-05T15:58:20.749074",
             "price": 409.5199890136719,
             "change": -5.800018310546875,
             "open": 415.32000732421875,
             "high": 416.7799072265625,
             "low": 409.1679992675781,
-            "volume": 10281732,
+            "volume": 10293946,
             "news": [
                 {
                     "id": "08538fd9-f7f6-4145-a062-ecf09558863b",
@@ -2548,13 +2548,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-05T15:58:11.009417",
-            "price": 387.9549865722656,
-            "change": 1.605987548828125,
+            "timestamp": "2026-05-05T15:58:20.998616",
+            "price": 388.0050048828125,
+            "change": 1.656005859375,
             "open": 386.3489990234375,
             "high": 392.81988525390625,
             "low": 384.8450012207031,
-            "volume": 10200362,
+            "volume": 10206675,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2865,13 +2865,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-05T15:58:11.215396",
-            "price": 392.60009765625,
-            "change": -2.58489990234375,
+            "timestamp": "2026-05-05T15:58:21.216254",
+            "price": 392.4750061035156,
+            "change": -2.709991455078125,
             "open": 395.18499755859375,
             "high": 402.0899963378906,
             "low": 391.53009033203125,
-            "volume": 27337441,
+            "volume": 27370714,
             "news": [
                 {
                     "id": "aa188566-f323-4e93-8cd4-f4f0c8c756ee",
@@ -3182,13 +3182,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-05T15:58:11.432693",
-            "price": 197.25,
-            "change": -2.0500030517578125,
+            "timestamp": "2026-05-05T15:58:21.416260",
+            "price": 197.19500732421875,
+            "change": -2.1049957275390625,
             "open": 199.3000030517578,
             "high": 200.24000549316406,
             "low": 196.66000366210938,
-            "volume": 51896815,
+            "volume": 51929305,
             "news": [
                 {
                     "id": "979315f9-678d-41a5-a41b-d48ab310cf95",
@@ -3561,9 +3561,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-05T15:58:11.588786",
-            "price": 2382.5,
-            "change": 35.825927734375,
+            "timestamp": "2026-05-05T15:58:21.649522",
+            "price": 2381.6298828125,
+            "change": 34.955810546875,
             "open": 2346.674072265625,
             "high": 2395.674560546875,
             "low": 2346.674072265625,
@@ -3862,7 +3862,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:11.809455",
+            "collected_at": "2026-05-05T15:58:21.864201",
             "title": "Stock market today: S&P 500, Nasdaq, Dow rise as oil slides, wave of solid earnings rolls in",
             "summary": "Oil prices fell as wary markets monitored a fragile US-Iran ceasefire in the wait for the latest rush of earnings.",
             "published": "2026-05-04T23:31:25Z",
@@ -3871,7 +3871,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:11.809468",
+            "collected_at": "2026-05-05T15:58:21.864213",
             "title": "Stocks gain as investors take heart from upbeat earnings, dip in oil",
             "summary": "By Lawrence Delevingne and Amanda Cooper May 5 (Reuters) - Global stocks rose on Tuesday, taking some heart from a series of robust earnings, while simmering hostilities between the U.S. and Iran over",
             "published": "2026-05-05T15:49:01Z",
@@ -3880,7 +3880,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:11.809471",
+            "collected_at": "2026-05-05T15:58:21.864216",
             "title": "BWX Technologies Beats Earnings Estimates. The Stock Is Down.",
             "summary": "Monday, BWX Technologies reported first-quarter earnings per share of $1.12 from sales of $860.2. million.",
             "published": "2026-05-05T14:24:00Z",
@@ -3889,7 +3889,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:11.997594",
+            "collected_at": "2026-05-05T15:58:21.969240",
             "title": "Why EverQuote Stock Is Skyrocketing Today",
             "summary": "EverQuote just served up a blockbuster business update.",
             "published": "2026-05-05T15:46:07Z",
@@ -3898,7 +3898,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:12.134194",
+            "collected_at": "2026-05-05T15:58:22.102152",
             "title": "Dow transports are nearing a bear market after erasing their entire April breakout: Chart of the Day",
             "summary": "The Dow transports are pouring cold water on Wall Street's latest record run.",
             "published": "2026-05-05T10:00:00Z",
@@ -3907,7 +3907,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:12.245346",
+            "collected_at": "2026-05-05T15:58:22.215390",
             "title": "Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin reaches over $81,000, hitting a high last seen in January",
             "summary": "Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.",
             "published": "2026-05-05T11:39:51Z",
@@ -3916,7 +3916,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:12.245358",
+            "collected_at": "2026-05-05T15:58:22.215403",
             "title": "Gold and silver prices today, Tuesday, May 5: Lowest open for gold in over a month following attacks near Hormuz",
             "summary": "Gold opened at $4,534 per troy ounce on Tuesday, down 2.4% from Monday’s opening price of $4,644. Silver opened at $73.17 per ounce on Tuesday, 4.3% lower compared with Monday’s opening price of $76.45.",
             "published": "2026-05-05T11:00:20Z",
@@ -3925,7 +3925,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:12.245361",
+            "collected_at": "2026-05-05T15:58:22.215405",
             "title": "Canada's Trade Balance Back in Surplus as Energy Prices Surge, Says RBC",
             "summary": "The surge in oil prices and another jump in gold exports were the main factors pushing Canada's trad",
             "published": "2026-05-05T14:53:44Z",
@@ -3934,7 +3934,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-05T15:58:12.357152",
+            "collected_at": "2026-05-05T15:58:22.321062",
             "title": "Why the transport sector is seeing a sea of red",
             "summary": "Yahoo Finance Markets and Data Editor Jared Blikre and Yahoo Finance Breaking Business News Reporter Jake Conley take a look at how oil (CL=F, BZ=F) prices are feeding into the Dow Jones Transportation Average's (^DJT) recent market action.",
             "published": "2026-05-04T20:40:43Z",
@@ -3945,7 +3945,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.462577",
+            "collected_at": "2026-05-05T15:58:22.415812",
             "title": "MAGS Is Up 181% Since Launch, but 2026 Reveals Its Hidden Weakness",
             "summary": "Concentrated bets on a handful of mega-cap technology names drove most of the S&P 500’s returns over the past three years, and Roundhill built MAGS to deliver that exposure in one ticker without forcing investors to guess which name will lead next. The Single-Decision Mega-Cap Tech Sleeve The Roundhill Magnificent Seven ETF (NYSEARCA:MAGS) holds seven ... MAGS Is Up 181% Since Launch, but 2026 Reveals Its Hidden Weakness",
             "published": "2026-05-05T15:00:57Z",
@@ -3954,7 +3954,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.462589",
+            "collected_at": "2026-05-05T15:58:22.415824",
             "title": "This Boring ETF Owns Some Of The Toughest Businesses In America",
             "summary": "Consumer sentiment sits at 53.3 in March 2026, deep in the pessimistic zone, while retail sales just hit a fresh high of $752.1 billion. That gap between how Americans feel and how much they spend is the entire reason a fund like the Consumer Staples Select Sector SPDR Fund (NYSEARCA:XLP) exists. People grumble, then they ... This Boring ETF Owns Some Of The Toughest Businesses In America",
             "published": "2026-05-05T14:45:46Z",
@@ -3963,7 +3963,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.462592",
+            "collected_at": "2026-05-05T15:58:22.415826",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Corporate Earnings Rush",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
             "published": "2026-05-05T12:22:41Z",
@@ -3972,7 +3972,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.572582",
+            "collected_at": "2026-05-05T15:58:22.540262",
             "title": "Gratus Wealth Trims QQEW Stake by $22 Million -- Is Equal-Weight Nasdaq Still Worth Holding?",
             "summary": "This ETF tracks the Nasdaq-100 with an equal-weight strategy, offering diversified exposure to large-cap U.S. growth equities.",
             "published": "2026-05-05T15:29:54Z",
@@ -3981,7 +3981,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.572595",
+            "collected_at": "2026-05-05T15:58:22.540275",
             "title": "The venture fund paying 8% yield while quietly liquidating in five years",
             "summary": "The BlackRock Science and Technology Term Trust (NYSE:BSTZ) is an unusual tech vehicle: a closed-end fund with a 2031 liquidation date, an expense ratio near 1.4%, and over 30% of its portfolio invested in private, pre-IPO companies. Income investors are drawn to the roughly 8% yield, but the structure under the hood is doing more ... The venture fund paying 8% yield while quietly liquidating in five years",
             "published": "2026-05-05T15:04:19Z",
@@ -3990,7 +3990,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.661773",
+            "collected_at": "2026-05-05T15:58:22.655650",
             "title": "The Cheap Way to Own the Entire U.S. Stock Market Right Now",
             "summary": "You don't have to overthink investing. Keep it simple.",
             "published": "2026-05-04T10:01:00Z",
@@ -3999,7 +3999,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.661786",
+            "collected_at": "2026-05-05T15:58:22.655665",
             "title": "Tech ETFs Dominate as $11.4B Floods Into U.S. Equity Funds",
             "summary": "<p>Here are the daily ETF fund flows for April 30, 2026.</p>",
             "published": "2026-04-30T21:00:04Z",
@@ -4008,7 +4008,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.661789",
+            "collected_at": "2026-05-05T15:58:22.655668",
             "title": "1 No-Brainer ETF to Buy Right Now for Less Than $500",
             "summary": "U.S. corporate earnings, valuation, and the market rotation away from tech stocks make this Vanguard ETF look like a winner.",
             "published": "2026-04-30T17:22:00Z",
@@ -4017,7 +4017,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.775456",
+            "collected_at": "2026-05-05T15:58:22.756303",
             "title": "Cathie Wood Is Shrugging Off CapEx Fears and Buying the Dip in Meta Platforms Stock",
             "summary": "Cathie Wood's move signals that the market may be treating the spending surge as a temporary overhang on an otherwise intact long-term growth thesis.",
             "published": "2026-05-04T20:49:49Z",
@@ -4026,7 +4026,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.775469",
+            "collected_at": "2026-05-05T15:58:22.756315",
             "title": "Cathie Wood Dumps $72 Million of AMD, Doubles Down on Alphabet and Meta",
             "summary": "Cathie Wood's Latest Move Sparks Questions for Advanced Micro Devices Bulls",
             "published": "2026-05-04T17:21:08Z",
@@ -4035,7 +4035,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.775472",
+            "collected_at": "2026-05-05T15:58:22.756318",
             "title": "3 ETFs to Play the Enterprise Software Slump",
             "summary": "Enterprise software providers have reached a major hurdle with AI, but this could mean a buy opportunity for investors willing to take on risk.",
             "published": "2026-05-04T14:05:00Z",
@@ -4044,7 +4044,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.918336",
+            "collected_at": "2026-05-05T15:58:22.875289",
             "title": "Gold Rises Early As Treasury Yields Ease",
             "summary": "Gold prices rose off a five-week low early Tuesday as treasury yields eased off a 10-month high.",
             "published": "2026-05-05T13:08:16Z",
@@ -4053,7 +4053,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-05T15:58:12.918351",
+            "collected_at": "2026-05-05T15:58:22.875304",
             "title": "Update: Gold Falls as the Dollar and Yields Climb",
             "summary": "(Updates prices.) Gold traded lower midafternoon Monday as the dollar and yields rose, forcing th",
             "published": "2026-05-04T18:00:08Z",
