@@ -2,11 +2,17 @@ name: Finity Market Data Ingestion Pipeline
 
 on:
   schedule:
-    # Run daily at 12:30 PM IST (07:00 UTC) — after Indian market opens
+    # Run 1: 9:30 AM IST (04:00 UTC) — Indian market opens
+    - cron: '0 4 * * *'
+    # Run 2: 12:30 PM IST (07:00 UTC) — Indian market mid-session
     - cron: '0 7 * * *'
-    # Run daily at 9:30 PM IST (16:00 UTC) — after US market opens
-    - cron: '0 16 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub UI
+    # Run 3: 3:45 PM IST (10:15 UTC) — Indian market close + US pre-market
+    - cron: '15 10 * * *'
+    # Run 4: 7:30 PM IST (14:00 UTC) — US market opens (NYSE/NASDAQ)
+    - cron: '0 14 * * *'
+    # Run 5: 11:30 PM IST (18:00 UTC) — US market mid-session
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI anytime
 
 jobs:
   ingest-market-data:
