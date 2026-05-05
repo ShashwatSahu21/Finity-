@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-05T11:42:07.604037",
+    "collection_timestamp": "2026-05-05T11:42:16.468665",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-05T11:42:03.426578",
+            "timestamp": "2026-05-05T11:42:13.399659",
             "price": 24032.80078125,
             "change": -19.798828125,
             "open": 24052.599609375,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-05T11:42:03.592683",
+            "timestamp": "2026-05-05T11:42:13.549172",
             "price": 77017.7890625,
             "change": -85.9296875,
             "open": 77103.71875,
@@ -394,7 +394,7 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-05T11:42:03.874428",
+            "timestamp": "2026-05-05T11:42:13.651217",
             "price": 81050.2578125,
             "change": 1226.0390625,
             "open": 79824.21875,
@@ -768,7 +768,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-05T11:42:04.089366",
+            "timestamp": "2026-05-05T11:42:13.886190",
             "price": 1463.5999755859375,
             "change": 3.5999755859375,
             "open": 1460.0,
@@ -1071,7 +1071,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-05T11:42:04.319307",
+            "timestamp": "2026-05-05T11:42:13.990622",
             "price": 2427.300048828125,
             "change": -2.699951171875,
             "open": 2430.0,
@@ -1393,7 +1393,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-05T11:42:04.591382",
+            "timestamp": "2026-05-05T11:42:14.147136",
             "price": 772.2999877929688,
             "change": -2.10003662109375,
             "open": 774.4000244140625,
@@ -1677,7 +1677,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-05T11:42:04.837012",
+            "timestamp": "2026-05-05T11:42:14.259453",
             "price": 1178.0999755859375,
             "change": 8.5999755859375,
             "open": 1169.5,
@@ -1961,7 +1961,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-05T11:42:05.036227",
+            "timestamp": "2026-05-05T11:42:14.537690",
             "price": 276.8299865722656,
             "change": -2.83001708984375,
             "open": 279.6600036621094,
@@ -2278,7 +2278,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-05T11:42:05.202192",
+            "timestamp": "2026-05-05T11:42:14.688607",
             "price": 413.6199951171875,
             "change": 2.079986572265625,
             "open": 411.5400085449219,
@@ -2600,7 +2600,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-05T11:42:05.621568",
+            "timestamp": "2026-05-05T11:42:14.801703",
             "price": 383.25,
             "change": -2.3800048828125,
             "open": 385.6300048828125,
@@ -2722,6 +2722,49 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "e14bde3f-6d98-3bf3-ab50-edb835d8f49b",
+                    "content": {
+                        "id": "e14bde3f-6d98-3bf3-ab50-edb835d8f49b",
+                        "contentType": "STORY",
+                        "title": "Google UK staff vote to unionise in protest against Israeli military contract",
+                        "description": "",
+                        "summary": "Google staff in Britain have voted to unionise in protest against the tech giant’s work with the Israeli and US militaries.",
+                        "pubDate": "2026-05-05T11:36:56Z",
+                        "displayTime": "2026-05-05T11:36:56Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "The Telegraph",
+                            "url": "http://www.telegraph.co.uk/",
+                            "sourceId": "the_telegraph_818"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://uk.finance.yahoo.com/news/google-uk-staff-vote-unionise-113656404.html",
+                            "site": "finance",
+                            "region": "GB",
+                            "lang": "en-GB"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/news/google-uk-staff-vote-unionise-113656404.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -2855,69 +2898,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "90e11f95-d427-38ca-882b-d5ab89288f4b",
-                    "content": {
-                        "id": "90e11f95-d427-38ca-882b-d5ab89288f4b",
-                        "contentType": "STORY",
-                        "title": "Why Meta’s Teen Safety Push Won’t Hurt Growth Like It Did for Roblox.",
-                        "description": "",
-                        "summary": "Meta Platforms is expanding AI-powered age verification and teen protections across Instagram and Facebook, but the impact on growth is likely to differ sharply from Roblox’s recent slowdown.",
-                        "pubDate": "2026-05-05T11:00:00Z",
-                        "displayTime": "2026-05-05T11:00:00Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/90e11f95-d427-38ca-882b-d5ab89288f4b/why-meta%E2%80%99s-teen-safety-push.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/1cf5f0708bafdbd05f3b329faedb8678",
-                            "originalWidth": 1280,
-                            "originalHeight": 640,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/rXGK.6JsF.JCq6an6kmc6A--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/1cf5f0708bafdbd05f3b329faedb8678",
-                                    "width": 1280,
-                                    "height": 640,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/KuPRSBMPqoPLiOBjSofA6A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/1cf5f0708bafdbd05f3b329faedb8678",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Barrons.com",
-                            "url": "http://www.barrons.com/",
-                            "sourceId": "Barrons.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.barrons.com/articles/meta-teen-safety-ai-updates-roblox-impact-3835a1ee?siteid=yhoof2&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-05T11:42:05.830597",
+            "timestamp": "2026-05-05T11:42:14.926615",
             "price": 392.510009765625,
             "change": 2.279998779296875,
             "open": 390.2300109863281,
@@ -3210,7 +3196,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-05T11:42:06.047036",
+            "timestamp": "2026-05-05T11:42:15.204041",
             "price": 198.47999572753906,
             "change": -1.0200042724609375,
             "open": 199.5,
@@ -3532,7 +3518,7 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-05T11:42:06.293722",
+            "timestamp": "2026-05-05T11:42:15.322145",
             "price": 2381.830078125,
             "change": 35.156005859375,
             "open": 2346.674072265625,
@@ -3852,7 +3838,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.490051",
+            "collected_at": "2026-05-05T11:42:15.515702",
             "title": "Stocks Rise Pre-Bell as Investors Await More Earnings, Monitor Middle East Developments",
             "summary": "US equity futures were trending higher on Tuesday as traders await a fresh batch of corporate earnin",
             "published": "2026-05-05T11:17:51Z",
@@ -3861,7 +3847,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.490064",
+            "collected_at": "2026-05-05T11:42:15.515715",
             "title": "DuPont Stock Rises on Solid Earnings. How It Shrugged Of Oil Price Fears.",
             "summary": "The company reported first-quarter earnings per share of 55 cents from sales of $1.7 billion. Wall Street was looking for earnings per share of 48 cents from sales of $1.7 billion.",
             "published": "2026-05-05T11:15:00Z",
@@ -3870,7 +3856,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.490067",
+            "collected_at": "2026-05-05T11:42:15.515718",
             "title": "Oil Eases, Stocks Gain on Wall Street Pre-Bell; Asia Off, Europe Up",
             "summary": "Wall Street futures pointed moderately higher pre-bell Tuesday after media reports that commercial v",
             "published": "2026-05-05T11:12:04Z",
@@ -3879,7 +3865,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.605609",
+            "collected_at": "2026-05-05T11:42:15.627515",
             "title": "Dow transports are nearing a bear market after erasing their entire April breakout: Chart of the Day",
             "summary": "The Dow transports are pouring cold water on Wall Street's latest record run.",
             "published": "2026-05-05T10:00:00Z",
@@ -3888,7 +3874,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.605622",
+            "collected_at": "2026-05-05T11:42:15.627528",
             "title": "10 S&P 500 Stocks Come Out Of Nowhere And Now Rank High With Investors",
             "summary": "Move aside Magnificent 7. Some of the \"other 493\" stocks in the S&P 500 are making a huge run.",
             "published": "2026-05-05T11:29:49Z",
@@ -3897,7 +3883,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.605625",
+            "collected_at": "2026-05-05T11:42:15.627530",
             "title": "The Most Important SpaceX IPO Filing Is (Likely) About 2 Weeks Away",
             "summary": "Though investors are waiting for Elon Musk's company to pinpoint its stock market debut, there's a far more encompassing filing right around the corner.",
             "published": "2026-05-05T11:26:00Z",
@@ -3906,7 +3892,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.865413",
+            "collected_at": "2026-05-05T11:42:15.840708",
             "title": "Bitcoin and ethereum prices today, Tuesday, May 5, 2026: Bitcoin back over $80,000, hitting a high last seen in January",
             "summary": "Bitcoin opened at $78,543.43 on Tuesday. The value of bitcoin at 7:16 a.m. ET rose significantly to $80,921.09. Bitcoin has risen 5.2% over the last five days. Ethereum opened at $2,322.49 on Tuesday. The value of ethereum moved up to $2,374.66 of 7:16 a.m. ET. Over the last five days, ethereum is up 4.66%.",
             "published": "2026-05-05T11:39:51Z",
@@ -3915,7 +3901,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.865426",
+            "collected_at": "2026-05-05T11:42:15.840721",
             "title": "BMO on The Day Ahead in Canada",
             "summary": "Canada will release its international merchandise trade figures for March at 8:30 a.m. ET on Tuesday",
             "published": "2026-05-05T11:37:54Z",
@@ -3924,7 +3910,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.865428",
+            "collected_at": "2026-05-05T11:42:15.840724",
             "title": "FireFox Gold Adds Deeper Mineralization at the Northeast Zone and Extends the East Zone at the Mustajarvi Project, Finland",
             "summary": "FireFox Gold (FFOX.V) reported additional assay results and observations from the ongoing drill prog",
             "published": "2026-05-05T11:35:17Z",
@@ -3933,7 +3919,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.967850",
+            "collected_at": "2026-05-05T11:42:15.987605",
             "title": "Gold and silver prices today, Tuesday, May 5: Lowest open for gold in over a month following attacks near Hormuz",
             "summary": "Gold opened at $4,534 per troy ounce on Tuesday, down 2.4% from Monday’s opening price of $4,644. Silver opened at $73.17 per ounce on Tuesday, 4.3% lower compared with Monday’s opening price of $76.45.",
             "published": "2026-05-05T11:00:20Z",
@@ -3942,7 +3928,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.967863",
+            "collected_at": "2026-05-05T11:42:15.987618",
             "title": "Trump says the US will 'guide' ships through the Strait of Hormuz — here's why that might not work",
             "summary": "Oil prices rose on Monday after President Trump said the US would \"guide\" ships through the Strait of Hormuz.",
             "published": "2026-05-04T15:25:44Z",
@@ -3951,7 +3937,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-05T11:42:06.967866",
+            "collected_at": "2026-05-05T11:42:15.987621",
             "title": "Stocks diverge as traders eye US-Iran ceasefire",
             "summary": "Global stocks diverged Tuesday as investors weighed first-quarter corporate earnings alongside uncertainty over the fragile US-Iran ceasefire. \"First-quarter corporate earnings have largely been robust so far which has helped to sustain global equities despite the uncertain backdrop,\" said AJ Bell head of markets Dan Coatsworth.",
             "published": "2026-05-05T11:30:29Z",
@@ -3962,7 +3948,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.062921",
+            "collected_at": "2026-05-05T11:42:16.081262",
             "title": "10 S&P 500 Stocks Come Out Of Nowhere And Now Rank High With Investors",
             "summary": "Move aside Magnificent 7. Some of the \"other 493\" stocks in the S&P 500 are making a huge run.",
             "published": "2026-05-05T11:29:49Z",
@@ -3971,7 +3957,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.062935",
+            "collected_at": "2026-05-05T11:42:16.081276",
             "title": "The Stock Market Is Doing Something for Only the 4th Time in 156 Years -- and History Is Very Clear About What Happens Next",
             "summary": "Stock market indicators rarely get this extreme.",
             "published": "2026-05-04T20:20:00Z",
@@ -3980,7 +3966,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.062939",
+            "collected_at": "2026-05-05T11:42:16.081279",
             "title": "3 Leveraged ETF Areas of April That Are Up At least 150%",
             "summary": "Leveraged ETFs tied to Intel, Bloom Energy and AAOI skyrocketed in April, riding AI demand, earnings strength and surging energy trends.",
             "published": "2026-05-04T16:00:00Z",
@@ -3989,7 +3975,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.246228",
+            "collected_at": "2026-05-05T11:42:16.173796",
             "title": "Can Nancy Pelosi’s Favorite AI Stock Hope to Regain Its Momentum?",
             "summary": "Investors are watching Tempus AI (NASDAQ:TEM) ahead of first-quarter results due after the close tomorrow. The stock burst into investor consciousness in January 2025 after Nancy Pelosi disclosed a position, ran past $100, and has since shed nearly half its value. From Pelosi Halo to Show-Me Story Pelosi’s market-beating track record has turned her trades ... Can Nancy Pelosi’s Favorite AI Stock Hope to Regain Its Momentum?",
             "published": "2026-05-04T18:56:13Z",
@@ -3998,7 +3984,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.246242",
+            "collected_at": "2026-05-05T11:42:16.173810",
             "title": "AI Trade Sends Asian Tech Shares Up 4.7% To Record",
             "summary": "Asian equities rallied near all-time highs as chipmakers surged and investors weighed AI momentum against oil and geopolitical risks.",
             "published": "2026-05-04T18:14:53Z",
@@ -4007,7 +3993,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.246245",
+            "collected_at": "2026-05-05T11:42:16.173813",
             "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded fund IWM and IVV fell. Actively traded In",
             "published": "2026-05-04T17:09:23Z",
@@ -4016,7 +4002,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.399118",
+            "collected_at": "2026-05-05T11:42:16.266221",
             "title": "The Cheap Way to Own the Entire U.S. Stock Market Right Now",
             "summary": "You don't have to overthink investing. Keep it simple.",
             "published": "2026-05-04T10:01:00Z",
@@ -4025,7 +4011,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.399131",
+            "collected_at": "2026-05-05T11:42:16.266234",
             "title": "Tech ETFs Dominate as $11.4B Floods Into U.S. Equity Funds",
             "summary": "<p>Here are the daily ETF fund flows for April 30, 2026.</p>",
             "published": "2026-04-30T21:00:04Z",
@@ -4034,7 +4020,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.399134",
+            "collected_at": "2026-05-05T11:42:16.266238",
             "title": "1 No-Brainer ETF to Buy Right Now for Less Than $500",
             "summary": "U.S. corporate earnings, valuation, and the market rotation away from tech stocks make this Vanguard ETF look like a winner.",
             "published": "2026-04-30T17:22:00Z",
@@ -4043,7 +4029,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.492566",
+            "collected_at": "2026-05-05T11:42:16.381830",
             "title": "Cathie Wood Is Shrugging Off CapEx Fears and Buying the Dip in Meta Platforms Stock",
             "summary": "Cathie Wood's move signals that the market may be treating the spending surge as a temporary overhang on an otherwise intact long-term growth thesis.",
             "published": "2026-05-04T20:49:49Z",
@@ -4052,7 +4038,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.492579",
+            "collected_at": "2026-05-05T11:42:16.381844",
             "title": "Cathie Wood Dumps $72 Million of AMD, Doubles Down on Alphabet and Meta",
             "summary": "Cathie Wood's Latest Move Sparks Questions for Advanced Micro Devices Bulls",
             "published": "2026-05-04T17:21:08Z",
@@ -4061,7 +4047,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.492582",
+            "collected_at": "2026-05-05T11:42:16.381847",
             "title": "Cathie Wood buys $28.7 million of tumbling megacap stock",
             "summary": "Cathie Wood is doubling down on her buy-the-dip strategy. The Ark Invest chief just picked up shares of a megacap tech name that fell 9% after reporting results. In 2025, the flagship Ark Innovation ETF gained 35.49%, far outpacing the S&P 500’s return of 17.88% in the same period. But so ...",
             "published": "2026-05-04T00:03:00Z",
@@ -4070,7 +4056,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.603929",
+            "collected_at": "2026-05-05T11:42:16.468563",
             "title": "Update: Gold Falls as the Dollar and Yields Climb",
             "summary": "(Updates prices.) Gold traded lower midafternoon Monday as the dollar and yields rose, forcing th",
             "published": "2026-05-04T18:00:08Z",
@@ -4079,7 +4065,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.603943",
+            "collected_at": "2026-05-05T11:42:16.468576",
             "title": "Gold Slides, 30-Year Yield Hits 5.1% as Rate Fears Take Over",
             "summary": "The PHLX Gold/Silver Sector (^XAU) is under pressure Monday as precious metals pull back across the board. SPDR Gold Shares (NYSEARCA: GLD) ETF is down 1.3% to roughly $418, while iShares Silver Trust (NYSEARCA: SLV) ETF is off 2.3% near $67 as the market reassesses what the Strait of Hormuz disruption actually means for inflation, rates ... Gold Slides, 30-Year Yield Hits 5.1% as Rate Fears Take Over",
             "published": "2026-05-04T15:45:19Z",
@@ -4088,7 +4074,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-05T11:42:07.603946",
+            "collected_at": "2026-05-05T11:42:16.468579",
             "title": "Gold Falls as the Dollar and Yields Climb, But Remains Rangebound",
             "summary": "Gold traded lower early Monday as the dollar and yields rose, but the precious metal remains within",
             "published": "2026-05-04T13:06:01Z",
