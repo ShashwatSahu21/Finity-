@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-06T16:03:49.147313",
+    "collection_timestamp": "2026-05-06T16:04:00.005439",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-06T16:03:45.139802",
+            "timestamp": "2026-05-06T16:03:56.006579",
             "price": 24330.94921875,
             "change": 159.94921875,
             "open": 24171.0,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-06T16:03:45.277154",
+            "timestamp": "2026-05-06T16:03:56.158313",
             "price": 77958.5234375,
             "change": 534.1640625,
             "open": 77424.359375,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-06T16:03:45.442013",
-            "price": 81580.0078125,
-            "change": 679.234375,
+            "timestamp": "2026-05-06T16:03:56.307855",
+            "price": 81606.7421875,
+            "change": 705.96875,
             "open": 80900.7734375,
             "high": 82749.0625,
             "low": 80803.703125,
@@ -716,7 +716,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-06T16:03:45.696016",
+            "timestamp": "2026-05-06T16:03:56.528016",
             "price": 1437.9000244140625,
             "change": -25.0999755859375,
             "open": 1463.0,
@@ -1038,7 +1038,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-06T16:03:45.880174",
+            "timestamp": "2026-05-06T16:03:56.899561",
             "price": 2435.39990234375,
             "change": -6.5,
             "open": 2441.89990234375,
@@ -1360,7 +1360,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-06T16:03:46.120205",
+            "timestamp": "2026-05-06T16:03:57.140333",
             "price": 796.5499877929688,
             "change": 21.39996337890625,
             "open": 775.1500244140625,
@@ -1644,7 +1644,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-06T16:03:46.371059",
+            "timestamp": "2026-05-06T16:03:57.363304",
             "price": 1167.199951171875,
             "change": -19.800048828125,
             "open": 1187.0,
@@ -1909,13 +1909,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-06T16:03:46.592358",
-            "price": 285.6000061035156,
-            "change": 3.68499755859375,
+            "timestamp": "2026-05-06T16:03:57.573128",
+            "price": 285.54998779296875,
+            "change": 3.634979248046875,
             "open": 281.9150085449219,
             "high": 286.7200012207031,
             "low": 281.07501220703125,
-            "volume": 20868916,
+            "volume": 20881601,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2212,13 +2212,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-06T16:03:46.794899",
+            "timestamp": "2026-05-06T16:03:57.798463",
             "price": 415.1400146484375,
             "change": 7.19000244140625,
             "open": 407.95001220703125,
             "high": 418.42279052734375,
             "low": 405.1099853515625,
-            "volume": 14732444,
+            "volume": 14733669,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2338,18 +2338,266 @@
                             ]
                         }
                     }
+                },
+                {
+                    "id": "65922ab5-6717-3839-94ab-b8b6d43d3ab2",
+                    "content": {
+                        "id": "65922ab5-6717-3839-94ab-b8b6d43d3ab2",
+                        "contentType": "STORY",
+                        "title": "Why Amazon Might Be the Real Winner of the Microsoft and OpenAI Partnership Shakeup",
+                        "description": "",
+                        "summary": "The Amazon Web Services ecosystem now has a chance to get a lot stronger.",
+                        "pubDate": "2026-05-06T15:50:00Z",
+                        "displayTime": "2026-05-06T15:50:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/900706815c3e660a9228f0bf5801e8a6",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Amazon logo overlaid on a shadowy yellow background.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/.FLQY14wF_1QsZi6._5uUg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/900706815c3e660a9228f0bf5801e8a6",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/7m1_gZXexz3wpB4cL89S5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/900706815c3e660a9228f0bf5801e8a6",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/06/why-amazon-might-be-the-real-winner-of-the-microso/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-might-real-winner-155000783.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "de3450da-33bd-30b6-85da-deccfdb4e370",
+                    "content": {
+                        "id": "de3450da-33bd-30b6-85da-deccfdb4e370",
+                        "contentType": "STORY",
+                        "title": "'Shark Tank' Investor Kevin O'Leary Wants To Build A Huge AI Datacenter In Utah To Stop China In Its Tracks",
+                        "description": "",
+                        "summary": "\"Shark Tank\" investor Kevin O'Leary wants to build a massive AI data center in Utah that will generate more than double the power the state currently uses. Dubbed Stratos, the data center recently received Utah’s Military Installation Development Authority designation....",
+                        "pubDate": "2026-05-06T15:16:19Z",
+                        "displayTime": "2026-05-06T15:16:19Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/001ec06600e0aa2ebf97970d7f1e3d2b",
+                            "originalWidth": 1024,
+                            "originalHeight": 683,
+                            "caption": "'Shark Tank' Investor Kevin O'Leary Wants To Build A Huge AI Datacenter In Utah To Stop China In Its Tracks",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/_LEubndRjadiunu8OMIXxA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/001ec06600e0aa2ebf97970d7f1e3d2b",
+                                    "width": 1024,
+                                    "height": 683,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Xg5lbm29e9GG0TLY_epQbw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/001ec06600e0aa2ebf97970d7f1e3d2b",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Benzinga",
+                            "url": "https://www.benzinga.com/",
+                            "sourceId": "benzinga_79"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/shark-tank-investor-kevin-oleary-151619931.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/shark-tank-investor-kevin-oleary-151619931.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "0426dc6f-fe12-369f-855e-3a044925f7d5",
+                    "content": {
+                        "id": "0426dc6f-fe12-369f-855e-3a044925f7d5",
+                        "contentType": "STORY",
+                        "title": "Microsoft Corporation (MSFT) Slid Amid Broad-Based Sell-Off in Software Companies",
+                        "description": "",
+                        "summary": "Aristotle Capital Management, LLC, an investment management company, released its “Value Equity Fund” first-quarter 2026 investor letter. A copy of the letter can be downloaded here. During the first quarter, the U.S. equity market declined, with the S&P 500 Index falling by 4.33%. The fixed-income sector also saw a downturn; the Bloomberg U.S. Aggregate Bond […]",
+                        "pubDate": "2026-05-06T15:11:16Z",
+                        "displayTime": "2026-05-06T15:11:16Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7",
+                            "originalWidth": 768,
+                            "originalHeight": 430,
+                            "caption": "Microsoft (MSFT) Stock: Truist Raises Price Target to $675, Reiterates Buy",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/tWqm4ElxX6SKkKW7fpIc5g--~B/aD00MzA7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7",
+                                    "width": 768,
+                                    "height": 430,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Qd1Eab2Wu_vN21n2Bq4PAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/5ec329719e2363fbf46dd87eaacb07c7",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-slid-amid-151116770.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-slid-amid-151116770.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "ad638bb7-0bcb-36d3-af18-15a2894ec4e6",
+                    "content": {
+                        "id": "ad638bb7-0bcb-36d3-af18-15a2894ec4e6",
+                        "contentType": "STORY",
+                        "title": "Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’",
+                        "description": "",
+                        "summary": "The stock market spent much of the past two years celebrating artificial intelligence as the next great productivity boom. Companies from Nvidia (NASDAQ:NVDA) to Microsoft (NASDAQ:MSFT) raced higher as investors poured money into anything tied to AI infrastructure. But there’s another side to that story beginning to emerge. What happens when the technology that boosts ... Coinbase CEO Warns American Workers: Mass Layoffs Are Coming to ‘Every Company’",
+                        "pubDate": "2026-05-06T15:08:09Z",
+                        "displayTime": "2026-05-06T15:08:09Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/50fc49ae90c9d959d3674cf084ecbd47",
+                            "originalWidth": 1366,
+                            "originalHeight": 768,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/g8msQeX_6gunNls.WoZu1g--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/50fc49ae90c9d959d3674cf084ecbd47",
+                                    "width": 1366,
+                                    "height": 768,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/8JEfuL1BrcgKq.AkEpysXA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/50fc49ae90c9d959d3674cf084ecbd47",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/06/coinbase-ceo-warns-american-workers-mass-layoffs-are-coming-to-every-company/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/economy/articles/coinbase-ceo-warns-american-workers-150809733.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
                 }
             ]
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-06T16:03:47.114887",
-            "price": 397.45928955078125,
-            "change": 3.189300537109375,
+            "timestamp": "2026-05-06T16:03:58.022085",
+            "price": 397.4100036621094,
+            "change": 3.1400146484375,
             "open": 394.2699890136719,
             "high": 398.4800109863281,
             "low": 392.760009765625,
-            "volume": 13751931,
+            "volume": 13757313,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2622,13 +2870,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-06T16:03:47.275705",
-            "price": 395.1400146484375,
-            "change": 9.08001708984375,
+            "timestamp": "2026-05-06T16:03:58.298894",
+            "price": 395.3089904785156,
+            "change": 9.248992919921875,
             "open": 386.05999755859375,
             "high": 395.3949890136719,
             "low": 384.0199890136719,
-            "volume": 21275457,
+            "volume": 21290640,
             "news": [
                 {
                     "id": "ae9f6144-05dc-4bdb-bc09-8b251ccce3cb",
@@ -2939,13 +3187,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-06T16:03:47.486699",
-            "price": 205.25999450683594,
-            "change": 5.4499969482421875,
+            "timestamp": "2026-05-06T16:03:58.493258",
+            "price": 205.30999755859375,
+            "change": 5.5,
             "open": 199.80999755859375,
             "high": 207.17999267578125,
             "low": 198.61000061035156,
-            "volume": 91188608,
+            "volume": 91250208,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -3432,9 +3680,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-06T16:03:47.696708",
-            "price": 2355.360107421875,
-            "change": -5.294677734375,
+            "timestamp": "2026-05-06T16:03:58.677400",
+            "price": 2356.199951171875,
+            "change": -4.454833984375,
             "open": 2360.65478515625,
             "high": 2419.62060546875,
             "low": 2355.083984375,
@@ -3757,7 +4005,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:47.907877",
+            "collected_at": "2026-05-06T16:03:58.957863",
             "title": "Stock market today: S&P 500, Nasdaq notch fresh records as tech leads markets higher, oil falls",
             "summary": "Oil prices fell as wary markets monitored a fragile US-Iran ceasefire in the wait for the latest rush of earnings.",
             "published": "2026-05-04T23:31:25Z",
@@ -3766,7 +4014,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:47.907889",
+            "collected_at": "2026-05-06T16:03:58.957871",
             "title": "Stocks jump and oil slides after Iran peace deal report",
             "summary": "By Lawrence Delevingne and Harry Robertson May 6 (Reuters) - Stocks surged and oil prices dropped on Wednesday after a report that the United States and Iran are closing in on an agreement to end the",
             "published": "2026-05-06T15:33:38Z",
@@ -3775,7 +4023,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:47.907892",
+            "collected_at": "2026-05-06T16:03:58.957873",
             "title": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Deal Hopes; Uber Jumps (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones index jumped Wednesday on hopes of a U.S.-Iran deal. AMD stock soared on earnings.",
             "published": "2026-05-06T15:32:07Z",
@@ -3784,7 +4032,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.038111",
+            "collected_at": "2026-05-06T16:03:59.095276",
             "title": "'Sell in May' has been a bad strategy this century: Chart of the Day",
             "summary": "'Sell in May' used to have a case. Lately, it's mostly had a cost.",
             "published": "2026-05-06T13:26:51Z",
@@ -3793,7 +4041,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.038124",
+            "collected_at": "2026-05-06T16:03:59.095284",
             "title": "These Stocks Are Today’s Movers: AMD, Intel, Corning, Uber, Super Micro, Disney, Arista, DaVita, and More",
             "summary": "Shares in Advanced Micro Devices surge after AMD CEO Lisa Su flags surging demand for central processing units.",
             "published": "2026-05-06T15:39:00Z",
@@ -3802,7 +4050,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.262955",
+            "collected_at": "2026-05-06T16:03:59.314672",
             "title": "Gold, silver jump on report that the US and Iran are nearing a peace deal",
             "summary": "Gold prices surge on hopes of US-Iran peace deal.",
             "published": "2026-05-06T11:25:34Z",
@@ -3811,7 +4059,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.262966",
+            "collected_at": "2026-05-06T16:03:59.314678",
             "title": "Gold forecast and tracker: Where prices could land in 2026",
             "summary": "How high will gold go in 2026? See live gold prices, expert predictions about gold performance, and learn whether gold will reach $6,000.",
             "published": "2026-04-15T13:00:00Z",
@@ -3820,7 +4068,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.262969",
+            "collected_at": "2026-05-06T16:03:59.314681",
             "title": "TSX climbs over 1% up as miners gain on US-Iran peace deal hopes",
             "summary": "By Tharuniyaa Lakshmi May 6 (Reuters) - Canada's main stock index edged higher on Wednesday, lifted by mining shares, as investor optimism rose over reports of the United States and Iran nearing an",
             "published": "2026-05-06T15:10:50Z",
@@ -3829,7 +4077,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.377136",
+            "collected_at": "2026-05-06T16:03:59.466728",
             "title": "US gas prices rise above $4.50 as reports point to US-Iran peace deal",
             "summary": "While oil prices (CL=F, BZ=F) retreat below $100 per barrel on reports that the US and Iran are close to reaching a peace deal, US gas prices (RB=F) sit at a national average of $4.53. Morning Brief Host Julie Hyman and Yahoo Finance Head of News Myles Udland dissect economist commentary around the trends in gas prices greatly impacting America consumers.",
             "published": "2026-05-06T14:10:27Z",
@@ -3838,7 +4086,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.377146",
+            "collected_at": "2026-05-06T16:03:59.466734",
             "title": "Rally rolls on despite Iran tensions and economic divide",
             "summary": "Markets (^DJI, ^GSPC, ^IXIC) are rallying to record highs amid the ongoing Iran conflict and the K-shaped economy. To find out what's driving the stock market rebound, U.S. Bank Wealth Management Senior Investment Director Bill Northey joins Josh Lipton on Market Domination to explain.",
             "published": "2026-05-05T20:53:55Z",
@@ -3847,7 +4095,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-06T16:03:48.377148",
+            "collected_at": "2026-05-06T16:03:59.466737",
             "title": "Gold price outlook: Could $6,000 happen this year?",
             "summary": "Gold prices have skyrocketed in recent years, but how high can they go next? Here are the boldest predictions for how gold will perform.",
             "published": "2026-03-27T15:00:00Z",
@@ -3858,7 +4106,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.520689",
+            "collected_at": "2026-05-06T16:03:59.573070",
             "title": "CBOE VIX Slides Toward 17 as Oil Retreat and Tech Stock Surge Restore Risk Appetite",
             "summary": "The CBOE Volatility Index (^VIX) is drifting back toward the 17 line as optimism returns to the S&P 500 and capital rotates into stocks. The VIX closed near 18 on Monday after dipping to almost 17 late last week, well below the peak above 31 recorded in late March. In a display of a shifting ... CBOE VIX Slides Toward 17 as Oil Retreat and Tech Stock Surge Restore Risk Appetite",
             "published": "2026-05-06T14:08:56Z",
@@ -3867,7 +4115,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.520701",
+            "collected_at": "2026-05-06T16:03:59.573077",
             "title": "Time for Short-Term U.S. Treasury ETFs?",
             "summary": "Geopolitical risks and rate outlook boost appeal of short-term U.S. Treasury ETFs as investors seek stability amid volatile equity and oil markets.",
             "published": "2026-05-06T14:00:00Z",
@@ -3876,7 +4124,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.520703",
+            "collected_at": "2026-05-06T16:03:59.573080",
             "title": "It’s Time to Bet Against This Roaring Stock Market With Options",
             "summary": "After earnings season ends, there won‘t be much to entertain investors. Many of them perceive markets as a perpetual movie and themselves as cosplay characters.",
             "published": "2026-05-06T13:09:00Z",
@@ -3885,7 +4133,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.628264",
+            "collected_at": "2026-05-06T16:03:59.684491",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Amid Potential US-Iran Truce",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 1% and the actively traded",
             "published": "2026-05-06T12:32:33Z",
@@ -3894,7 +4142,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.628266",
+            "collected_at": "2026-05-06T16:03:59.684493",
             "title": "ETF Fund Flows as of May 5, 2026",
             "summary": "<p>U.S. fixed income led all asset classes with $4.85 billion in net inflows on May 5, 2026, as total ETF flows reached $9.85 billion. Vanguard's VOO topped creations with $1.48 billion in new assets, while Invesco's QQQ suffered the steepest redemptions at $3.27 billion.</p>",
             "published": "2026-05-05T21:00:04Z",
@@ -3903,7 +4151,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.815825",
+            "collected_at": "2026-05-06T16:03:59.783696",
             "title": "If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "summary": "If you opened your brokerage statement this year and noticed your portfolio looked suspiciously like the S&P 500 with a few extra tech names sprinkled in, you are not alone. American investors have spent the last decade being rewarded for ignoring everything outside their own borders, and the muscle memory is hard to break. Vanguard ... If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "published": "2026-05-05T17:20:48Z",
@@ -3912,7 +4160,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.815837",
+            "collected_at": "2026-05-06T16:03:59.783703",
             "title": "The Cheap Way to Own the Entire U.S. Stock Market Right Now",
             "summary": "You don't have to overthink investing. Keep it simple.",
             "published": "2026-05-04T10:01:00Z",
@@ -3921,7 +4169,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.815839",
+            "collected_at": "2026-05-06T16:03:59.783705",
             "title": "Tech ETFs Dominate as $11.4B Floods Into U.S. Equity Funds",
             "summary": "<p>Here are the daily ETF fund flows for April 30, 2026.</p>",
             "published": "2026-04-30T21:00:04Z",
@@ -3930,7 +4178,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.999371",
+            "collected_at": "2026-05-06T16:03:59.893474",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -3939,7 +4187,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.999384",
+            "collected_at": "2026-05-06T16:03:59.893487",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -3948,7 +4196,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:48.999387",
+            "collected_at": "2026-05-06T16:03:59.893489",
             "title": "Cathie Wood Is Shrugging Off CapEx Fears and Buying the Dip in Meta Platforms Stock",
             "summary": "Cathie Wood's move signals that the market may be treating the spending surge as a temporary overhang on an otherwise intact long-term growth thesis.",
             "published": "2026-05-04T20:49:49Z",
@@ -3957,7 +4205,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:49.147210",
+            "collected_at": "2026-05-06T16:04:00.005356",
             "title": "Gold and Silver Catch Fire as Iran Deal Hopes Rewrite the Inflation Playbook",
             "summary": "The PHLX Gold/Silver Sector (^XAU) is climbing roughly 8% this morning as a wave of buying hits both bullion and the equities that mine it. Spot gold is trading near $4,695 an ounce, up about 3%, while silver is jumping a sharper 5.5% to roughly $77 an ounce. The catalyst is a combination of geopolitical ... Gold and Silver Catch Fire as Iran Deal Hopes Rewrite the Inflation Playbook",
             "published": "2026-05-06T14:23:44Z",
@@ -3966,7 +4214,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-06T16:03:49.147223",
+            "collected_at": "2026-05-06T16:04:00.005363",
             "title": "Gold Moves Higher as USD and Yields Retreat Following Reports the Iran War May Be Near an End",
             "summary": "Gold prices rose early Wednesday as the U.S. dollar and yields were sharply lower on reports Iran an",
             "published": "2026-05-06T13:37:27Z",
