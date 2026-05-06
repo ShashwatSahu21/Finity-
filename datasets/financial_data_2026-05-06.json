@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-06T12:12:19.312723",
+    "collection_timestamp": "2026-05-06T12:12:30.410053",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-06T12:12:14.375310",
+            "timestamp": "2026-05-06T12:12:25.281037",
             "price": 24330.94921875,
             "change": 159.94921875,
             "open": 24171.0,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-06T12:12:14.635588",
+            "timestamp": "2026-05-06T12:12:25.502781",
             "price": 77958.5234375,
             "change": 534.1640625,
             "open": 77424.359375,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-06T12:12:14.862733",
-            "price": 82316.703125,
-            "change": 1415.9296875,
+            "timestamp": "2026-05-06T12:12:25.807678",
+            "price": 82312.2265625,
+            "change": 1411.453125,
             "open": 80900.7734375,
             "high": 82749.0625,
             "low": 80803.703125,
-            "volume": 44039774208,
+            "volume": 44118052864,
             "news": [
                 {
                     "id": "76993e81-7f6d-4907-bc33-fa3f8bad3701",
@@ -711,7 +711,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-06T12:12:15.305093",
+            "timestamp": "2026-05-06T12:12:26.166641",
             "price": 1437.9000244140625,
             "change": -25.0999755859375,
             "open": 1463.0,
@@ -1033,7 +1033,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-06T12:12:15.546410",
+            "timestamp": "2026-05-06T12:12:26.465830",
             "price": 2435.39990234375,
             "change": -6.5,
             "open": 2441.89990234375,
@@ -1355,7 +1355,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-06T12:12:15.844555",
+            "timestamp": "2026-05-06T12:12:26.903336",
             "price": 796.5499877929688,
             "change": 21.39996337890625,
             "open": 775.1500244140625,
@@ -1639,7 +1639,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-06T12:12:16.106650",
+            "timestamp": "2026-05-06T12:12:27.198055",
             "price": 1167.199951171875,
             "change": -19.800048828125,
             "open": 1187.0,
@@ -1904,7 +1904,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-06T12:12:16.361480",
+            "timestamp": "2026-05-06T12:12:27.478462",
             "price": 284.17999267578125,
             "change": 7.25,
             "open": 276.92999267578125,
@@ -2001,6 +2001,68 @@
                         },
                         "clickThroughUrl": {
                             "url": "https://finance.yahoo.com/sectors/technology/articles/apple-settles-siri-ai-delay-120336396.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "434021fe-cc75-320f-8372-1eadd113e447",
+                    "content": {
+                        "id": "434021fe-cc75-320f-8372-1eadd113e447",
+                        "contentType": "STORY",
+                        "title": "Can the Rest of the Mag 7 Reach the Google-Level Greatness Shown Last Quarter?",
+                        "description": "",
+                        "summary": "Alphabet (NASDAQ:GOOGL) just rewrote what a Mag 7 quarter is supposed to look like. EPS of $5.11 against a $2.63 estimate, a 94% surprise, paired with revenue of $109.90B (+22% YoY) and Google Cloud growth of 63%. The stock has rallied 30% in the past month, validating the report. That is the bar. Below, we count ... Can the Rest of the Mag 7 Reach the Google-Level Greatness Shown Last Quarter?",
+                        "pubDate": "2026-05-06T12:00:42Z",
+                        "displayTime": "2026-05-06T12:00:42Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                            "originalWidth": 1500,
+                            "originalHeight": 998,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/n8Dq3G0KjMEblMWuPdg5Nw--~B/aD05OTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                                    "width": 1500,
+                                    "height": 998,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lBYLpU_hY0GBudn4qVXcCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/06/can-the-rest-of-the-mag-7-reach-the-google-level-greatness-shown-last-quarter/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/rest-mag-7-reach-google-120042830.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2140,55 +2202,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "65649949-5e73-3489-b41d-aeb3e65d30bf",
-                    "content": {
-                        "id": "65649949-5e73-3489-b41d-aeb3e65d30bf",
-                        "contentType": "STORY",
-                        "title": "Apple Explores Intel And Samsung As Chip Constraints Hit Growth",
-                        "description": "",
-                        "summary": "Apple held early talks with Intel and visited Samsung's Texas plant as advanced-node processor shortages pressure device supply.",
-                        "pubDate": "2026-05-06T10:57:26Z",
-                        "displayTime": "2026-05-06T10:57:26Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-intel-samsung-chip-105726952.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/apple-explores-intel-samsung-chip-105726952.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-06T12:12:16.676559",
+            "timestamp": "2026-05-06T12:12:27.757228",
             "price": 411.3800048828125,
             "change": -3.94000244140625,
             "open": 415.32000732421875,
@@ -2562,7 +2581,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-06T12:12:16.960713",
+            "timestamp": "2026-05-06T12:12:28.077368",
             "price": 388.42999267578125,
             "change": 2.199981689453125,
             "open": 386.2300109863281,
@@ -2884,7 +2903,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-06T12:12:17.259479",
+            "timestamp": "2026-05-06T12:12:28.339980",
             "price": 389.3699951171875,
             "change": -5.82000732421875,
             "open": 395.19000244140625,
@@ -3017,6 +3036,68 @@
                     }
                 },
                 {
+                    "id": "434021fe-cc75-320f-8372-1eadd113e447",
+                    "content": {
+                        "id": "434021fe-cc75-320f-8372-1eadd113e447",
+                        "contentType": "STORY",
+                        "title": "Can the Rest of the Mag 7 Reach the Google-Level Greatness Shown Last Quarter?",
+                        "description": "",
+                        "summary": "Alphabet (NASDAQ:GOOGL) just rewrote what a Mag 7 quarter is supposed to look like. EPS of $5.11 against a $2.63 estimate, a 94% surprise, paired with revenue of $109.90B (+22% YoY) and Google Cloud growth of 63%. The stock has rallied 30% in the past month, validating the report. That is the bar. Below, we count ... Can the Rest of the Mag 7 Reach the Google-Level Greatness Shown Last Quarter?",
+                        "pubDate": "2026-05-06T12:00:42Z",
+                        "displayTime": "2026-05-06T12:00:42Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                            "originalWidth": 1500,
+                            "originalHeight": 998,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/n8Dq3G0KjMEblMWuPdg5Nw--~B/aD05OTg7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                                    "width": 1500,
+                                    "height": 998,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lBYLpU_hY0GBudn4qVXcCA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3ae4ca5d224103f44008fed002d4e0c1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/06/can-the-rest-of-the-mag-7-reach-the-google-level-greatness-shown-last-quarter/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/rest-mag-7-reach-google-120042830.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "4479760a-d581-3cd5-b04b-01bc7b6219fe",
                     "content": {
                         "id": "4479760a-d581-3cd5-b04b-01bc7b6219fe",
@@ -3115,74 +3196,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "86a3ce67-b2b8-3303-88c4-1950c002d37e",
-                    "content": {
-                        "id": "86a3ce67-b2b8-3303-88c4-1950c002d37e",
-                        "contentType": "STORY",
-                        "title": "SpaceX files plan for $55 billion Terafab chip facility in Texas",
-                        "description": "",
-                        "summary": "Elon Musk's SpaceX has proposed an initial investment of $55 billion to build a semiconductor manufacturing facility, called Terafab, in Texas, according to a ‌filing made public on Wednesday.  SpaceX is also targeting a June IPO that could value the company at around $1.75 trillion.  Musk has been tightening integration of AI efforts across his companies, with SpaceX acquiring his startup xAI earlier this year in a deal focused on building space-based data centers ‌for artificial intelligence processing.",
-                        "pubDate": "2026-05-06T10:17:25Z",
-                        "displayTime": "2026-05-06T10:17:25Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/30d776bf7fadd1c93b01b7586818feb3",
-                            "originalWidth": 800,
-                            "originalHeight": 533,
-                            "caption": "FILE PHOTO: Illustration shows 3D-printed miniature model of Elon Musk and SpaceX logo",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/leSFwSKv0LiunK0aotK7Sw--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/30d776bf7fadd1c93b01b7586818feb3",
-                                    "width": 800,
-                                    "height": 533,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/tyC_nyLYsT9_MBL2vysMeg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/30d776bf7fadd1c93b01b7586818feb3",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Reuters",
-                            "url": "http://www.reuters.com/",
-                            "sourceId": "reuters-finance.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-files-plan-55-billion-101725901.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-files-plan-55-billion-101725901.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-06T12:12:17.547438",
+            "timestamp": "2026-05-06T12:12:28.625885",
             "price": 196.5,
             "change": -2.8000030517578125,
             "open": 199.3000030517578,
@@ -3599,7 +3618,7 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-06T12:12:17.809478",
+            "timestamp": "2026-05-06T12:12:28.939092",
             "price": 2409.47998046875,
             "change": 48.8251953125,
             "open": 2360.65478515625,
@@ -3924,7 +3943,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.074694",
+            "collected_at": "2026-05-06T12:12:29.196643",
             "title": "Stock market today: S&P 500, Nasdaq notch fresh records as tech leads markets higher, oil falls",
             "summary": "Oil prices fell as wary markets monitored a fragile US-Iran ceasefire in the wait for the latest rush of earnings.",
             "published": "2026-05-04T23:31:25Z",
@@ -3933,7 +3952,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.074704",
+            "collected_at": "2026-05-06T12:12:29.196650",
             "title": "Stock Market Today: Dow Jumps, Oil Prices Plunge On U.S.-Iran Deal Hopes; AMD Surges On Earnings (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones index jumped Wednesday on hopes of a U.S.-Iran deal. AMD stock soared on earnings.",
             "published": "2026-05-06T11:59:41Z",
@@ -3942,7 +3961,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.074707",
+            "collected_at": "2026-05-06T12:12:29.196653",
             "title": "Dow Jones Futures Rise, Oil Prices Dive Below $100 On Report U.S.-Iran Deal Close; AMD Soars On Earnings",
             "summary": "Futures rose and oil prices dived with a U.S.-Iran deal reportedly close. AMD and Astera Labs jumped on earnings.",
             "published": "2026-05-06T11:56:11Z",
@@ -3951,7 +3970,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.195352",
+            "collected_at": "2026-05-06T12:12:29.367117",
             "title": "AI infrastructure: Is it time to trade in the Mag 7 for the Air 7?",
             "summary": "First it was FAANG, and then it was the Magnificent Seven. Are investors ready for the AIR 7 grouping of tech stocks? Hennion & Walsh CIO Kevin Mahn joins Market Domination Host Josh Lipton and Yahoo Finance Markets and Data Editor Jared Blikre to discuss why investors should be considering these seven tech stocks — Micron Technology (MU), Taiwan Semiconductor Manufacturing Co. (TSM), Vertiv (VRT), American Electric Power (AEP), Nvidia (NVDA), Alphabet (GOOG, GOOGL), and Digital Realty Trust (DLR).",
             "published": "2026-05-05T19:24:56Z",
@@ -3960,7 +3979,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.195355",
+            "collected_at": "2026-05-06T12:12:29.367120",
             "title": "Is Your Nest Egg Enough To Be 'Upper Class' In Retirement? Here's What You Need For A Top 20% Life",
             "summary": "A retirement that feels \"upper class\" doesn't tiptoe in — it shows up in how the day unfolds. Flights get booked without hesitation, dinners don't need a second thought, and the budget fades into the background. The real flex isn't...",
             "published": "2026-05-06T12:01:09Z",
@@ -3969,7 +3988,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.314489",
+            "collected_at": "2026-05-06T12:12:29.475435",
             "title": "Oil Prices Slip, Potential Middle East Peace Agreement Drives US Equity Futures Higher Pre-Bell",
             "summary": "US equity futures were higher pre-bell Wednesday as oil prices slipped and a peace agreement between",
             "published": "2026-05-06T11:49:21Z",
@@ -3978,7 +3997,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.420272",
+            "collected_at": "2026-05-06T12:12:29.584781",
             "title": "Gold, silver jump on report that the US and Iran are nearing a peace deal",
             "summary": "Gold prices surge on hopes of US-Iran peace deal.",
             "published": "2026-05-06T11:25:34Z",
@@ -3987,7 +4006,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.420279",
+            "collected_at": "2026-05-06T12:12:29.584788",
             "title": "Gold forecast and tracker: Where prices could land in 2026",
             "summary": "How high will gold go in 2026? See live gold prices, expert predictions about gold performance, and learn whether gold will reach $6,000.",
             "published": "2026-04-15T13:00:00Z",
@@ -3996,7 +4015,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.420281",
+            "collected_at": "2026-05-06T12:12:29.584790",
             "title": "Basic Materials Roundup: Market Talk",
             "summary": "Find insight on Gold prices, Regis Resources and Vault Minerals in the latest Market Talks covering Basic Materials.",
             "published": "2026-05-06T11:50:00Z",
@@ -4005,7 +4024,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-06T12:12:18.733504",
+            "collected_at": "2026-05-06T12:12:29.766905",
             "title": "Global stocks surge and oil slides on Iran peace deal report",
             "summary": "By Harry Robertson LONDON, May 6 (Reuters) - Stocks leapt and oil prices dropped on Wednesday after a report said the White House believed it was closing in on a memorandum to end the war with Iran,",
             "published": "2026-05-06T12:01:30Z",
@@ -4016,7 +4035,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:18.840857",
+            "collected_at": "2026-05-06T12:12:29.893962",
             "title": "Stock Market Today: Dow Jumps, Oil Prices Plunge On U.S.-Iran Deal Hopes; AMD Surges On Earnings (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones index jumped Wednesday on hopes of a U.S.-Iran deal. AMD stock soared on earnings.",
             "published": "2026-05-06T11:59:41Z",
@@ -4025,7 +4044,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:18.840870",
+            "collected_at": "2026-05-06T12:12:29.893968",
             "title": "The Market Is Roaring. It’s Time to Bet Against It.",
             "summary": "After earnings season ends, there won‘t be much to entertain investors. Many of them perceive markets as a perpetual movie and themselves as cosplay characters.",
             "published": "2026-05-06T06:00:00Z",
@@ -4034,7 +4053,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:18.840872",
+            "collected_at": "2026-05-06T12:12:29.893970",
             "title": "BlueChip Exits Full International Equity ETF Stake Worth $4 Million",
             "summary": "This ETF provides diversified international equity exposure, targeting investors seeking efficient access to global markets.",
             "published": "2026-05-05T18:52:49Z",
@@ -4043,7 +4062,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:18.943753",
+            "collected_at": "2026-05-06T12:12:30.026985",
             "title": "This ETF Is Are Outpacing Tech Stocks While Paying High Dividends",
             "summary": "You wouldn’t expect a fund stuffed with European utilities, tobacco companies, and Canadian fertilizer to keep pace with the Nasdaq-100 in 2026, but here we are. Fidelity International High Dividend ETF (NYSEARCA:FIDI) is up about 8% year-to-date, edging out Invesco QQQ Trust (NASDAQ:QQQ) at roughly 8% as well. The lead is small, and the one-year ... This ETF Is Are Outpacing Tech Stocks While Paying High Dividends",
             "published": "2026-05-05T17:33:55Z",
@@ -4052,7 +4071,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:18.943756",
+            "collected_at": "2026-05-06T12:12:30.026988",
             "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded fund IWM and IVV were higher. Actively tr",
             "published": "2026-05-05T17:13:08Z",
@@ -4061,7 +4080,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.047836",
+            "collected_at": "2026-05-06T12:12:30.137985",
             "title": "If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "summary": "If you opened your brokerage statement this year and noticed your portfolio looked suspiciously like the S&P 500 with a few extra tech names sprinkled in, you are not alone. American investors have spent the last decade being rewarded for ignoring everything outside their own borders, and the muscle memory is hard to break. Vanguard ... If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "published": "2026-05-05T17:20:48Z",
@@ -4070,7 +4089,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.047847",
+            "collected_at": "2026-05-06T12:12:30.137995",
             "title": "The Cheap Way to Own the Entire U.S. Stock Market Right Now",
             "summary": "You don't have to overthink investing. Keep it simple.",
             "published": "2026-05-04T10:01:00Z",
@@ -4079,7 +4098,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.047849",
+            "collected_at": "2026-05-06T12:12:30.137997",
             "title": "Tech ETFs Dominate as $11.4B Floods Into U.S. Equity Funds",
             "summary": "<p>Here are the daily ETF fund flows for April 30, 2026.</p>",
             "published": "2026-04-30T21:00:04Z",
@@ -4088,7 +4107,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.211381",
+            "collected_at": "2026-05-06T12:12:30.264493",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -4097,7 +4116,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.211394",
+            "collected_at": "2026-05-06T12:12:30.264505",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -4106,7 +4125,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.211396",
+            "collected_at": "2026-05-06T12:12:30.264509",
             "title": "Cathie Wood Is Shrugging Off CapEx Fears and Buying the Dip in Meta Platforms Stock",
             "summary": "Cathie Wood's move signals that the market may be treating the spending surge as a temporary overhang on an otherwise intact long-term growth thesis.",
             "published": "2026-05-04T20:49:49Z",
@@ -4115,7 +4134,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.312629",
+            "collected_at": "2026-05-06T12:12:30.409979",
             "title": "IAU Returned 42% in a Year of Sticky Inflation. Here’s Why Allocators Are Reconsidering Gold",
             "summary": "Gold has done exactly what its defenders promised over the past year, and the numbers explain why allocators are revisiting the metal as a real portfolio building block. iShares Gold Trust (NYSEARCA:IAU) returned 42% in the twelve months through May 1, 2026, a stretch that overlapped with sticky core inflation, three Federal Reserve rate cuts, ... IAU Returned 42% in a Year of Sticky Inflation. Here’s Why Allocators Are Reconsidering Gold",
             "published": "2026-05-06T09:30:23Z",
@@ -4124,7 +4143,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.312640",
+            "collected_at": "2026-05-06T12:12:30.409986",
             "title": "Update: Gold Rises As Treasury Yields Ease",
             "summary": "(Updates prices.) Gold traded higher midafternoon on Tuesday, rising off a five-week low as treas",
             "published": "2026-05-05T18:00:19Z",
@@ -4133,7 +4152,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-06T12:12:19.312643",
+            "collected_at": "2026-05-06T12:12:30.409988",
             "title": "Gold Rises Early As Treasury Yields Ease",
             "summary": "Gold prices rose off a five-week low early Tuesday as treasury yields eased off a 10-month high.",
             "published": "2026-05-05T13:08:16Z",
