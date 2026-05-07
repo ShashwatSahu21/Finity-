@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-07T19:24:28.345708",
+    "collection_timestamp": "2026-05-07T19:24:38.305621",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-07T19:24:24.792597",
+            "timestamp": "2026-05-07T19:24:34.122597",
             "price": 24326.650390625,
             "change": -71.849609375,
             "open": 24398.5,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-07T19:24:24.936582",
+            "timestamp": "2026-05-07T19:24:34.259498",
             "price": 77844.5234375,
             "change": -494.71875,
             "open": 78339.2421875,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-07T19:24:25.098536",
-            "price": 79963.8125,
-            "change": -1460.09375,
+            "timestamp": "2026-05-07T19:24:34.515798",
+            "price": 79982.546875,
+            "change": -1441.359375,
             "open": 81423.90625,
             "high": 81665.890625,
             "low": 79677.515625,
-            "volume": 37235384320,
+            "volume": 37161975808,
             "news": [
                 {
                     "id": "603eac09-75a7-4c45-a5b0-c6391fcd4494",
@@ -584,68 +584,6 @@
                     }
                 },
                 {
-                    "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
-                    "content": {
-                        "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
-                        "contentType": "STORY",
-                        "title": "What is Ethereum? A complete guide to the Ethereum blockchain.",
-                        "description": "",
-                        "summary": "What is Ethereum? Here's your beginner-friendly guide to the blockchain, smart contracts, DeFi, and how ETH differs from Bitcoin. Learn the basics before you invest.",
-                        "pubDate": "2026-05-06T19:24:31Z",
-                        "displayTime": "2026-05-06T19:24:31Z",
-                        "isHosted": true,
-                        "bypassModal": true,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                            "originalWidth": 6240,
-                            "originalHeight": 4160,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jlvbXmLp.GWf.q8tETZPfA--~B/aD00MTYwO3c9NjI0MDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                                    "width": 6240,
-                                    "height": 4160,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/vEzc2z1o3dj9CoGiiJQK7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Yahoo Personal Finance",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "yahoo_personal_finance_397"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": true
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
                     "id": "aaed7c7f-7f42-31b1-b2bf-e11ca6205631",
                     "content": {
                         "id": "aaed7c7f-7f42-31b1-b2bf-e11ca6205631",
@@ -768,12 +706,74 @@
                         },
                         "storyline": null
                     }
+                },
+                {
+                    "id": "12591062-3665-3814-9047-70442360cd1e",
+                    "content": {
+                        "id": "12591062-3665-3814-9047-70442360cd1e",
+                        "contentType": "STORY",
+                        "title": "Keel Infrastructure (KEEL) Is Up 50.4% After Pivoting From Bitcoin Mines To AI Data Centers - Has The Bull Case Changed?",
+                        "description": "",
+                        "summary": "In recent days, Keel Infrastructure Corp. has accelerated its shift away from bitcoin mining by selling its 70 MW Paso Pe site in Paraguay for about US$13 million and winning a major government-backed national highway PPP project, while also refocusing on high-performance computing and AI-focused North American data center infrastructure. Chardan’s new research coverage, emphasizing Keel’s pursuit of long-duration AI and HPC data center leases, underscores how the company is trying to...",
+                        "pubDate": "2026-05-07T18:22:20Z",
+                        "displayTime": "2026-05-07T18:22:20Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3wFOxca.gMo3EgB9BjBM9g--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/vD4pRO4kEaxH8LXMGMHNtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/41bdd0c670f621394929d5266c5d6c72",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-keel-50-4-182220133.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/keel-infrastructure-keel-50-4-182220133.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
                 }
             ]
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-07T19:24:25.311937",
+            "timestamp": "2026-05-07T19:24:34.857250",
             "price": 1436.199951171875,
             "change": -2.60009765625,
             "open": 1438.800048828125,
@@ -1095,7 +1095,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-07T19:24:25.486601",
+            "timestamp": "2026-05-07T19:24:35.126821",
             "price": 2401.39990234375,
             "change": -36.800048828125,
             "open": 2438.199951171875,
@@ -1417,7 +1417,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-07T19:24:25.699371",
+            "timestamp": "2026-05-07T19:24:35.379497",
             "price": 796.0499877929688,
             "change": 2.04998779296875,
             "open": 794.0,
@@ -1701,7 +1701,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-07T19:24:25.961107",
+            "timestamp": "2026-05-07T19:24:35.621089",
             "price": 1162.699951171875,
             "change": -10.300048828125,
             "open": 1173.0,
@@ -1966,13 +1966,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-07T19:24:26.203874",
-            "price": 286.3299865722656,
-            "change": -2.94000244140625,
+            "timestamp": "2026-05-07T19:24:35.849641",
+            "price": 286.30999755859375,
+            "change": -2.959991455078125,
             "open": 289.2699890136719,
             "high": 292.1300048828125,
             "low": 285.7799987792969,
-            "volume": 30486280,
+            "volume": 30496262,
             "news": [
                 {
                     "id": "5c34e6b6-0fb7-47e2-b523-29be96197888",
@@ -2283,13 +2283,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-07T19:24:26.379816",
-            "price": 421.32000732421875,
-            "change": 1.21002197265625,
+            "timestamp": "2026-05-07T19:24:36.023581",
+            "price": 421.30999755859375,
+            "change": 1.20001220703125,
             "open": 420.1099853515625,
             "high": 427.9800109863281,
             "low": 418.760009765625,
-            "volume": 25574871,
+            "volume": 25578720,
             "news": [
                 {
                     "id": "efc8d8b7-dda9-40bd-a7bd-84a481168b21",
@@ -2548,13 +2548,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-07T19:24:26.576541",
-            "price": 395.6499938964844,
-            "change": -4.345001220703125,
+            "timestamp": "2026-05-07T19:24:36.207248",
+            "price": 395.7300109863281,
+            "change": -4.264984130859375,
             "open": 399.9949951171875,
             "high": 400.1000061035156,
             "low": 392.67999267578125,
-            "volume": 16543622,
+            "volume": 16551741,
             "news": [
                 {
                     "id": "cb55fd1f-42e8-4ce2-ba45-62c890c6cf92",
@@ -2813,13 +2813,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-07T19:24:26.825173",
-            "price": 404.8900146484375,
-            "change": -2.629974365234375,
+            "timestamp": "2026-05-07T19:24:36.452360",
+            "price": 404.9096984863281,
+            "change": -2.61029052734375,
             "open": 407.5199890136719,
             "high": 415.8299865722656,
             "low": 402.1199951171875,
-            "volume": 51036137,
+            "volume": 51041405,
             "news": [
                 {
                     "id": "6e06c3b4-e3b9-463f-be60-afc3e01a9aa8",
@@ -3059,13 +3059,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-07T19:24:26.992607",
-            "price": 211.75990295410156,
-            "change": 3.4449005126953125,
+            "timestamp": "2026-05-07T19:24:36.624706",
+            "price": 211.72500610351562,
+            "change": 3.410003662109375,
             "open": 208.31500244140625,
             "high": 214.1999969482422,
             "low": 206.5,
-            "volume": 136417203,
+            "volume": 136432589,
             "news": [
                 {
                     "id": "f70b7925-cc03-4edf-abcb-fe082de6d288",
@@ -3438,9 +3438,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-07T19:24:27.121089",
-            "price": 2290.7099609375,
-            "change": -60.013671875,
+            "timestamp": "2026-05-07T19:24:36.855550",
+            "price": 2290.39990234375,
+            "change": -60.32373046875,
             "open": 2350.7236328125,
             "high": 2350.7236328125,
             "low": 2287.109375,
@@ -3492,68 +3492,6 @@
                         },
                         "clickThroughUrl": {
                             "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-may-7-2026-bitcoin-holds-near-81000-this-morning-113637750.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": true
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
-                    "content": {
-                        "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
-                        "contentType": "STORY",
-                        "title": "What is Ethereum? A complete guide to the Ethereum blockchain.",
-                        "description": "",
-                        "summary": "What is Ethereum? Here's your beginner-friendly guide to the blockchain, smart contracts, DeFi, and how ETH differs from Bitcoin. Learn the basics before you invest.",
-                        "pubDate": "2026-05-06T19:24:31Z",
-                        "displayTime": "2026-05-06T19:24:31Z",
-                        "isHosted": true,
-                        "bypassModal": true,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                            "originalWidth": 6240,
-                            "originalHeight": 4160,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jlvbXmLp.GWf.q8tETZPfA--~B/aD00MTYwO3c9NjI0MDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                                    "width": 6240,
-                                    "height": 4160,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/vEzc2z1o3dj9CoGiiJQK7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Yahoo Personal Finance",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "yahoo_personal_finance_397"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3755,6 +3693,68 @@
                         },
                         "storyline": null
                     }
+                },
+                {
+                    "id": "345d8633-1111-3dcf-9832-2a435673e8c7",
+                    "content": {
+                        "id": "345d8633-1111-3dcf-9832-2a435673e8c7",
+                        "contentType": "STORY",
+                        "title": "State Street Flags Multi-Coin ETFs as Bitcoin’s Successor, But One Ticker Tells a Different Story",
+                        "description": "",
+                        "summary": "State Street’s 2026 Global ETF Outlook: From Wrapper to Backbone names a specific frontier for crypto investors this year. On page 8, the firm writes that \"Areas gaining traction include multi-coin diversified crypto ETFs beyond Bitcoin and Ethereum, private market-style ETFs, pre-IPO exposure, and auto callable income strategies.\" The signal: the easy trade of buying ... State Street Flags Multi-Coin ETFs as Bitcoin’s Successor, But One Ticker Tells a Different Story",
+                        "pubDate": "2026-05-07T13:30:26Z",
+                        "displayTime": "2026-05-07T13:30:26Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/58441d1121fc4e4329e58a5553639ca5",
+                            "originalWidth": 1500,
+                            "originalHeight": 1000,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/wwcy6Hu9SyAiRZ79ysHDFQ--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/58441d1121fc4e4329e58a5553639ca5",
+                                    "width": 1500,
+                                    "height": 1000,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/sNQyjjCbzARtpiAhPs2SMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/58441d1121fc4e4329e58a5553639ca5",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/07/state-street-flags-multi-coin-etfs-as-bitcoins-successor-but-one-ticker-tells-a-different-story/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/state-street-flags-multi-coin-133026410.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
                 }
             ]
         }
@@ -3763,7 +3763,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.355180",
+            "collected_at": "2026-05-07T19:24:37.124507",
             "title": "US Equity Indexes Fall as Iran Plans to Control Hormuz Transit, Washington Mulls Restarting Operation Freedom",
             "summary": "US equity indexes were lower ahead of Thursday's close as Iran reportedly set up an agency to contro",
             "published": "2026-05-07T19:18:41Z",
@@ -3772,7 +3772,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.355196",
+            "collected_at": "2026-05-07T19:24:37.124524",
             "title": "S&P 500 and Nasdaq Hit Record Highs, Then Promptly Forgot About It",
             "summary": "Markets went from record highs to red in a matter of hours. Here's what flipped the script on Thursday.",
             "published": "2026-05-07T18:53:08Z",
@@ -3781,7 +3781,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.355198",
+            "collected_at": "2026-05-07T19:24:37.124526",
             "title": "Stocks dip, oil choppy as US-Iran peace deal remains elusive",
             "summary": "By Lawrence Delevingne and Sophie Kiderlin May 7 (Reuters) - U.S. and European stocks dipped and oil prices were volatile but ultimately little changed on Thursday after a report said Iran would not",
             "published": "2026-05-07T18:44:27Z",
@@ -3790,7 +3790,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.453779",
+            "collected_at": "2026-05-07T19:24:37.237668",
             "title": "Tech-led stealth rally pushes markets to record highs",
             "summary": "U.S. stocks (^DJI,&nbsp;^GSPC,&nbsp;^IXIC)&nbsp;have rallied over the past three weeks, fueled by strong earnings and optimism around a potential resolution to the U.S.-Iran conflict. Yahoo Finance’s Julie Hyman and Head of News Myles Udland break down the stealth rally and spotlight some of the top names leading the tech-driven surge, including Intel (INTC), Sandisk (SNDK), Micron (MU), Seagate (STX), and Arm (ARM).",
             "published": "2026-05-07T14:31:01Z",
@@ -3799,7 +3799,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.453794",
+            "collected_at": "2026-05-07T19:24:37.237683",
             "title": "The stock market's semi-charmed life: Morning Brief",
             "summary": "The stock market has soared to record highs in recent weeks, and one sector has been doing a lot of the work.",
             "published": "2026-05-07T10:00:00Z",
@@ -3808,7 +3808,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.560937",
+            "collected_at": "2026-05-07T19:24:37.344215",
             "title": "Stock Market Today: Nasdaq Tops 26,000, Then Falls; Permian Resources Tests Key Level (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones index rose early Thursday on a weekly jobless claims report but reversed lower. AI stock Arm dived on earnings.",
             "published": "2026-05-07T18:15:29Z",
@@ -3817,7 +3817,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.697249",
+            "collected_at": "2026-05-07T19:24:37.500499",
             "title": "Regis And Vault Forge A$10.7 Billion Gold Giant",
             "summary": "Regis will acquire Vault in an all-share deal, creating Australia's third-largest gold producer by market capitalization.",
             "published": "2026-05-07T18:59:12Z",
@@ -3826,7 +3826,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.697264",
+            "collected_at": "2026-05-07T19:24:37.500515",
             "title": "Gold Price Eyes $5,000 After Confirmed Channel Breakout",
             "summary": "Gold (XAU) price prediction eyes $4,785 and $4,850 after a confirmed channel breakout near $4,716 ahead of NFP.",
             "published": "2026-05-07T18:44:28Z",
@@ -3835,7 +3835,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.697267",
+            "collected_at": "2026-05-07T19:24:37.500517",
             "title": "Orestone Mining Provides First Gold Assays From Francisca Surface Exploration Program, Argentina",
             "summary": "Orestone Mining (ORS.V) provided initial assay results received from the Phase I exploration program",
             "published": "2026-05-07T18:28:37Z",
@@ -3844,7 +3844,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.798708",
+            "collected_at": "2026-05-07T19:24:37.700740",
             "title": "Summer airfares set to surge as jet fuel shortage grips market",
             "summary": "A shortage of jet fuel is sending summer airfares higher.",
             "published": "2026-05-07T17:01:44Z",
@@ -3853,7 +3853,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.798723",
+            "collected_at": "2026-05-07T19:24:37.700756",
             "title": "Why McDonald's may be a better consumer story than an investment play",
             "summary": "McDonald’s (MCD) topped Q1 estimates after four straight quarters of same-store sales growth, but CEO Chris Kempczinski warns business could slow next quarter. Yahoo Finance’s Julie Hyman and Head of News Myles Udland break down why McDonald’s may be a stronger consumer story than an investor story.",
             "published": "2026-05-07T14:12:39Z",
@@ -3862,7 +3862,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-07T19:24:27.798726",
+            "collected_at": "2026-05-07T19:24:37.700759",
             "title": "Gold and silver prices today, Thursday, May 7: Gold and silver open at highest values in over a week",
             "summary": "Gold opened at $4,702.20 per troy ounce on Thursday, the highest opening price since April 27. Silver opened at $77.83 per ounce on Thursday, its highest opening price since April 23.",
             "published": "2026-05-07T10:56:04Z",
@@ -3873,7 +3873,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:27.895257",
+            "collected_at": "2026-05-07T19:24:37.813326",
             "title": "How Lower ETF Fees Are Saving 401(k) Investors Thousands",
             "summary": "Wall Street's intensifying ETF fee war may be delivering an unexpected benefit to millions of retirement savers: potentially larger 401(k) balances over time. • Vanguard S&P 500 ETF stock is trading at elevated levels. What should traders watch with VOO? Fund fees continued to be cut as asset managers battle for investor flows in the rapidly expanding ETF industry. For example, a fee battle cost State Street SPDR S&P 500 ETF Trust (NYSE:SPY) billions of inflows last year as Vanguard S&P 500 ETF",
             "published": "2026-05-07T18:09:06Z",
@@ -3882,7 +3882,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:27.895272",
+            "collected_at": "2026-05-07T19:24:37.813342",
             "title": "Tired of Tracking the S&P 500? These 3 Managed Futures ETFs Offer a Different Path",
             "summary": "Managed futures funds spent most of the past decade as a footnote in portfolio construction conversations. They came back into the spotlight in 2022 when stocks and bonds fell together, and the conversation never really faded. The three funds covered here, the Simplify Managed Futures Strategy ETF (NYSEARCA:CTA), the iMGP DBi Managed Futures Strategy ETF ... Tired of Tracking the S&P 500? These 3 Managed Futures ETFs Offer a Different Path",
             "published": "2026-05-07T17:45:18Z",
@@ -3891,7 +3891,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:27.895275",
+            "collected_at": "2026-05-07T19:24:37.813345",
             "title": "S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",
             "summary": "The S&P 500 (^GSPC) punched to a fresh record Wednesday, with the broader market index now perched above 7,300. With a 7.6% YTD gain in the S&P 500 (^GSPC), bulls are back in control, citing a roughly 15% rally off the March low as AI earnings, easing Iran tensions, and softer crude combine to push ... S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism",
             "published": "2026-05-07T13:22:27Z",
@@ -3900,7 +3900,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:27.983005",
+            "collected_at": "2026-05-07T19:24:37.907947",
             "title": "Exchange-Traded Funds Fall as US Equities Drop Midday on Labor Data, Iran Tumult",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded I",
             "published": "2026-05-07T17:14:07Z",
@@ -3909,7 +3909,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:27.983020",
+            "collected_at": "2026-05-07T19:24:37.907964",
             "title": "Should You Buy the Invesco QQQ ETF With the Nasdaq at a Record High? Here's What History Says.",
             "summary": "Time in the market is far more important than timing the market.",
             "published": "2026-05-07T16:05:00Z",
@@ -3918,7 +3918,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.082582",
+            "collected_at": "2026-05-07T19:24:38.018275",
             "title": "What Long-Term Investors Should Know Before Buying This Broad Market ETF",
             "summary": "Just because a fund holds hundreds or even thousands of stocks doesn't mean it's diversified.",
             "published": "2026-05-07T16:35:00Z",
@@ -3927,7 +3927,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.082598",
+            "collected_at": "2026-05-07T19:24:38.018291",
             "title": "If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "summary": "State Street’s 2026 Global ETF Outlook calls for $2.1 trillion of US ETF inflows this year, with the lion’s share flowing into three core funds: Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares Core S&P 500 ETF (NYSEARCA:IVV), and Vanguard Total Stock Market ETF (NYSEARCA:VTI). Each charges 3 basis points, each defaults into model portfolios, and each ... If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "published": "2026-05-07T10:00:23Z",
@@ -3936,7 +3936,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.082600",
+            "collected_at": "2026-05-07T19:24:38.018294",
             "title": "If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "summary": "If you opened your brokerage statement this year and noticed your portfolio looked suspiciously like the S&P 500 with a few extra tech names sprinkled in, you are not alone. American investors have spent the last decade being rewarded for ignoring everything outside their own borders, and the muscle memory is hard to break. Vanguard ... If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "published": "2026-05-05T17:20:48Z",
@@ -3945,7 +3945,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.247686",
+            "collected_at": "2026-05-07T19:24:38.171190",
             "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
             "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
             "published": "2026-05-06T20:35:22Z",
@@ -3954,7 +3954,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.247702",
+            "collected_at": "2026-05-07T19:24:38.171205",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -3963,7 +3963,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.247705",
+            "collected_at": "2026-05-07T19:24:38.171208",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -3972,7 +3972,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.345594",
+            "collected_at": "2026-05-07T19:24:38.305506",
             "title": "Gold Surges Past $4,770 as Geopolitical Optimism Cools Inflation Fears",
             "summary": "Gold is shining, with the PHLX Gold/Silver Sector (^XAU) jumping roughly 4% as spot gold climbed 1.5% and silver ripped 6.5% higher. New York gold futures pushed above $4,750 an ounce, gaining roughly 1.6% to $4,771, as a sliding dollar, falling Treasury yields, and renewed optimism around U.S.-Iran peace talks reignited bullion demand. The PHLX ... Gold Surges Past $4,770 as Geopolitical Optimism Cools Inflation Fears",
             "published": "2026-05-07T15:05:22Z",
@@ -3981,7 +3981,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.345610",
+            "collected_at": "2026-05-07T19:24:38.305522",
             "title": "Gold Rises Again on Prospects the Iran War is Nearing an End",
             "summary": "Gold rose for a third-straight session early Thursday on optimism a deal to end the war on Iran may",
             "published": "2026-05-07T13:15:30Z",
@@ -3990,7 +3990,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T19:24:28.345613",
+            "collected_at": "2026-05-07T19:24:38.305525",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid Corporate Earnings, Economic Data Deluge",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad",
             "published": "2026-05-07T12:50:32Z",
