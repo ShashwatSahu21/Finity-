@@ -1,13 +1,13 @@
 {
-    "collection_timestamp": "2026-05-07T06:41:07.607446",
+    "collection_timestamp": "2026-05-07T09:26:29.705010",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-07T06:41:02.514024",
-            "price": 24366.150390625,
-            "change": -32.349609375,
+            "timestamp": "2026-05-07T09:26:22.170992",
+            "price": 24352.900390625,
+            "change": -45.599609375,
             "open": 24398.5,
-            "high": 24423.349609375,
+            "high": 24482.099609375,
             "low": 24284.0,
             "volume": 0,
             "news": [
@@ -263,11 +263,11 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-07T06:41:02.819764",
-            "price": 77863.359375,
-            "change": -475.8828125,
+            "timestamp": "2026-05-07T09:26:22.747155",
+            "price": 77961.046875,
+            "change": -378.1953125,
             "open": 78339.2421875,
-            "high": 78339.2421875,
+            "high": 78384.703125,
             "low": 77713.2109375,
             "volume": 0,
             "news": [
@@ -394,41 +394,41 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-07T06:41:03.143788",
-            "price": 81334.421875,
-            "change": -89.484375,
+            "timestamp": "2026-05-07T09:26:23.155225",
+            "price": 81058.921875,
+            "change": -364.984375,
             "open": 81423.90625,
-            "high": 81432.71875,
+            "high": 81665.890625,
             "low": 80758.125,
-            "volume": 39806980096,
+            "volume": 39046090752,
             "news": [
                 {
-                    "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
+                    "id": "65a96006-8efd-4582-908a-8cdf88b02cd6",
                     "content": {
-                        "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
+                        "id": "65a96006-8efd-4582-908a-8cdf88b02cd6",
                         "contentType": "STORY",
-                        "title": "What is Ethereum? A complete guide to the Ethereum blockchain.",
+                        "title": "Wall Street has a new way to chase the AI memory boom",
                         "description": "",
-                        "summary": "What is Ethereum? Here's your beginner-friendly guide to the blockchain, smart contracts, DeFi, and how ETH differs from Bitcoin. Learn the basics before you invest.",
-                        "pubDate": "2026-05-06T19:24:31Z",
-                        "displayTime": "2026-05-06T19:24:31Z",
+                        "summary": "DRAM has traded only 24 sessions, but it's already up over 70% and has hit an intraday record on 14 of them.",
+                        "pubDate": "2026-05-06T18:56:18Z",
+                        "displayTime": "2026-05-07T08:25:21Z",
                         "isHosted": true,
-                        "bypassModal": true,
+                        "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                            "originalWidth": 6240,
-                            "originalHeight": 4160,
+                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/a1b02b20-f7af-11f0-bdef-d62bfda39c11",
+                            "originalWidth": 5483,
+                            "originalHeight": 3590,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jlvbXmLp.GWf.q8tETZPfA--~B/aD00MTYwO3c9NjI0MDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
-                                    "width": 6240,
-                                    "height": 4160,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/EJEZ8lKYQObHWMP4hSNx5A--~B/aD0zNTkwO3c9NTQ4MzthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-01/a1b02b20-f7af-11f0-bdef-d62bfda39c11",
+                                    "width": 5483,
+                                    "height": 3590,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/vEzc2z1o3dj9CoGiiJQK7g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/XS6Ff4Sz2m9sTr.WebzcbA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2026-01/a1b02b20-f7af-11f0-bdef-d62bfda39c11",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -436,18 +436,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Yahoo Personal Finance",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "yahoo_personal_finance_397"
+                            "displayName": "Yahoo Finance",
+                            "url": "http://finance.yahoo.com/",
+                            "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
+                            "url": "https://finance.yahoo.com/markets/article/wall-street-has-a-new-way-to-chase-the-ai-memory-boom-185618805.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html",
+                            "url": "https://finance.yahoo.com/markets/article/wall-street-has-a-new-way-to-chase-the-ai-memory-boom-185618805.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -465,28 +465,28 @@
                             "storylineItems": [
                                 {
                                     "content": {
-                                        "id": "65a96006-8efd-4582-908a-8cdf88b02cd6",
+                                        "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
                                         "contentType": "STORY",
                                         "isHosted": true,
-                                        "title": "Wall Street has a new way to chase the AI memory boom",
+                                        "title": "What is Ethereum? A complete guide to the Ethereum blockchain.",
                                         "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/a1b02b20-f7af-11f0-bdef-d62bfda39c11",
-                                            "originalWidth": 5483,
-                                            "originalHeight": 3590,
+                                            "originalUrl": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/6998e0b0-6632-11f0-b713-801fd8c7feb3",
+                                            "originalWidth": 6240,
+                                            "originalHeight": 4160,
                                             "caption": "",
                                             "resolutions": null
                                         },
                                         "provider": {
-                                            "displayName": "Yahoo Finance",
-                                            "sourceId": "yahoofinance.com"
+                                            "displayName": "Yahoo Personal Finance",
+                                            "sourceId": "yahoo_personal_finance_397"
                                         },
                                         "previewUrl": null,
                                         "providerContentUrl": "",
                                         "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/markets/article/wall-street-has-a-new-way-to-chase-the-ai-memory-boom-185618805.html"
+                                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html"
                                         },
                                         "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/markets/article/wall-street-has-a-new-way-to-chase-the-ai-memory-boom-185618805.html"
+                                            "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-ethereum-192431960.html"
                                         }
                                     }
                                 },
@@ -584,32 +584,32 @@
                     }
                 },
                 {
-                    "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+                    "id": "06277af9-95b0-3d1e-a4c9-0379d1a6f34d",
                     "content": {
-                        "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+                        "id": "06277af9-95b0-3d1e-a4c9-0379d1a6f34d",
                         "contentType": "STORY",
-                        "title": "Why Is The Crypto Market Down Today?",
+                        "title": "Bitcoin Miners’ Q1 Losses Mount as AI Pivots Accelerate",
                         "description": "",
-                        "summary": "Crypto market down 0.59% as money rotated into equities after the S&P's all-time high, with Bitcoin rejected on a bearish divergence.",
-                        "pubDate": "2026-05-07T05:25:22Z",
-                        "displayTime": "2026-05-07T05:25:22Z",
+                        "summary": "Top Bitcoin miners booked Q1 2026 net losses as crypto prices slumped, even as AI data center pivots accelerated.",
+                        "pubDate": "2026-05-07T08:29:21Z",
+                        "displayTime": "2026-05-07T08:29:21Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/aa7cbf7752fafe5a1c87e6f0599c7eb6",
+                            "originalWidth": 2368,
+                            "originalHeight": 1332,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/TvBjhhtxyJCHluP6BPdhSA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
-                                    "width": 1920,
-                                    "height": 1080,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/rdiiEVWmDSRtGt4d66qeYg--~B/aD0xMzMyO3c9MjM2ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/aa7cbf7752fafe5a1c87e6f0599c7eb6",
+                                    "width": 2368,
+                                    "height": 1332,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/73OK6SSoyLcJQ9eyzGD_sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/0zWbPc8rAS4BLnq_ggZLLQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/aa7cbf7752fafe5a1c87e6f0599c7eb6",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -622,13 +622,13 @@
                             "sourceId": "beincrypto_us_662"
                         },
                         "canonicalUrl": {
-                            "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
+                            "url": "https://beincrypto.com/bitcoin-miners-q1-losses-ai-pivot/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-market-down-today-035710630.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-q1-losses-mount-082921845.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -646,32 +646,32 @@
                     }
                 },
                 {
-                    "id": "8504b4dd-47d5-34ea-9bae-4ca6f1993a26",
+                    "id": "078cbd37-a46d-3dc6-b222-8cba5c4ebbd5",
                     "content": {
-                        "id": "8504b4dd-47d5-34ea-9bae-4ca6f1993a26",
+                        "id": "078cbd37-a46d-3dc6-b222-8cba5c4ebbd5",
                         "contentType": "STORY",
-                        "title": "Bitcoin 'Materially Undervalued,' Coinbase Report Says—But What About ETH?",
+                        "title": "BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE",
                         "description": "",
-                        "summary": "Coinbase has maintained a neutral outlook for the crypto market in Q2, citing persistent macroeconomic uncertainty while pointing to early signs of stabilization across major digital assets. Macro Forces Dominate Near-Term Outlook In its latest Charting Crypto report, Coinbase said...",
-                        "pubDate": "2026-05-07T02:31:03Z",
-                        "displayTime": "2026-05-07T02:31:03Z",
+                        "summary": "Wall Street giant BNY Mellon (now BNY) will offer crypto asset custody in Abu Dhabi, the UAE, the global financial services company announced on Thursday. It will initially launch Bitcoin and Ethereum crypto custody services, with plans of expanding to stablecoins, tokenized real-world assets, and other regulated digital instruments. Ad Ad BNY Mellon Expands Crypto",
+                        "pubDate": "2026-05-07T08:06:33Z",
+                        "displayTime": "2026-05-07T08:06:33Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/b61480a9ea8fe2107a5f5442482e7d7c",
-                            "originalWidth": 1024,
-                            "originalHeight": 576,
-                            "caption": "Bitcoin 'Materially Undervalued,' Coinbase Report Says—But What About ETH?",
+                            "originalUrl": "https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/pJoSR8ss.rJkTWZjcf6yPA--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b61480a9ea8fe2107a5f5442482e7d7c",
-                                    "width": 1024,
-                                    "height": 576,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/s4hIKdVwWbYJb7N7GXu17g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
+                                    "width": 1200,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/hUw4tl4eZ9Z41uqrzwaenA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b61480a9ea8fe2107a5f5442482e7d7c",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/S46AyB9b8FkBMt2r_QFB5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -679,18 +679,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
+                            "displayName": "CoinGape",
+                            "url": "https://coingape.com/",
+                            "sourceId": "coingape_360"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-materially-undervalued-coinbase-report-023103728.html",
+                            "url": "https://coingape.com/bny-mellon-to-launch-bitcoin-and-ethereum-crypto-custody-in-uae/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-materially-undervalued-coinbase-report-023103728.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bny-mellon-launch-bitcoin-ethereum-080633939.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -708,32 +708,32 @@
                     }
                 },
                 {
-                    "id": "7c05e56e-8c79-3705-863e-2f8e24eb1dff",
+                    "id": "fd76da2a-74b5-3461-8a71-3edd605277b5",
                     "content": {
-                        "id": "7c05e56e-8c79-3705-863e-2f8e24eb1dff",
+                        "id": "fd76da2a-74b5-3461-8a71-3edd605277b5",
                         "contentType": "STORY",
-                        "title": "White House official reveals new details on Bitcoin reserve",
+                        "title": "VanEck Joins Bitwise in Forecasting $1 Million Bitcoin Price Target",
                         "description": "",
-                        "summary": "The long-awaited U.S. Strategic Bitcoin Reserve is about to become a lot less theoretical. Patrick Witt, executive director of the President's Council of Advisors for Digital Assets, told the audience at CoinDesk's Consensus Miami 2026 on Wednesday that an announcement on the reserve is coming \"in ...",
-                        "pubDate": "2026-05-07T01:32:43Z",
-                        "displayTime": "2026-05-07T01:32:43Z",
+                        "summary": "VanEck's Matthew Sigel projects Bitcoin will reach $1 million, echoing similar forecasts from Bitwise and Jan3.",
+                        "pubDate": "2026-05-07T07:50:09Z",
+                        "displayTime": "2026-05-07T07:50:09Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/9e69f01cf3e2a1cbcc8627bac6d5cd72",
-                            "originalWidth": 1536,
-                            "originalHeight": 1024,
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/887bb8f014aa5b5418d1f1d589016fcf",
+                            "originalWidth": 2368,
+                            "originalHeight": 1332,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/C_BSnIt18wo._NEB7.Iglw--~B/aD0xMDI0O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/9e69f01cf3e2a1cbcc8627bac6d5cd72",
-                                    "width": 1536,
-                                    "height": 1024,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/DdQziQJeOI4e7zLsM.t7eg--~B/aD0xMzMyO3c9MjM2ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/887bb8f014aa5b5418d1f1d589016fcf",
+                                    "width": 2368,
+                                    "height": 1332,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/zHD3oSEdIof6YIzW5PnR0Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/9e69f01cf3e2a1cbcc8627bac6d5cd72",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/POIeX_drJbyyLcdquF3H6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/887bb8f014aa5b5418d1f1d589016fcf",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -741,18 +741,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
+                            "displayName": "BeInCrypto",
+                            "url": "https://beincrypto.com/",
+                            "sourceId": "beincrypto_us_662"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.thestreet.com/crypto/markets/white-house-official-reveals-new-details-on-bitcoin-reserve-",
+                            "url": "https://beincrypto.com/vaneck-bitcoin-million-five-year-forecast/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-official-reveals-details-013243303.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/vaneck-joins-bitwise-forecasting-1-075009811.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -773,13 +773,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-07T06:41:03.521401",
-            "price": 1441.5999755859375,
-            "change": 2.7999267578125,
+            "timestamp": "2026-05-07T09:26:23.583630",
+            "price": 1437.199951171875,
+            "change": -1.60009765625,
             "open": 1438.800048828125,
-            "high": 1446.4000244140625,
+            "high": 1449.5,
             "low": 1430.300048828125,
-            "volume": 5285226,
+            "volume": 12036717,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1095,13 +1095,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-07T06:41:03.809443",
-            "price": 2406.800048828125,
-            "change": -31.39990234375,
+            "timestamp": "2026-05-07T09:26:23.999114",
+            "price": 2403.199951171875,
+            "change": -35.0,
             "open": 2438.199951171875,
             "high": 2439.699951171875,
             "low": 2400.89990234375,
-            "volume": 2585869,
+            "volume": 4331861,
             "news": [
                 {
                     "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
@@ -1417,13 +1417,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-07T06:41:04.090200",
-            "price": 793.6500244140625,
-            "change": -0.3499755859375,
+            "timestamp": "2026-05-07T09:26:24.512268",
+            "price": 797.0,
+            "change": 3.0,
             "open": 794.0,
-            "high": 797.9500122070312,
+            "high": 801.5499877929688,
             "low": 788.5499877929688,
-            "volume": 17143261,
+            "volume": 32737444,
             "news": [
                 {
                     "id": "7f49e787-5375-3827-810f-19ddbf7748d1",
@@ -1701,13 +1701,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-07T06:41:04.345149",
-            "price": 1167.699951171875,
-            "change": -5.300048828125,
+            "timestamp": "2026-05-07T09:26:25.025969",
+            "price": 1165.0999755859375,
+            "change": -7.9000244140625,
             "open": 1173.0,
             "high": 1175.4000244140625,
             "low": 1162.699951171875,
-            "volume": 3821763,
+            "volume": 8059857,
             "news": [
                 {
                     "id": "a37a40c9-4858-3294-8d6f-5ea716e6b684",
@@ -1966,7 +1966,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-07T06:41:04.647977",
+            "timestamp": "2026-05-07T09:26:25.454790",
             "price": 287.510009765625,
             "change": 5.589996337890625,
             "open": 281.9200134277344,
@@ -2283,7 +2283,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-07T06:41:04.989107",
+            "timestamp": "2026-05-07T09:26:26.194149",
             "price": 413.9599914550781,
             "change": 5.959991455078125,
             "open": 408.0,
@@ -2416,6 +2416,68 @@
                     }
                 },
                 {
+                    "id": "49c4d33b-c259-3811-a609-10681a91adfe",
+                    "content": {
+                        "id": "49c4d33b-c259-3811-a609-10681a91adfe",
+                        "contentType": "STORY",
+                        "title": "What Happens to Nvidia Stock If the AI Build-Out Slows Down? Here's My Answer.",
+                        "description": "",
+                        "summary": "Nvidia may surprise investors in such a scenario.",
+                        "pubDate": "2026-05-07T08:54:00Z",
+                        "displayTime": "2026-05-07T08:54:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
+                            "originalWidth": 1400,
+                            "originalHeight": 840,
+                            "caption": "Nvidia corporate office.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zyWIwdJEXcM4GeunUhqQRg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
+                                    "width": 1400,
+                                    "height": 840,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/R_6HA7Yr9Bu6vAAOqfxhew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/07/what-happens-to-nvidia-stock-if-the-ai-buildout-sl/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/happens-nvidia-stock-ai-build-085400112.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "fda4ae4f-67d1-33b5-a3be-4a7ec1ac1434",
                     "content": {
                         "id": "fda4ae4f-67d1-33b5-a3be-4a7ec1ac1434",
@@ -2519,74 +2581,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "30c2aae1-1432-3252-ac01-837a8956630e",
-                    "content": {
-                        "id": "30c2aae1-1432-3252-ac01-837a8956630e",
-                        "contentType": "STORY",
-                        "title": "ARM Q4 Earnings Call Highlights",
-                        "description": "",
-                        "summary": "Arm (NASDAQ:ARM) reported record results for the fourth quarter of fiscal 2026 and the full fiscal year, pointing to accelerating momentum in cloud AI and growing customer interest in its recently launched Arm AGI CPU product family. Record quarter and full-year results CEO Rene Haas said Arm “deli",
-                        "pubDate": "2026-05-06T22:59:42Z",
-                        "displayTime": "2026-05-06T22:59:42Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/marketbeat_955/eef8bbb0c131432bfa83b7e624d43f6e",
-                            "originalWidth": 1200,
-                            "originalHeight": 675,
-                            "caption": "ARM logo",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/XSYS5FU.kYbjbfVVPI96Jg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/eef8bbb0c131432bfa83b7e624d43f6e",
-                                    "width": 1200,
-                                    "height": 675,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mp.5EZHO8ZqbZJztZecUVg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/marketbeat_955/eef8bbb0c131432bfa83b7e624d43f6e",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "MarketBeat",
-                            "url": "https://www.marketbeat.com/",
-                            "sourceId": "marketbeat_955"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.marketbeat.com/instant-alerts/arm-q4-earnings-call-highlights-2026-05-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/arm-q4-earnings-call-highlights-225942093.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-07T06:41:05.288613",
+            "timestamp": "2026-05-07T09:26:26.810866",
             "price": 398.0400085449219,
             "change": 3.790008544921875,
             "open": 394.25,
@@ -2719,94 +2719,32 @@
                     }
                 },
                 {
-                    "id": "96bf52ec-1294-3e50-a5df-50852b480185",
+                    "id": "49c4d33b-c259-3811-a609-10681a91adfe",
                     "content": {
-                        "id": "96bf52ec-1294-3e50-a5df-50852b480185",
+                        "id": "49c4d33b-c259-3811-a609-10681a91adfe",
                         "contentType": "STORY",
-                        "title": "Alphabet (GOOGL): A Must-Buy Stock with the Strongest 1Q2026 Earnings Beats",
+                        "title": "What Happens to Nvidia Stock If the AI Build-Out Slows Down? Here's My Answer.",
                         "description": "",
-                        "summary": "Alphabet Inc. (NASDAQ:GOOGL) is one of the 10 Must-Buy Stocks with the Strongest 1Q2026 Earnings Beats. On April 30, 2026, Roth Capital raised its price target on Alphabet Inc. (NASDAQ:GOOGL) to $435 from $395 and maintained a Buy rating after the company reported a Q1 beat. The firm cited “strong” results with momentum across Search, […]",
-                        "pubDate": "2026-05-07T06:22:23Z",
-                        "displayTime": "2026-05-07T06:22:23Z",
+                        "summary": "Nvidia may surprise investors in such a scenario.",
+                        "pubDate": "2026-05-07T08:54:00Z",
+                        "displayTime": "2026-05-07T08:54:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
-                            "originalWidth": 750,
-                            "originalHeight": 500,
-                            "caption": "Alphabet (GOOGL): A Must-Buy Stock with the Strongest 1Q2026 Earnings Beats",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
+                            "originalWidth": 1400,
+                            "originalHeight": 840,
+                            "caption": "Nvidia corporate office.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/PblMlSwtkhETwCay0St0sg--~B/aD01MDA7dz03NTA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
-                                    "width": 750,
-                                    "height": 500,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zyWIwdJEXcM4GeunUhqQRg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
+                                    "width": 1400,
+                                    "height": 840,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/EshYO1Wg0w4TEWPAN70aWA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/722fa6e1a067b1274b73f466479e4aad",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Insider Monkey",
-                            "url": "http://www.insidermonkey.com",
-                            "sourceId": "insidermonkey.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-must-buy-stock-062223673.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-must-buy-stock-062223673.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "fda4ae4f-67d1-33b5-a3be-4a7ec1ac1434",
-                    "content": {
-                        "id": "fda4ae4f-67d1-33b5-a3be-4a7ec1ac1434",
-                        "contentType": "STORY",
-                        "title": "This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Buy Right Now?",
-                        "description": "",
-                        "summary": "Meta Platforms is trading at a relatively low forward P/E ratio.",
-                        "pubDate": "2026-05-07T05:48:00Z",
-                        "displayTime": "2026-05-07T05:48:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/23685ee86f4d5a1677595a49a93859ad",
-                            "originalWidth": 720,
-                            "originalHeight": 541,
-                            "caption": "TSLA PE Ratio (Forward) Chart",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1o4mKphohUN8gwN85siOiw--~B/aD01NDE7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/23685ee86f4d5a1677595a49a93859ad",
-                                    "width": 720,
-                                    "height": 541,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/4KgEa_mL5x1dR4yc1Q71lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/23685ee86f4d5a1677595a49a93859ad",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/R_6HA7Yr9Bu6vAAOqfxhew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c883a089f7858c165e9b62e7545d24d7",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2819,13 +2757,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/07/this-magnificent-seven-stock-is-the-cheapest-of-th/",
+                            "url": "https://www.fool.com/investing/2026/05/07/what-happens-to-nvidia-stock-if-the-ai-buildout-sl/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stock-cheapest-them-054800584.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/happens-nvidia-stock-ai-build-085400112.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2843,32 +2781,32 @@
                     }
                 },
                 {
-                    "id": "9c72dbfd-e971-36f3-b8d6-01628172fe4f",
+                    "id": "d752d38c-cf4a-3537-8903-4e672a67f69a",
                     "content": {
-                        "id": "9c72dbfd-e971-36f3-b8d6-01628172fe4f",
+                        "id": "d752d38c-cf4a-3537-8903-4e672a67f69a",
                         "contentType": "STORY",
-                        "title": "Kimi Chatbot Maker Moonshot AI Valued at $20 Billion in Meituan-Led Round",
+                        "title": "Market Chatter: Meta Platforms Seeks to Overturn Verdict in Social Media Addiction Case",
                         "description": "",
-                        "summary": "(Bloomberg) -- Moonshot AI has raised about $2 billion in its latest funding round, signaling growing investor appetite for Chinese startups rivaling Silicon Valley’s leaders. Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysDOJ Plans Intervention in Trump Supreme Court Carroll AppealUS Says Offensive Phase of Iran War Over as Ship Hit in StraitSony to Pay Almost $4 Billion for Bieber, Neil Young CatalogUS, Iran Weigh Potential Deal as Trump Seeks Way Out of Wa",
-                        "pubDate": "2026-05-07T03:29:26Z",
-                        "displayTime": "2026-05-07T03:29:26Z",
+                        "summary": "Meta Platforms (META) has asked a Los Angeles judge to throw out a jury verdict that found the compa",
+                        "pubDate": "2026-05-07T08:28:23Z",
+                        "displayTime": "2026-05-07T08:28:23Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": null,
                         "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
+                            "displayName": "MT Newswires",
+                            "url": "https://www.mtnewswires.com/",
+                            "sourceId": "mt_newswires_premium_news_706"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/kimi-chatbot-maker-moonshot-ai-032926690.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-seeks-082823087.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/kimi-chatbot-maker-moonshot-ai-032926690.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-platforms-seeks-082823087.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2878,7 +2816,50 @@
                         },
                         "finance": {
                             "premiumFinance": {
-                                "isPremiumNews": false,
+                                "isPremiumNews": true,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "4912b2cf-9b10-3ede-81bf-a42aaef7cf98",
+                    "content": {
+                        "id": "4912b2cf-9b10-3ede-81bf-a42aaef7cf98",
+                        "contentType": "STORY",
+                        "title": "Update: Market Chatter: Alphabet's Google Proposes Changes to Search News Results Display to Avoid Further EU Fines",
+                        "description": "",
+                        "summary": "(Updates with a response from the European Commission in the fourth paragraph.) Alphabet's (GOOG,",
+                        "pubDate": "2026-05-07T08:14:40Z",
+                        "displayTime": "2026-05-07T08:14:40Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "MT Newswires",
+                            "url": "https://www.mtnewswires.com/",
+                            "sourceId": "mt_newswires_premium_news_706"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-alphabet-apos-google-081440086.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-alphabet-apos-google-081440086.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": true,
                                 "isPremiumFreeNews": false
                             }
                         },
@@ -2889,7 +2870,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-07T06:41:05.551381",
+            "timestamp": "2026-05-07T09:26:27.159488",
             "price": 398.7300109863281,
             "change": 12.480010986328125,
             "open": 386.25,
@@ -3011,6 +2992,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "e21e32e3-7765-392a-89a9-36a74d5f1345",
+                    "content": {
+                        "id": "e21e32e3-7765-392a-89a9-36a74d5f1345",
+                        "contentType": "STORY",
+                        "title": "Is It Too Late To Reassess Tesla (TSLA) After A 40% One Year Run?",
+                        "description": "",
+                        "summary": "Wondering whether Tesla's current US$398.73 share price offers good value, or whether expectations are running ahead of reality? This article breaks down what the numbers actually say. The stock has returned 4.5% over the last 7 days and 15.0% over the last 30 days, while the 1 year return sits at 40.0% and the 3 year and 5 year returns are 131.7% and 109.2% respectively, with a year to date return of a 9.0% decline. Recent headlines around Tesla have focused on ongoing debates about...",
+                        "pubDate": "2026-05-07T08:17:47Z",
+                        "displayTime": "2026-05-07T08:17:47Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/too-reassess-tesla-tsla-40-081747053.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/too-reassess-tesla-tsla-40-081747053.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3144,74 +3187,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "0210c17f-a588-3b2f-bc17-6715f6b8fecf",
-                    "content": {
-                        "id": "0210c17f-a588-3b2f-bc17-6715f6b8fecf",
-                        "contentType": "STORY",
-                        "title": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
-                        "description": "",
-                        "summary": "Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenAI’s board from 2020 to 2023",
-                        "pubDate": "2026-05-06T22:58:58Z",
-                        "displayTime": "2026-05-06T22:58:58Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/the_guardian_765/678236efd7273bee21307e98256d1988",
-                            "originalWidth": 999,
-                            "originalHeight": 664,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/.IqC2xywM5nxNLqDZXkZmg--~B/aD02NjQ7dz05OTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_guardian_765/678236efd7273bee21307e98256d1988",
-                                    "width": 999,
-                                    "height": 664,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/V0aj5049Ee9UjF5k1UEJ_A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_guardian_765/678236efd7273bee21307e98256d1988",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "The Guardian",
-                            "url": "https://www.theguardian.com/international",
-                            "sourceId": "the_guardian_765"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/mother-elon-musk-children-testifies-171357131.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/mother-elon-musk-children-testifies-171357131.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-07T06:41:05.848306",
+            "timestamp": "2026-05-07T09:26:27.679782",
             "price": 207.8300018310547,
             "change": 7.94000244140625,
             "open": 199.88999938964844,
@@ -3704,13 +3685,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-07T06:41:06.099462",
-            "price": 2333.75,
-            "change": -16.9736328125,
+            "timestamp": "2026-05-07T09:26:28.020316",
+            "price": 2332.929931640625,
+            "change": -17.793701171875,
             "open": 2350.7236328125,
             "high": 2350.7236328125,
             "low": 2315.41259765625,
-            "volume": 23511371776,
+            "volume": 23817840640,
             "news": [
                 {
                     "id": "f7a3348f-4fe3-4469-8653-ea52086c416c",
@@ -3826,6 +3807,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "078cbd37-a46d-3dc6-b222-8cba5c4ebbd5",
+                    "content": {
+                        "id": "078cbd37-a46d-3dc6-b222-8cba5c4ebbd5",
+                        "contentType": "STORY",
+                        "title": "BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE",
+                        "description": "",
+                        "summary": "Wall Street giant BNY Mellon (now BNY) will offer crypto asset custody in Abu Dhabi, the UAE, the global financial services company announced on Thursday. It will initially launch Bitcoin and Ethereum crypto custody services, with plans of expanding to stablecoins, tokenized real-world assets, and other regulated digital instruments. Ad Ad BNY Mellon Expands Crypto",
+                        "pubDate": "2026-05-07T08:06:33Z",
+                        "displayTime": "2026-05-07T08:06:33Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "BNY Mellon to Launch Bitcoin and Ethereum Crypto Custody in UAE",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/s4hIKdVwWbYJb7N7GXu17g--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/S46AyB9b8FkBMt2r_QFB5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/e045c56dd5be45ea48013f7cff15197e",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "CoinGape",
+                            "url": "https://coingape.com/",
+                            "sourceId": "coingape_360"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://coingape.com/bny-mellon-to-launch-bitcoin-and-ethereum-crypto-custody-in-uae/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bny-mellon-launch-bitcoin-ethereum-080633939.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3959,49 +4002,6 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "6af4dd2c-73fa-35be-90e5-a81f78c417a3",
-                    "content": {
-                        "id": "6af4dd2c-73fa-35be-90e5-a81f78c417a3",
-                        "contentType": "STORY",
-                        "title": "Top Cryptocurrencies Mixed; Bitcoin Holds Above $81,000 Level",
-                        "description": "",
-                        "summary": "Major digital assets were mixed Wednesday, with Bitcoin (BTC-USD) lower but holding above the $81,00",
-                        "pubDate": "2026-05-06T20:01:16Z",
-                        "displayTime": "2026-05-06T20:01:16Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "MT Newswires",
-                            "url": "https://www.mtnewswires.com/",
-                            "sourceId": "mt_newswires_premium_news_706"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-mixed-bitcoin-holds-200116345.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-mixed-bitcoin-holds-200116345.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": true,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         }
@@ -4010,34 +4010,34 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.436351",
+            "collected_at": "2026-05-07T09:26:28.298717",
+            "title": "Stock market today: Dow, S&P 500 and Nasdaq futures edge up on hopes for US-Iran deal",
+            "summary": "More records are in play amid optimism for a US-Iran peace deal and for AI-fueled earnings growth.",
+            "published": "2026-05-06T23:14:46Z",
+            "provider": "Yahoo Finance"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-07T09:26:28.298731",
+            "title": "Oil Stabilizes in Wake of Selloff",
+            "summary": "Oil prices stabilized in Asian trading, a day after investor optimism about diplomacy between the U.S. and Iran sparked steep declines. Brent crude, the global benchmark, was 0.5% higher at around $102.",
+            "published": "2026-05-07T06:39:10Z",
+            "provider": "The Wall Street Journal"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-07T09:26:28.298733",
             "title": "Dow Jones Futures: Stock Market Hits Highs On Iran-Deal Hopes, Nvidia Leads New Buys; ARM Is Earnings Mover",
             "summary": "The S&P 500 and Nasdaq hit new highs on Iran deal hopes. Nvidia leads new buys with Arm a big earnings mover late.",
             "published": "2026-05-07T03:06:06Z",
             "provider": "Investor's Business Daily"
         },
         {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-07T06:41:06.436361",
-            "title": "Review & Preview: The Road Back to 50K",
-            "summary": "The Dow Jones Industrial Average finally joined the Nasdaq Composite and S&P 500 in exiting correction territory, but it ended the day just short of a major milestone.  The Dow rose 612 points, or 1.2% after briefly crossing the symbolic 50,000 level.  The S&P 500 ended up 1.5% while the Nasdaq jumped 2%.",
-            "published": "2026-05-07T00:05:00Z",
-            "provider": "Barrons.com"
-        },
-        {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-07T06:41:06.436364",
-            "title": "There’s a New Rare-Earth Stock. Here’s What Makes It Stand Out.",
-            "summary": "Investors have a new rare-earth stock to invest in.  On Wednesday, Rare Earths Americas started trading after pricing its initial public offering at $19 a share on Tuesday.  REA is a development-stage mining company run by Donald Swartz, a mining engineer by training.",
-            "published": "2026-05-06T23:52:00Z",
-            "provider": "Barrons.com"
-        },
-        {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.574010",
+            "collected_at": "2026-05-07T09:26:28.433324",
             "title": "McDonald's to report Q1 earnings as value push, viral burger launch may offset consumer softness",
             "summary": "Wall Street is looking for McDonald's promotions to help it offset expected consumer weakness.",
             "published": "2026-05-06T19:01:47Z",
@@ -4046,52 +4046,34 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.574019",
-            "title": "'Sell in May' has been a bad strategy this century: Chart of the Day",
-            "summary": "'Sell in May' used to have a case. Lately, it's mostly had a cost.",
-            "published": "2026-05-06T13:26:51Z",
-            "provider": "Yahoo Finance"
+            "collected_at": "2026-05-07T09:26:28.433336",
+            "title": "The Stock Market Faces Serious Problems in President Trump's Economy. History Says This Could Happen Next.",
+            "summary": "Investors seem to be overlooking serious threats to the U.S. economy related to the Iran war and tariffs.",
+            "published": "2026-05-07T08:44:00Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.574021",
-            "title": "This \"Magnificent Seven\" Stock Is the Cheapest of Them All. Is It a Buy Right Now?",
-            "summary": "Meta Platforms is trading at a relatively low forward P/E ratio.",
-            "published": "2026-05-07T05:48:00Z",
-            "provider": "Motley Fool"
+            "collected_at": "2026-05-07T09:26:28.433338",
+            "title": "Update: Market Chatter: US, Iran Close to Agreement That Could End War, Lead to Broader Deal",
+            "summary": "(Updates with response from the White House in the seventh paragraph.) The US and Iran are close",
+            "published": "2026-05-07T08:33:00Z",
+            "provider": "MT Newswires"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.694865",
+            "collected_at": "2026-05-07T09:26:28.563871",
             "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
             "summary": "Space-related funds are seeing a surge of inflows as investors eagerly await the IPO of Elon Musk's SpaceX (SPAX.PVT). In the latest installment of Yahoo Finance's ETF Report, TMX VettaFi head of research Todd Rosenbluth to talk about the ETFs that could draw in the most investors — like the Procure Space ETF (UFO) — as interest in the broader space economy grows. Rosenbluth goes on to weigh in on prediction market ETFs that are set to launch.",
             "published": "2026-05-06T16:15:00Z",
             "provider": "Yahoo Finance Video"
         },
         {
-            "source_ticker": "^IXIC",
-            "category": "business",
-            "collected_at": "2026-05-07T06:41:06.694873",
-            "title": "Morning Bid: No stopping AI frenzy in Asia",
-            "summary": "A look at the day ahead in European and global markets from Ankur Banerjee Japan's Nikkei returned from holiday and jumped onto the scorching AI rally, joining South Korea and Taiwan equities at",
-            "published": "2026-05-07T04:33:03Z",
-            "provider": "Reuters"
-        },
-        {
-            "source_ticker": "^IXIC",
-            "category": "business",
-            "collected_at": "2026-05-07T06:41:06.694875",
-            "title": "Nikkei 225 Tops 62,000 as Major Japanese Stocks Post Double-Digit Gains",
-            "summary": "Japan's Nikkei 225 tops 62,000 first time as major tech, materials stocks post double-digit gains in broad rally.",
-            "published": "2026-05-07T03:46:03Z",
-            "provider": "BeInCrypto"
-        },
-        {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.817971",
+            "collected_at": "2026-05-07T09:26:28.696009",
             "title": "Gold, silver jump on report that the US and Iran are nearing a peace deal",
             "summary": "Gold prices surge on hopes of US-Iran peace deal.",
             "published": "2026-05-06T11:25:34Z",
@@ -4100,25 +4082,25 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.817980",
-            "title": "Gold Extends Hefty Gain as US-Iran Hopes Ease Inflation Fears",
-            "summary": "(Bloomberg) -- Gold extended gains after its biggest daily advance since late March, as optimism over a potential US-Iran deal pressured oil prices and tempered inflation concerns.Most Read from BloombergUS Has Opened a Passage Through Hormuz, Central Command SaysDOJ Plans Intervention in Trump Supreme Court Carroll AppealUS Says Offensive Phase of Iran War Over as Ship Hit in StraitSony to Pay Almost $4 Billion for Bieber, Neil Young CatalogUS, Iran Weigh Potential Deal as Trump Seeks Way Out o",
-            "published": "2026-05-07T06:09:01Z",
-            "provider": "Bloomberg"
-        },
-        {
-            "source_ticker": "GC=F",
-            "category": "business",
-            "collected_at": "2026-05-07T06:41:06.817984",
-            "title": "Gold Fields Backs Guidance but Cites War-Induced Price Rises",
-            "summary": "Gold Fields  backed its full-year guidance but said that higher oil prices could hurt its ability to meet cost expectations.  The South African gold miner said Thursday that since the conflict in the Middle East started, its diesel costs have increased by between 30% and 70% while liquefied-natural-gas prices are up by around 30%.  Gold Fields said it has initiated cost saving measures but said that oil prices above $100 a barrel would put pressure on its ability to meet cost guidance.",
-            "published": "2026-05-07T05:45:00Z",
-            "provider": "The Wall Street Journal"
+            "collected_at": "2026-05-07T09:26:28.696011",
+            "title": "Arizona Eagle reports results from Eagle project drilling",
+            "summary": "The initial three north-east drill-holes confirmed high-grade mineralisation, extending the strike 50m beyond the 750m range.",
+            "published": "2026-05-07T08:33:44Z",
+            "provider": "Mining Technology"
         },
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-07T06:41:06.954553",
+            "collected_at": "2026-05-07T09:26:28.989900",
+            "title": "US gas prices rise above $4.50 as reports point to US-Iran peace deal",
+            "summary": "While oil prices (CL=F, BZ=F) retreat below $100 per barrel on reports that the US and Iran are close to reaching a peace deal, US gas prices (RB=F) sit at a national average of $4.53. Morning Brief Host Julie Hyman and Yahoo Finance Head of News Myles Udland dissect economist commentary around the trends in gas prices greatly impacting America consumers.",
+            "published": "2026-05-06T14:10:27Z",
+            "provider": "Yahoo Finance Video"
+        },
+        {
+            "source_ticker": "CL=F",
+            "category": "business",
+            "collected_at": "2026-05-07T09:26:28.989902",
             "title": "3 charts explain how the Iran war oil shock could impact the economy",
             "summary": "Deutsche Bank explains the economic impacts of oil shocks in three charts.",
             "published": "2026-05-06T10:56:00Z",
@@ -4129,7 +4111,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.084725",
+            "collected_at": "2026-05-07T09:26:29.117353",
             "title": "71% of Stocks Fail to Beat the Market. Here’s How to Find the 4% That Create Real Wealth",
             "summary": "The math behind long-term stock picking is brutal. 71% of individual stocks fail to match the market return over rolling 10-year periods, and per Hendrik Bessembinder’s research at Arizona State University, only 4% of companies from 1926 to 2018 actually created net wealth relative to T-bills. Everything else, in aggregate, was a wash or worse. ... 71% of Stocks Fail to Beat the Market. Here’s How to Find the 4% That Create Real Wealth",
             "published": "2026-05-06T19:26:59Z",
@@ -4138,7 +4120,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.084735",
+            "collected_at": "2026-05-07T09:26:29.117365",
             "title": "Portfolio Manager Reveals How Selling a 19-Bagger Too Early Changed His Investment Philosophy Forever",
             "summary": "On a recent episode of The Compound and Friends hosted by Josh Brown, former Janus analyst Matt Ancrum told a story about how he’d made the correct call that Fastenal (NASDAQ:FAST) stock would sell off, but by selling the position, the firm missed out on the stock’s eventual 19x move. This was an epiphany moment ... Portfolio Manager Reveals How Selling a 19-Bagger Too Early Changed His Investment Philosophy Forever",
             "published": "2026-05-06T18:15:56Z",
@@ -4147,7 +4129,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.084737",
+            "collected_at": "2026-05-07T09:26:29.117367",
             "title": "CBOE VIX Slides Toward 17 as Oil Retreat and Tech Stock Surge Restore Risk Appetite",
             "summary": "The CBOE Volatility Index (^VIX) is drifting back toward the 17 line as optimism returns to the S&P 500 and capital rotates into stocks. The VIX closed near 18 on Monday after dipping to almost 17 late last week, well below the peak above 31 recorded in late March. In a display of a shifting ... CBOE VIX Slides Toward 17 as Oil Retreat and Tech Stock Surge Restore Risk Appetite",
             "published": "2026-05-06T14:08:56Z",
@@ -4156,7 +4138,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.214368",
+            "collected_at": "2026-05-07T09:26:29.253837",
             "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
             "summary": "Space-related funds are seeing a surge of inflows as investors eagerly await the IPO of Elon Musk's SpaceX (SPAX.PVT). In the latest installment of Yahoo Finance's ETF Report, TMX VettaFi head of research Todd Rosenbluth to talk about the ETFs that could draw in the most investors — like the Procure Space ETF (UFO) — as interest in the broader space economy grows. Rosenbluth goes on to weigh in on prediction market ETFs that are set to launch.",
             "published": "2026-05-06T16:15:00Z",
@@ -4165,7 +4147,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.214376",
+            "collected_at": "2026-05-07T09:26:29.253851",
             "title": "Exchange-Traded Funds Rise as US Equities Climb After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded fund IWM and IVV rose. Actively traded In",
             "published": "2026-05-06T17:13:12Z",
@@ -4174,7 +4156,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.338050",
+            "collected_at": "2026-05-07T09:26:29.378160",
             "title": "If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "summary": "If you opened your brokerage statement this year and noticed your portfolio looked suspiciously like the S&P 500 with a few extra tech names sprinkled in, you are not alone. American investors have spent the last decade being rewarded for ignoring everything outside their own borders, and the muscle memory is hard to break. Vanguard ... If Your Portfolio Is Too American, VXUS Is The Simple Fix",
             "published": "2026-05-05T17:20:48Z",
@@ -4183,7 +4165,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.338057",
+            "collected_at": "2026-05-07T09:26:29.378173",
             "title": "The Cheap Way to Own the Entire U.S. Stock Market Right Now",
             "summary": "You don't have to overthink investing. Keep it simple.",
             "published": "2026-05-04T10:01:00Z",
@@ -4192,7 +4174,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.338060",
+            "collected_at": "2026-05-07T09:26:29.378175",
             "title": "Tech ETFs Dominate as $11.4B Floods Into U.S. Equity Funds",
             "summary": "<p>Here are the daily ETF fund flows for April 30, 2026.</p>",
             "published": "2026-04-30T21:00:04Z",
@@ -4201,7 +4183,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.473804",
+            "collected_at": "2026-05-07T09:26:29.567356",
             "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
             "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
             "published": "2026-05-06T20:35:22Z",
@@ -4210,7 +4192,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.473812",
+            "collected_at": "2026-05-07T09:26:29.567369",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -4219,7 +4201,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.473814",
+            "collected_at": "2026-05-07T09:26:29.567371",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -4228,7 +4210,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.607348",
+            "collected_at": "2026-05-07T09:26:29.704917",
             "title": "State Street’s 2026 Outlook Exposes Why Most Investors Still Underweight Gold After Its 50% Rally",
             "summary": "State Street’s 2026 Global ETF Outlook revisits its prior-year forecasts and flags a finding most investors glossed over: precious metals returned roughly 50% in 2025, and US precious metals ETFs now hold about $310 billion in assets. That is a generational run, and yet typical retail and advisor portfolios still carry low-single-digit gold exposure. Three ... State Street’s 2026 Outlook Exposes Why Most Investors Still Underweight Gold After Its 50% Rally",
             "published": "2026-05-06T21:22:23Z",
@@ -4237,7 +4219,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.607357",
+            "collected_at": "2026-05-07T09:26:29.704929",
             "title": "Gold and Silver Mining ETFs Surge as Precious Metals Rally Accelerates",
             "summary": "<p>Precious metals ETFs surged on Wednesday as gold and silver miners posted outsized gains, driven by a weakening dollar, safe-haven demand, and strong institutional inflows. The <a href=\"https://www.etf.com/GDX\"><strong>VanEck Gold Miners ETF (GDX)</strong></a>, the <a href=\"https://www.etf.com/GDXJ\"><strong>VanEck Junior Gold Miners ETF (GDXJ)</strong></a>, and the <a href=\"https://www.etf.com/SLV\"><strong>iShares Silver Trust (SLV)</strong></a> each logged their largest single-day gains in m",
             "published": "2026-05-06T18:26:02Z",
@@ -4246,7 +4228,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-07T06:41:07.607360",
+            "collected_at": "2026-05-07T09:26:29.704931",
             "title": "Update: Gold Moves Higher as the Dollar and Yields Retreat Following Reports the Iran War May Be Near an End",
             "summary": "(Updates prices.) Gold was higher midafternoon on Wednesday as the U.S. dollar and yields were sh",
             "published": "2026-05-06T18:00:10Z",
@@ -4257,7 +4239,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 13,
+        "total_business_articles": 11,
         "total_investment_articles": 14
     }
 }
