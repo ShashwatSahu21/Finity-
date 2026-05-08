@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-08T15:22:14.821851",
+    "collection_timestamp": "2026-05-08T15:22:24.124394",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-08T15:22:10.376997",
+            "timestamp": "2026-05-08T15:22:20.606918",
             "price": 24176.150390625,
             "change": -57.5,
             "open": 24233.650390625,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-08T15:22:11.547399",
+            "timestamp": "2026-05-08T15:22:20.791843",
             "price": 77328.1875,
             "change": -303.75,
             "open": 77631.9375,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-08T15:22:11.679123",
-            "price": 79860.109375,
-            "change": -155.15625,
+            "timestamp": "2026-05-08T15:22:20.965206",
+            "price": 79887.4765625,
+            "change": -127.7890625,
             "open": 80015.265625,
             "high": 80345.21875,
             "low": 79248.484375,
@@ -716,7 +716,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-08T15:22:11.866816",
+            "timestamp": "2026-05-08T15:22:21.185137",
             "price": 1435.199951171875,
             "change": 9.199951171875,
             "open": 1426.0,
@@ -1038,7 +1038,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-08T15:22:12.025362",
+            "timestamp": "2026-05-08T15:22:21.360179",
             "price": 2394.39990234375,
             "change": -3.60009765625,
             "open": 2398.0,
@@ -1360,7 +1360,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-08T15:22:12.194997",
+            "timestamp": "2026-05-08T15:22:21.536983",
             "price": 780.8499755859375,
             "change": -3.1500244140625,
             "open": 784.0,
@@ -1644,7 +1644,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-08T15:22:12.380893",
+            "timestamp": "2026-05-08T15:22:21.759035",
             "price": 1179.199951171875,
             "change": 18.199951171875,
             "open": 1161.0,
@@ -1909,13 +1909,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-08T15:22:12.611871",
-            "price": 293.3599853515625,
-            "change": 3.25,
+            "timestamp": "2026-05-08T15:22:21.993865",
+            "price": 293.28509521484375,
+            "change": 3.17510986328125,
             "open": 290.1099853515625,
             "high": 294.760009765625,
             "low": 290.0,
-            "volume": 17638421,
+            "volume": 17646963,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2099,6 +2099,68 @@
                     }
                 },
                 {
+                    "id": "e3f5049c-02ee-3aff-b88f-a54bd2d860fb",
+                    "content": {
+                        "id": "e3f5049c-02ee-3aff-b88f-a54bd2d860fb",
+                        "contentType": "STORY",
+                        "title": "Broker lifts Apple price target to $400 as AI strategy takes shape ahead of WWDC",
+                        "description": "",
+                        "summary": "Dan Ives and his team see iOS 27 as the turning point that brings Apple's 2.5 billion users into the AI economy, with services revenue the main prize Wedbush Securities has raised its price target on Apple Inc (NASDAQ:AAPL, XETRA:APC) to $400 from $350, keeping its 'outperform' rating on the...",
+                        "pubDate": "2026-05-08T15:02:00Z",
+                        "displayTime": "2026-05-08T15:02:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/proactive_us_504/be4143b9f4cbbba9670bf295e893b0e2",
+                            "originalWidth": 959,
+                            "originalHeight": 720,
+                            "caption": "Broker lifts Apple price target to $400 as AI strategy takes shape ahead of WWDC",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zPinEET3XKAotFw18ELs9A--~B/aD03MjA7dz05NTk7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/be4143b9f4cbbba9670bf295e893b0e2",
+                                    "width": 959,
+                                    "height": 720,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/q7MFI9YIpc_fFpcPhpClAw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/proactive_us_504/be4143b9f4cbbba9670bf295e893b0e2",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Proactive",
+                            "url": "https://www.proactiveinvestors.com/",
+                            "sourceId": "proactive_us_504"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.proactiveinvestors.com/companies/news/1091979/broker-lifts-apple-price-target-to-400-as-ai-strategy-takes-shape-ahead-of-wwdc-1091979.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/broker-lifts-apple-price-target-150200524.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "33f058fb-c70b-3169-b945-bf352644719e",
                     "content": {
                         "id": "33f058fb-c70b-3169-b945-bf352644719e",
@@ -2221,80 +2283,18 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "8a3d3eb6-9ea4-3834-bb03-e6938132ae07",
-                    "content": {
-                        "id": "8a3d3eb6-9ea4-3834-bb03-e6938132ae07",
-                        "contentType": "STORY",
-                        "title": "Could Apple Be the Biggest Pick-and-Shovel AI Stock?",
-                        "description": "",
-                        "summary": "Apple might benefit from the AI race by selling AI-friendly laptops.",
-                        "pubDate": "2026-05-08T14:20:00Z",
-                        "displayTime": "2026-05-08T14:20:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4f143d4c3b7d81569a09bbd28f3c55a1",
-                            "originalWidth": 1199,
-                            "originalHeight": 800,
-                            "caption": "Group of people gathered around a laptop.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/HaI85H0LMdekJMprj3qWWg--~B/aD04MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4f143d4c3b7d81569a09bbd28f3c55a1",
-                                    "width": 1199,
-                                    "height": 800,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jMoyS5zAKaOHl01Ze.UuOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f143d4c3b7d81569a09bbd28f3c55a1",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/08/could-apple-be-biggest-pick-and-shovel-ai-stock/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/could-apple-biggest-pick-shovel-142000909.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-08T15:22:12.802847",
-            "price": 416.2449951171875,
-            "change": -1.1400146484375,
+            "timestamp": "2026-05-08T15:22:22.196854",
+            "price": 416.2550048828125,
+            "change": -1.1300048828125,
             "open": 417.385009765625,
             "high": 418.6300048828125,
             "low": 414.360107421875,
-            "volume": 10527906,
+            "volume": 10535601,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -2667,13 +2667,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-08T15:22:12.977816",
-            "price": 399.1099853515625,
-            "change": 2.05499267578125,
+            "timestamp": "2026-05-08T15:22:22.450231",
+            "price": 399.135009765625,
+            "change": 2.08001708984375,
             "open": 397.05499267578125,
             "high": 401.3699951171875,
             "low": 396.3599853515625,
-            "volume": 7119388,
+            "volume": 7122095,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -3046,13 +3046,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-08T15:22:13.163941",
-            "price": 428.18359375,
-            "change": 10.75360107421875,
+            "timestamp": "2026-05-08T15:22:22.614845",
+            "price": 428.2650146484375,
+            "change": 10.83502197265625,
             "open": 417.42999267578125,
             "high": 430.70001220703125,
             "low": 416.3900146484375,
-            "volume": 32279114,
+            "volume": 32295014,
             "news": [
                 {
                     "id": "ab11ec64-565b-475f-b285-45fedc423aae",
@@ -3330,13 +3330,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-08T15:22:13.342000",
-            "price": 216.03500366210938,
-            "change": 3.0050048828125,
+            "timestamp": "2026-05-08T15:22:22.776181",
+            "price": 216.01080322265625,
+            "change": 2.980804443359375,
             "open": 213.02999877929688,
             "high": 217.8000030517578,
             "low": 212.88999938964844,
-            "volume": 59757231,
+            "volume": 59787683,
             "news": [
                 {
                     "id": "0848f927-f263-4e61-85c0-e546d5c3e178",
@@ -3766,9 +3766,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-08T15:22:13.484312",
-            "price": 2280.89990234375,
-            "change": -10.078125,
+            "timestamp": "2026-05-08T15:22:22.911416",
+            "price": 2281.219970703125,
+            "change": -9.758056640625,
             "open": 2290.97802734375,
             "high": 2295.347900390625,
             "low": 2268.078857421875,
@@ -4086,7 +4086,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.777983",
+            "collected_at": "2026-05-08T15:22:23.141475",
             "title": "Stock Market Today: Dow Rises On Jobs Data, Iran Optimism; Qualcomm, AMD, Intel Jump (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones index rose Friday on a surprise April jobs report. Coinbase and Cloudflare dived on earnings.",
             "published": "2026-05-08T13:53:29Z",
@@ -4095,7 +4095,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.777998",
+            "collected_at": "2026-05-08T15:22:23.141490",
             "title": "‘More Room to Run’: UBS Suggests 2 Stocks to Buy as the Market Rally Pushes Higher",
             "summary": "What began as a geopolitical shock has, somewhat surprisingly, faded into background noise. After an initial bout of panic surrounding the Iran conflict, Wall Street regained its footing and then kept climbing, with the S&P 500 and Nasdaq returning to record territory while the Dow sits within striking distance of its own highs. Markets appear convinced that, barring another sudden escalation, the broader economic engine remains intact.Claim 55% Off TipRanksUnlock hedge fund-level data and power",
             "published": "2026-05-08T13:41:35Z",
@@ -4104,7 +4104,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.778000",
+            "collected_at": "2026-05-08T15:22:23.141493",
             "title": "Stock Market News for May 8, 2026",
             "summary": "U.S. stocks ended lower on Thursday, with the S&P 500 retreating after hitting an all-time high in the previous session, as oil prices bounced back from their initial lows and uncertainty over U.S.-Iran peace talks weighed on investors' sentiment.",
             "published": "2026-05-08T13:40:00Z",
@@ -4113,7 +4113,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.935783",
+            "collected_at": "2026-05-08T15:22:23.246119",
             "title": "Bumble ditching swipes as online dating slows",
             "summary": "Yahoo Finance's Head of News, Myles Udland, and Julie Hyman discuss Bumble's (BMBL) decision to get rid of swipes as online dating slows.",
             "published": "2026-05-08T13:54:55Z",
@@ -4122,7 +4122,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.935797",
+            "collected_at": "2026-05-08T15:22:23.246137",
             "title": "Jim Cramer on Monarch Casino: “This Thing Deserves Its Incredible Rally”",
             "summary": "Monarch Casino & Resort, Inc. (NASDAQ:MCRI) was one of the stocks on Jim Cramer’s radar as he highlighted AI winners to buy for 2026. Cramer praised the company’s balance sheet, as he remarked: … In the past 12 months, Monarch Casino & Resorts has rallied nearly 50%, trouncing both the S&P 500 and its larger […]",
             "published": "2026-05-08T15:07:18Z",
@@ -4131,7 +4131,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:13.935799",
+            "collected_at": "2026-05-08T15:22:23.246141",
             "title": "Jim Cramer Highlights Acquisition By Waters Corporation Following Quarterly Results",
             "summary": "Waters Corporation (NYSE:WAT) was one of the stocks on Jim Cramer’s radar as he highlighted AI winners to buy for 2026. Cramer explained why the stock rallied, as he said: Can you believe these incredible numbers from Waters Corporation? This is the arms dealer to the life science industry. Recently acquired Becton, Dickinson’s Biosciences and […]",
             "published": "2026-05-08T15:06:52Z",
@@ -4140,7 +4140,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.030709",
+            "collected_at": "2026-05-08T15:22:23.340889",
             "title": "Tech stocks today: The tech-heavy Nasdaq Composite leads market gains, Musk-Altman court battle ends second week",
             "summary": "Tech stocks are in focus amid an earnings bonanza, layoffs, and AI spending plans.",
             "published": "2026-05-04T10:00:00Z",
@@ -4149,7 +4149,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.030723",
+            "collected_at": "2026-05-08T15:22:23.340904",
             "title": "University of Michigan sentiment data raises economic warning signs",
             "summary": "Yahoo Finance's Julie Hyman breaks down the University of Michigan consumer sentiment data and its effect on the economy.",
             "published": "2026-05-08T14:30:27Z",
@@ -4158,7 +4158,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.030726",
+            "collected_at": "2026-05-08T15:22:23.340906",
             "title": "Why Amazon Stock Skyrocketed 27.3% Last Month and Has Kept Climbing in May",
             "summary": "Amazon stock has been on an impressive hot streak lately.",
             "published": "2026-05-08T14:44:16Z",
@@ -4167,7 +4167,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.165581",
+            "collected_at": "2026-05-08T15:22:23.433805",
             "title": "Gold and silver prices today, Friday, May 8: Prices headed for weekly gains following positive jobs report",
             "summary": "Gold opened at $4,682.50 per troy ounce on Friday, and by 6:45 a.m. ET, the price of gold was up to $4,732.60. Silver opened at $78.80 per ounce on Friday, and climbed to $81.12 by 6:45 a.m. ET.",
             "published": "2026-05-08T10:53:32Z",
@@ -4176,7 +4176,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.165597",
+            "collected_at": "2026-05-08T15:22:23.433820",
             "title": "Mortgage and refinance interest rates today, May 8, 2026: Rates following bell-shaped curve this week",
             "summary": "These are today's mortgage and refinance interest rates, Friday, May 8, 2026. The 30-year fixed-rate fell by eight basis points to 6.18%, according to the Zillow lender marketplace. The 15-year fixed loan fell by two basis points to 5.57%, and the 20-year fixed loan backed off by eight basis points to 6.12%.",
             "published": "2026-05-08T10:00:00Z",
@@ -4185,7 +4185,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.165600",
+            "collected_at": "2026-05-08T15:22:23.433822",
             "title": "JPMorgan has a blunt new message for gold investors",
             "summary": "Analysts at JPMorgan Chase, the world's largest bank in terms of market capitalization, said that Bitcoin (BTC) is gaining over gold as the debasement trade after the war between the United States and Iran. The indicator the analysts picked to make the argument is exchange-traded funds (ETFs). ...",
             "published": "2026-05-08T14:30:00Z",
@@ -4194,7 +4194,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.281079",
+            "collected_at": "2026-05-08T15:22:23.572622",
             "title": "Manufacturing investments in US are paying off: Acting Labor Secy.",
             "summary": "The US economy grew by 115,000 non-farm payroll jobs in April, according to the Bureau of Labor Statistics' (BLS) latest report, above economists' forecasts of 65,000. The national unemployment rate held steady at 4.3%. Acting US Secretary of Labor Keith E. Sonderling sits down with Yahoo Finance Senior Reporter Jennifer Schonberger to talk about the fresh labor data, citing \"resiliency\" in job growth amid domestic investments in the US from major companies. Sonderling took on the mantle of Acting Secretary of Labor after Lori Chavez-DeRemer resigned from the Trump Cabinet position on April 20.",
             "published": "2026-05-08T15:06:40Z",
@@ -4203,7 +4203,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.281094",
+            "collected_at": "2026-05-08T15:22:23.572637",
             "title": "Summer airfares set to surge as jet fuel shortage grips market",
             "summary": "A shortage of jet fuel is sending summer airfares higher.",
             "published": "2026-05-07T17:01:44Z",
@@ -4212,7 +4212,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T15:22:14.281096",
+            "collected_at": "2026-05-08T15:22:23.572640",
             "title": "Fed's Hammack looks to hold rates for 'quite some time' amid Iran conflict and uncertainty",
             "summary": "Cleveland Federal Reserve president Beth Hammack added to a growing chorus from central bank officials projecting that interest rates are likely to remain on hold, given the uncertainty about the impact the conflict in Iran is having on both inflation and the job market.",
             "published": "2026-05-07T16:09:57Z",
@@ -4223,7 +4223,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.391768",
+            "collected_at": "2026-05-08T15:22:23.688900",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Employment Data",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.6% and the actively trad",
             "published": "2026-05-08T12:53:03Z",
@@ -4232,7 +4232,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.391783",
+            "collected_at": "2026-05-08T15:22:23.688915",
             "title": "Tesla Just Ripped 19% in a Month. Is It Time to Sell in May and Go Away?",
             "summary": "Tesla (NASDAQ: TSLA) has staged a sharp rebound. Shares closed at $411.81 on May 7, capping a roughly 19% monthly run that has erased much of the spring drawdown. Even so, the stock is down 8.4% year-to-date, which sets up a familiar tactical question for holders heading into summer: is this the moment to invoke ... Tesla Just Ripped 19% in a Month. Is It Time to Sell in May and Go Away?",
             "published": "2026-05-08T12:10:01Z",
@@ -4241,7 +4241,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.391785",
+            "collected_at": "2026-05-08T15:22:23.688917",
             "title": "Stock Funds Shake Off War Shock To Post Best Month Since 2020",
             "summary": "Mutual fund investors who tuned out unsettling war news in April were richly rewarded for staying the course.",
             "published": "2026-05-08T11:00:03Z",
@@ -4250,7 +4250,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.498296",
+            "collected_at": "2026-05-08T15:22:23.792762",
             "title": "VOO vs. QQQ: Which Index Fund Is the Better Buy Right Now?",
             "summary": "The Invesco QQQ ETF is heavily invested in the tech sector. The AI sector is still booming, giving it an advantage.",
             "published": "2026-05-08T10:00:00Z",
@@ -4259,7 +4259,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.498299",
+            "collected_at": "2026-05-08T15:22:23.792764",
             "title": "QQQ vs. IWM: Is Large-Cap Growth or Small-Cap Diversification the Better Choice for Investors?",
             "summary": "From tech-heavy concentration to broad small-cap diversification, these ETFs offer distinct approaches to growth, risk, and income for investors.",
             "published": "2026-05-08T03:22:29Z",
@@ -4268,7 +4268,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.614615",
+            "collected_at": "2026-05-08T15:22:23.881794",
             "title": "iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "summary": "Vanguard Total Stock Market ETF (NYSEARCA:VTI) and iShares Core S&P Total U.S. Stock Market ETF (NYSEARCA:ITOT) both promise the entire investable US equity market in a single ticker. Yet the index each fund tracks, the issuer behind it, and the fee structure differ in ways that matter once you commit real capital. With volatility now ... iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "published": "2026-05-07T21:24:51Z",
@@ -4277,7 +4277,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.614630",
+            "collected_at": "2026-05-08T15:22:23.881809",
             "title": "What Long-Term Investors Should Know Before Buying This Broad Market ETF",
             "summary": "Just because a fund holds hundreds or even thousands of stocks doesn't mean it's diversified.",
             "published": "2026-05-07T16:35:00Z",
@@ -4286,7 +4286,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.614632",
+            "collected_at": "2026-05-08T15:22:23.881811",
             "title": "If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "summary": "State Street’s 2026 Global ETF Outlook calls for $2.1 trillion of US ETF inflows this year, with the lion’s share flowing into three core funds: Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares Core S&P 500 ETF (NYSEARCA:IVV), and Vanguard Total Stock Market ETF (NYSEARCA:VTI). Each charges 3 basis points, each defaults into model portfolios, and each ... If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "published": "2026-05-07T10:00:23Z",
@@ -4295,7 +4295,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.727934",
+            "collected_at": "2026-05-08T15:22:23.977659",
             "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
             "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
             "published": "2026-05-06T20:35:22Z",
@@ -4304,7 +4304,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.727948",
+            "collected_at": "2026-05-08T15:22:23.977673",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -4313,7 +4313,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.727950",
+            "collected_at": "2026-05-08T15:22:23.977676",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -4322,7 +4322,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.821751",
+            "collected_at": "2026-05-08T15:22:24.124296",
             "title": "Jeffrey Gundlach’s Debt Restructure Trade: 2 Stocks and 2 ETFs Built for the Storm",
             "summary": "Jeffrey Gundlach, the DoubleLine Capital CEO known as the “Bond King,” has spent recent months hammering one message across his webcasts, CNBC appearances, and social posts: U.S. federal debt is on an unsustainable trajectory, some form of fiscal reckoning or debt restructuring is a credible tail risk, and the dollar is structurally vulnerable. He has ... Jeffrey Gundlach’s Debt Restructure Trade: 2 Stocks and 2 ETFs Built for the Storm",
             "published": "2026-05-08T11:15:51Z",
@@ -4331,7 +4331,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-08T15:22:14.821754",
+            "collected_at": "2026-05-08T15:22:24.124299",
             "title": "iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "summary": "Gold has done what gold does best in tough macro stretches. With CPI running at 3.7% and the 10-year Treasury at 4.36%, investors are once again debating which physically backed gold ETF to own. SPDR Gold Trust (NYSEARCA:GLD) and iShares Gold Trust (NYSEARCA:IAU) hold essentially the same asset, yet they appeal to different buyers. The ... iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "published": "2026-05-07T21:46:58Z",
