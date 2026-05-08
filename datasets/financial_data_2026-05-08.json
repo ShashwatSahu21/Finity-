@@ -1,11 +1,11 @@
 {
-    "collection_timestamp": "2026-05-08T06:01:23.869660",
+    "collection_timestamp": "2026-05-08T06:01:33.189148",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-08T06:01:20.210745",
-            "price": 24190.900390625,
-            "change": -42.75,
+            "timestamp": "2026-05-08T06:01:29.625929",
+            "price": 24189.80078125,
+            "change": -43.849609375,
             "open": 24233.650390625,
             "high": 24253.80078125,
             "low": 24138.400390625,
@@ -263,9 +263,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-08T06:01:20.392485",
-            "price": 77524.390625,
-            "change": -107.546875,
+            "timestamp": "2026-05-08T06:01:29.773089",
+            "price": 77520.4296875,
+            "change": -111.5078125,
             "open": 77631.9375,
             "high": 77647.4375,
             "low": 77248.6875,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-08T06:01:20.524236",
-            "price": 79624.6171875,
-            "change": -390.6484375,
+            "timestamp": "2026-05-08T06:01:29.904506",
+            "price": 79596.203125,
+            "change": -419.0625,
             "open": 80015.265625,
             "high": 80106.5625,
             "low": 79248.484375,
-            "volume": 36596215808,
+            "volume": 36597317632,
             "news": [
                 {
                     "id": "603eac09-75a7-4c45-a5b0-c6391fcd4494",
@@ -773,13 +773,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-08T06:01:20.733470",
-            "price": 1426.5999755859375,
-            "change": 0.5999755859375,
+            "timestamp": "2026-05-08T06:01:30.096253",
+            "price": 1426.699951171875,
+            "change": 0.699951171875,
             "open": 1426.0,
             "high": 1433.0,
             "low": 1417.5,
-            "volume": 3200067,
+            "volume": 3201550,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1095,13 +1095,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-08T06:01:20.945394",
-            "price": 2377.199951171875,
-            "change": -20.800048828125,
+            "timestamp": "2026-05-08T06:01:30.273229",
+            "price": 2376.5,
+            "change": -21.5,
             "open": 2398.0,
             "high": 2407.0,
             "low": 2375.10009765625,
-            "volume": 1851438,
+            "volume": 1851715,
             "news": [
                 {
                     "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
@@ -1417,13 +1417,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-08T06:01:21.170811",
-            "price": 781.2000122070312,
-            "change": -2.79998779296875,
+            "timestamp": "2026-05-08T06:01:30.499734",
+            "price": 781.1500244140625,
+            "change": -2.8499755859375,
             "open": 784.0,
             "high": 788.75,
             "low": 780.6500244140625,
-            "volume": 13261714,
+            "volume": 13273629,
             "news": [
                 {
                     "id": "63f1b7e9-7ed8-3169-8ed6-70ae91b6cfb2",
@@ -1701,13 +1701,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-08T06:01:21.373189",
-            "price": 1170.0,
-            "change": 9.0,
+            "timestamp": "2026-05-08T06:01:30.726995",
+            "price": 1169.9000244140625,
+            "change": 8.9000244140625,
             "open": 1161.0,
             "high": 1175.0,
             "low": 1158.800048828125,
-            "volume": 2815743,
+            "volume": 2816218,
             "news": [
                 {
                     "id": "a37a40c9-4858-3294-8d6f-5ea716e6b684",
@@ -1966,7 +1966,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-08T06:01:21.593759",
+            "timestamp": "2026-05-08T06:01:30.929427",
             "price": 287.44000244140625,
             "change": -1.829986572265625,
             "open": 289.2699890136719,
@@ -2288,7 +2288,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-08T06:01:21.781120",
+            "timestamp": "2026-05-08T06:01:31.101907",
             "price": 420.7699890136719,
             "change": 0.660003662109375,
             "open": 420.1099853515625,
@@ -2605,7 +2605,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-08T06:01:22.007393",
+            "timestamp": "2026-05-08T06:01:31.245732",
             "price": 397.989990234375,
             "change": -1.930023193359375,
             "open": 399.9200134277344,
@@ -2922,7 +2922,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-08T06:01:22.162775",
+            "timestamp": "2026-05-08T06:01:31.394484",
             "price": 411.7900085449219,
             "change": 4.30999755859375,
             "open": 407.4800109863281,
@@ -3234,7 +3234,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-08T06:01:22.322389",
+            "timestamp": "2026-05-08T06:01:31.558755",
             "price": 211.5,
             "change": 3.160003662109375,
             "open": 208.33999633789062,
@@ -3613,13 +3613,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-08T06:01:22.458594",
-            "price": 2277.983154296875,
-            "change": -12.994873046875,
+            "timestamp": "2026-05-08T06:01:31.774603",
+            "price": 2276.48681640625,
+            "change": -14.4912109375,
             "open": 2290.97802734375,
             "high": 2292.71923828125,
             "low": 2268.078857421875,
-            "volume": 22244110336,
+            "volume": 22233899008,
             "news": [
                 {
                     "id": "6f48197d-1996-432e-b229-1aa2e313f603",
@@ -3938,7 +3938,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.715103",
+            "collected_at": "2026-05-08T06:01:32.152229",
             "title": "Dow Jones Futures: Oil Prices Rise As U.S., Iran Clash; Rocket Lab, Cloudflare, IREN Are Big Earnings Movers Late",
             "summary": "Iran deal doubts hit stocks Thursday, but Nvidia, Tesla were strong. CoreWeave, Rocket Lab, Cloudflare and IREN were earnings movers late. The jobs report is on deck.",
             "published": "2026-05-08T03:03:02Z",
@@ -3947,7 +3947,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.715117",
+            "collected_at": "2026-05-08T06:01:32.152243",
             "title": "Small-Cap Stocks Are Plunging. Are Stalled Iran Negotiations Responsible?",
             "summary": "After gaining more than 3% over the last two sessions, the Russell 2000 lost 1.6%.",
             "published": "2026-05-07T23:20:00Z",
@@ -3956,7 +3956,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.715119",
+            "collected_at": "2026-05-08T06:01:32.152245",
             "title": "Wall Street ends lower as chip stocks give up gains",
             "summary": "<body><p>STORY: U.S. stocks ended lower on Thursday, with the Dow dropping nearly two-thirds of a percent, the S&P 500 shedding more than one-third of a percent and the Nasdaq dipping marginally.</p><p>Uncertainty around peace talks between the U.S. and Iran weighed on the market, with Iran reviewing a proposal that would stop fighting but leave the most contentious issues unresolved.</p><p>Meanwhile, market-leading chip stocks retreated after their recent rally.</p><p>:: Arm Holdings</p><p>&nbsp; &nbsp;Archive</p><p>U.S.-listed shares of Arm Holdings tumbled 10% as worries about the company's ability to secure sufficient supplies for its new AI chip overshadowed a strong earnings forecast.</p><p>Intel and Advanced Micro Devices also declined, giving back some of their gains from earlier this week.</p><p>Keith Buchanan, senior portfolio manager at Globalt Investments, said he'd now like to see a broadening of market gains beyond chip makers and other AI-linked companies.</p><p>\"Leadership has become narrow again. And that's something that concerns us from our framework, is we don't feel like a participation has been what it needs to be to continue to power this bull market forward beyond the point where we are now. So earnings season is really important. We're right in the middle of it right now. So that will give us a little more clarity as to the storylines and, frankly, the momentum that we feel like has to start to spread away from where it's been concentrated over the past week and a half.\"</p><p>:: CoreWeave</p><p>Other stock moves on Thursday included cloud provider CoreWeave, which closed down more than 6% but gained in extended trading after beating analysts' estimates for quarterly revenue. The company reported strong demand for its high-performance computing services used to train and deploy AI models.</p><p>Shares of Datadog soared 31% after the cloud-monitoring company raised its full-year earnings forecast. Cybersecurity companies CrowdStrike jumped 8% and Palo Alto Networks added 7%.</p><p>Elsewhere in the market, shares of Whirlpool slumped nearly 12% after the home-appliance maker missed first-quarter sales estimates and suspended its dividend.</p><p>Investors now turn their attention to Friday's nonfarm payrolls report, which is expected to show continued labor market resilience.</p></body>",
             "published": "2026-05-07T22:26:49Z",
@@ -3965,7 +3965,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.839602",
+            "collected_at": "2026-05-08T06:01:32.366070",
             "title": "Tech-led stealth rally pushes markets to record highs",
             "summary": "U.S. stocks (^DJI,&nbsp;^GSPC,&nbsp;^IXIC)&nbsp;have rallied over the past three weeks, fueled by strong earnings and optimism around a potential resolution to the U.S.-Iran conflict. Yahoo Finance’s Julie Hyman and Head of News Myles Udland break down the stealth rally and spotlight some of the top names leading the tech-driven surge, including Intel (INTC), Sandisk (SNDK), Micron (MU), Seagate (STX), and Arm (ARM).",
             "published": "2026-05-07T14:31:01Z",
@@ -3974,7 +3974,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.839616",
+            "collected_at": "2026-05-08T06:01:32.366084",
             "title": "The stock market's semi-charmed life: Morning Brief",
             "summary": "The stock market has soared to record highs in recent weeks, and one sector has been doing a lot of the work.",
             "published": "2026-05-07T10:00:00Z",
@@ -3983,7 +3983,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.839618",
+            "collected_at": "2026-05-08T06:01:32.366086",
             "title": "RBC lifts S&P 500 year-end target to 7,900 on AI optimism",
             "summary": "RBC Capital Markets raised its year-end target for the S&P 500 to 7,900 from ‌7,750 on Friday, citing resilient earnings growth and ‌continued strength in artificial intelligence‑linked sectors. The Canadian brokerage's new target implies ​a 7.7% upside from the benchmark index's Thursday close of 7,335.66. U.S. equities have rallied to hit record highs in recent weeks as enthusiasm around AI-related investment and expectations of ‌solid profit growth continue ⁠to support investor appetite.",
             "published": "2026-05-08T05:46:19Z",
@@ -3992,7 +3992,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:22.940891",
+            "collected_at": "2026-05-08T06:01:32.466225",
             "title": "Stock Market Today, May 7: Nokia Drops by 6% as Momentum Stalls",
             "summary": "On May 7, 2026, possible profit-taking, a loss of momentum in European stocks, and broader AI valuation concerns weighed on this telecom heavyweight.",
             "published": "2026-05-07T22:55:54Z",
@@ -4001,7 +4001,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.167497",
+            "collected_at": "2026-05-08T06:01:32.567091",
             "title": "A Look At Gold.com (GOLD) Valuation After Strong Q3 Results And New Digital Asset Partnerships",
             "summary": "Gold.com (GOLD) stock is back in focus after the company reported fiscal third quarter results, with revenue of US$10.35b and net income of US$59.49m, alongside fresh digital asset partnerships. See our latest analysis for Gold.com. At a share price of US$43.51, Gold.com has given investors a 25.14% year to date share price return, while the 1 year total shareholder return of 114.36% points to strong momentum despite a 21.35% decline over the last 90 days. If this kind of volatility in...",
             "published": "2026-05-08T05:12:28Z",
@@ -4010,7 +4010,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.167511",
+            "collected_at": "2026-05-08T06:01:32.567105",
             "title": "Himax Technologies Q1 Earnings Call Highlights",
             "summary": "Himax Technologies (NASDAQ:HIMX) reported first-quarter 2026 results that came in above its prior profit outlook despite a typical seasonal slowdown around the Lunar New Year period, as management pointed to improving demand trends into the second quarter alongside continued cost pressures tied to t",
             "published": "2026-05-08T03:07:37Z",
@@ -4019,7 +4019,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.167514",
+            "collected_at": "2026-05-08T06:01:32.567107",
             "title": "Gold on track for weekly gain; markets focus on US-Iran peace deal prospects",
             "summary": "May 8 (Reuters) - Gold edged higher on Friday and was headed for a weekly gain on easing fears of inflation and higher interest rates as investors remained optimistic about a U.S.-Iran peace deal",
             "published": "2026-05-08T01:28:48Z",
@@ -4028,7 +4028,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.294292",
+            "collected_at": "2026-05-08T06:01:32.669091",
             "title": "Car owners don't want to trade down on auto maintenance: Valvoline CEO",
             "summary": "Valvoline's (VVV) engine is roaring as its stock gets a boost on Thursday after the company beat fiscal second quarter earnings estimates. Valvoline CEO Lori Flees sits down with Josh Lipton to talk about the auto maintenance service provider's customer resiliency as it navigates the rising oil prices (CL=F, BZ=F).",
             "published": "2026-05-07T20:30:48Z",
@@ -4037,7 +4037,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.294306",
+            "collected_at": "2026-05-08T06:01:32.669105",
             "title": "Maybe it's not so bad this market rally doesn't feel so euphoric",
             "summary": "While US stocks (^DJI, ^IXIC, ^GSPC) rallied back to new highs in April, the market environment doesn't seem as \"enthusiastic\" or electrifying as those of past record runs. Charles Schwab chief investment strategist Liz Ann Sonders sits down with Julie Hyman to discuss investor sentiment as the market gets back on track from oil price (CL=F, BZ=F) shocks and volatility stemming from the US-Iran war.",
             "published": "2026-05-07T14:56:50Z",
@@ -4046,7 +4046,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-08T06:01:23.294309",
+            "collected_at": "2026-05-08T06:01:32.669108",
             "title": "3 European Dividend Stocks To Consider With Up To 8.5% Yield",
             "summary": "As the European markets navigate a landscape marked by stalled geopolitical negotiations and fluctuating oil prices, the pan-European STOXX Europe 600 Index has remained relatively stable, reflecting cautious investor sentiment. In this environment of economic uncertainty and steady interest rates from central banks, dividend stocks can offer a measure of stability and income potential for investors seeking to balance risk with returns.",
             "published": "2026-05-08T05:31:48Z",
@@ -4057,7 +4057,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.405759",
+            "collected_at": "2026-05-08T06:01:32.779001",
             "title": "Don’t Trust This Top-Heavy Stock Market, Hedge It. Here’s Your Roadmap.",
             "summary": "Our ETF columnist addresses the knowledge gap in bonds and explains how equity-loving investors can build a bond ladder for safety.",
             "published": "2026-05-07T21:15:39Z",
@@ -4066,7 +4066,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.405773",
+            "collected_at": "2026-05-08T06:01:32.779015",
             "title": "How Lower ETF Fees Are Saving 401(k) Investors Thousands",
             "summary": "Wall Street's intensifying ETF fee war may be delivering an unexpected benefit to millions of retirement savers: potentially larger 401(k) balances over time. • Vanguard S&P 500 ETF stock is trading at elevated levels. What should traders watch with VOO? Fund fees continued to be cut as asset managers battle for investor flows in the rapidly expanding ETF industry. For example, a fee battle cost State Street SPDR S&P 500 ETF Trust (NYSE:SPY) billions of inflows last year as Vanguard S&P 500 ETF",
             "published": "2026-05-07T18:09:06Z",
@@ -4075,7 +4075,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.405775",
+            "collected_at": "2026-05-08T06:01:32.779017",
             "title": "Tired of Tracking the S&P 500? These 3 Managed Futures ETFs Offer a Different Path",
             "summary": "Managed futures funds spent most of the past decade as a footnote in portfolio construction conversations. They came back into the spotlight in 2022 when stocks and bonds fell together, and the conversation never really faded. The three funds covered here, the Simplify Managed Futures Strategy ETF (NYSEARCA:CTA), the iMGP DBi Managed Futures Strategy ETF ... Tired of Tracking the S&P 500? These 3 Managed Futures ETFs Offer a Different Path",
             "published": "2026-05-07T17:45:18Z",
@@ -4084,7 +4084,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.518866",
+            "collected_at": "2026-05-08T06:01:32.878272",
             "title": "QQQ vs. IWM: Is Large-Cap Growth or Small-Cap Diversification the Better Choice for Investors?",
             "summary": "From tech-heavy concentration to broad small-cap diversification, these ETFs offer distinct approaches to growth, risk, and income for investors.",
             "published": "2026-05-08T03:22:29Z",
@@ -4093,7 +4093,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.518880",
+            "collected_at": "2026-05-08T06:01:32.878286",
             "title": "Why Invesco NASDAQ 100 ETF’s Lower Fee Quietly Outperforms Invesco QQQ Trust for Buy-and-Hold Investors",
             "summary": "Invesco QQQ Trust (NASDAQ:QQQ) and Invesco NASDAQ 100 ETF (NASDAQ:QQQM) track the same Nasdaq-100 index, yet they serve different investor wallets. With QQQ closing at $694.94 and QQQM at $286.12 on May 7, 2026, the real question is which wrapper fits how you actually invest. Same Index, Two Different Asset Bases QQQ is the heavyweight. ... Why Invesco NASDAQ 100 ETF’s Lower Fee Quietly Outperforms Invesco QQQ Trust for Buy-and-Hold Investors",
             "published": "2026-05-07T21:48:03Z",
@@ -4102,7 +4102,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.518882",
+            "collected_at": "2026-05-08T06:01:32.878288",
             "title": "Exchange-Traded Funds Fall as US Equities Drop Midday on Labor Data, Iran Tumult",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded I",
             "published": "2026-05-07T17:14:07Z",
@@ -4111,7 +4111,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.639843",
+            "collected_at": "2026-05-08T06:01:32.977893",
             "title": "iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "summary": "Vanguard Total Stock Market ETF (NYSEARCA:VTI) and iShares Core S&P Total U.S. Stock Market ETF (NYSEARCA:ITOT) both promise the entire investable US equity market in a single ticker. Yet the index each fund tracks, the issuer behind it, and the fee structure differ in ways that matter once you commit real capital. With volatility now ... iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "published": "2026-05-07T21:24:51Z",
@@ -4120,7 +4120,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.639856",
+            "collected_at": "2026-05-08T06:01:32.977907",
             "title": "What Long-Term Investors Should Know Before Buying This Broad Market ETF",
             "summary": "Just because a fund holds hundreds or even thousands of stocks doesn't mean it's diversified.",
             "published": "2026-05-07T16:35:00Z",
@@ -4129,7 +4129,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.639858",
+            "collected_at": "2026-05-08T06:01:32.977910",
             "title": "If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "summary": "State Street’s 2026 Global ETF Outlook calls for $2.1 trillion of US ETF inflows this year, with the lion’s share flowing into three core funds: Vanguard S&P 500 ETF (NYSEARCA:VOO), iShares Core S&P 500 ETF (NYSEARCA:IVV), and Vanguard Total Stock Market ETF (NYSEARCA:VTI). Each charges 3 basis points, each defaults into model portfolios, and each ... If the 10-Year Treasury Crosses 4.6%, Here’s What Happens to VOO and IVV",
             "published": "2026-05-07T10:00:23Z",
@@ -4138,7 +4138,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.750719",
+            "collected_at": "2026-05-08T06:01:33.091516",
             "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
             "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
             "published": "2026-05-06T20:35:22Z",
@@ -4147,7 +4147,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.750733",
+            "collected_at": "2026-05-08T06:01:33.091531",
             "title": "Cathie Wood Remains Convinced on CoreWeave After 78% YTD Rally in CRWV Stock",
             "summary": "Wood invested and divested CoreWeave, as the stock is up 78.65% this year.",
             "published": "2026-05-05T18:53:45Z",
@@ -4156,7 +4156,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.750735",
+            "collected_at": "2026-05-08T06:01:33.091548",
             "title": "Intellia Therapeutics Stock Is Down Nearly 95% From Its Record Highs but Cathie Wood Keeps Buying",
             "summary": "Despite Intellia's severe stock drop from its 2021 peak, Cathie Wood is buying big.",
             "published": "2026-05-05T18:05:20Z",
@@ -4165,7 +4165,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.869524",
+            "collected_at": "2026-05-08T06:01:33.189034",
             "title": "iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "summary": "Gold has done what gold does best in tough macro stretches. With CPI running at 3.7% and the 10-year Treasury at 4.36%, investors are once again debating which physically backed gold ETF to own. SPDR Gold Trust (NYSEARCA:GLD) and iShares Gold Trust (NYSEARCA:IAU) hold essentially the same asset, yet they appeal to different buyers. The ... iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "published": "2026-05-07T21:46:58Z",
@@ -4174,7 +4174,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.869561",
+            "collected_at": "2026-05-08T06:01:33.189049",
             "title": "Gold Surges Past $4,770 as Geopolitical Optimism Cools Inflation Fears",
             "summary": "Gold is shining, with the PHLX Gold/Silver Sector (^XAU) jumping roughly 4% as spot gold climbed 1.5% and silver ripped 6.5% higher. New York gold futures pushed above $4,750 an ounce, gaining roughly 1.6% to $4,771, as a sliding dollar, falling Treasury yields, and renewed optimism around U.S.-Iran peace talks reignited bullion demand. The PHLX ... Gold Surges Past $4,770 as Geopolitical Optimism Cools Inflation Fears",
             "published": "2026-05-07T15:05:22Z",
@@ -4183,7 +4183,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-08T06:01:23.869563",
+            "collected_at": "2026-05-08T06:01:33.189051",
             "title": "Gold Rises Again on Prospects the Iran War is Nearing an End",
             "summary": "Gold rose for a third-straight session early Thursday on optimism a deal to end the war on Iran may",
             "published": "2026-05-07T13:15:30Z",
