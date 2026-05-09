@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-09T08:25:23.176649",
+    "collection_timestamp": "2026-05-09T11:13:39.590847",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-09T08:25:19.892617",
+            "timestamp": "2026-05-09T11:13:33.910603",
             "price": 24176.150390625,
             "change": -57.5,
             "open": 24233.650390625,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-09T08:25:20.050112",
+            "timestamp": "2026-05-09T11:13:34.306978",
             "price": 77328.1875,
             "change": -303.75,
             "open": 77631.9375,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-09T08:25:20.201431",
-            "price": 80373.4609375,
-            "change": 189.1328125,
+            "timestamp": "2026-05-09T11:13:34.657493",
+            "price": 80315.828125,
+            "change": 131.5,
             "open": 80184.328125,
             "high": 80601.96875,
             "low": 80126.171875,
-            "volume": 29093419008,
+            "volume": 26921574400,
             "news": [
                 {
                     "id": "11afa88f-84b9-4631-adf1-c6c188e7e052",
@@ -516,6 +516,49 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "480b547c-a6a9-3dff-90ef-433f48404bf3",
+                    "content": {
+                        "id": "480b547c-a6a9-3dff-90ef-433f48404bf3",
+                        "contentType": "STORY",
+                        "title": "Bitcoin surges past $80,000 as institutional adoption signals global finance shift",
+                        "description": "",
+                        "summary": "Investing.com -- Bitcoin has reached a historic milestone this week, surging past the $80,000 threshold as a wave of institutional adoption and favorable regulatory momentum continues to reshape the digital asset landscape.",
+                        "pubDate": "2026-05-09T08:20:38Z",
+                        "displayTime": "2026-05-09T08:20:38Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "Investing.com",
+                            "url": "https://www.investing.com/",
+                            "sourceId": "investing_com_631"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-082038767.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-082038767.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -649,74 +692,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "1d1e45c9-4952-3605-8ae7-d25ba7ef1a15",
-                    "content": {
-                        "id": "1d1e45c9-4952-3605-8ae7-d25ba7ef1a15",
-                        "contentType": "STORY",
-                        "title": "Crypto and Equity Markdowns Drive Trump Media’s $406 Million Q1 Loss",
-                        "description": "",
-                        "summary": "Trump Media's $406 million loss in Q1 2026 came mostly from non-cash losses while operating cash stayed positive",
-                        "pubDate": "2026-05-09T06:06:11Z",
-                        "displayTime": "2026-05-09T06:06:11Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/8de32719f6737452e2fc54e46da75f80",
-                            "originalWidth": 1280,
-                            "originalHeight": 720,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ZDy.LhfzEdDhtk9.2lrMQA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/8de32719f6737452e2fc54e46da75f80",
-                                    "width": 1280,
-                                    "height": 720,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/JRYQn6zcZPVjL2C9ddhiuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/8de32719f6737452e2fc54e46da75f80",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://beincrypto.com/trump-media-q1-loss-crypto-writedowns/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-equity-markdowns-drive-trump-060611319.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-09T08:25:20.476233",
+            "timestamp": "2026-05-09T11:13:35.053117",
             "price": 1435.199951171875,
             "change": 9.199951171875,
             "open": 1426.0,
@@ -1038,7 +1019,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-09T08:25:20.651651",
+            "timestamp": "2026-05-09T11:13:35.403303",
             "price": 2394.39990234375,
             "change": -3.60009765625,
             "open": 2398.0,
@@ -1360,7 +1341,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-09T08:25:20.874202",
+            "timestamp": "2026-05-09T11:13:35.818999",
             "price": 780.8499755859375,
             "change": -3.1500244140625,
             "open": 784.0,
@@ -1644,7 +1625,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-09T08:25:21.190294",
+            "timestamp": "2026-05-09T11:13:36.185905",
             "price": 1179.199951171875,
             "change": 18.199951171875,
             "open": 1161.0,
@@ -1909,7 +1890,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-09T08:25:21.371167",
+            "timestamp": "2026-05-09T11:13:36.572924",
             "price": 293.32000732421875,
             "change": 3.30999755859375,
             "open": 290.010009765625,
@@ -1969,6 +1950,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "90918ec8-da97-3ad4-9fd5-ddfc2a796ce0",
+                    "content": {
+                        "id": "90918ec8-da97-3ad4-9fd5-ddfc2a796ce0",
+                        "contentType": "STORY",
+                        "title": "MP Materials Apple Deal Recasts Rare Earth Miner As Integrated Magnet Supplier",
+                        "description": "",
+                        "summary": "MP Materials (NYSE:MP) has formalized a $500 million partnership with Apple to expand rare earth magnet manufacturing and recycling in California. The agreement positions MP Materials as a core supplier of rare earth magnets for Apple products within the United States. The partnership strengthens domestic capacity in critical minerals and supports efforts to reduce reliance on overseas supply chains. For you as an investor, this development places MP Materials at the center of a key part of...",
+                        "pubDate": "2026-05-09T10:13:20Z",
+                        "displayTime": "2026-05-09T10:13:20Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/7a92075e7c274cfc915511d1e9d413e3",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hHa1.rnFIozE8uk1FxFmIg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/7a92075e7c274cfc915511d1e9d413e3",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/IkkO1otk9b9Wkm7Q7OUirg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/7a92075e7c274cfc915511d1e9d413e3",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-apple-deal-recasts-101320986.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-apple-deal-recasts-101320986.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -2145,69 +2188,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "43e846fc-d46c-369d-9e19-8d3e1dfaa28f",
-                    "content": {
-                        "id": "43e846fc-d46c-369d-9e19-8d3e1dfaa28f",
-                        "contentType": "STORY",
-                        "title": "Dow Jones Futures: Market At Highs With Iran, Trump-Xi Summit In Focus; Apple, Nvidia, Boeing In Buy Areas",
-                        "description": "",
-                        "summary": "Dow Jones futures: The stock market hit fresh highs this past week with U.S.-Iran news and the Trump-Xi summit in focus. Apple, Nvidia, Boeing are in buy areas.",
-                        "pubDate": "2026-05-08T22:58:57Z",
-                        "displayTime": "2026-05-08T22:58:57Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/43e846fc-d46c-369d-9e19-8d3e1dfaa28f/dow-jones-futures-market-at.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ibd.com/a167c97aa82f5de9c13da93656175447",
-                            "originalWidth": 1000,
-                            "originalHeight": 563,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/KJdmgPigW8A4ZaM2xcR5zQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/a167c97aa82f5de9c13da93656175447",
-                                    "width": 1000,
-                                    "height": 563,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Brzg5wjBlZdBG_A8VidgMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/a167c97aa82f5de9c13da93656175447",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Investor's Business Daily",
-                            "url": "http://www.investors.com/",
-                            "sourceId": "ibd.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-trump-xi-summit-apple-nvidia-boeing/?src=A00220&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-09T08:25:21.579795",
+            "timestamp": "2026-05-09T11:13:36.884024",
             "price": 415.1199951171875,
             "change": -2.27001953125,
             "open": 417.3900146484375,
@@ -2274,64 +2260,193 @@
                                 "isPremiumFreeNews": false
                             }
                         },
-                        "storyline": {
-                            "storylineItems": [
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "6920e101-3ec1-466f-a251-7be2ee1a944a",
+                    "content": {
+                        "id": "6920e101-3ec1-466f-a251-7be2ee1a944a",
+                        "contentType": "STORY",
+                        "title": "Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month",
+                        "description": "",
+                        "summary": "Nvidia shares look cheap, no?",
+                        "pubDate": "2026-05-08T11:48:22Z",
+                        "displayTime": "2026-05-08T11:48:22Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/hQ_cWuJI07QNYlwnS9peiQ--~B/aD0yNTkwO3c9Mzg4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/20a587c5-c6ca-48d5-a7b6-33673ae8f6b8",
+                            "originalWidth": 3884,
+                            "originalHeight": 2590,
+                            "caption": "",
+                            "resolutions": [
                                 {
-                                    "content": {
-                                        "id": "6920e101-3ec1-466f-a251-7be2ee1a944a",
-                                        "contentType": "STORY",
-                                        "isHosted": true,
-                                        "title": "Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/hQ_cWuJI07QNYlwnS9peiQ--~B/aD0yNTkwO3c9Mzg4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/20a587c5-c6ca-48d5-a7b6-33673ae8f6b8",
-                                            "originalWidth": 3884,
-                                            "originalHeight": 2590,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance",
-                                            "sourceId": "yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/sectors/technology/article/why-nvidia-stock-looks-cheap-ahead-of-its-high-stakes-earnings-report-this-month-114822826.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/sectors/technology/article/why-nvidia-stock-looks-cheap-ahead-of-its-high-stakes-earnings-report-this-month-114822826.html"
-                                        }
-                                    }
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hQ_cWuJI07QNYlwnS9peiQ--~B/aD0yNTkwO3c9Mzg4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/20a587c5-c6ca-48d5-a7b6-33673ae8f6b8",
+                                    "width": 3884,
+                                    "height": 2590,
+                                    "tag": "original"
                                 },
                                 {
-                                    "content": {
-                                        "id": "8b976516-ccbb-4eea-8310-c6b25c2ceb6a",
-                                        "contentType": "STORY",
-                                        "isHosted": true,
-                                        "title": "The AI arms race is eating into Big Tech's cash flow: Chart of the Day",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ukJtMPst.JrHjTFmCVJvpg--~B/aD0yNjM4O3c9Mzk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-                                            "originalWidth": 3957,
-                                            "originalHeight": 2638,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance",
-                                            "sourceId": "yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html"
-                                        }
-                                    }
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/EVrFLxGX7OahRdMz5mDdxw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/20a587c5-c6ca-48d5-a7b6-33673ae8f6b8",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
                                 }
                             ]
-                        }
+                        },
+                        "provider": {
+                            "displayName": "Yahoo Finance",
+                            "url": "http://finance.yahoo.com/",
+                            "sourceId": "yahoofinance.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/article/why-nvidia-stock-looks-cheap-ahead-of-its-high-stakes-earnings-report-this-month-114822826.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/article/why-nvidia-stock-looks-cheap-ahead-of-its-high-stakes-earnings-report-this-month-114822826.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
+                    "content": {
+                        "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
+                        "contentType": "STORY",
+                        "title": "Missed April's AI Rally? These 3 Stocks Still Look Like Bargains.",
+                        "description": "",
+                        "summary": "Several megacaps are still well below their all-time highs.",
+                        "pubDate": "2026-05-09T10:37:00Z",
+                        "displayTime": "2026-05-09T10:37:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "Investor looking at stock quotes.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/1CFNcpgXL5S7zqM78h0Qsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hrDpM7JiNiDfm5X5fXWH2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/09/missed-aprils-ai-rally-these-3-stocks-still-look-l/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/missed-aprils-ai-rally-3-103700691.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "804b1bee-42c0-3821-b492-64904be15378",
+                    "content": {
+                        "id": "804b1bee-42c0-3821-b492-64904be15378",
+                        "contentType": "STORY",
+                        "title": "Alphabet, Microsoft, Amazon, and Meta Platforms Just Reported Earnings. Which Is the Best Buy?",
+                        "description": "",
+                        "summary": "The AI hyperscalers are all delivering solid results.",
+                        "pubDate": "2026-05-09T10:05:00Z",
+                        "displayTime": "2026-05-09T10:05:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
+                            "originalWidth": 720,
+                            "originalHeight": 490,
+                            "caption": "META Revenue (Quarterly YoY Growth) Chart",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/H.hv8gvk8uAK0w1ukzfO1A--~B/aD00OTA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
+                                    "width": 720,
+                                    "height": 490,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/G5BdGvMhT6ZxW2pCv9BpPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/09/alphabet-microsoft-amazon-and-meta-platforms-just/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-amazon-meta-platforms-100500050.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
                     }
                 },
                 {
@@ -2395,174 +2510,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "a43208ad-9ce7-327e-b128-05223b8d9549",
-                    "content": {
-                        "id": "a43208ad-9ce7-327e-b128-05223b8d9549",
-                        "contentType": "STORY",
-                        "title": "Thailand's SiamAI denies exporting US AI servers to China",
-                        "description": "",
-                        "summary": "Bangkok-based SiamAI said on Saturday it had ‌not exported AI servers to ‌China and that it complies with U.S. ​export and re-export control laws.  • The firm has faced allegations of ‌circumventing exports of ⁠advanced chips from U.S. firms Super Micro Computer and ⁠Nvidia to China.  • \"SiamAI has not engaged in the export of AI ​servers to ​China,\" it said ​in a statement.",
-                        "pubDate": "2026-05-09T05:43:52Z",
-                        "displayTime": "2026-05-09T05:43:52Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "Reuters",
-                            "url": "http://www.reuters.com/",
-                            "sourceId": "reuters-finance.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/thailands-siamai-denies-exporting-us-054352657.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/thailands-siamai-denies-exporting-us-054352657.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "65662845-686e-3d42-8b28-79ad319193f6",
-                    "content": {
-                        "id": "65662845-686e-3d42-8b28-79ad319193f6",
-                        "contentType": "STORY",
-                        "title": "ServiceNow Aims To Be Enterprise AI Control Plane After Knowledge 2026",
-                        "description": "",
-                        "summary": "ServiceNow (NYSE:NOW) used its Knowledge 2026 conference to roll out Project Arc with NVIDIA, targeting secure autonomous AI agents across enterprise workflows. The company expanded its AI Control Tower for stronger AI governance and introduced ServiceNow Otto, a conversational AI spanning the full platform. New partnerships with Lenovo, Microsoft, FedEx and others focus on unified AI workflow automation, device lifecycle, regulated data and supply chain use cases. Following the Armis and...",
-                        "pubDate": "2026-05-08T21:29:02Z",
-                        "displayTime": "2026-05-08T21:29:02Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/18025f19ad65d7f61b1ca86255ab2076",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/gzsre93CkAVm1vppXuD8zw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/18025f19ad65d7f61b1ca86255ab2076",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/CV_T_lw9JoXYBUju.4TeMg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/18025f19ad65d7f61b1ca86255ab2076",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-aims-enterprise-ai-control-212902004.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-aims-enterprise-ai-control-212902004.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "cd265c61-fe54-3c83-b94a-ab6de8481b4a",
-                    "content": {
-                        "id": "cd265c61-fe54-3c83-b94a-ab6de8481b4a",
-                        "contentType": "STORY",
-                        "title": "Why Memory-Chip Stocks Are Top Of Mind For Investors",
-                        "description": "",
-                        "summary": "Memory-chip stocks rallied on Friday amid heightened spending on AI data centers. Micron stock and Sandisk both hit record highs.",
-                        "pubDate": "2026-05-08T20:12:23Z",
-                        "displayTime": "2026-05-08T20:12:23Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/cd265c61-fe54-3c83-b94a-ab6de8481b4a/why-memory-chip-stocks-are.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-                            "originalWidth": 1000,
-                            "originalHeight": 563,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/eU3eUjLoxQFsZgGEDhMIfw--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-                                    "width": 1000,
-                                    "height": 563,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/zs.Her6TURqCWflFxVEyww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/236fda4d766ab4c7964ae0b3533cfb66",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Investor's Business Daily",
-                            "url": "http://www.investors.com/",
-                            "sourceId": "ibd.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.investors.com/news/technology/micron-stock-memory-chip-stocks-top-of-mind/?src=A00220&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-09T08:25:21.717044",
+            "timestamp": "2026-05-09T11:13:37.177168",
             "price": 400.79998779296875,
             "change": 3.79998779296875,
             "open": 397.0,
@@ -2633,32 +2586,32 @@
                     }
                 },
                 {
-                    "id": "8b976516-ccbb-4eea-8310-c6b25c2ceb6a",
+                    "id": "804b1bee-42c0-3821-b492-64904be15378",
                     "content": {
-                        "id": "8b976516-ccbb-4eea-8310-c6b25c2ceb6a",
+                        "id": "804b1bee-42c0-3821-b492-64904be15378",
                         "contentType": "STORY",
-                        "title": "The AI arms race is eating into Big Tech's cash flow: Chart of the Day",
+                        "title": "Alphabet, Microsoft, Amazon, and Meta Platforms Just Reported Earnings. Which Is the Best Buy?",
                         "description": "",
-                        "summary": "The AI boom has made Big Tech richer, bigger, and suddenly much hungrier for cash.",
-                        "pubDate": "2026-05-08T10:00:00Z",
-                        "displayTime": "2026-05-08T10:00:00Z",
+                        "summary": "The AI hyperscalers are all delivering solid results.",
+                        "pubDate": "2026-05-09T10:05:00Z",
+                        "displayTime": "2026-05-09T10:05:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/ukJtMPst.JrHjTFmCVJvpg--~B/aD0yNjM4O3c9Mzk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-                            "originalWidth": 3957,
-                            "originalHeight": 2638,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
+                            "originalWidth": 720,
+                            "originalHeight": 490,
+                            "caption": "META Revenue (Quarterly YoY Growth) Chart",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ukJtMPst.JrHjTFmCVJvpg--~B/aD0yNjM4O3c9Mzk1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
-                                    "width": 3957,
-                                    "height": 2638,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/H.hv8gvk8uAK0w1ukzfO1A--~B/aD00OTA7dz03MjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
+                                    "width": 720,
+                                    "height": 490,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/GypVFZeXNg3ZwIfxjgNVrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/6f163570-863c-491f-9fb9-035b439f55c4",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/G5BdGvMhT6ZxW2pCv9BpPQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eb6911bb4eb0caf63cd0d74a7c67cfef",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2666,24 +2619,86 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Yahoo Finance",
-                            "url": "http://finance.yahoo.com/",
-                            "sourceId": "yahoofinance.com"
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html",
+                            "url": "https://www.fool.com/investing/2026/05/09/alphabet-microsoft-amazon-and-meta-platforms-just/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/article/the-ai-arms-race-is-eating-into-big-techs-cash-flow-chart-of-the-day-100000590.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-microsoft-amazon-meta-platforms-100500050.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "metadata": {
-                            "editorsPick": true
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "c7488679-dfe5-3cb4-9317-9dc435fb9822",
+                    "content": {
+                        "id": "c7488679-dfe5-3cb4-9317-9dc435fb9822",
+                        "contentType": "STORY",
+                        "title": "This Trillion-Dollar Behemoth Is a Backdoor Way to Invest in SpaceX. But It's an Even Better Investment by Itself.",
+                        "description": "",
+                        "summary": "Alphabet owns a significant chunk of SpaceX.",
+                        "pubDate": "2026-05-09T08:50:00Z",
+                        "displayTime": "2026-05-09T08:50:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/628ffaa6c84f0a6510f5ab59259d48d1",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "Investor looking at phone in shock.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hm7S3LogmUfs4QspVX7yTw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/628ffaa6c84f0a6510f5ab59259d48d1",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/HsNDSdF1LjvEIUs.yje3LQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/628ffaa6c84f0a6510f5ab59259d48d1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/09/the-trillion-dollar-behemoth-is-a-backdoor-way-to/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/trillion-dollar-behemoth-backdoor-way-085000972.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -2798,55 +2813,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "a43208ad-9ce7-327e-b128-05223b8d9549",
-                    "content": {
-                        "id": "a43208ad-9ce7-327e-b128-05223b8d9549",
-                        "contentType": "STORY",
-                        "title": "Thailand's SiamAI denies exporting US AI servers to China",
-                        "description": "",
-                        "summary": "Bangkok-based SiamAI said on Saturday it had ‌not exported AI servers to ‌China and that it complies with U.S. ​export and re-export control laws.  • The firm has faced allegations of ‌circumventing exports of ⁠advanced chips from U.S. firms Super Micro Computer and ⁠Nvidia to China.  • \"SiamAI has not engaged in the export of AI ​servers to ​China,\" it said ​in a statement.",
-                        "pubDate": "2026-05-09T05:43:52Z",
-                        "displayTime": "2026-05-09T05:43:52Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "Reuters",
-                            "url": "http://www.reuters.com/",
-                            "sourceId": "reuters-finance.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/thailands-siamai-denies-exporting-us-054352657.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/thailands-siamai-denies-exporting-us-054352657.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-09T08:25:21.855855",
+            "timestamp": "2026-05-09T11:13:37.440240",
             "price": 428.3500061035156,
             "change": 11.8699951171875,
             "open": 416.4800109863281,
@@ -2917,6 +2889,192 @@
                     }
                 },
                 {
+                    "id": "6ca11fe6-255e-3767-a32d-c66264cf8faa",
+                    "content": {
+                        "id": "6ca11fe6-255e-3767-a32d-c66264cf8faa",
+                        "contentType": "STORY",
+                        "title": "Is Tesla (TSLA) the Best Quality Stock to Buy and Hold for the Next 5 Years?",
+                        "description": "",
+                        "summary": "Tesla, Inc. (NASDAQ:TSLA) is one of the 10 Best Quality Stocks to Buy and Hold for the Next 5 Years. On May 6, 2026, Tesla, Inc. (NASDAQ:TSLA) recalled 218,868 vehicles in the United States due to delayed rearview camera images that could increase crash risk, according to the National Highway Traffic Safety Administration. The agency […]",
+                        "pubDate": "2026-05-09T10:14:02Z",
+                        "displayTime": "2026-05-09T10:14:02Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+                            "originalWidth": 640,
+                            "originalHeight": 360,
+                            "caption": "Is Tesla (TSLA) the Best Quality Stock to Buy and Hold for the Next 5 Years?",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/NwqS.bopmXkJ_sc.EVdbpg--~B/aD0zNjA7dz02NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+                                    "width": 640,
+                                    "height": 360,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WP96uTMS.DNvnsfEGoMgVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/72eda7f3c62f60edefa26778ee6e8a88",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-best-quality-stock-101402026.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-best-quality-stock-101402026.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "23af4fdb-4a46-3f3a-8c29-784462c5441e",
+                    "content": {
+                        "id": "23af4fdb-4a46-3f3a-8c29-784462c5441e",
+                        "contentType": "STORY",
+                        "title": "3 Monster Stocks to Hold for the Next 10 Years",
+                        "description": "",
+                        "summary": "These stocks are all chasing trillion-dollar opportunities.",
+                        "pubDate": "2026-05-09T09:20:00Z",
+                        "displayTime": "2026-05-09T09:20:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8c7eed82930ff4fc42c343f34f177301",
+                            "originalWidth": 1400,
+                            "originalHeight": 840,
+                            "caption": "Tesla semitrucks in a line.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RjtXg7DlJVSEm1qJ1IOhMQ--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8c7eed82930ff4fc42c343f34f177301",
+                                    "width": 1400,
+                                    "height": 840,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/S3QP8lgphHSXvrStrLiXDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8c7eed82930ff4fc42c343f34f177301",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/09/3-monster-stocks-to-hold-for-the-next-10-years/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-monster-stocks-hold-next-092000274.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "01a2b630-4e4f-3974-891b-de3f87a71c3a",
+                    "content": {
+                        "id": "01a2b630-4e4f-3974-891b-de3f87a71c3a",
+                        "contentType": "STORY",
+                        "title": "Better EV Stock: Tesla vs. Rivian vs. Lucid",
+                        "description": "",
+                        "summary": "EV stocks are chasing a $10 trillion opportunity.",
+                        "pubDate": "2026-05-09T09:05:00Z",
+                        "displayTime": "2026-05-09T09:05:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/2b1398fc3e9ac651d48654fe1682eee2",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Someone standing beside a Lucid sedan on the beach.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/pepjQEmyJ2c300ZwbkeLIA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/2b1398fc3e9ac651d48654fe1682eee2",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/kTpxNKxTXTQmpmp5Zfl8BA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/2b1398fc3e9ac651d48654fe1682eee2",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/09/better-ev-stock-tesla-vs-rivian-vs-lucid/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/better-ev-stock-tesla-vs-090500301.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "c107461d-504e-319f-9dcc-084688e89673",
                     "content": {
                         "id": "c107461d-504e-319f-9dcc-084688e89673",
@@ -2958,179 +3116,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "99cdeb8c-ed9a-392a-95f0-cedf61a4d928",
-                    "content": {
-                        "id": "99cdeb8c-ed9a-392a-95f0-cedf61a4d928",
-                        "contentType": "STORY",
-                        "title": "Intel CEO Who Won Over Trump and Musk Now Needs a Breakthrough",
-                        "description": "",
-                        "summary": "(Bloomberg) -- After Lip-Bu Tan became chief executive officer of Intel Corp. in March of last year, the struggling company’s shares went nowhere for seven months while the chipmaker was getting trounced in the market for artificial intelligence.Most Read from BloombergBillionaire Duke of Westminster to Sell £700 Million of US Real Estate AssetsTrump Wants to Make H-1B Workers More Expensive for US EmployersApple’s Camera-Equipped AirPods Reach Late Testing in AI Device PushIran’s President Says",
-                        "pubDate": "2026-05-08T23:26:45Z",
-                        "displayTime": "2026-05-08T23:26:45Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d67f4f6721d9a42ba00253ad751eda6f",
-                            "originalWidth": 2000,
-                            "originalHeight": 1334,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ZP.8eyOnqeeRuIPY6ESFAg--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/d67f4f6721d9a42ba00253ad751eda6f",
-                                    "width": 2000,
-                                    "height": 1334,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/oAagbrLzbmdZS7cr44ZBZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/d67f4f6721d9a42ba00253ad751eda6f",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/intel-ceo-won-over-trump-101511302.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/intel-ceo-won-over-trump-101511302.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "546be4ab-51df-36e3-8ec9-6e76a4f4816e",
-                    "content": {
-                        "id": "546be4ab-51df-36e3-8ec9-6e76a4f4816e",
-                        "contentType": "STORY",
-                        "title": "Tesla’s Record Semi Order Tests Valuation And Freight Growth Expectations",
-                        "description": "",
-                        "summary": "WattEV has agreed to purchase 370 Tesla Semi trucks from Tesla (NasdaqGS:TSLA), the largest commercial order for the electric Class 8 model so far. The deal will create the largest single electric truck deployment in California, paired with Tesla's Megawatt Charging System. The order is part of a broader build out of zero emission freight infrastructure with several charging and logistics partners involved. Tesla, known mainly for its passenger EVs and energy products, has been working to...",
-                        "pubDate": "2026-05-08T21:27:08Z",
-                        "displayTime": "2026-05-08T21:27:08Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-record-semi-order-tests-212708563.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-record-semi-order-tests-212708563.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "df10a2c6-0b81-39cc-9887-19262414d6bb",
-                    "content": {
-                        "id": "df10a2c6-0b81-39cc-9887-19262414d6bb",
-                        "contentType": "STORY",
-                        "title": "S&P 500 Posts Sixth Consecutive Weekly Gain, Hits Highs in Tech-Led Rise",
-                        "description": "",
-                        "summary": "The Standard & Poor's 500 index rose 2.3% this week to another round of new highs as the technology",
-                        "pubDate": "2026-05-08T20:45:13Z",
-                        "displayTime": "2026-05-08T20:45:13Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "MT Newswires",
-                            "url": "https://www.mtnewswires.com/",
-                            "sourceId": "mt_newswires_premium_news_706"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-sixth-consecutive-204513304.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-sixth-consecutive-204513304.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": true,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-09T08:25:22.011116",
+            "timestamp": "2026-05-09T11:13:37.798017",
             "price": 215.1999969482422,
             "change": 2.1699981689453125,
             "open": 213.02999877929688,
@@ -3439,32 +3430,32 @@
                     }
                 },
                 {
-                    "id": "b9f5337b-d0bd-3663-9bf0-2f27dbd30a5b",
+                    "id": "2e73f270-1cea-35af-b43e-f12df2b47561",
                     "content": {
-                        "id": "b9f5337b-d0bd-3663-9bf0-2f27dbd30a5b",
+                        "id": "2e73f270-1cea-35af-b43e-f12df2b47561",
                         "contentType": "STORY",
-                        "title": "Prediction: Amazon Will Outperform the S&P 500",
+                        "title": "We Just Witnessed the Stock Market Do Something for Only the 2nd Time in 155 Years, and the Message Couldn't Be Clearer for Wall Street",
                         "description": "",
-                        "summary": "Amazon looks poised to outperform the S&P 500 in 2026.",
-                        "pubDate": "2026-05-09T07:25:00Z",
-                        "displayTime": "2026-05-09T07:25:00Z",
+                        "summary": "History has a way of rhyming on Wall Street -- and that's terrible news for investors.",
+                        "pubDate": "2026-05-09T10:56:00Z",
+                        "displayTime": "2026-05-09T10:56:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/65de7a685d3bbafd03d3bff14253b5bd",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "Amazon logo set against a photo of an Amazon warehouse and delivery vehicle.",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/1527c42e53dc5bbbfe39d99ee931e2bf",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "A twenty dollar bill paper airplane that's crashed and crumpled into a financial newspaper. ",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mMNAlWMuBCoG63jK76OrBQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/65de7a685d3bbafd03d3bff14253b5bd",
-                                    "width": 1200,
-                                    "height": 800,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PEu_6Vy9eQYxQhmZX2y8YQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/1527c42e53dc5bbbfe39d99ee931e2bf",
+                                    "width": 1400,
+                                    "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/3cCL9jFJQPGFm5DzSVU9iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/65de7a685d3bbafd03d3bff14253b5bd",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WiVCSFPw_OqeLKzCbWfCNg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/1527c42e53dc5bbbfe39d99ee931e2bf",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3477,13 +3468,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/09/prediction-amazon-will-outperform-the-sp-500/",
+                            "url": "https://www.fool.com/investing/2026/05/09/stock-market-do-something-2nd-time-in-155-years/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-outperform-p-500-072500651.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/just-witnessed-stock-market-something-105600088.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3501,32 +3492,32 @@
                     }
                 },
                 {
-                    "id": "47ea06aa-cb7f-363a-9bc1-f3efa1f33fcf",
+                    "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
                     "content": {
-                        "id": "47ea06aa-cb7f-363a-9bc1-f3efa1f33fcf",
+                        "id": "a4b50b99-9ba9-32b4-a669-3d16a339c2cd",
                         "contentType": "STORY",
-                        "title": "How Buying Bitcoin Today Could Help You Retire a Millionaire",
+                        "title": "Missed April's AI Rally? These 3 Stocks Still Look Like Bargains.",
                         "description": "",
-                        "summary": "If Bitcoin grows at the same pace as it has for the past 15 years, it will continue to mint new millionaires.",
-                        "pubDate": "2026-05-09T07:01:00Z",
-                        "displayTime": "2026-05-09T07:01:00Z",
+                        "summary": "Several megacaps are still well below their all-time highs.",
+                        "pubDate": "2026-05-09T10:37:00Z",
+                        "displayTime": "2026-05-09T10:37:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/76b4267b64e4327f7b484ef3cc200f0c",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
                             "originalWidth": 1400,
-                            "originalHeight": 787,
-                            "caption": "An investor with a laptop, surrounded by dollar bills.",
+                            "originalHeight": 933,
+                            "caption": "Investor looking at stock quotes.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1secGieMpjJeouMSxoAaYg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/76b4267b64e4327f7b484ef3cc200f0c",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/1CFNcpgXL5S7zqM78h0Qsg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
                                     "width": 1400,
-                                    "height": 787,
+                                    "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/KL6NblYMBkZzoOSJJd_EPg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/76b4267b64e4327f7b484ef3cc200f0c",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hrDpM7JiNiDfm5X5fXWH2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/681cb1a8ce39f8b773a54a0884fb17a9",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3539,13 +3530,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/09/buying-bitcoin-could-help-you-retire-a-millionaire/",
+                            "url": "https://www.fool.com/investing/2026/05/09/missed-aprils-ai-rally-these-3-stocks-still-look-l/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/buying-bitcoin-today-could-help-070100442.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/missed-aprils-ai-rally-3-103700691.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3566,13 +3557,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-09T08:25:22.146718",
-            "price": 2317.47998046875,
-            "change": 10.39599609375,
+            "timestamp": "2026-05-09T11:13:38.093418",
+            "price": 2314.330078125,
+            "change": 7.24609375,
             "open": 2307.083984375,
             "high": 2322.624267578125,
             "low": 2304.512451171875,
-            "volume": 18661376000,
+            "volume": 17323528192,
             "news": [
                 {
                     "id": "11afa88f-84b9-4631-adf1-c6c188e7e052",
@@ -3688,6 +3679,49 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "480b547c-a6a9-3dff-90ef-433f48404bf3",
+                    "content": {
+                        "id": "480b547c-a6a9-3dff-90ef-433f48404bf3",
+                        "contentType": "STORY",
+                        "title": "Bitcoin surges past $80,000 as institutional adoption signals global finance shift",
+                        "description": "",
+                        "summary": "Investing.com -- Bitcoin has reached a historic milestone this week, surging past the $80,000 threshold as a wave of institutional adoption and favorable regulatory momentum continues to reshape the digital asset landscape.",
+                        "pubDate": "2026-05-09T08:20:38Z",
+                        "displayTime": "2026-05-09T08:20:38Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "Investing.com",
+                            "url": "https://www.investing.com/",
+                            "sourceId": "investing_com_631"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-082038767.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-past-80-000-082038767.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3821,49 +3855,6 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "8d1e4d3b-18d3-36cb-a322-a3c73b6d8e97",
-                    "content": {
-                        "id": "8d1e4d3b-18d3-36cb-a322-a3c73b6d8e97",
-                        "contentType": "STORY",
-                        "title": "Top Cryptocurrencies Rise; Bitcoin Holds Above $80,000",
-                        "description": "",
-                        "summary": "Major digital assets rose Friday with Bitcoin (BTC-USD) holding above $80,000. The CoinDesk Marke",
-                        "pubDate": "2026-05-08T19:57:57Z",
-                        "displayTime": "2026-05-08T19:57:57Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "MT Newswires",
-                            "url": "https://www.mtnewswires.com/",
-                            "sourceId": "mt_newswires_premium_news_706"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-rise-bitcoin-holds-195757965.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/top-cryptocurrencies-rise-bitcoin-holds-195757965.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": true,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         }
@@ -3872,7 +3863,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.350846",
+            "collected_at": "2026-05-09T11:13:38.398049",
             "title": "Options: Finding 'dividend aristocrat' stocks amid volatility",
             "summary": "Market volatility may be reason enough for more investors to flock into options trading. Tidal Financial Group Yieldmax strategist Mike Khouw outlines the opportunities in \"Dividend Aristocrat\" class of stocks and how to position your portfolio to have better distributions.",
             "published": "2026-05-08T20:20:49Z",
@@ -3881,25 +3872,25 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.350857",
-            "title": "Did J.B. Hunt’s (JBHT) Sustainability Index Win Just Shift Its Low-Carbon Logistics Investment Narrative?",
-            "summary": "Earlier this week, J.B. Hunt Transport Services was added to the Dow Jones Best-in-Class North America Index following S&P Global’s 2025 Corporate Sustainability Assessment, recognizing its efforts to cut carbon emissions and expand rail-based freight solutions. As the only trucking company among the four ground transportation names in the index, J.B. Hunt’s sustainability profile may increasingly influence how investors compare it with peers in low-carbon logistics. We’ll now examine how...",
-            "published": "2026-05-09T06:12:46Z",
-            "provider": "Simply Wall St."
+            "collected_at": "2026-05-09T11:13:38.398058",
+            "title": "We Just Witnessed the Stock Market Do Something for Only the 2nd Time in 155 Years, and the Message Couldn't Be Clearer for Wall Street",
+            "summary": "History has a way of rhyming on Wall Street -- and that's terrible news for investors.",
+            "published": "2026-05-09T10:56:00Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.350860",
-            "title": "Review & Preview: Still Going Strong",
-            "summary": "REVIEW PREVIEW NEWSLETTER Broken Record. We’re running out of superlatives for this market. The S&P 500 and Nasdaq Composite closed Friday at new highs once again. It’s their 15 and 11th record closes of the year, respectively.",
-            "published": "2026-05-08T23:55:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-09T11:13:38.398061",
+            "title": "President Donald Trump's Pick to Lead the Fed, Kevin Warsh, May Be the Trump Bull Market's Undoing",
+            "summary": "Where there's smoke, there's fire.",
+            "published": "2026-05-09T08:26:00Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.439634",
+            "collected_at": "2026-05-09T11:13:38.533877",
             "title": "Are rising travel costs making 2026 the year of the staycation?",
             "summary": "Consumers are keeping to a budget when planning this year's summer travel, taking into consideration the rising costs of airfare and surging gas prices (RB=F) in the US. GenWealth Financial Advisors co-owner and managing principal John Shrewsbury breaks down how consumers are reacting to these higher prices, the income strata that are still sensitive, and the industries most affected by these trends.",
             "published": "2026-05-08T16:05:00Z",
@@ -3908,43 +3899,25 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.439647",
-            "title": "Prediction: Amazon Will Outperform the S&P 500",
-            "summary": "Amazon looks poised to outperform the S&P 500 in 2026.",
-            "published": "2026-05-09T07:25:00Z",
-            "provider": "Motley Fool"
-        },
-        {
-            "source_ticker": "^GSPC",
-            "category": "business",
-            "collected_at": "2026-05-09T08:25:22.439650",
-            "title": "JetBlue Insiders Sold Stock as Spirit Airlines Goes Under",
-            "summary": "Shares of  JetBlue Airways  climbed as Spirit Airlines collapsed—and two  JetBlue  insiders moved to offload their entire stakes in the still-standing low-cost carrier.  May 1 marked the last trading session before Spirit ceased operations.  Shares of JetBlue and other legacy carriers rose that day on a flurry of media reports that suggested a shutdown was imminent.",
-            "published": "2026-05-09T05:00:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-09T11:13:38.533886",
+            "title": "‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?",
+            "summary": "“I own my home and I have no debt.”",
+            "published": "2026-05-09T09:45:00Z",
+            "provider": "MarketWatch"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.537693",
+            "collected_at": "2026-05-09T11:13:38.674487",
             "title": "University of Michigan sentiment data raises economic warning signs",
             "summary": "Yahoo Finance's Julie Hyman breaks down the University of Michigan consumer sentiment data and its effect on the economy.",
             "published": "2026-05-08T14:30:27Z",
             "provider": "Yahoo Finance Video"
         },
         {
-            "source_ticker": "^IXIC",
-            "category": "business",
-            "collected_at": "2026-05-09T08:25:22.537706",
-            "title": "Aya Gold & Silver’s Valuation After New Nasdaq Listing And NASDAQ Composite Inclusion",
-            "summary": "Aya Gold & Silver (TSX:AYA) has just begun trading on the Nasdaq Stock Market under the ticker AYA and joined the NASDAQ Composite Index. This change can reshape how global investors access the stock. See our latest analysis for Aya Gold & Silver. The Nasdaq listing and addition to the NASDAQ Composite come on the back of strong momentum, with a 1-year total shareholder return of 154.9% and a year-to-date share price return of 31.19%. This indicates that recent interest has built on already...",
-            "published": "2026-05-09T05:20:41Z",
-            "provider": "Simply Wall St."
-        },
-        {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.630596",
+            "collected_at": "2026-05-09T11:13:38.823342",
             "title": "Gold and silver prices today, Friday, May 8: Prices headed for weekly gains following positive jobs report",
             "summary": "Gold opened at $4,682.50 per troy ounce on Friday, and by 6:45 a.m. ET, the price of gold was up to $4,732.60. Silver opened at $78.80 per ounce on Friday, and climbed to $81.12 by 6:45 a.m. ET.",
             "published": "2026-05-08T10:53:32Z",
@@ -3953,25 +3926,25 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.630608",
-            "title": "Mortgage and refinance interest rates today, May 8, 2026: Rates following bell-shaped curve this week",
-            "summary": "These are today's mortgage and refinance interest rates, Friday, May 8, 2026. The 30-year fixed-rate fell by eight basis points to 6.18%, according to the Zillow lender marketplace. The 15-year fixed loan fell by two basis points to 5.57%, and the 20-year fixed loan backed off by eight basis points to 6.12%.",
-            "published": "2026-05-08T10:00:00Z",
-            "provider": "Yahoo Personal Finance"
+            "collected_at": "2026-05-09T11:13:38.823349",
+            "title": "Pan American Silver (PAAS) Reports Q1 EPS",
+            "summary": "Pan American Silver Corp. (NYSE:PAAS) is one of the 10 Best Quality Stocks to Buy and Hold for the Next 5 Years. On May 5, 2026, Pan American Silver Corp. (NYSE:PAAS) reported Q1 adjusted EPS of $1.09, versus the $1.06 consensus estimate. Revenue totaled $1.15B, while attributable revenue reached $1.33B compared to consensus expectations of […]",
+            "published": "2026-05-09T10:14:32Z",
+            "provider": "Insider Monkey"
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.630611",
-            "title": "Is It Too Late To Consider Equinox Gold (TSX:EQX) After Strong Multi Year Gains?",
-            "summary": "For readers wondering if Equinox Gold, with a last close of US$19.65, still offers value or if most of the opportunity is already priced in, this article breaks down what the market might be implying about the stock. The share price shows mixed recent returns, with about 3.5% over the last 7 days, a 4.2% decline over 30 days, 4.3% year to date, and longer term returns of 126.1% over 1 year, 177.0% over 3 years, and 97.3% over 5 years. Recent news around Equinox Gold has focused on its...",
-            "published": "2026-05-09T05:19:29Z",
-            "provider": "Simply Wall St."
+            "collected_at": "2026-05-09T11:13:38.823351",
+            "title": "Are Rare Coins Worth the Investment for Retirees in 2026?",
+            "summary": "Rare coins can offer diversification, but are they a smart move for retirees in 2026? Weigh the risks, returns, fees, and inflation protection.",
+            "published": "2026-05-09T09:55:05Z",
+            "provider": "GOBankingRates"
         },
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.723757",
+            "collected_at": "2026-05-09T11:13:38.954659",
             "title": "Could April job gains actually be 'a goose egg' for the Fed?",
             "summary": "The Nasdaq Composite (^IXIC) and S&P 500 (^GSPC) are moving higher ahead of Friday's close after the US Bureau of Labor Statistics (BLS) reported the labor market grew by 115,000 jobs in April. The Wealth Consulting Group chief market strategist Talley Leger examines how the Federal Reserve may interpret this data, especially as chairman Jerome Powell's term is set to end on Friday, May 15.",
             "published": "2026-05-08T19:50:41Z",
@@ -3980,7 +3953,16 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-09T08:25:22.723775",
+            "collected_at": "2026-05-09T11:13:38.954666",
+            "title": "American drivers are in for gas prices deja vu this summer",
+            "summary": "Gas prices are creeping closer to the dreaded $5 per gallon level, last reached in June 2022",
+            "published": "2026-05-09T09:00:00Z",
+            "provider": "Quartz"
+        },
+        {
+            "source_ticker": "CL=F",
+            "category": "business",
+            "collected_at": "2026-05-09T11:13:38.954668",
             "title": "Should You Invest as the S&P 500 Hits Another New High? Here's What History Says.",
             "summary": "There's strong market momentum despite macroeconomic volatility.",
             "published": "2026-05-09T04:36:00Z",
@@ -3991,7 +3973,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.817479",
+            "collected_at": "2026-05-09T11:13:39.082819",
             "title": "Crescent Grove Trims Its Ultrashort Bond Position -- Selling $5.4 Million Stake in UYLD",
             "summary": "Angel Oak UltraShort Income ETF offers a higher-yielding alternative to money market funds, with a diversified portfolio of short-duration fixed income and securitized credit.",
             "published": "2026-05-08T20:43:30Z",
@@ -4000,7 +3982,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.817492",
+            "collected_at": "2026-05-09T11:13:39.082827",
             "title": "Is This the Right Time to Rebalance Your Portfolio?",
             "summary": "There's no perfect time to rebalance your portfolio. But there might be a right time for you. Maybe it's right now, and maybe it's not.",
             "published": "2026-05-08T20:27:00Z",
@@ -4009,7 +3991,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.817495",
+            "collected_at": "2026-05-09T11:13:39.082830",
             "title": "Jefferies Group's Strategic Moves: State Street SPDR S&P 500 ETF Trust Sees -1. ...",
             "summary": "Jefferies Group (Trades, Portfolio)'s Recent 13F Filing Reveals Strategic Adjustments",
             "published": "2026-05-08T18:00:38Z",
@@ -4018,7 +4000,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.909187",
+            "collected_at": "2026-05-09T11:13:39.212812",
             "title": "J.Safra Asset Management Expands Position in iShares MSCI All Country Asia ex Japan ETF, According to Recent SEC Filing",
             "summary": "The iShares MSCI All Country Asia ex Japan ETF (AAXJ) provides targeted exposure to Asian equities outside Japan, distinguishing it from broad international funds. This distinction is significant, as returns are influenced by the performance of specific Asian markets rather than overall global equity trends.",
             "published": "2026-05-08T19:34:10Z",
@@ -4027,7 +4009,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.909197",
+            "collected_at": "2026-05-09T11:13:39.212821",
             "title": "May Market View: From Fear to Froth",
             "summary": "In just one month, the market has pulled a complete 180. Sentiment has shifted from fear to greed, and defensive put buying has shifted to record call volume levels.",
             "published": "2026-05-08T18:27:00Z",
@@ -4036,7 +4018,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.909199",
+            "collected_at": "2026-05-09T11:13:39.212824",
             "title": "Exchange-Traded Funds Rise as US Equities Gain Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
             "published": "2026-05-08T17:11:37Z",
@@ -4045,7 +4027,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.996883",
+            "collected_at": "2026-05-09T11:13:39.333354",
             "title": "SCHD vs. VTI: Which ETF Could Make You Richer?",
             "summary": "The Schwab U.S. Dividend Equity ETF and the Vanguard Total Stock Market ETF are both terrific funds. But one has the edge in terms of long-term growth potential.",
             "published": "2026-05-08T20:52:00Z",
@@ -4054,7 +4036,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.996896",
+            "collected_at": "2026-05-09T11:13:39.333360",
             "title": "iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "summary": "Vanguard Total Stock Market ETF (NYSEARCA:VTI) and iShares Core S&P Total U.S. Stock Market ETF (NYSEARCA:ITOT) both promise the entire investable US equity market in a single ticker. Yet the index each fund tracks, the issuer behind it, and the fee structure differ in ways that matter once you commit real capital. With volatility now ... iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "published": "2026-05-07T21:24:51Z",
@@ -4063,7 +4045,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:22.996898",
+            "collected_at": "2026-05-09T11:13:39.333363",
             "title": "What Long-Term Investors Should Know Before Buying This Broad Market ETF",
             "summary": "Just because a fund holds hundreds or even thousands of stocks doesn't mean it's diversified.",
             "published": "2026-05-07T16:35:00Z",
@@ -4072,7 +4054,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.086371",
+            "collected_at": "2026-05-09T11:13:39.464054",
             "title": "Cathie Wood buys $14.9 million of tumbling AI stock",
             "summary": "Cathie Wood, head of Ark Investment Management, doesn’t give up on her favorite stocks easily. Sometimes she’ll buy them on the way down, betting the dip could become an opportunity. That’s what she did this week, adding shares of one of her largest holdings. In 2025, Wood’s flagship Ark Innovation ...",
             "published": "2026-05-08T19:13:00Z",
@@ -4081,7 +4063,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.086383",
+            "collected_at": "2026-05-09T11:13:39.464061",
             "title": "Cathie Wood Dumps More AMD Shares Despite Its Massive 108% Rally. Here's Why.",
             "summary": "AMD’s strong earnings momentum and growing AI partnerships have fueled a massive rally, but Cathie Wood seems to be locking in gains.",
             "published": "2026-05-08T18:21:43Z",
@@ -4090,7 +4072,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.086386",
+            "collected_at": "2026-05-09T11:13:39.464064",
             "title": "Cathie Wood sells another $15.6M of surging semiconductor stock",
             "summary": "Sometimes the hardest part of investing isn't buying. It's not the patience asked of you before the market rewards your move. It’s not even what to invest in, as you may think. It's watching something you sold keep going up to the moon without you. And now you can only stay out and be a spectator. ...",
             "published": "2026-05-06T20:35:22Z",
@@ -4099,7 +4081,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.176554",
+            "collected_at": "2026-05-09T11:13:39.590771",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Employment Data",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.6% and the actively trad",
             "published": "2026-05-08T12:53:03Z",
@@ -4108,7 +4090,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.176567",
+            "collected_at": "2026-05-09T11:13:39.590777",
             "title": "Jeffrey Gundlach’s Debt Restructure Trade: 2 Stocks and 2 ETFs Built for the Storm",
             "summary": "Jeffrey Gundlach, the DoubleLine Capital CEO known as the “Bond King,” has spent recent months hammering one message across his webcasts, CNBC appearances, and social posts: U.S. federal debt is on an unsustainable trajectory, some form of fiscal reckoning or debt restructuring is a credible tail risk, and the dollar is structurally vulnerable. He has ... Jeffrey Gundlach’s Debt Restructure Trade: 2 Stocks and 2 ETFs Built for the Storm",
             "published": "2026-05-08T11:15:51Z",
@@ -4117,7 +4099,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-09T08:25:23.176570",
+            "collected_at": "2026-05-09T11:13:39.590780",
             "title": "iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "summary": "Gold has done what gold does best in tough macro stretches. With CPI running at 3.7% and the 10-year Treasury at 4.36%, investors are once again debating which physically backed gold ETF to own. SPDR Gold Trust (NYSEARCA:GLD) and iShares Gold Trust (NYSEARCA:IAU) hold essentially the same asset, yet they appeal to different buyers. The ... iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
             "published": "2026-05-07T21:46:58Z",
@@ -4128,7 +4110,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 13,
+        "total_business_articles": 12,
         "total_investment_articles": 15
     }
 }
