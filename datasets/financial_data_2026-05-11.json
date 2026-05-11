@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-11T16:33:19.008568",
+    "collection_timestamp": "2026-05-11T16:33:28.410799",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-11T16:33:13.388745",
+            "timestamp": "2026-05-11T16:33:24.885199",
             "price": 23815.849609375,
             "change": -154.25,
             "open": 23970.099609375,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-11T16:33:13.607275",
+            "timestamp": "2026-05-11T16:33:25.028834",
             "price": 76015.28125,
             "change": -622.8125,
             "open": 76638.09375,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-11T16:33:13.784397",
-            "price": 81873.6328125,
-            "change": -290.796875,
+            "timestamp": "2026-05-11T16:33:25.155023",
+            "price": 81840.0,
+            "change": -324.4296875,
             "open": 82164.4296875,
             "high": 82164.4296875,
             "low": 80538.6015625,
-            "volume": 36848156672,
+            "volume": 37009010688,
             "news": [
                 {
                     "id": "6f9cf564-0be3-45e6-aa78-ef9f367f87b7",
@@ -716,7 +716,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-11T16:33:14.027732",
+            "timestamp": "2026-05-11T16:33:25.365206",
             "price": 1388.199951171875,
             "change": -31.800048828125,
             "open": 1420.0,
@@ -1038,7 +1038,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-11T16:33:15.138396",
+            "timestamp": "2026-05-11T16:33:25.602636",
             "price": 2392.89990234375,
             "change": 21.89990234375,
             "open": 2371.0,
@@ -1360,7 +1360,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-11T16:33:15.498111",
+            "timestamp": "2026-05-11T16:33:25.798355",
             "price": 763.6500244140625,
             "change": -8.29998779296875,
             "open": 771.9500122070312,
@@ -1644,7 +1644,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-11T16:33:15.955296",
+            "timestamp": "2026-05-11T16:33:26.000745",
             "price": 1177.0,
             "change": 1.0,
             "open": 1176.0,
@@ -1947,13 +1947,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-11T16:33:16.283065",
-            "price": 292.3699951171875,
-            "change": 0.3909912109375,
+            "timestamp": "2026-05-11T16:33:26.227913",
+            "price": 292.3999938964844,
+            "change": 0.420989990234375,
             "open": 291.97900390625,
             "high": 293.8800048828125,
             "low": 290.2300109863281,
-            "volume": 17481857,
+            "volume": 17484217,
             "news": [
                 {
                     "id": "264f0653-66c1-4269-91f9-9988f980b3fe",
@@ -2269,13 +2269,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-11T16:33:16.509912",
-            "price": 410.92498779296875,
-            "change": 3.149993896484375,
+            "timestamp": "2026-05-11T16:33:26.434092",
+            "price": 410.864990234375,
+            "change": 3.089996337890625,
             "open": 407.7749938964844,
             "high": 412.2091064453125,
             "low": 405.5,
-            "volume": 14168055,
+            "volume": 14170382,
             "news": [
                 {
                     "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
@@ -2586,13 +2586,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-11T16:33:16.775039",
+            "timestamp": "2026-05-11T16:33:26.677087",
             "price": 394.239990234375,
             "change": 0.319976806640625,
             "open": 393.9200134277344,
             "high": 397.44000244140625,
             "low": 391.6600036621094,
-            "volume": 11350150,
+            "volume": 11351536,
             "news": [
                 {
                     "id": "c47c58e2-5472-4f50-a1da-9f3048d5f756",
@@ -2889,13 +2889,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-11T16:33:17.057869",
-            "price": 442.28009033203125,
-            "change": 20.120086669921875,
+            "timestamp": "2026-05-11T16:33:26.843922",
+            "price": 442.69989013671875,
+            "change": 20.539886474609375,
             "open": 422.1600036621094,
             "high": 443.3599853515625,
             "low": 416.79998779296875,
-            "volume": 42618405,
+            "volume": 42656516,
             "news": [
                 {
                     "id": "d692d73b-124b-4d18-9198-596144d3dba0",
@@ -3244,13 +3244,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-11T16:33:17.379224",
-            "price": 221.9792938232422,
-            "change": 8.049301147460938,
+            "timestamp": "2026-05-11T16:33:27.067565",
+            "price": 221.875,
+            "change": 7.94500732421875,
             "open": 213.92999267578125,
             "high": 222.3000030517578,
             "low": 213.88999938964844,
-            "volume": 92847351,
+            "volume": 92881769,
             "news": [
                 {
                     "id": "264f0653-66c1-4269-91f9-9988f980b3fe",
@@ -3542,9 +3542,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-11T16:33:17.548945",
-            "price": 2337.93994140625,
-            "change": -31.464111328125,
+            "timestamp": "2026-05-11T16:33:27.210001",
+            "price": 2337.169921875,
+            "change": -32.234130859375,
             "open": 2369.404052734375,
             "high": 2370.115234375,
             "low": 2307.198486328125,
@@ -3867,7 +3867,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:17.880845",
+            "collected_at": "2026-05-11T16:33:27.421948",
             "title": "Stock market today: S&P 500 and Nasdaq rise, Dow muted after Trump rejects Iran's response to peace plan",
             "summary": "Stock indexes dropped with focus on fragile prospects for an end to the Iran war.",
             "published": "2026-05-10T22:56:25Z",
@@ -3876,7 +3876,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:17.880857",
+            "collected_at": "2026-05-11T16:33:27.421962",
             "title": "Trump goes to China, inflation comes to America: What to watch this week",
             "summary": "Trump's China trip and the April inflation report will be the week's two biggest developments for investors.",
             "published": "2026-05-10T10:43:29Z",
@@ -3885,7 +3885,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:17.880860",
+            "collected_at": "2026-05-11T16:33:27.421964",
             "title": "Stock Market Today: Dow Steady After Trump Rejects Iran; Moderna Eyes Entry (Live Coverage)",
             "summary": "Stock Market Today: The Dow Jones and oil prices rose as President Trump rejected an Iran proposal. Oil stocks and Micron were winners.",
             "published": "2026-05-11T16:09:56Z",
@@ -3894,7 +3894,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:17.998331",
+            "collected_at": "2026-05-11T16:33:27.525462",
             "title": "Markets 'love chasing bottlenecks': Wall Street weighs epic run in AI stocks",
             "summary": "Wall Street weighs the bottlenecks within the AI trade.",
             "published": "2026-05-10T10:42:48Z",
@@ -3903,7 +3903,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.123605",
+            "collected_at": "2026-05-11T16:33:27.638507",
             "title": "US Equity Indexes Mixed, Crude Oil Rises as Iran Peace Process Stalls",
             "summary": "US equity indexes traded mixed midday Monday, while crude oil futures rose, after President Donald T",
             "published": "2026-05-11T16:04:13Z",
@@ -3912,7 +3912,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.225123",
+            "collected_at": "2026-05-11T16:33:27.741791",
             "title": "Gold price outlook: Will $6,000 happen this year?",
             "summary": "Gold prices have skyrocketed in recent years, but how high can they go next? Here are the boldest predictions for how gold will perform.",
             "published": "2026-03-27T15:00:00Z",
@@ -3921,7 +3921,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.225136",
+            "collected_at": "2026-05-11T16:33:27.741801",
             "title": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
             "summary": "Gold opened at $4,690 per troy ounce on Monday, down 0.9% from the previous closing price. Gold moved to $4,673.90 by 6:45 a.m. ET. Silver opened at $80.15 per ounce on Monday. The price of silver edged up in early trading to $81.06 by 6:45 a.m. ET.",
             "published": "2026-05-11T11:00:50Z",
@@ -3930,7 +3930,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.225138",
+            "collected_at": "2026-05-11T16:33:27.741804",
             "title": "B2Gold Earnings Beat Estimates in Q1 on Strong Gold Production",
             "summary": "BTG Q1 earnings more than double and revenues jump 118% y/y on strong gold output, higher prices and robust sales volumes.",
             "published": "2026-05-11T15:02:00Z",
@@ -3939,7 +3939,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.331853",
+            "collected_at": "2026-05-11T16:33:27.840428",
             "title": "Oil prices tick up after Trump rejects Iran proposal, Hormuz traffic remains at a standstill",
             "summary": "Oil prices ticked up through Monday morning as investors digested comments from President Trump on Sunday that Iran's response to US proposals is \"totally unacceptable,\" pushing out any potential timelines for opening the Strait of Hormuz.",
             "published": "2026-05-11T15:14:26Z",
@@ -3948,7 +3948,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-11T16:33:18.331856",
+            "collected_at": "2026-05-11T16:33:27.840430",
             "title": "European shares muted as markets weigh US-Iran deadlock",
             "summary": "By Twesha Dikshit and Avinash P May 11 (Reuters) - European shares ended Monday's session flat, constrained by a drop in luxury stocks, while stalled U.S.-Iran peace negotiations drove oil prices",
             "published": "2026-05-11T16:18:59Z",
@@ -3959,7 +3959,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.456033",
+            "collected_at": "2026-05-11T16:33:27.948811",
             "title": "The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
             "summary": "SPDR S&P 500 ETF Trust (NYSEARCA:SPY) and Vanguard 500 Index Fund ETF (NYSEARCA:VOO) track the same S&P 500 index. The real contest is structure, cost, and cash flow. With the VIX at 17.39, this is a clean moment to compare them. Same Index, Same Names at the Top Both funds own identical holdings. SPY’s largest ... The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
             "published": "2026-05-11T14:30:13Z",
@@ -3968,7 +3968,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.456046",
+            "collected_at": "2026-05-11T16:33:27.948822",
             "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Monday as Trump Rejects Reported Iran Proposal",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
             "published": "2026-05-11T13:07:25Z",
@@ -3977,7 +3977,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.456048",
+            "collected_at": "2026-05-11T16:33:27.948825",
             "title": "2 Iconic ETFs, 2 Very Different Slices of the U.S. Economy: IWM vs. SPY",
             "summary": "Expense ratios, sector exposure, and portfolio composition reveal key differences between these two heavyweight ETFs. How do their risks and rewards stack up?",
             "published": "2026-05-11T13:05:02Z",
@@ -3986,7 +3986,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.569673",
+            "collected_at": "2026-05-11T16:33:28.053936",
             "title": "Zacks Investment Ideas feature highlights Intel, Micron, Advanced Micro Devices, Sandisk and QQQ",
             "summary": "Intel, Micron, Advanced Micro Devices, Sandisk and QQQ have been highlighted in this Investment Ideas article.",
             "published": "2026-05-11T12:47:00Z",
@@ -3995,7 +3995,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.569676",
+            "collected_at": "2026-05-11T16:33:28.053938",
             "title": "Time for Risk-On Trades? ETFs in Focus",
             "summary": "Cooling Middle East tensions, solid jobs data and AI momentum are reviving risk appetite. Here are ETFs riding the risk-on wave.",
             "published": "2026-05-11T12:00:00Z",
@@ -4004,7 +4004,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.734225",
+            "collected_at": "2026-05-11T16:33:28.149791",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4013,7 +4013,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.734237",
+            "collected_at": "2026-05-11T16:33:28.149804",
             "title": "SCHD vs. VTI: Which ETF Could Make You Richer?",
             "summary": "The Schwab U.S. Dividend Equity ETF and the Vanguard Total Stock Market ETF are both terrific funds. But one has the edge in terms of long-term growth potential.",
             "published": "2026-05-08T20:52:00Z",
@@ -4022,7 +4022,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.734239",
+            "collected_at": "2026-05-11T16:33:28.149807",
             "title": "iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "summary": "Vanguard Total Stock Market ETF (NYSEARCA:VTI) and iShares Core S&P Total U.S. Stock Market ETF (NYSEARCA:ITOT) both promise the entire investable US equity market in a single ticker. Yet the index each fund tracks, the issuer behind it, and the fee structure differ in ways that matter once you commit real capital. With volatility now ... iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "published": "2026-05-07T21:24:51Z",
@@ -4031,7 +4031,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.907177",
+            "collected_at": "2026-05-11T16:33:28.301033",
             "title": "SpaceX Preps For Starship Flight, Cathie Wood To Rebalance Holdings",
             "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
             "published": "2026-05-11T15:24:57Z",
@@ -4040,7 +4040,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.907189",
+            "collected_at": "2026-05-11T16:33:28.301046",
             "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
             "summary": "Cathie Wood, chief of Ark Investment Management, is known for making bold bets on fast-moving tech stocks. Sometimes her trades move just as quickly as the stocks themselves. In the week that began on May 3, Wood sold millions of dollars worth of shares in one high-flying AI company near recent ...",
             "published": "2026-05-10T22:32:34Z",
@@ -4049,7 +4049,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:18.907191",
+            "collected_at": "2026-05-11T16:33:28.301048",
             "title": "Cathie Wood Dumps Another $3 Million In AMD Stock As Ark Invest Trims For Third Day Running, This Is the AI Stock She Is Buying Instead",
             "summary": "On Thursday, Cathie Wood-led Ark Invest made notable trades involving Advanced Micro Devices Inc. and Tempus AI Inc.. These trades reflect Ark’s strategic repositioning amid evolving market dynamics. The AMD Trade ARK Innovation ETF fund reduced its stake in Advanced...",
             "published": "2026-05-10T21:31:27Z",
@@ -4058,7 +4058,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:19.008454",
+            "collected_at": "2026-05-11T16:33:28.410698",
             "title": "SPDR Gold Shares vs iShares Gold Trust Fees Liquidity Compared",
             "summary": "Expense ratios and trading volumes set these two gold ETFs apart, shaping their appeal for different investor priorities and strategies.",
             "published": "2026-05-11T13:35:02Z",
@@ -4067,7 +4067,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-11T16:33:19.008463",
+            "collected_at": "2026-05-11T16:33:28.410711",
             "title": "Gold Falls as the U.S. Dismisses Iran's Peace Demands, Boosting the Dollar and Yields",
             "summary": "Gold traded lower early Monday as the dollar and yields rose after the United States rejected Iran's",
             "published": "2026-05-11T13:08:38Z",
