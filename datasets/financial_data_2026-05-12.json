@@ -1,14 +1,14 @@
 {
-    "collection_timestamp": "2026-05-12T06:40:11.419580",
+    "collection_timestamp": "2026-05-12T06:40:20.646696",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-12T06:40:08.190017",
-            "price": 23554.150390625,
-            "change": -168.44921875,
+            "timestamp": "2026-05-12T06:40:17.232228",
+            "price": 23552.44921875,
+            "change": -170.150390625,
             "open": 23722.599609375,
             "high": 23757.55078125,
-            "low": 23553.55078125,
+            "low": 23551.30078125,
             "volume": 0,
             "news": [
                 {
@@ -263,9 +263,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-12T06:40:08.335680",
-            "price": 75231.0390625,
-            "change": -457.3515625,
+            "timestamp": "2026-05-12T06:40:17.372657",
+            "price": 75233.65625,
+            "change": -454.734375,
             "open": 75688.390625,
             "high": 75741.9609375,
             "low": 75121.65625,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-12T06:40:08.458205",
-            "price": 81098.5703125,
-            "change": -622.84375,
+            "timestamp": "2026-05-12T06:40:17.505833",
+            "price": 81096.890625,
+            "change": -624.5234375,
             "open": 81721.4140625,
             "high": 81721.4140625,
             "low": 80838.953125,
@@ -716,13 +716,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-12T06:40:08.650373",
-            "price": 1383.5,
-            "change": -8.5,
+            "timestamp": "2026-05-12T06:40:17.671882",
+            "price": 1383.5999755859375,
+            "change": -8.4000244140625,
             "open": 1392.0,
             "high": 1393.5,
             "low": 1377.4000244140625,
-            "volume": 8609778,
+            "volume": 8617945,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1038,13 +1038,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-12T06:40:08.836777",
+            "timestamp": "2026-05-12T06:40:17.987497",
             "price": 2288.199951171875,
             "change": -86.800048828125,
             "open": 2375.0,
             "high": 2375.0,
             "low": 2283.60009765625,
-            "volume": 3417366,
+            "volume": 3418452,
             "news": [
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
@@ -1360,13 +1360,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-12T06:40:08.998366",
-            "price": 756.0,
-            "change": -0.5999755859375,
+            "timestamp": "2026-05-12T06:40:18.170255",
+            "price": 755.9500122070312,
+            "change": -0.64996337890625,
             "open": 756.5999755859375,
             "high": 759.7000122070312,
             "low": 754.25,
-            "volume": 14512748,
+            "volume": 14516631,
             "news": [
                 {
                     "id": "63f1b7e9-7ed8-3169-8ed6-70ae91b6cfb2",
@@ -1644,13 +1644,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-12T06:40:09.186190",
+            "timestamp": "2026-05-12T06:40:18.409603",
             "price": 1127.0,
             "change": -35.0,
             "open": 1162.0,
             "high": 1162.0,
             "low": 1126.4000244140625,
-            "volume": 6667534,
+            "volume": 6669816,
             "news": [
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
@@ -1947,7 +1947,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-12T06:40:09.387042",
+            "timestamp": "2026-05-12T06:40:18.616309",
             "price": 292.67999267578125,
             "change": 0.699981689453125,
             "open": 291.9800109863281,
@@ -2269,7 +2269,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-12T06:40:09.567686",
+            "timestamp": "2026-05-12T06:40:18.791641",
             "price": 412.6600036621094,
             "change": 4.790008544921875,
             "open": 407.8699951171875,
@@ -2586,7 +2586,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-12T06:40:09.711561",
+            "timestamp": "2026-05-12T06:40:18.948669",
             "price": 388.6400146484375,
             "change": -5.009979248046875,
             "open": 393.6499938964844,
@@ -2908,7 +2908,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-12T06:40:09.886281",
+            "timestamp": "2026-05-12T06:40:19.104063",
             "price": 445.0,
             "change": 22.839996337890625,
             "open": 422.1600036621094,
@@ -3287,7 +3287,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-12T06:40:10.051718",
+            "timestamp": "2026-05-12T06:40:19.285363",
             "price": 219.44000244140625,
             "change": 5.4000091552734375,
             "open": 214.0399932861328,
@@ -3609,9 +3609,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-12T06:40:10.220888",
-            "price": 2306.159912109375,
-            "change": -33.244384765625,
+            "timestamp": "2026-05-12T06:40:19.432281",
+            "price": 2305.919921875,
+            "change": -33.484375,
             "open": 2339.404296875,
             "high": 2339.404296875,
             "low": 2304.42626953125,
@@ -3915,7 +3915,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.442695",
+            "collected_at": "2026-05-12T06:40:19.662219",
             "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide as Wall Street braces for CPI report",
             "summary": "US stock futures rose as Wall Street awaited April's inflation report, which is expected to provide clues about how the war in Iran is affecting the economy and where Federal Reserve interest rates may be headed.",
             "published": "2026-05-11T22:43:50Z",
@@ -3924,7 +3924,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.442709",
+            "collected_at": "2026-05-12T06:40:19.662234",
             "title": "FTSE 100 Live: European stocks called sharply lower, Vodafone and Greggs report",
             "summary": "7.17am: FTSE 100 called sharply lower The FTSE 100 and other European markets are expected to fall sharply at the open on Tuesday as prospects for peace in the Middle East have not significantly brightened and UK political worries continue to keep government bond yields higher. London's...",
             "published": "2026-05-12T06:16:00Z",
@@ -3933,7 +3933,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.442712",
+            "collected_at": "2026-05-12T06:40:19.662237",
             "title": "Up 377%, Is Intel Proving Why It Was a Mistake for Nvidia to Replace Intel in the Dow Jones Industrial Average?",
             "summary": "Intel is demonstrating its worth in the age of artificial intelligence (AI) inferencing.",
             "published": "2026-05-12T03:50:00Z",
@@ -3942,7 +3942,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.542776",
+            "collected_at": "2026-05-12T06:40:19.778993",
             "title": "Jerome Powell's 17 most memorable moments after leading the Federal Reserve for 8 eventful years",
             "summary": "Jerome Powell's tenure as chair of the Federal Reserve ends this week. Here are key moments from his two terms leading the central bank.",
             "published": "2026-05-11T19:20:06Z",
@@ -3951,7 +3951,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.542779",
+            "collected_at": "2026-05-12T06:40:19.778995",
             "title": "Massive AI investments come with one downside for Big Tech investors",
             "summary": "Stock buybacks at Big Tech companies are falling by the wayside as free cash flow gets plowed into AI infrastructure investments.",
             "published": "2026-05-11T13:53:25Z",
@@ -3960,7 +3960,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.648096",
+            "collected_at": "2026-05-12T06:40:19.887437",
             "title": "Trump goes to China, inflation comes to America: What to watch this week",
             "summary": "Trump's China trip and the April inflation report will be the week's two biggest developments for investors.",
             "published": "2026-05-10T10:43:29Z",
@@ -3969,7 +3969,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.749699",
+            "collected_at": "2026-05-12T06:40:19.995181",
             "title": "Gold forecast and tracker: Where will prices land in 2026?",
             "summary": "How high will gold go in 2026? See live gold prices, expert predictions about gold performance, and learn whether gold will reach $6,000.",
             "published": "2026-04-15T13:00:00Z",
@@ -3978,7 +3978,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.749714",
+            "collected_at": "2026-05-12T06:40:19.995194",
             "title": "Indian shares set to open lower as elevated oil, fragile Iran talks weigh",
             "summary": "May 12 (Reuters) - Indian shares are set to open lower on Tuesday, weighed down by elevated crude prices as talks to end the Iran war appeared fragile, keeping supply concerns alive and fuelling",
             "published": "2026-05-12T02:28:57Z",
@@ -3987,7 +3987,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.749717",
+            "collected_at": "2026-05-12T06:40:19.995197",
             "title": "Assessing Vermilion Energy (TSX:VET) Valuation After A Strong Year And Recent Share Price Pullback",
             "summary": "Vermilion Energy (TSX:VET) has drawn fresh attention after recent share price moves, with the stock up 3.7% in the past day but down nearly 9% over the past week. See our latest analysis for Vermilion Energy. That recent weekly pullback sits against a much stronger backdrop, with a 19.6% 90 day share price return and a 43.0% year to date share price gain. The 1 year total shareholder return of 87.7% points to momentum that has been building rather than fading. If you are comparing Vermilion...",
             "published": "2026-05-12T01:14:50Z",
@@ -3996,7 +3996,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.865303",
+            "collected_at": "2026-05-12T06:40:20.092841",
             "title": "Stock market today: Dow rises, S&P 500 and Nasdaq eke out records as chip stocks extend gains",
             "summary": "Stock indexes dropped with focus on fragile prospects for an end to the Iran war.",
             "published": "2026-05-10T22:56:25Z",
@@ -4005,7 +4005,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.865317",
+            "collected_at": "2026-05-12T06:40:20.092854",
             "title": "How prolonged Strait of Hormuz closure could lead to oil demand destruction",
             "summary": "President Trump rejected the conditions of Iran's latest peace deal proposal to the US, further extending the conflict between the two nations as the Strait of Hormuz remains functionally closed. Oil prices (CL=F, BZ=F) edge higher on this news. S&P Global Ratings global chief economist Paul Gruenwald sits down with Julie Hyman to talk more about his firm's oil price forecasts and how energy price shocks continue to reverberate through the US economy right now.",
             "published": "2026-05-11T15:14:54Z",
@@ -4014,7 +4014,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-12T06:40:10.865319",
+            "collected_at": "2026-05-12T06:40:20.092857",
             "title": "Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months",
             "summary": "Bitcoin opened at $82,164.43 on Monday, the strongest opening price since January 31. Ethereum opened at $2,369.40 on Monday, the highest opening price since April 27.",
             "published": "2026-05-11T11:32:16Z",
@@ -4025,7 +4025,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:10.962380",
+            "collected_at": "2026-05-12T06:40:20.184618",
             "title": "Stocks Settle Higher on Strong Earnings",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.19%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.19%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.29%. June E-mini S&P futures (ESM26 ) rose +0.18%, and June E-mini Nasdaq futures...",
             "published": "2026-05-11T20:40:27Z",
@@ -4034,7 +4034,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:10.962395",
+            "collected_at": "2026-05-12T06:40:20.184632",
             "title": "Stocks Supported by Strong Earnings and AI Optimism",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.25%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.05%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up +0.17%. June E-mini S&P futures (ESM26 ) are up +0.29%, and June E-mini Nasdaq futures...",
             "published": "2026-05-11T15:15:28Z",
@@ -4043,7 +4043,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:10.962398",
+            "collected_at": "2026-05-12T06:40:20.184635",
             "title": "The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
             "summary": "SPDR S&P 500 ETF Trust (NYSEARCA:SPY) and Vanguard 500 Index Fund ETF (NYSEARCA:VOO) track the same S&P 500 index. The real contest is structure, cost, and cash flow. With the VIX at 17.39, this is a clean moment to compare them. Same Index, Same Names at the Top Both funds own identical holdings. SPY’s largest ... The Hidden Drag of SPY’s Outdated UIT Structure: Why VOO’s 6.45 Basis Point Fee Advantage Matters Over a Decade",
             "published": "2026-05-11T14:30:13Z",
@@ -4052,7 +4052,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.071040",
+            "collected_at": "2026-05-12T06:40:20.288408",
             "title": "Commonwealth Financial Services Adds to First Trust Smith Opportunistic Fixed Income ETF, According to Recent SEC Filing",
             "summary": "The First Trust Smith Opportunistic Fixed Income ETF (FIXD) is an active bond fund where the manager’s choices carry more weight than benchmark exposure alone. The appeal is whether that discretion can find better income opportunities as rates and credit markets shift.",
             "published": "2026-05-11T21:07:00Z",
@@ -4061,7 +4061,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.071057",
+            "collected_at": "2026-05-12T06:40:20.288425",
             "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
             "published": "2026-05-11T17:11:52Z",
@@ -4070,7 +4070,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.163795",
+            "collected_at": "2026-05-12T06:40:20.387408",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4079,7 +4079,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.163812",
+            "collected_at": "2026-05-12T06:40:20.387422",
             "title": "SCHD vs. VTI: Which ETF Could Make You Richer?",
             "summary": "The Schwab U.S. Dividend Equity ETF and the Vanguard Total Stock Market ETF are both terrific funds. But one has the edge in terms of long-term growth potential.",
             "published": "2026-05-08T20:52:00Z",
@@ -4088,7 +4088,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.163815",
+            "collected_at": "2026-05-12T06:40:20.387425",
             "title": "iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "summary": "Vanguard Total Stock Market ETF (NYSEARCA:VTI) and iShares Core S&P Total U.S. Stock Market ETF (NYSEARCA:ITOT) both promise the entire investable US equity market in a single ticker. Yet the index each fund tracks, the issuer behind it, and the fee structure differ in ways that matter once you commit real capital. With volatility now ... iShares Core S&P Total U.S. Stock Market ETF’s 0.03% Fee and BlackRock Scale Face Off Against Vanguard Total Stock Market ETF’s Structural Advantages",
             "published": "2026-05-07T21:24:51Z",
@@ -4097,7 +4097,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.324584",
+            "collected_at": "2026-05-12T06:40:20.544354",
             "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
             "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
             "published": "2026-05-11T20:29:38Z",
@@ -4106,7 +4106,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.324598",
+            "collected_at": "2026-05-12T06:40:20.544368",
             "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
             "summary": "Cathie Wood, chief of Ark Investment Management, is known for making bold bets on fast-moving tech stocks. Sometimes her trades move just as quickly as the stocks themselves. In the week that began on May 3, Wood sold millions of dollars worth of shares in one high-flying AI company near recent ...",
             "published": "2026-05-10T22:32:34Z",
@@ -4115,7 +4115,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.324601",
+            "collected_at": "2026-05-12T06:40:20.544371",
             "title": "Cathie Wood Dumps Another $3 Million In AMD Stock As Ark Invest Trims For Third Day Running, This Is the AI Stock She Is Buying Instead",
             "summary": "On Thursday, Cathie Wood-led Ark Invest made notable trades involving Advanced Micro Devices Inc. and Tempus AI Inc.. These trades reflect Ark’s strategic repositioning amid evolving market dynamics. The AMD Trade ARK Innovation ETF fund reduced its stake in Advanced...",
             "published": "2026-05-10T21:31:27Z",
@@ -4124,7 +4124,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.419473",
+            "collected_at": "2026-05-12T06:40:20.646586",
             "title": "Update: Gold Steady as the U.S. Dismisses Iran's Peace Demands",
             "summary": "(Updates prices.) Gold was steady midafternoon Monday after the United States rejected Iran's res",
             "published": "2026-05-11T18:00:08Z",
@@ -4133,7 +4133,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.419487",
+            "collected_at": "2026-05-12T06:40:20.646600",
             "title": "This Bitcoin Price Engine Just Turned Back On",
             "summary": "If it does, the bitcoin price is likely to react, and it may be happening already.  The iShares Bitcoin Trust ETF climbed on Monday, outperforming the SPDR Gold Shares ETF.  One of Strategy's two big engines for financing bitcoin purchases has just turned back on for the first time since April 14.",
             "published": "2026-05-11T17:07:56Z",
@@ -4142,7 +4142,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-12T06:40:11.419490",
+            "collected_at": "2026-05-12T06:40:20.646603",
             "title": "SPDR Gold Shares vs iShares Gold Trust Fees Liquidity Compared",
             "summary": "Expense ratios and trading volumes set these two gold ETFs apart, shaping their appeal for different investor priorities and strategies.",
             "published": "2026-05-11T13:35:02Z",
