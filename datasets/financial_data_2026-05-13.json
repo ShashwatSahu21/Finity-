@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-13T16:19:20.761644",
+    "collection_timestamp": "2026-05-13T16:19:32.636859",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-13T16:19:13.452285",
+            "timestamp": "2026-05-13T16:19:28.107138",
             "price": 23412.599609375,
             "change": 50.150390625,
             "open": 23362.44921875,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-13T16:19:13.905336",
+            "timestamp": "2026-05-13T16:19:28.335919",
             "price": 74608.9765625,
             "change": 169.6328125,
             "open": 74439.34375,
@@ -394,13 +394,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-13T16:19:14.222943",
-            "price": 78868.8984375,
-            "change": -1605.0859375,
+            "timestamp": "2026-05-13T16:19:28.590989",
+            "price": 78876.0078125,
+            "change": -1597.9765625,
             "open": 80473.984375,
             "high": 81265.375,
             "low": 78742.8046875,
-            "volume": 33078642688,
+            "volume": 32977786880,
             "news": [
                 {
                     "id": "b9f6856c-ece4-4674-8c65-c18c730107d7",
@@ -773,7 +773,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-13T16:19:14.706606",
+            "timestamp": "2026-05-13T16:19:28.854168",
             "price": 1358.800048828125,
             "change": -2.5999755859375,
             "open": 1361.4000244140625,
@@ -1095,7 +1095,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-13T16:19:15.111059",
+            "timestamp": "2026-05-13T16:19:29.172795",
             "price": 2272.800048828125,
             "change": -33.199951171875,
             "open": 2306.0,
@@ -1417,7 +1417,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-13T16:19:15.664638",
+            "timestamp": "2026-05-13T16:19:29.475717",
             "price": 749.5999755859375,
             "change": -2.4000244140625,
             "open": 752.0,
@@ -1701,7 +1701,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-13T16:19:16.107576",
+            "timestamp": "2026-05-13T16:19:29.760059",
             "price": 1123.0999755859375,
             "change": -13.5,
             "open": 1136.5999755859375,
@@ -2023,13 +2023,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-13T16:19:16.599433",
-            "price": 296.93499755859375,
-            "change": 3.30499267578125,
+            "timestamp": "2026-05-13T16:19:30.030457",
+            "price": 296.94000244140625,
+            "change": 3.30999755859375,
             "open": 293.6300048828125,
             "high": 298.010009765625,
             "low": 293.55999755859375,
-            "volume": 18163754,
+            "volume": 18168959,
             "news": [
                 {
                     "id": "d692d73b-124b-4d18-9198-596144d3dba0",
@@ -2402,13 +2402,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-13T16:19:17.074614",
-            "price": 404.9800109863281,
-            "change": 2.010009765625,
+            "timestamp": "2026-05-13T16:19:30.268204",
+            "price": 404.94000244140625,
+            "change": 1.970001220703125,
             "open": 402.9700012207031,
             "high": 405.4700012207031,
             "low": 401.0299987792969,
-            "volume": 11342797,
+            "volume": 11348466,
             "news": [
                 {
                     "id": "c8c0ea27-5a42-4cba-9183-6bb662826c8b",
@@ -2781,13 +2781,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-13T16:19:18.256587",
-            "price": 398.79998779296875,
-            "change": 13.42999267578125,
+            "timestamp": "2026-05-13T16:19:30.570660",
+            "price": 398.69500732421875,
+            "change": 13.32501220703125,
             "open": 385.3699951171875,
             "high": 399.38958740234375,
             "low": 385.010986328125,
-            "volume": 11960794,
+            "volume": 11971538,
             "news": [
                 {
                     "id": "c8c0ea27-5a42-4cba-9183-6bb662826c8b",
@@ -3141,13 +3141,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-13T16:19:18.635770",
-            "price": 449.3800048828125,
-            "change": 12.70001220703125,
+            "timestamp": "2026-05-13T16:19:30.856998",
+            "price": 449.6370849609375,
+            "change": 12.95709228515625,
             "open": 436.67999267578125,
             "high": 453.3999938964844,
             "low": 430.2099914550781,
-            "volume": 39496473,
+            "volume": 39516839,
             "news": [
                 {
                     "id": "d692d73b-124b-4d18-9198-596144d3dba0",
@@ -3512,32 +3512,32 @@
                     }
                 },
                 {
-                    "id": "c35dc59a-884c-329b-b03a-248073b27274",
+                    "id": "9c5d8ab4-764b-3436-ad45-39376ce51c2c",
                     "content": {
-                        "id": "c35dc59a-884c-329b-b03a-248073b27274",
+                        "id": "9c5d8ab4-764b-3436-ad45-39376ce51c2c",
                         "contentType": "STORY",
-                        "title": "‘Power-Chip’ Stock Wolfspeed Gets a New Recommendation—and the Stock Is Soaring",
+                        "title": "Trump Lands In China With $16 Trillion Of CEO Power — And One Big Ask For Xi",
                         "description": "",
-                        "summary": "Wolfspeed  stock was surging on Wednesday after Citrini Research—best known for its viral blog posts about AI wrecking the economy and the Strait of Hormuz—recommended the power-chip maker.  Fellow power chip stock  Navitas Semiconductor  rose 3.6%, while  Vicor  slid 0.9% and  Monolithic Power Systems  was up 1.8%.  Citrini analysts published a memo on semiconductors on Tuesday, highlighting Wolfspeed as a stock that can benefit from the AI boom.",
-                        "pubDate": "2026-05-13T15:11:00Z",
-                        "displayTime": "2026-05-13T15:11:00Z",
-                        "isHosted": false,
+                        "summary": "President Donald Trump landed in China Wednesday for a high-stakes meeting with President Xi Jinping, bringing with him a roster of corporate heavyweights that underscores the market stakes behind the diplomacy. NVDA stock is trading at all-time highs. See the chart and price action here. Trump previewed the trip on Truth Social by saying he would ask Xi to \"open up China\" so U.S. business leaders could \"work their magic,\" adding, \"I will make that my very first request.\" The comment points to a",
+                        "pubDate": "2026-05-13T16:14:15Z",
+                        "displayTime": "2026-05-13T16:14:15Z",
+                        "isHosted": true,
                         "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/c35dc59a-884c-329b-b03a-248073b27274/%E2%80%98power-chip%E2%80%99-stock-wolfspeed.html",
+                        "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/933844320daafae497c10eeb0155cc34",
-                            "originalWidth": 1280,
-                            "originalHeight": 640,
+                            "originalUrl": "https://media.zenfs.com/en/Benzinga/91ec4d1457974dab01e960ec637b7a3b",
+                            "originalWidth": 1024,
+                            "originalHeight": 683,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jGzBRrXRnnzhtmpIxZerkw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/933844320daafae497c10eeb0155cc34",
-                                    "width": 1280,
-                                    "height": 640,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/OsD.WDiF_tUCz611UFNJHg--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/91ec4d1457974dab01e960ec637b7a3b",
+                                    "width": 1024,
+                                    "height": 683,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/5bmpde7WKoTbx8Y9ZwpLXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/933844320daafae497c10eeb0155cc34",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/7oEt2w8ds1CD7EXH.3duHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/91ec4d1457974dab01e960ec637b7a3b",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3545,17 +3545,22 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Barrons.com",
-                            "url": "http://www.barrons.com/",
-                            "sourceId": "Barrons.com"
+                            "displayName": "Benzinga",
+                            "url": "http://www.benzinga.com/",
+                            "sourceId": "Benzinga"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.barrons.com/articles/wolfspeed-stock-power-chips-c0529050?siteid=yhoof2&yptr=yahoo",
+                            "url": "https://finance.yahoo.com/news/trump-lands-china-16-trillion-161415279.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "clickThroughUrl": null,
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/news/trump-lands-china-16-trillion-161415279.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
                         "metadata": {
                             "editorsPick": false
                         },
@@ -3572,13 +3577,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-13T16:19:19.036275",
-            "price": 226.97500610351562,
-            "change": 2.045013427734375,
+            "timestamp": "2026-05-13T16:19:31.130020",
+            "price": 227.02000427246094,
+            "change": 2.0900115966796875,
             "open": 224.92999267578125,
             "high": 227.83999633789062,
             "low": 221.5653076171875,
-            "volume": 84030147,
+            "volume": 84090103,
             "news": [
                 {
                     "id": "46ec1b84-e3a3-4b8d-a8ed-18bea82c093e",
@@ -3989,9 +3994,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-13T16:19:19.442373",
-            "price": 2244.239990234375,
-            "change": -30.170654296875,
+            "timestamp": "2026-05-13T16:19:31.385071",
+            "price": 2243.820068359375,
+            "change": -30.590576171875,
             "open": 2274.41064453125,
             "high": 2321.587890625,
             "low": 2235.59130859375,
@@ -4314,7 +4319,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.722694",
+            "collected_at": "2026-05-13T16:19:31.605378",
             "title": "S&P 500, Nasdaq under pressure as chip stocks see red",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed ahead of Tuesday's market close as the Nasdaq Composite drops by over 1%, pushed lower by declines in chip stocks. Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the market reaction to the April Consumer Price Index (CPI) report released this morning.",
             "published": "2026-05-12T19:14:34Z",
@@ -4323,7 +4328,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.722707",
+            "collected_at": "2026-05-13T16:19:31.605390",
             "title": "US Equity Indexes Mixed as Hot Producer Prices Push Dow Jones Industrial Average Lower",
             "summary": "US equity indexes traded mixed in midday trading on Wednesday amid a hot producer price inflation pr",
             "published": "2026-05-13T16:16:18Z",
@@ -4332,7 +4337,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.722710",
+            "collected_at": "2026-05-13T16:19:31.605393",
             "title": "Top Midday Stories: Overall, Core PPI in April Hit Highest Levels Since December 2022; Alibaba Misses Fiscal Q4 Earnings, Revenue Estimates",
             "summary": "The Dow Jones Industrial Average was down, while the Nasdaq Composite and the S&P 500 Index were up",
             "published": "2026-05-13T15:52:19Z",
@@ -4341,7 +4346,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.840198",
+            "collected_at": "2026-05-13T16:19:31.710434",
             "title": "Micron stock in focus as Wall Street weighs AI demand outlook",
             "summary": "Yahoo Finance Senior Business Reporter Ines Ferré and Northwestern Mutual Wealth Management Company CIO Brent Schutte join Brian Sozzi on Opening Bid to discuss today’s Stock of the Day: Micron (MU).",
             "published": "2026-05-13T14:21:58Z",
@@ -4350,7 +4355,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.840215",
+            "collected_at": "2026-05-13T16:19:31.710448",
             "title": "2 Reasons to Watch VMI and 1 to Stay Cautious",
             "summary": "Over the past six months, Valmont has been a great trade, beating the S&P 500 by 17.9%. Its stock price has climbed to $510.77, representing a healthy 25% increase. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
             "published": "2026-05-13T15:56:55Z",
@@ -4359,7 +4364,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:19.945739",
+            "collected_at": "2026-05-13T16:19:31.818815",
             "title": "Tech stocks today: Cook, Musk, and Huang join Trump for China trip, OpenAI trial continues",
             "summary": "The tech sector helped US stocks cruise to all-time highs last week, as the artificial intelligence boom broadened.",
             "published": "2026-05-11T10:00:00Z",
@@ -4368,7 +4373,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.099358",
+            "collected_at": "2026-05-13T16:19:31.937761",
             "title": "Semiconductor ETFs are booming, but they're not the only ones",
             "summary": "Roundhill Memory (DRAM), a new memory exchange-traded fund (ETF), has been surging since its April launch. BNY global head of ETFs Ben Slavin joins Yahoo Finance to discuss the ETF's record growth, his outlook for semiconductor (SOXX) ETFs, and more.",
             "published": "2026-05-13T15:35:47Z",
@@ -4377,7 +4382,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.099372",
+            "collected_at": "2026-05-13T16:19:31.937774",
             "title": "i-80 Gold Reports Q1 2026 Results: Full Earnings Call Transcript",
             "summary": "i-80 Gold (AMEX:IAUX) released first-quarter financial results and hosted an earnings call on Wednesday. Read the complete transcript below. Benzinga APIs provide real-time access to earnings call transcripts and financial data. Visit https://www.benzinga.com/apis/ to learn more. View the webcast at https://app.webinar.net/YWEQaPqn3wA Summary I-80 Gold Corp reported a strong start to 2026, highlighting the completion of a $1 billion recapitalization that secures funding for phase one and two of",
             "published": "2026-05-13T16:01:32Z",
@@ -4386,7 +4391,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.099374",
+            "collected_at": "2026-05-13T16:19:31.937776",
             "title": "Gold Slips as US Inflation Resurgence Raises Odds of Fed Hike",
             "summary": "(Bloomberg) -- Gold fell as the latest US data showed a resurgence in inflation, reinforcing bets that the Federal Reserve will keep interest rates higher for an extended period of time. Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaNvidia’s CEO Joins Trump in China With AI in the SpotlightMamdani Scraps Property Tax Hike, Counts Second-Home RevenueInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyBullion dropped as much as 1% Wednesday af",
             "published": "2026-05-13T15:31:15Z",
@@ -4395,7 +4400,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.208735",
+            "collected_at": "2026-05-13T16:19:32.075670",
             "title": "Why JPMorgan says the Strait of Hormuz will open by June 1",
             "summary": "Yahoo Finance Senior Business Reporter Ines Ferré shares recent developments on oil (CL=F, BZ=F) and gas prices, highlighting JPMorgan's (JPM) latest call.",
             "published": "2026-05-13T14:40:24Z",
@@ -4404,7 +4409,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.208749",
+            "collected_at": "2026-05-13T16:19:32.075683",
             "title": "How rising oil & gas prices drove up inflation in April",
             "summary": "Prices rose 0.6% month over month and 3.8% year over year in April, according to the latest Consumer Price Index (CPI) survey. Core CPI — which excludes food and energy costs — rose 0.4% monthly and 2.8% yearly. Yahoo Finance Senior Business Reporter Ines Ferré explains how rising oil (CL=F, BZ=F) and gasoline prices have been driving up inflation.",
             "published": "2026-05-12T19:28:24Z",
@@ -4413,7 +4418,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T16:19:20.208751",
+            "collected_at": "2026-05-13T16:19:32.075685",
             "title": "Is Select Water Solutions, Inc. (WTTR) A Good Stock To Buy Now?",
             "summary": "Is WTTR a good stock to buy? We came across a bullish thesis on Select Water Solutions, Inc. on Valueinvestorsclub.com by ChannelsTX. In this article, we will summarize the bulls’ thesis on WTTR. Select Water Solutions, Inc.’s share was trading at $16.42 as of May 1st. WTTR’s trailing and forward P/E were 78.19 and 38.31 respectively according […]",
             "published": "2026-05-13T16:07:26Z",
@@ -4424,7 +4429,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.309179",
+            "collected_at": "2026-05-13T16:19:32.207492",
+            "title": "Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations",
+            "summary": "Ben Carlson has a clean explanation for why the S&P 500 keeps grinding higher even when valuations look stretched and consumer sentiment sits in the dumps. The answer is the automatic plumbing of 401(k)s and IRAs that drips money into stocks every two weeks whether anyone feels good about the market or not. Speaking with ... Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations",
+            "published": "2026-05-13T16:05:59Z",
+            "provider": "24/7 Wall St."
+        },
+        {
+            "source_ticker": "SPY",
+            "category": "investment",
+            "collected_at": "2026-05-13T16:19:32.207504",
             "title": "The Cerebras IPO Is Tomorrow — And Markets Are Flashing A Major Sell Signal",
             "summary": "The 2020s might enter the history books as an era where the market skipped the stairs and kept taking the elevator either way. The recent surge since the beginning of Q2 is the best example. According to BullTheory, U.S. equities added nearly $10 trillion in market capitalization in just 39 trading days. Yet, the realized volatility has become highly asymmetric. On up days, it is running roughly seven times as much as on down days. Historically, that kind of imbalance tends to appear near exhaus",
             "published": "2026-05-13T15:56:23Z",
@@ -4433,25 +4447,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.309193",
+            "collected_at": "2026-05-13T16:19:32.207507",
             "title": "S&P 500 vs Nasdaq-100: What's the Better Index to Track Right Now?",
             "summary": "Tracking an index through an exchange-traded fund can be an easy way for investors to diversify and gain exposure to many top stocks.",
             "published": "2026-05-13T14:20:00Z",
             "provider": "Motley Fool"
         },
         {
-            "source_ticker": "SPY",
-            "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.309196",
-            "title": "Producer Inflation Shock: PPI Spikes To 6%, Fanning Fed Hike Fears (UPDATED)",
-            "summary": "Editor’s note: This article was updated to add details and context. U.S. producer prices jumped the most since 2022 last month as the Strait of Hormuz energy shock continued to feed through the inflation pipeline, adding fresh concerns over the Federal Reserve’s rate outlook. The rate of increase in the headline Producer Price Index climbed from an upwardly revised 4.3% year-over-year in March to a whopping 6% in April, the Bureau of Labor Statistics reported Wednesday. The outcome largely toppe",
-            "published": "2026-05-13T13:23:46Z",
-            "provider": "Benzinga"
-        },
-        {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.424813",
+            "collected_at": "2026-05-13T16:19:32.313260",
             "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
             "published": "2026-05-13T13:13:21Z",
@@ -4460,7 +4465,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.424827",
+            "collected_at": "2026-05-13T16:19:32.313273",
             "title": "Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA",
             "summary": "Good Morning Traders! Today's economic calendar for Wednesday is lighter overall, but markets will still be closely watching inflation related data and Treasury activity. The key release comes at 8:30AM ET with Producer Price Index data, including headline and core PPI figures, which will provide additional insight into inflation pressures following yesterday's CPI report. Markets may react sharply if producer inflation comes in materially above or below expectations. Additional events include c",
             "published": "2026-05-13T12:15:48Z",
@@ -4469,7 +4474,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.424829",
+            "collected_at": "2026-05-13T16:19:32.313276",
             "title": "Best ETFs to Buy After Hot Inflation Data",
             "summary": "<p>Looking for the best ETFs for inflation 2026? After April CPI hit 3.8%, here's how bond ETFs, TIPS, small caps, and energy funds are reacting — and what to buy now.</p>",
             "published": "2026-05-12T23:34:21Z",
@@ -4478,7 +4483,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.542624",
+            "collected_at": "2026-05-13T16:19:32.417162",
             "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "summary": "The Vanguard Total Stock Market Index Fund Institutional Plus Shares (VSMPX) is one of the largest pooled equity vehicles in the world, but most readers searching for it cannot actually buy it. VSMPX is a mutual fund share class, not an ETF, and Vanguard reserves it for institutional clients writing checks measured in hundreds of ... VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "published": "2026-05-12T15:15:35Z",
@@ -4487,7 +4492,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.542638",
+            "collected_at": "2026-05-13T16:19:32.417175",
             "title": "VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "summary": "If your equity sleeve has more than two or three funds, Vanguard Total Stock Market Index Fund Admiral Shares (NASDAQ:VTSAX) is the case for simplifying. VTSAX owns essentially the entire investable U.S. stock market in one wrapper, charges almost nothing, and has compounded at a rate that has embarrassed most actively managed funds over the ... VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "published": "2026-05-12T11:10:02Z",
@@ -4496,7 +4501,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.542641",
+            "collected_at": "2026-05-13T16:19:32.417177",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4505,7 +4510,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.646511",
+            "collected_at": "2026-05-13T16:19:32.528477",
             "title": "Cathie Wood buys popular crypto stock despite revenue miss",
             "summary": "A major Wall Street bull added to one of the market’s hottest trades, even after the stock had already surged sharply following earnings. Shares of stablecoin issuer Circle climbed to their highest level since March this week, as investors looked past a revenue miss and focused instead on explosive ...",
             "published": "2026-05-12T22:33:51Z",
@@ -4514,7 +4519,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.646525",
+            "collected_at": "2026-05-13T16:19:32.528489",
             "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
             "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
             "published": "2026-05-11T20:29:38Z",
@@ -4523,7 +4528,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.646528",
+            "collected_at": "2026-05-13T16:19:32.528491",
             "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
             "summary": "Cathie Wood, chief of Ark Investment Management, is known for making bold bets on fast-moving tech stocks. Sometimes her trades move just as quickly as the stocks themselves. In the week that began on May 3, Wood sold millions of dollars worth of shares in one high-flying AI company near recent ...",
             "published": "2026-05-10T22:32:34Z",
@@ -4532,7 +4537,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.761541",
+            "collected_at": "2026-05-13T16:19:32.636760",
             "title": "Gold Steady As USD Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "Gold was steady early Wednesday even as the dollar rose after a report showed U.S. wholesale inflati",
             "published": "2026-05-13T13:24:30Z",
@@ -4541,7 +4546,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T16:19:20.761557",
+            "collected_at": "2026-05-13T16:19:32.636776",
             "title": "Update: Gold Trading Lower as the Dollar and Yields Rise as U.S. Inflation Surged Last Month",
             "summary": "(Updates prices.) Gold moved lower midafternoon Tuesday, dropping for a second day as the dollar",
             "published": "2026-05-12T18:00:12Z",
