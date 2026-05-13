@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-13T19:30:25.954560",
+    "collection_timestamp": "2026-05-13T19:30:37.755015",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-13T19:30:20.940476",
+            "timestamp": "2026-05-13T19:30:32.895518",
             "price": 23412.599609375,
             "change": 50.150390625,
             "open": 23362.44921875,
@@ -263,7 +263,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-13T19:30:21.377199",
+            "timestamp": "2026-05-13T19:30:33.148398",
             "price": 74608.9765625,
             "change": 169.6328125,
             "open": 74439.34375,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-13T19:30:21.641195",
-            "price": 79487.96875,
-            "change": -986.015625,
+            "timestamp": "2026-05-13T19:30:33.395769",
+            "price": 79471.671875,
+            "change": -1002.3125,
             "open": 80473.984375,
             "high": 81265.375,
             "low": 78742.8046875,
@@ -697,7 +697,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-13T19:30:21.906313",
+            "timestamp": "2026-05-13T19:30:33.857721",
             "price": 1358.800048828125,
             "change": -2.5999755859375,
             "open": 1361.4000244140625,
@@ -1019,7 +1019,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-13T19:30:22.241090",
+            "timestamp": "2026-05-13T19:30:34.197471",
             "price": 2272.800048828125,
             "change": -33.199951171875,
             "open": 2306.0,
@@ -1341,7 +1341,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-13T19:30:22.551082",
+            "timestamp": "2026-05-13T19:30:34.497047",
             "price": 749.5999755859375,
             "change": -2.4000244140625,
             "open": 752.0,
@@ -1625,7 +1625,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-13T19:30:22.810629",
+            "timestamp": "2026-05-13T19:30:34.812254",
             "price": 1123.0999755859375,
             "change": -13.5,
             "open": 1136.5999755859375,
@@ -1947,13 +1947,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-13T19:30:23.172622",
-            "price": 299.1199035644531,
-            "change": 5.489898681640625,
+            "timestamp": "2026-05-13T19:30:35.116546",
+            "price": 299.06500244140625,
+            "change": 5.43499755859375,
             "open": 293.6300048828125,
             "high": 300.9200134277344,
             "low": 293.55999755859375,
-            "volume": 34479454,
+            "volume": 34496621,
             "news": [
                 {
                     "id": "421bac1e-301a-4bbf-972a-c9652a799ae1",
@@ -2326,13 +2326,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-13T19:30:23.423450",
+            "timestamp": "2026-05-13T19:30:35.448314",
             "price": 404.3900146484375,
             "change": 1.420013427734375,
             "open": 402.9700012207031,
             "high": 406.30999755859375,
             "low": 401.0299987792969,
-            "volume": 18007202,
+            "volume": 18212134,
             "news": [
                 {
                     "id": "c8c0ea27-5a42-4cba-9183-6bb662826c8b",
@@ -2686,13 +2686,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-13T19:30:23.775476",
-            "price": 403.0299987792969,
-            "change": 17.660003662109375,
+            "timestamp": "2026-05-13T19:30:35.734118",
+            "price": 403.139892578125,
+            "change": 17.7698974609375,
             "open": 385.3699951171875,
             "high": 403.70001220703125,
             "low": 385.010986328125,
-            "volume": 19901339,
+            "volume": 19910350,
             "news": [
                 {
                     "id": "c8c0ea27-5a42-4cba-9183-6bb662826c8b",
@@ -3060,13 +3060,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-13T19:30:24.047368",
+            "timestamp": "2026-05-13T19:30:35.999789",
             "price": 445.0799865722656,
             "change": 8.399993896484375,
             "open": 436.67999267578125,
             "high": 453.3999938964844,
             "low": 430.2099914550781,
-            "volume": 57965735,
+            "volume": 57982751,
             "news": [
                 {
                     "id": "421bac1e-301a-4bbf-972a-c9652a799ae1",
@@ -3496,13 +3496,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-13T19:30:24.525763",
-            "price": 226.72999572753906,
-            "change": 1.8000030517578125,
+            "timestamp": "2026-05-13T19:30:36.270031",
+            "price": 226.7100067138672,
+            "change": 1.7800140380859375,
             "open": 224.92999267578125,
             "high": 227.83999633789062,
             "low": 221.5653076171875,
-            "volume": 119051184,
+            "volume": 119073292,
             "news": [
                 {
                     "id": "8d4c0f74-0716-4b6b-b695-4922be57ae4a",
@@ -3927,9 +3927,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-13T19:30:24.750182",
-            "price": 2253.56005859375,
-            "change": -20.8505859375,
+            "timestamp": "2026-05-13T19:30:36.521756",
+            "price": 2253.47998046875,
+            "change": -20.9306640625,
             "open": 2274.41064453125,
             "high": 2321.587890625,
             "low": 2235.59130859375,
@@ -4252,7 +4252,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:24.952784",
+            "collected_at": "2026-05-13T19:30:36.733857",
             "title": "1 Dow Jones Stock Worth Your Attention and 2 We Ignore",
             "summary": "The Dow Jones (^DJI) is made up of 30 of the most established and influential companies in the market. But even blue-chip stocks can struggle - some are dealing with slowing growth, outdated business models, or increasing competition.",
             "published": "2026-05-13T19:16:55Z",
@@ -4261,7 +4261,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:24.952799",
+            "collected_at": "2026-05-13T19:30:36.733872",
             "title": "Stock Market Today: Nasdaq Up As Nvidia, Micron, Astera Labs Rise; Telecom Play Retakes Entry Point (Live Coverage)",
             "summary": "The Dow Jones index fell but Nvidia, Sandisk, Micron and Intel buoyed techs as the Trump-Xi summit looms. Nextpower, Nebius are big earnings winners.",
             "published": "2026-05-13T19:16:36Z",
@@ -4270,7 +4270,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:24.952801",
+            "collected_at": "2026-05-13T19:30:36.733874",
             "title": "SCHD Has the Scale. HDV Has the Energy Tilt. Which Dividend ETF Fits Your Portfolio?",
             "summary": "Expense ratios, sector tilts, and risk profiles set these two dividend ETFs apart—see how their strategies shape income and growth potential for investors.",
             "published": "2026-05-13T18:54:23Z",
@@ -4279,7 +4279,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.107971",
+            "collected_at": "2026-05-13T19:30:36.845960",
             "title": "Micron stock in focus as Wall Street weighs AI demand outlook",
             "summary": "Yahoo Finance Senior Business Reporter Ines Ferré and Northwestern Mutual Wealth Management Company CIO Brent Schutte join Brian Sozzi on Opening Bid to discuss today’s Stock of the Day: Micron (MU).",
             "published": "2026-05-13T14:21:58Z",
@@ -4288,7 +4288,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.107989",
+            "collected_at": "2026-05-13T19:30:36.845978",
             "title": "Higher Total Return vs. Broader Diversification: Vanguard Mega Cap Growth ETF or iShares S&P 500",
             "summary": "With fewer holdings and a tech-heavy tilt, Vanguard's ETF delivered a sharper five-year climb -- alongside deeper drawdowns -- than its broader peer.",
             "published": "2026-05-13T19:15:18Z",
@@ -4297,7 +4297,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.220380",
+            "collected_at": "2026-05-13T19:30:36.947231",
             "title": "Why Palantir Stock Is Sinking Today",
             "summary": "The stock market is rebounding today, but Palantir isn't taking part in the rally.",
             "published": "2026-05-13T19:10:51Z",
@@ -4306,7 +4306,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.220383",
+            "collected_at": "2026-05-13T19:30:36.947234",
             "title": "The Trade Desk Stock Is Moving Today — Here's What The Chart Is Signaling",
             "summary": "The Trade Desk Inc (NASDAQ:TTD) shares are dropping Wednesday, extending a slide that has been in place for months. The stock continues to lag even as broader risk appetite improves, with the Nasdaq and S&P 500 both advancing. Trade Desk stock is showing notable weakness. What’s behind TTD decline? A Chart That Continues To Reject Strength TTD remains well below every major moving average, and the distance from those trend markers shows how much ground the stock has lost. Price sits nearly 12% u",
             "published": "2026-05-13T19:06:51Z",
@@ -4315,7 +4315,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.327665",
+            "collected_at": "2026-05-13T19:30:37.042320",
             "title": "Semiconductor ETFs are booming, but they're not the only ones",
             "summary": "Roundhill Memory (DRAM), a new memory exchange-traded fund (ETF), has been surging since its April launch. BNY global head of ETFs Ben Slavin joins Yahoo Finance to discuss the ETF's record growth, his outlook for semiconductor (SOXX) ETFs, and more.",
             "published": "2026-05-13T15:35:47Z",
@@ -4324,7 +4324,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.327679",
+            "collected_at": "2026-05-13T19:30:37.042334",
             "title": "Update: Gold Edges Up Even as the Dollar Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "(Updates prices.) Gold edged higher midafternoon Wednesday even as the dollar rose after a repor",
             "published": "2026-05-13T18:00:08Z",
@@ -4333,7 +4333,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.327682",
+            "collected_at": "2026-05-13T19:30:37.042337",
             "title": "VCI Global (VCIG) Secures Strategic Investment, EPC Role in Brazilian Gold Mining Asset",
             "summary": "VCI Global Limited (NASDAQ:VCIG) is one of the worst performing NASDAQ stocks so far in 2026. On May 7, VCI Global entered a binding term sheet for a strategic investment in a Brazilian gold mining asset estimated to contain 59.9 tonnes of gold. The company will act as the Engineering, Procurement, and Construction partner and […]",
             "published": "2026-05-13T17:46:53Z",
@@ -4342,7 +4342,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.435353",
+            "collected_at": "2026-05-13T19:30:37.184271",
             "title": "Kevin Warsh confirmed new Fed chair as inflation kicks higher, complicating the central bank's path",
             "summary": "The US Senate on Wednesday confirmed Kevin Warsh as the new chairman of the Federal Reserve.",
             "published": "2026-05-13T16:43:03Z",
@@ -4351,7 +4351,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.435367",
+            "collected_at": "2026-05-13T19:30:37.184286",
             "title": "Energy sector has 'reinvigorated opportunities' amid volatile oil prices",
             "summary": "Rising energy (XLE) and oil prices (CL=F, BZ=F) drove a good chunk of the inflation illustrated in April's Consumer Price Index (CPI) report, egged on by the prolonged US-Iran war and the closure of the Strait of Hormuz. Jefferies managing director Julien Dumoulin-Smith shares his outlook on the energy and utility (XLU) sectors and where they may benefit from these volatile swings in the global energy trade.",
             "published": "2026-05-12T20:21:05Z",
@@ -4360,7 +4360,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T19:30:25.435369",
+            "collected_at": "2026-05-13T19:30:37.184289",
             "title": "May, June CPI may be higher if oil prices remain elevated: Economist",
             "summary": "April's Consumer Price Index (CPI) report illustrated that inflation on consumer prices rose by 3.8% year-over-year, above economists' estimates of 3.7%. Core CPI — which excludes food and energy prices — rose 0.4% monthly and 2.8% annually. Interactive Brokers senior economist José Torres outlines the trends that could materialize in the May and June CPI reports if crude oil prices (CL=F, BZ=F) remain elevated, as well as how Federal Reserve officials may react to these inflation trends.",
             "published": "2026-05-12T19:36:24Z",
@@ -4371,7 +4371,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.536920",
+            "collected_at": "2026-05-13T19:30:37.290990",
             "title": "How Can Palantir Be Down 26% in 2026 When Stocks Are Near All-Time Highs?",
             "summary": "Shares of Palantir Technologies (NASDAQ:PLTR) are trading near $130 in midday action on Wednesday, down 4% on the day. That extends a punishing year for the AI software name, which is now off roughly 26% in 2026. The contrast with the broader market is stark. The SPDR S&P 500 ETF (NYSEARCA:SPY) is up 9% year-to-date ... How Can Palantir Be Down 26% in 2026 When Stocks Are Near All-Time Highs?",
             "published": "2026-05-13T17:42:36Z",
@@ -4380,7 +4380,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.536935",
+            "collected_at": "2026-05-13T19:30:37.291004",
             "title": "Housing Stocks Are in Depression Mode. Whirlpool Down 81%, Lennar Crashed 54% While the S&P 500 Soars.",
             "summary": "The S&P 500 is at fresh highs while a giant chunk of the real economy sits in a deep freeze. On a recent episode of The Compound and Friends, Michael Batnick and Josh Brown spent a segment unpacking why housing-adjacent stocks have collapsed even as home prices across major metros stay stable. The distinction matters: ... Housing Stocks Are in Depression Mode. Whirlpool Down 81%, Lennar Crashed 54% While the S&P 500 Soars.",
             "published": "2026-05-13T16:21:26Z",
@@ -4389,7 +4389,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.536937",
+            "collected_at": "2026-05-13T19:30:37.291006",
             "title": "Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations",
             "summary": "Ben Carlson has a clean explanation for why the S&P 500 keeps grinding higher even when valuations look stretched and consumer sentiment sits in the dumps. The answer is the automatic plumbing of 401(k)s and IRAs that drips money into stocks every two weeks whether anyone feels good about the market or not. Speaking with ... Ben Carlson Explains Why Automatic 401(k) Contributions Keep Markets Rising Despite High Valuations",
             "published": "2026-05-13T16:05:59Z",
@@ -4398,7 +4398,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.642332",
+            "collected_at": "2026-05-13T19:30:37.402520",
             "title": "Stock Market Today: Nasdaq 100 Rises Despite Hot PPI, Nvidia Hits Record High",
             "summary": "Tech stocks ripped higher on Wednesday despite a sharply hotter-than-expected April Producer Price Index reading that rekindled inflation anxieties and rate-hike fears, as strength in semiconductors fueled investor sentiment. Nvidia Corp. (NASDAQ:NVDA) rallied for the sixth straight session to above $226 per share, with the company’s market cap soaring above $5.5 trillion ahead of next week’s highly awaited earnings report. Speaking via Truth Social shortly before landing in Beijing, Trump told",
             "published": "2026-05-13T17:38:46Z",
@@ -4407,7 +4407,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.642347",
+            "collected_at": "2026-05-13T19:30:37.402535",
             "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded fund IWM edged lower and IVV rose. Active",
             "published": "2026-05-13T17:09:27Z",
@@ -4416,7 +4416,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.642349",
+            "collected_at": "2026-05-13T19:30:37.402537",
             "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
             "published": "2026-05-13T13:13:21Z",
@@ -4425,7 +4425,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.752138",
+            "collected_at": "2026-05-13T19:30:37.517769",
             "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "summary": "The Vanguard Total Stock Market Index Fund Institutional Plus Shares (VSMPX) is one of the largest pooled equity vehicles in the world, but most readers searching for it cannot actually buy it. VSMPX is a mutual fund share class, not an ETF, and Vanguard reserves it for institutional clients writing checks measured in hundreds of ... VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "published": "2026-05-12T15:15:35Z",
@@ -4434,7 +4434,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.752153",
+            "collected_at": "2026-05-13T19:30:37.517783",
             "title": "VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "summary": "If your equity sleeve has more than two or three funds, Vanguard Total Stock Market Index Fund Admiral Shares (NASDAQ:VTSAX) is the case for simplifying. VTSAX owns essentially the entire investable U.S. stock market in one wrapper, charges almost nothing, and has compounded at a rate that has embarrassed most actively managed funds over the ... VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "published": "2026-05-12T11:10:02Z",
@@ -4443,7 +4443,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.752156",
+            "collected_at": "2026-05-13T19:30:37.517785",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4452,7 +4452,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.852189",
+            "collected_at": "2026-05-13T19:30:37.617907",
             "title": "Cathie Wood, Ross Gerber Snap Up The Same 10 Stocks — Here's The Unlikely Portfolio Crossover",
             "summary": "For retail investors, few names are more recognizable than Ross Gerber and Cathie Wood. Both are known for their high-profile media appearances, active social media followings and ETFs built around their investment strategies. The AdvisorShares Gerber Kawasaki ETF (NYSE:GK), launched back in 2021, tracks picks from Gerber's firm. Meanwhile, Wood, as the CEO of Ark Invest, has multiple ETFs. Ark Autonomous Technology & Robotics ETF (BATS:ARKQ) Ark Innovation ETF (BATS:ARKK) Ark Next Generation In",
             "published": "2026-05-13T18:41:16Z",
@@ -4461,7 +4461,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.852204",
+            "collected_at": "2026-05-13T19:30:37.617921",
             "title": "Cathie Wood Bets On Kalshi, But Her Ark Innovation ETF Hasn't Been Great At Timing Winners",
             "summary": "Cathie Wood‘s ARK Invest joined Kalshi’s $1 billion Series F last week at a $22 billion valuation, slotting the prediction market behind only SpaceX and OpenAI in the ARK Venture Fund. Wood called prediction markets “a powerful new layer of financial infrastructure.” Kalshi will be hoping this prediction is more accurate than many of her previous ones. A Decade Of Big Calls That Did Not Land Morningstar analyst Amy Arnott labeled the ARK fund family the worst wealth destroyer of any U.S. fund gr",
             "published": "2026-05-13T18:31:34Z",
@@ -4470,7 +4470,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.852207",
+            "collected_at": "2026-05-13T19:30:37.617924",
             "title": "Cathie Wood buys popular crypto stock despite revenue miss",
             "summary": "A major Wall Street bull added to one of the market’s hottest trades, even after the stock had already surged sharply following earnings. Shares of stablecoin issuer Circle climbed to their highest level since March this week, as investors looked past a revenue miss and focused instead on explosive ...",
             "published": "2026-05-12T22:33:51Z",
@@ -4479,7 +4479,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.954456",
+            "collected_at": "2026-05-13T19:30:37.754908",
             "title": "Update: Gold Edges Up Even as the Dollar Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "(Updates prices.) Gold edged higher midafternoon Wednesday even as the dollar rose after a repor",
             "published": "2026-05-13T18:00:08Z",
@@ -4488,7 +4488,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T19:30:25.954471",
+            "collected_at": "2026-05-13T19:30:37.754924",
             "title": "Gold Steady As USD Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "Gold was steady early Wednesday even as the dollar rose after a report showed U.S. wholesale inflati",
             "published": "2026-05-13T13:24:30Z",
