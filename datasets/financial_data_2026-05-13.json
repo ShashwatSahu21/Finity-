@@ -1,11 +1,11 @@
 {
-    "collection_timestamp": "2026-05-13T09:36:33.051596",
+    "collection_timestamp": "2026-05-13T09:36:42.359755",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-13T09:36:29.632088",
-            "price": 23404.650390625,
-            "change": 42.201171875,
+            "timestamp": "2026-05-13T09:36:38.958210",
+            "price": 23405.75,
+            "change": 43.30078125,
             "open": 23362.44921875,
             "high": 23582.94921875,
             "low": 23262.55078125,
@@ -263,9 +263,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-13T09:36:29.807201",
-            "price": 74813.6796875,
-            "change": 374.3359375,
+            "timestamp": "2026-05-13T09:36:39.178275",
+            "price": 74809.8203125,
+            "change": 370.4765625,
             "open": 74439.34375,
             "high": 75191.5703125,
             "low": 74134.4765625,
@@ -394,9 +394,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-13T09:36:29.915654",
-            "price": 81239.109375,
-            "change": 765.125,
+            "timestamp": "2026-05-13T09:36:39.293297",
+            "price": 81237.96875,
+            "change": 763.984375,
             "open": 80473.984375,
             "high": 81265.375,
             "low": 80427.0390625,
@@ -768,13 +768,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-13T09:36:30.105360",
-            "price": 1358.0,
-            "change": -3.4000244140625,
+            "timestamp": "2026-05-13T09:36:39.470110",
+            "price": 1357.800048828125,
+            "change": -3.5999755859375,
             "open": 1361.4000244140625,
             "high": 1372.4000244140625,
             "low": 1352.4000244140625,
-            "volume": 11742255,
+            "volume": 11752900,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1090,13 +1090,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-13T09:36:30.328407",
-            "price": 2274.199951171875,
-            "change": -31.800048828125,
+            "timestamp": "2026-05-13T09:36:39.652342",
+            "price": 2273.699951171875,
+            "change": -32.300048828125,
             "open": 2306.0,
             "high": 2309.199951171875,
             "low": 2272.800048828125,
-            "volume": 2766457,
+            "volume": 2770252,
             "news": [
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
@@ -1412,13 +1412,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-13T09:36:30.552887",
-            "price": 750.0499877929688,
-            "change": -1.95001220703125,
+            "timestamp": "2026-05-13T09:36:39.840966",
+            "price": 749.9000244140625,
+            "change": -2.0999755859375,
             "open": 752.0,
             "high": 759.9500122070312,
             "low": 747.3499755859375,
-            "volume": 25444102,
+            "volume": 25568664,
             "news": [
                 {
                     "id": "63f1b7e9-7ed8-3169-8ed6-70ae91b6cfb2",
@@ -1696,13 +1696,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-13T09:36:30.753603",
-            "price": 1121.699951171875,
-            "change": -14.9000244140625,
+            "timestamp": "2026-05-13T09:36:40.016207",
+            "price": 1121.5999755859375,
+            "change": -15.0,
             "open": 1136.5999755859375,
             "high": 1142.5999755859375,
             "low": 1121.0,
-            "volume": 5398021,
+            "volume": 5401039,
             "news": [
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
@@ -2018,7 +2018,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-13T09:36:30.936824",
+            "timestamp": "2026-05-13T09:36:40.221274",
             "price": 294.79998779296875,
             "change": 2.239990234375,
             "open": 292.55999755859375,
@@ -2392,7 +2392,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-13T09:36:31.155776",
+            "timestamp": "2026-05-13T09:36:40.480609",
             "price": 407.7699890136719,
             "change": -6.71002197265625,
             "open": 414.4800109863281,
@@ -2771,7 +2771,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-13T09:36:31.355946",
+            "timestamp": "2026-05-13T09:36:40.617503",
             "price": 387.3500061035156,
             "change": 0.010009765625,
             "open": 387.3399963378906,
@@ -3093,7 +3093,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-13T09:36:31.548343",
+            "timestamp": "2026-05-13T09:36:40.781613",
             "price": 433.45001220703125,
             "change": -7.959991455078125,
             "open": 441.4100036621094,
@@ -3519,7 +3519,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-13T09:36:31.708867",
+            "timestamp": "2026-05-13T09:36:40.938217",
             "price": 220.77999877929688,
             "change": 2.2299957275390625,
             "open": 218.5500030517578,
@@ -3898,9 +3898,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-13T09:36:31.891654",
-            "price": 2322.1201171875,
-            "change": 47.70947265625,
+            "timestamp": "2026-05-13T09:36:41.101351",
+            "price": 2321.7099609375,
+            "change": 47.29931640625,
             "open": 2274.41064453125,
             "high": 2319.353515625,
             "low": 2274.15234375,
@@ -4223,7 +4223,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.092897",
+            "collected_at": "2026-05-13T09:36:41.301629",
             "title": "S&P 500, Nasdaq under pressure as chip stocks see red",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed ahead of Tuesday's market close as the Nasdaq Composite drops by over 1%, pushed lower by declines in chip stocks. Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the market reaction to the April Consumer Price Index (CPI) report released this morning.",
             "published": "2026-05-12T19:14:34Z",
@@ -4232,7 +4232,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.092913",
+            "collected_at": "2026-05-13T09:36:41.301644",
             "title": "McDonald's stock is trading at a shocking low",
             "summary": "McDonald's shares haven't been this low since August 2024.",
             "published": "2026-05-12T11:40:36Z",
@@ -4241,7 +4241,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.092915",
+            "collected_at": "2026-05-13T09:36:41.301647",
             "title": "Kevin Warsh Wants to Change How You Think About Inflation, Which May Be Terrible News for Wall Street",
             "summary": "President Trump's Fed chair nominee could be opening a can of worms for investors.",
             "published": "2026-05-13T08:26:00Z",
@@ -4250,7 +4250,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.210693",
+            "collected_at": "2026-05-13T09:36:41.393733",
             "title": "Stock market today: S&P 500, Nasdaq futures rise with fresh PPI inflation data on deck",
             "summary": "Focus is on the April wholesale inflation report in the wait for pdates on US-Iran talks and Trump's trip to China.",
             "published": "2026-05-12T22:30:45Z",
@@ -4259,7 +4259,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.210707",
+            "collected_at": "2026-05-13T09:36:41.393748",
             "title": "What makes today's market 'completely different' from the 2000 bubble",
             "summary": "The \"Big Short\" investor Michael Burry raised concerns about the current state of the market (^DJI, ^IXIC, ^GSPC), writing that it has \"jumped the shark\" in a Substack post on Monday. Burry is best known for predicting the 2007 mortgage crisis. Yahoo Finance Executive Editor Brian Sozzi speaks with Senior Reporter Ines Ferré and B. Riley Wealth chief market strategist Art Hogan about the factors that may set this current market apart from the dot-com bubble era.",
             "published": "2026-05-12T14:25:00Z",
@@ -4268,7 +4268,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.210710",
+            "collected_at": "2026-05-13T09:36:41.393751",
             "title": "Does Michael Burry Know Something Wall Street Doesn't? As the S&P 500 Climbs, the Investor of \"The Big Short\" Fame Issues a Fresh Warning.",
             "summary": "Should you still invest in AI stocks today?",
             "published": "2026-05-13T09:30:00Z",
@@ -4277,7 +4277,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.300731",
+            "collected_at": "2026-05-13T09:36:41.654858",
             "title": "The Chips Were Down — Heard on the Street Tuesday Recap",
             "summary": "Semis took a breather, and so did stocks. A reversal for the semiconductor sector brought the market to a standstill. The S&P 500 fell 0.2%, and the Nasdaq composite dropped 0.7%. The Dow Jones Industrial Average added just 56 points, or 0.",
             "published": "2026-05-13T08:00:29Z",
@@ -4286,7 +4286,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.487726",
+            "collected_at": "2026-05-13T09:36:41.767097",
             "title": "Gold trades sideways as Iran ceasefire optimism fades ahead of Trump-Xi meeting",
             "summary": "Gold prices were little changed during Asian trading on Wednesday, with bullion remaining stuck in a narrow range as investors adopted a cautious stance amid weakening hopes for a peace agreement between the United States and Iran and ahead of talks between Donald Trump and Chinese President Xi Jinping. Spot gold slipped 0.",
             "published": "2026-05-13T09:08:51Z",
@@ -4295,7 +4295,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.487741",
+            "collected_at": "2026-05-13T09:36:41.767113",
             "title": "Gold Slips as US Inflation Resurgence Raises Odds of Fed Hike",
             "summary": "(Bloomberg) -- Gold edged lower, after a jump in US consumer prices lifted the odds of an interest rate increase by the Federal Reservethis year. Most Read from BloombergAmbani’s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaInside a Year of Chaos and Conflict at Kevin Hart’s Media CompanyMamdani Scraps Property Tax Hike, Counts Second-Home RevenueNvidia’s CEO Joins Trump in China With AI in the SpotlightBullion traded around $4,700 an ounce, after losing 0.4% on Tuesday. The US consume",
             "published": "2026-05-13T09:03:28Z",
@@ -4304,7 +4304,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.487743",
+            "collected_at": "2026-05-13T09:36:41.767115",
             "title": "Gold Rises Despite Inflation Data, U.S.-Iran Impasse",
             "summary": "Gold prices rebounded after this week’s pullback attracted fresh buying interest, even as stronger-than-expected U.S. inflation data and stalled U.S.-Iran talks clouded the outlook.",
             "published": "2026-05-13T07:36:00Z",
@@ -4313,7 +4313,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.583183",
+            "collected_at": "2026-05-13T09:36:41.865484",
             "title": "Energy sector has 'reinvigorated opportunities' amid volatile oil prices",
             "summary": "Rising energy (XLE) and oil prices (CL=F, BZ=F) drove a good chunk of the inflation illustrated in April's Consumer Price Index (CPI) report, egged on by the prolonged US-Iran war and the closure of the Strait of Hormuz. Jefferies managing director Julien Dumoulin-Smith shares his outlook on the energy and utility (XLU) sectors and where they may benefit from these volatile swings in the global energy trade.",
             "published": "2026-05-12T20:21:05Z",
@@ -4322,7 +4322,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.583198",
+            "collected_at": "2026-05-13T09:36:41.865499",
             "title": "Oil prices rise as tensions flare in Middle East, Trump says US-Iran ceasefire is 'on life support'",
             "summary": "Oil prices extended gains on Tuesday as President Trump said ceasefire is \"on life support\" and the Strait of Hormuz remains closed, threatening global inventories.",
             "published": "2026-05-12T14:31:33Z",
@@ -4331,7 +4331,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-13T09:36:32.583201",
+            "collected_at": "2026-05-13T09:36:41.865502",
             "title": "April inflation comes in hotter than expected: CPI data breakdown",
             "summary": "Prices rose 0.6% month over month and 3.8% year over year in April, according to the latest Consumer Price Index (CPI) survey. Core CPI — which excludes food and energy costs — rose 0.4% monthly and 2.8% yearly. Yahoo Finance's Julie Hyman and Myles Udland take a closer look at the breaking numbers.",
             "published": "2026-05-12T12:40:05Z",
@@ -4342,7 +4342,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.671840",
+            "collected_at": "2026-05-13T09:36:41.957219",
             "title": "Howard Marks Warned Me About S&P 500 Valuations: I Ignored Him and My Portfolio Doubled",
             "summary": "On a recent episode of My First Million, Sam Parr told his co-host Shaan Puri that he keeps 80% of his portfolio in the S&P 500, which would not be remarkable except for who told him not to. Howard Marks, the Oaktree co-founder whose memos move money around the world, had sat in that same ... Howard Marks Warned Me About S&P 500 Valuations: I Ignored Him and My Portfolio Doubled",
             "published": "2026-05-13T06:24:05Z",
@@ -4351,7 +4351,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.671859",
+            "collected_at": "2026-05-13T09:36:41.957233",
             "title": "Ride the Bull Higher—but Limit Your Exposure",
             "summary": "Exchanges and regulators are morphing markets into a 24/7 casino, which creates many opportunities for smart people to take money from dumb people.",
             "published": "2026-05-13T05:30:00Z",
@@ -4360,7 +4360,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.671861",
+            "collected_at": "2026-05-13T09:36:41.957236",
             "title": "I’m 30 and My Lender Wants Me to Cash Out $36,000 in 401(k)s for a Down Payment: But That’s Actually a $1.2 Million Mistake",
             "summary": "A 30-year-old caller named Dan phoned into The Ramsey Show with a question his lender had already half-answered for him: should he and his wife cash out about $36,000 in 401(k) money to put a down payment on their first house? Co-host George Kamel did the math on air, and the number that came out ... I’m 30 and My Lender Wants Me to Cash Out $36,000 in 401(k)s for a Down Payment: But That’s Actually a $1.2 Million Mistake",
             "published": "2026-05-13T05:02:34Z",
@@ -4369,7 +4369,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.765126",
+            "collected_at": "2026-05-13T09:36:42.044533",
             "title": "Best ETFs to Buy After Hot Inflation Data",
             "summary": "<p>Looking for the best ETFs for inflation 2026? After April CPI hit 3.8%, here's how bond ETFs, TIPS, small caps, and energy funds are reacting — and what to buy now.</p>",
             "published": "2026-05-12T23:34:21Z",
@@ -4378,7 +4378,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.765143",
+            "collected_at": "2026-05-13T09:36:42.044547",
             "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded I",
             "published": "2026-05-12T17:16:30Z",
@@ -4387,7 +4387,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.765145",
+            "collected_at": "2026-05-13T09:36:42.044550",
             "title": "Chip Stocks Have Been Crushing Software. Here’s How to Play Both.",
             "summary": "The Invesco QQQ Trust, up 15% this year, offers a “barbell” strategy for exposure to both chip and software companies.",
             "published": "2026-05-12T16:27:00Z",
@@ -4396,7 +4396,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.867804",
+            "collected_at": "2026-05-13T09:36:42.134722",
             "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "summary": "The Vanguard Total Stock Market Index Fund Institutional Plus Shares (VSMPX) is one of the largest pooled equity vehicles in the world, but most readers searching for it cannot actually buy it. VSMPX is a mutual fund share class, not an ETF, and Vanguard reserves it for institutional clients writing checks measured in hundreds of ... VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "published": "2026-05-12T15:15:35Z",
@@ -4405,7 +4405,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.867822",
+            "collected_at": "2026-05-13T09:36:42.134737",
             "title": "VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "summary": "If your equity sleeve has more than two or three funds, Vanguard Total Stock Market Index Fund Admiral Shares (NASDAQ:VTSAX) is the case for simplifying. VTSAX owns essentially the entire investable U.S. stock market in one wrapper, charges almost nothing, and has compounded at a rate that has embarrassed most actively managed funds over the ... VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "published": "2026-05-12T11:10:02Z",
@@ -4414,7 +4414,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.867824",
+            "collected_at": "2026-05-13T09:36:42.134740",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4423,7 +4423,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.962388",
+            "collected_at": "2026-05-13T09:36:42.276846",
             "title": "Cathie Wood buys popular crypto stock despite revenue miss",
             "summary": "A major Wall Street bull added to one of the market’s hottest trades, even after the stock had already surged sharply following earnings. Shares of stablecoin issuer Circle climbed to their highest level since March this week, as investors looked past a revenue miss and focused instead on explosive ...",
             "published": "2026-05-12T22:33:51Z",
@@ -4432,7 +4432,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.962404",
+            "collected_at": "2026-05-13T09:36:42.276862",
             "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
             "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
             "published": "2026-05-11T20:29:38Z",
@@ -4441,7 +4441,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:32.962407",
+            "collected_at": "2026-05-13T09:36:42.276865",
             "title": "Cathie Wood buys $12.9 million of tumbling tech stock",
             "summary": "Cathie Wood, chief of Ark Investment Management, is known for making bold bets on fast-moving tech stocks. Sometimes her trades move just as quickly as the stocks themselves. In the week that began on May 3, Wood sold millions of dollars worth of shares in one high-flying AI company near recent ...",
             "published": "2026-05-10T22:32:34Z",
@@ -4450,7 +4450,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:33.051466",
+            "collected_at": "2026-05-13T09:36:42.359647",
             "title": "Update: Gold Trading Lower as the Dollar and Yields Rise as U.S. Inflation Surged Last Month",
             "summary": "(Updates prices.) Gold moved lower midafternoon Tuesday, dropping for a second day as the dollar",
             "published": "2026-05-12T18:00:12Z",
@@ -4459,7 +4459,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:33.051482",
+            "collected_at": "2026-05-13T09:36:42.359661",
             "title": "Gold Trading Lower as USD and Yields Rise as U.S. Inflation Surged Last Month",
             "summary": "Gold moved lower early Tuesday, dropping for a second day as the dollar and yields rose after the Un",
             "published": "2026-05-12T13:23:40Z",
@@ -4468,7 +4468,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-13T09:36:33.051485",
+            "collected_at": "2026-05-13T09:36:42.359664",
             "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Tuesday Amid Consumer Inflation Report Release",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.5% and the actively tr",
             "published": "2026-05-12T12:48:00Z",
