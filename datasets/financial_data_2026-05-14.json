@@ -1,11 +1,11 @@
 {
-    "collection_timestamp": "2026-05-14T06:49:34.377471",
+    "collection_timestamp": "2026-05-14T06:49:44.561136",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-14T06:49:31.397472",
-            "price": 23695.94921875,
-            "change": 165.69921875,
+            "timestamp": "2026-05-14T06:49:40.300459",
+            "price": 23693.69921875,
+            "change": 163.44921875,
             "open": 23530.25,
             "high": 23708.099609375,
             "low": 23426.55078125,
@@ -325,9 +325,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-14T06:49:31.553700",
-            "price": 75322.28125,
-            "change": 375.1640625,
+            "timestamp": "2026-05-14T06:49:40.522852",
+            "price": 75304.6328125,
+            "change": 357.515625,
             "open": 74947.1171875,
             "high": 75492.453125,
             "low": 74526.7734375,
@@ -518,9 +518,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-14T06:49:31.647325",
-            "price": 79820.65625,
-            "change": 537.3125,
+            "timestamp": "2026-05-14T06:49:40.735067",
+            "price": 79828.296875,
+            "change": 544.953125,
             "open": 79283.34375,
             "high": 79888.53125,
             "low": 79001.5078125,
@@ -897,13 +897,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-14T06:49:31.939014",
+            "timestamp": "2026-05-14T06:49:41.013343",
             "price": 1372.0999755859375,
             "change": 6.9000244140625,
             "open": 1365.199951171875,
             "high": 1378.0,
             "low": 1358.5,
-            "volume": 6026615,
+            "volume": 6030907,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1219,13 +1219,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-14T06:49:32.192143",
-            "price": 2221.89990234375,
-            "change": -43.10009765625,
+            "timestamp": "2026-05-14T06:49:41.276434",
+            "price": 2221.800048828125,
+            "change": -43.199951171875,
             "open": 2265.0,
             "high": 2265.0,
             "low": 2206.39990234375,
-            "volume": 3094179,
+            "volume": 3096173,
             "news": [
                 {
                     "id": "1a5fd6a1-95a0-37d3-9304-6a98e216a088",
@@ -1541,13 +1541,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-14T06:49:32.300590",
-            "price": 770.5499877929688,
-            "change": 19.54998779296875,
+            "timestamp": "2026-05-14T06:49:41.750315",
+            "price": 770.2999877929688,
+            "change": 19.29998779296875,
             "open": 751.0,
             "high": 775.4500122070312,
             "low": 747.0,
-            "volume": 22689704,
+            "volume": 22708363,
             "news": [
                 {
                     "id": "63f1b7e9-7ed8-3169-8ed6-70ae91b6cfb2",
@@ -1825,13 +1825,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-14T06:49:32.401311",
-            "price": 1093.0,
-            "change": -26.800048828125,
+            "timestamp": "2026-05-14T06:49:41.988659",
+            "price": 1092.9000244140625,
+            "change": -26.9000244140625,
             "open": 1119.800048828125,
             "high": 1121.9000244140625,
             "low": 1091.4000244140625,
-            "volume": 6611836,
+            "volume": 6621514,
             "news": [
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
@@ -2147,7 +2147,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-14T06:49:32.657774",
+            "timestamp": "2026-05-14T06:49:42.262953",
             "price": 298.8699951171875,
             "change": 5.3699951171875,
             "open": 293.5,
@@ -2337,6 +2337,68 @@
                     }
                 },
                 {
+                    "id": "3de95606-5b5e-33fd-aac7-2192d94964a9",
+                    "content": {
+                        "id": "3de95606-5b5e-33fd-aac7-2192d94964a9",
+                        "contentType": "STORY",
+                        "title": "Taiwan's Foxconn reports forecast-beating 19% jump in Q1 profit on AI demand",
+                        "description": "",
+                        "summary": "Net profit for January-March for Nvidia's ​biggest server maker and Apple's top iPhone assembler was T$49.92 billion ($1.58 billion), versus a LSEG consensus estimate of T$48.88 billion.  In an earnings release, it stuck to its previous forecast of \"strong\" growth for revenue this year ‌and said it also ⁠saw strong demand for AI servers.  Foxconn, formally called Hon Hai Precision ⁠Industry, in April reported a 30% on-year jump in first-quarter revenue.",
+                        "pubDate": "2026-05-14T06:26:23Z",
+                        "displayTime": "2026-05-14T06:26:23Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/1dd82758176200642e0b27dc164fba54",
+                            "originalWidth": 800,
+                            "originalHeight": 549,
+                            "caption": "A signage at Foxconn booth at AMPA trade show in Taipei",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/NR22YnSv60wMtrx2y.XUUA--~B/aD01NDk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/1dd82758176200642e0b27dc164fba54",
+                                    "width": 800,
+                                    "height": 549,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/4FhgNGBwfB4BCHrHcbnfig--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/1dd82758176200642e0b27dc164fba54",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Reuters",
+                            "url": "http://www.reuters.com/",
+                            "sourceId": "reuters-finance.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-18-5-062623254.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/taiwans-foxconn-reports-18-5-062623254.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "095daae6-b76f-3a80-bb49-dcbe4767d168",
                     "content": {
                         "id": "095daae6-b76f-3a80-bb49-dcbe4767d168",
@@ -2459,74 +2521,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "77b66c02-a1d6-3a8e-9575-bdf6a3002818",
-                    "content": {
-                        "id": "77b66c02-a1d6-3a8e-9575-bdf6a3002818",
-                        "contentType": "STORY",
-                        "title": "3 Reasons This Warren Buffett Favorite AI Stock Could Soar Over the Next 10 Years",
-                        "description": "",
-                        "summary": "Trading near record highs, this tech giant's stock may still have plenty of upside over the next decade.",
-                        "pubDate": "2026-05-14T04:18:00Z",
-                        "displayTime": "2026-05-14T04:18:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/52ccc11dfcb4701f3b122af8151ccfda",
-                            "originalWidth": 1188,
-                            "originalHeight": 788,
-                            "caption": "Warren Buffett smiling.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/o9IQBalfjOhHkj_qCoetjw--~B/aD03ODg7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/52ccc11dfcb4701f3b122af8151ccfda",
-                                    "width": 1188,
-                                    "height": 788,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/0Uq3x54vsao.xkZbh0hjHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/52ccc11dfcb4701f3b122af8151ccfda",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/13/3-reasons-this-warren-buffett-favorite-ai-stock-co/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-warren-buffett-favorite-041800623.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-14T06:49:32.774238",
+            "timestamp": "2026-05-14T06:49:42.515740",
             "price": 405.2099914550781,
             "change": 2.009979248046875,
             "open": 403.20001220703125,
@@ -2648,6 +2648,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "b9f32e04-ca88-3df2-907e-d09978704436",
+                    "content": {
+                        "id": "b9f32e04-ca88-3df2-907e-d09978704436",
+                        "contentType": "STORY",
+                        "title": "Anthony Scaramucci Says Bitcoin Poised To Follow The S-Curve Of Adoption Like Amazon, Microsoft: 'Cannot Be Devalued'",
+                        "description": "",
+                        "summary": "SkyBridge Capital founder Anthony Scaramucci suggested on Wednesday that Bitcoin (CRYPTO: BTC) is tracing an adoption path akin to that of Amazon.com Inc. (NASDAQ:AMZN) and Microsoft Corp. (NASDAQ:MSFT). Scaramucci Says Bitcoin Can’t Be ‘Devalued’ During an interview with RiskReversal Media, Scaramucci said that traditional fiat money is essentially “worthless,” but it gains value because people trust it. Bitcoin, he added, is an improved version, which happens to be “an open, transparent, fully",
+                        "pubDate": "2026-05-14T06:46:45Z",
+                        "displayTime": "2026-05-14T06:46:45Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/Benzinga/7a2da99657aeb75e1851e32542813576",
+                            "originalWidth": 1000,
+                            "originalHeight": 719,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/elyLCMVGX6chkihbI_Q0hw--~B/aD03MTk7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/7a2da99657aeb75e1851e32542813576",
+                                    "width": 1000,
+                                    "height": 719,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/XLTqJHIIwd5i8Je0xlIR4A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/7a2da99657aeb75e1851e32542813576",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Benzinga",
+                            "url": "http://www.benzinga.com/",
+                            "sourceId": "Benzinga"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-064645573.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramucci-says-bitcoin-poised-064645573.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -2781,55 +2843,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "efda6736-d504-396a-b75f-b683ed05cfb2",
-                    "content": {
-                        "id": "efda6736-d504-396a-b75f-b683ed05cfb2",
-                        "contentType": "STORY",
-                        "title": "Microsoft's LinkedIn Cuts Jobs As AI Infrastructure Spending Climbs",
-                        "description": "",
-                        "summary": "LinkedIn reduced roles across engineering, product and marketing as Microsoft continues funding AI data center expansion.",
-                        "pubDate": "2026-05-14T03:48:26Z",
-                        "displayTime": "2026-05-14T03:48:26Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/microsofts-linkedin-cuts-jobs-ai-034826565.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/microsofts-linkedin-cuts-jobs-ai-034826565.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-14T06:49:32.886567",
+            "timestamp": "2026-05-14T06:49:42.717977",
             "price": 402.6199951171875,
             "change": 17.019989013671875,
             "open": 385.6000061035156,
@@ -3081,6 +3100,68 @@
                     }
                 },
                 {
+                    "id": "5315050b-4ba2-381f-85a8-6876bb84c248",
+                    "content": {
+                        "id": "5315050b-4ba2-381f-85a8-6876bb84c248",
+                        "contentType": "STORY",
+                        "title": "Why Did Lobo Technologies Stock Jump Over 33% After Hours?",
+                        "description": "",
+                        "summary": "Lobo Technologies Ltd. (NASDAQ:LOBO) surged 33.70% in after-hours trading to $0.69, recovering sharply from a 8.43% intraday decline. According to Benzinga Pro, the stock of the China-based manufacturer and seller of electric mobility products closed the regular session at $0.51. No immediate catalyst for the after-hours spike has been confirmed. However, last week’s announcement may be driving renewed investor interest. AI Commercialization Play On May 4, LOBO said its proprietary Claw AI Agent",
+                        "pubDate": "2026-05-14T06:42:20Z",
+                        "displayTime": "2026-05-14T06:42:20Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/Benzinga/a6c9f85d4e7e05f61d77534a91961dd7",
+                            "originalWidth": 1024,
+                            "originalHeight": 665,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/sBRHP_DMmXiZZF9HSyV4Sw--~B/aD02NjU7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/a6c9f85d4e7e05f61d77534a91961dd7",
+                                    "width": 1024,
+                                    "height": 665,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lB3GdJpEofkAd7Ph_KthWg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a6c9f85d4e7e05f61d77534a91961dd7",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Benzinga",
+                            "url": "http://www.benzinga.com/",
+                            "sourceId": "Benzinga"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-lobo-technologies-stock-064220237.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-lobo-technologies-stock-064220237.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "feb61747-9a3c-3c4b-89d8-859da25377b1",
                     "content": {
                         "id": "feb61747-9a3c-3c4b-89d8-859da25377b1",
@@ -3141,74 +3222,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "0cf021f3-cf29-3049-805d-e590f534e749",
-                    "content": {
-                        "id": "0cf021f3-cf29-3049-805d-e590f534e749",
-                        "contentType": "STORY",
-                        "title": "The Real Reason Microsoft Just Went All-In on AI Infrastructure. It's Not What You Might Think.",
-                        "description": "",
-                        "summary": "Microsoft is transforming from a software giant into an AI infrastructure powerhouse.",
-                        "pubDate": "2026-05-14T04:20:00Z",
-                        "displayTime": "2026-05-14T04:20:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6f6596c313962578ac933ded4492e403",
-                            "originalWidth": 1400,
-                            "originalHeight": 812,
-                            "caption": "A massive AI data center sits expands across the horizon. ",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/BcxnV6ybn0A9q3GO9nLRUQ--~B/aD04MTI7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6f6596c313962578ac933ded4492e403",
-                                    "width": 1400,
-                                    "height": 812,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/k_Jpt0aKD5hzQdOmw80Vkw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6f6596c313962578ac933ded4492e403",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/14/the-real-reason-microsoft-just-went-all-in-on-ai-i/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/real-reason-microsoft-just-went-042000660.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-14T06:49:33.013044",
+            "timestamp": "2026-05-14T06:49:42.914869",
             "price": 445.2699890136719,
             "change": 8.5999755859375,
             "open": 436.6700134277344,
@@ -3587,7 +3606,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-14T06:49:33.137692",
+            "timestamp": "2026-05-14T06:49:43.140878",
             "price": 225.8300018310547,
             "change": 0.9000091552734375,
             "open": 224.92999267578125,
@@ -4023,9 +4042,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-14T06:49:33.247684",
-            "price": 2268.070068359375,
-            "change": 10.357421875,
+            "timestamp": "2026-05-14T06:49:43.364264",
+            "price": 2268.47998046875,
+            "change": 10.767333984375,
             "open": 2257.712646484375,
             "high": 2272.483642578125,
             "low": 2241.126220703125,
@@ -4329,7 +4348,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.451720",
+            "collected_at": "2026-05-14T06:49:43.600853",
             "title": "Dow Jones Futures Rise As Cisco Soars On AI Orders; Trump-Xi Summit Begins",
             "summary": "Futures rose as Cisco soared on earnings. AI chip IPO Cerebras priced high. The Trump-Xi summit has begun.",
             "published": "2026-05-14T03:12:03Z",
@@ -4338,7 +4357,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.451733",
+            "collected_at": "2026-05-14T06:49:43.600864",
             "title": "Cisco, Nokia, Ford, Quantum Cyber And Nebius Group: Why These 5 Stocks Are On Investors' Radars Today",
             "summary": "Major U.S. indices ended Wednesday mixed, with the Dow Jones Industrial Average slipping 0.14% to 49,693.20, while the S&P 500 advanced 0.58% to 7,444.25 and the Nasdaq climbed 1.20% to 26,402.34. These are the top stocks that gained the attention of retail traders and investors through the day: Cisco Systems Inc. (NASDAQ:CSCO) Cisco’s stock climbed 2.60%, closing at $101.87 after reaching an intraday high of $102.01 and a low of $99.29. The stock’s 52-week range is between $60.84 and $102.01. I",
             "published": "2026-05-14T01:35:32Z",
@@ -4347,7 +4366,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.451736",
+            "collected_at": "2026-05-14T06:49:43.600866",
             "title": "Review & Preview: 4-Year High",
             "summary": "Oil prices moved slightly lower on Wednesday, but markets were buoyed to new heights by the strength of the tech sector.  Plus, the new Federal Reserve chair cleared his final confirmation hurdle this afternoon, which likely alleviated some lingering uncertainty at the central bank, and among investors.  Incoming Fed Chair Kevin Warsh was confirmed by the Senate with a vote of 54-45 on Wednesday afternoon, becoming the 17th person to take on the job.",
             "published": "2026-05-13T23:55:00Z",
@@ -4356,7 +4375,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.548067",
+            "collected_at": "2026-05-14T06:49:43.699570",
             "title": "Earnings live updates: Cisco announces 4,000 layoffs as Q3 earnings beat amid 'broad-based demand'",
             "summary": "The pace of first quarter earnings reports eases this week as economic data takes center stage, but investors will still be on the lookout for results from a handful of big corporations.",
             "published": "2026-05-11T10:30:00Z",
@@ -4365,7 +4384,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.548080",
+            "collected_at": "2026-05-14T06:49:43.699578",
             "title": "How markets will test the mettle of Kevin Warsh as new Fed chair",
             "summary": "With Federal Reserve Chair Jerome Powell's term set to expire in a few short days, the Senate will be voting on Wednesday to confirm Kevin Warsh as the next head of the US central bank. What should the markets (^DJI, ^IXIC, ^GSPC) expect from a Warsh-led Fed and which sectors could benefit the most? Northwestern Mutual Wealth Management Company CIO Brent Schutte and Yahoo Finance Senior Reporters Brooke DiPalma and Ines Ferré examine the biggest obstacles that Warsh could face if confirmed to be the next Fed chairman.",
             "published": "2026-05-13T14:16:00Z",
@@ -4374,7 +4393,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.548083",
+            "collected_at": "2026-05-14T06:49:43.699581",
             "title": "Walmart layoffs bring attention to a reality about the retailer's stock price",
             "summary": "Walmart's stock price continues to rock.",
             "published": "2026-05-13T14:01:51Z",
@@ -4383,7 +4402,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.654030",
+            "collected_at": "2026-05-14T06:49:43.848927",
             "title": "Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China trip",
             "summary": "The tech sector helped US stocks cruise to all-time highs last week, as the artificial intelligence boom broadened.",
             "published": "2026-05-11T10:00:00Z",
@@ -4392,7 +4411,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.654042",
+            "collected_at": "2026-05-14T06:49:43.848936",
             "title": "Montrose Environmental Group Q1 Earnings Call Highlights",
             "summary": "Montrose Environmental Group (NYSE:ONT), now operating under the Onterris brand, reported lower first-quarter revenue as severe winter weather and reduced environmental emergency response activity weighed on results, but management reiterated its full-year outlook and pointed to stronger profitabili",
             "published": "2026-05-14T06:05:44Z",
@@ -4401,7 +4420,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.771321",
+            "collected_at": "2026-05-14T06:49:43.946584",
             "title": "Semiconductor ETFs are booming, but they're not the only ones",
             "summary": "Roundhill Memory (DRAM), a new memory exchange-traded fund (ETF), has been surging since its April launch. BNY global head of ETFs Ben Slavin joins Yahoo Finance to discuss the ETF's record growth, his outlook for semiconductor (SOXX) ETFs, and more.",
             "published": "2026-05-13T15:35:47Z",
@@ -4410,7 +4429,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.771335",
+            "collected_at": "2026-05-14T06:49:43.946592",
             "title": "Orezone Gold Corp (ORZCF) Q1 2026 Earnings Call Highlights: Strategic Acquisitions and Record ...",
             "summary": "Orezone Gold Corp (ORZCF) reports record earnings and strategic growth, despite facing logistical and cost challenges in Q1 2026.",
             "published": "2026-05-14T05:00:55Z",
@@ -4419,7 +4438,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.771337",
+            "collected_at": "2026-05-14T06:49:43.946594",
             "title": "Gold prices edge up on weak dollar as Trump-Xi meeting, Iran war draw focus",
             "summary": "By Pablo Sinha May 14 (Reuters) - Gold prices ticked up on Thursday, supported by a weaker dollar, as investors focused on talks between U.S.",
             "published": "2026-05-14T04:49:15Z",
@@ -4428,7 +4447,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.868024",
+            "collected_at": "2026-05-14T06:49:44.041273",
             "title": "Kevin Warsh confirmed new Fed chair as inflation kicks higher, complicating the central bank's path",
             "summary": "The US Senate on Wednesday confirmed Kevin Warsh as the new chairman of the Federal Reserve.",
             "published": "2026-05-13T16:43:03Z",
@@ -4437,7 +4456,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.868037",
+            "collected_at": "2026-05-14T06:49:44.041283",
             "title": "1 Energy Stock Worth Your Attention and 2 That Underwhelm",
             "summary": "Energy businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. They are also bound to benefit from a friendlier regulatory environment with \"American energy dominance\" stance from the Trump administration, and this excitement has led to a six-month gain of 31.6% for the sector - higher than the S&P 500’s 7.1% return.",
             "published": "2026-05-14T06:04:55Z",
@@ -4446,7 +4465,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-14T06:49:33.868040",
+            "collected_at": "2026-05-14T06:49:44.041286",
             "title": "Northland Securities Lifts Evolution Petroleum (EPM) Target on Stronger Oil Price Outlook",
             "summary": "Evolution Petroleum Corporation (NYSEAMERICAN:EPM) is included among the 12 Best Micro-Cap Dividend Stocks to Buy Now. On May 13, Northland analyst Jeff Grampp raised the firm’s price target on Evolution Petroleum Corporation (NYSEAMERICAN:EPM) to $4.50 from $4 and maintained a Market Perform rating on the shares. The firm said Evolution reported a “tough” fiscal Q3, […]",
             "published": "2026-05-14T05:37:37Z",
@@ -4457,7 +4476,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:33.988919",
+            "collected_at": "2026-05-14T06:49:44.131306",
             "title": "Elizabeth Warren Slams New Fed Chair Kevin Warsh As Trump's 'Sock Puppet'",
             "summary": "The Senate narrowly confirmed Kevin Warsh as the next Federal Reserve Chair in a deeply divided 54-45 vote. The contentious appointment immediately drew fierce criticism from prominent economists and Democrats who fear the move severely threatens the central bank’s historical independence. Progressive Backlash And Identity Crisis Leading the opposition, Senator Elizabeth Warren (D-Mass.) blasted the incoming Chair’s motives and loyalties. “Trump wants to control interest rates, and he nominated",
             "published": "2026-05-14T06:26:50Z",
@@ -4466,7 +4485,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:33.988932",
+            "collected_at": "2026-05-14T06:49:44.131315",
             "title": "The Magnificent Seven Fell 40% While the S&P Dropped 18%: Here’s How Much Tech Concentration You Can Actually Afford",
             "summary": "I’ve been studying portfolio concentration for years, and one stat from Schwab’s On Investing podcast keeps echoing in my head. In 2022, the Magnificent Seven fell roughly 40% while the S&P 500 dropped 18%. Our data confirms the pain: SPY shed 20% that calendar year, while Meta Platforms (NASDAQ:META) collapsed 64%, NVIDIA (NASDAQ:NVDA) fell 51%, ... The Magnificent Seven Fell 40% While the S&P Dropped 18%: Here’s How Much Tech Concentration You Can Actually Afford",
             "published": "2026-05-14T01:55:54Z",
@@ -4475,7 +4494,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:33.988935",
+            "collected_at": "2026-05-14T06:49:44.131317",
             "title": "We’re 40 with $175K cash and a $475K mortgage at 5%. Should we pay it down or invest instead?",
             "summary": "Angela called into the Rich Habits Podcast with a problem most of us would happily trade for: she and her spouse, both 40, just netted $175,000 in cash from a home sale and want to know whether to throw it at their $475,000 mortgage at 5% or invest it. Co-host Robert Croak did not hedge. ... We’re 40 with $175K cash and a $475K mortgage at 5%. Should we pay it down or invest instead?",
             "published": "2026-05-13T23:13:00Z",
@@ -4484,7 +4503,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.082987",
+            "collected_at": "2026-05-14T06:49:44.229598",
             "title": "ETF League Tables: Invesco Pulls In $4.9B",
             "summary": "<p>Table below reflects daily flows on May 12, 2026 and asset totals as of that date.</p>",
             "published": "2026-05-13T21:00:32Z",
@@ -4493,7 +4512,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.083000",
+            "collected_at": "2026-05-14T06:49:44.229611",
             "title": "S&P 500 and Nasdaq 100 Post New Record Highs on Chip Stock Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed up +0.58%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.04%. June E-mini S&P futures (ESM26 ) rose +0.62%, and June E-mini Nasdaq futures...",
             "published": "2026-05-13T20:37:40Z",
@@ -4502,7 +4521,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.083003",
+            "collected_at": "2026-05-14T06:49:44.229614",
             "title": "Stock Market Today: Nasdaq 100 Rises Despite Hot PPI, Nvidia Hits Record High",
             "summary": "Tech stocks ripped higher on Wednesday despite a sharply hotter-than-expected April Producer Price Index reading that rekindled inflation anxieties and rate-hike fears, as strength in semiconductors fueled investor sentiment. Nvidia Corp. (NASDAQ:NVDA) rallied for the sixth straight session to above $226 per share, with the company’s market cap soaring above $5.5 trillion ahead of next week’s highly awaited earnings report. Speaking via Truth Social shortly before landing in Beijing, Trump told",
             "published": "2026-05-13T17:38:46Z",
@@ -4511,7 +4530,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.176087",
+            "collected_at": "2026-05-14T06:49:44.318289",
             "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "summary": "The Vanguard Total Stock Market Index Fund Institutional Plus Shares (VSMPX) is one of the largest pooled equity vehicles in the world, but most readers searching for it cannot actually buy it. VSMPX is a mutual fund share class, not an ETF, and Vanguard reserves it for institutional clients writing checks measured in hundreds of ... VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "published": "2026-05-12T15:15:35Z",
@@ -4520,7 +4539,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.176121",
+            "collected_at": "2026-05-14T06:49:44.318303",
             "title": "VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "summary": "If your equity sleeve has more than two or three funds, Vanguard Total Stock Market Index Fund Admiral Shares (NASDAQ:VTSAX) is the case for simplifying. VTSAX owns essentially the entire investable U.S. stock market in one wrapper, charges almost nothing, and has compounded at a rate that has embarrassed most actively managed funds over the ... VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "published": "2026-05-12T11:10:02Z",
@@ -4529,7 +4548,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.176124",
+            "collected_at": "2026-05-14T06:49:44.318306",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4538,7 +4557,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.279149",
+            "collected_at": "2026-05-14T06:49:44.452719",
             "title": "Cathie Wood trims $3.17M of surging bioscience stock",
             "summary": "There is a pattern to how Cathie Wood exits positions. It rarely happens in one move. It happens in layers, a little here, a little there, until you look back and realize ARK has been sending a signal for weeks. That pattern is playing out right now with Twist Bioscience (TWST). On May 12, ARK sold ...",
             "published": "2026-05-14T04:37:00Z",
@@ -4547,7 +4566,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.279163",
+            "collected_at": "2026-05-14T06:49:44.452733",
             "title": "Cathie Wood, Ross Gerber Snap Up The Same 10 Stocks — Here's The Unlikely Portfolio Crossover",
             "summary": "For retail investors, few names are more recognizable than Ross Gerber and Cathie Wood. Both are known for their high-profile media appearances, active social media followings and ETFs built around their investment strategies. The AdvisorShares Gerber Kawasaki ETF (NYSE:GK), launched back in 2021, tracks picks from Gerber's firm. Meanwhile, Wood, as the CEO of Ark Invest, has multiple ETFs. Ark Autonomous Technology & Robotics ETF (BATS:ARKQ) Ark Innovation ETF (BATS:ARKK) Ark Next Generation In",
             "published": "2026-05-13T18:41:16Z",
@@ -4556,7 +4575,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.279166",
+            "collected_at": "2026-05-14T06:49:44.452735",
             "title": "Cathie Wood Bets On Kalshi, But Her Ark Innovation ETF Hasn't Been Great At Timing Winners",
             "summary": "Cathie Wood‘s ARK Invest joined Kalshi’s $1 billion Series F last week at a $22 billion valuation, slotting the prediction market behind only SpaceX and OpenAI in the ARK Venture Fund. Wood called prediction markets “a powerful new layer of financial infrastructure.” Kalshi will be hoping this prediction is more accurate than many of her previous ones. A Decade Of Big Calls That Did Not Land Morningstar analyst Amy Arnott labeled the ARK fund family the worst wealth destroyer of any U.S. fund gr",
             "published": "2026-05-13T18:31:34Z",
@@ -4565,7 +4584,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.377368",
+            "collected_at": "2026-05-14T06:49:44.561021",
             "title": "Update: Gold Edges Up Even as the Dollar Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "(Updates prices.) Gold edged higher midafternoon Wednesday even as the dollar rose after a repor",
             "published": "2026-05-13T18:00:08Z",
@@ -4574,7 +4593,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.377382",
+            "collected_at": "2026-05-14T06:49:44.561033",
             "title": "Gold Steady As USD Rises After U.S. Wholesale Inflation Surged Last Month",
             "summary": "Gold was steady early Wednesday even as the dollar rose after a report showed U.S. wholesale inflati",
             "published": "2026-05-13T13:24:30Z",
@@ -4583,7 +4602,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-14T06:49:34.377385",
+            "collected_at": "2026-05-14T06:49:44.561036",
             "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
             "published": "2026-05-13T13:13:21Z",
