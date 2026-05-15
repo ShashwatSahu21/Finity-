@@ -1,14 +1,14 @@
 {
-    "collection_timestamp": "2026-05-15T06:59:48.790302",
+    "collection_timestamp": "2026-05-15T09:38:51.374616",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-15T06:59:45.145468",
-            "price": 23721.650390625,
-            "change": -9.75,
+            "timestamp": "2026-05-15T09:38:44.428665",
+            "price": 23648.349609375,
+            "change": -83.05078125,
             "open": 23731.400390625,
             "high": 23839.30078125,
-            "low": 23663.349609375,
+            "low": 23610.30078125,
             "volume": 0,
             "news": [
                 {
@@ -325,12 +325,12 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-15T06:59:45.372520",
-            "price": 75580.65625,
-            "change": 83.5546875,
+            "timestamp": "2026-05-15T09:38:44.907050",
+            "price": 75171.21875,
+            "change": -325.8828125,
             "open": 75497.1015625,
             "high": 75870.359375,
-            "low": 75251.1484375,
+            "low": 75162.609375,
             "volume": 0,
             "news": [
                 {
@@ -518,13 +518,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-15T06:59:45.598378",
-            "price": 80584.4921875,
-            "change": -485.046875,
+            "timestamp": "2026-05-15T09:38:45.284088",
+            "price": 80516.0,
+            "change": -553.5390625,
             "open": 81069.5390625,
             "high": 81586.1953125,
             "low": 80327.1171875,
-            "volume": 44805222400,
+            "volume": 45054816256,
             "news": [
                 {
                     "id": "bdb223ee-f32d-4651-8fa5-66e1fdc0854f",
@@ -589,32 +589,213 @@
                     }
                 },
                 {
-                    "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+                    "id": "e4360c3b-0714-3c3b-87cb-e4107e52a6f6",
                     "content": {
-                        "id": "e4348eaa-5ce1-3b9d-aaad-6e2b0f5ef5ee",
+                        "id": "e4360c3b-0714-3c3b-87cb-e4107e52a6f6",
                         "contentType": "STORY",
-                        "title": "Why Is The Crypto Market Down Today?",
+                        "title": "Why Bitcoin Die-Hards Are Getting Behind Zcash",
                         "description": "",
-                        "summary": "Crypto market dips 0.32% to $2.66 trillion but holds $2.60 trillion as the CLARITY Act vote keeps a bullish bias intact.",
-                        "pubDate": "2026-05-15T05:59:57Z",
-                        "displayTime": "2026-05-15T05:59:57Z",
+                        "summary": "“It feels like bitcoin circa 2013,” said Barry Silbert, founder of Digital Currency Group and Grayscale Investments, which set up the first publicly traded bitcoin fund. Silbert is among the crypto pioneers piling into Zcash, a more secret version of bitcoin that lets users shield their transaction details.",
+                        "pubDate": "2026-05-15T08:27:16Z",
+                        "displayTime": "2026-05-15T08:27:16Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/e4360c3b-0714-3c3b-87cb-e4107e52a6f6/why-bitcoin-die-hards-are.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+                            "originalWidth": 1200,
+                            "originalHeight": 630,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Fwf5HL4GsEGPbDfR3MJBPg--~B/aD02MzA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+                                    "width": 1200,
+                                    "height": 630,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/c34MZxHLZOfDYN2BBjM9ww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/7b2c285183be07ca3c4e8242b25a59a8",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "The Wall Street Journal",
+                            "url": "http://www.wsj.com/",
+                            "sourceId": "wsj.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-15-2026/card/why-bitcoin-die-hards-are-getting-behind-zcash-OkoztSlk9Utqt2BWanoS?siteid=yhoof2&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "932f9982-1622-30c0-976e-7698d119efaa",
+                    "content": {
+                        "id": "932f9982-1622-30c0-976e-7698d119efaa",
+                        "contentType": "STORY",
+                        "title": "Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements",
+                        "description": "",
+                        "summary": "JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...",
+                        "pubDate": "2026-05-15T07:56:25Z",
+                        "displayTime": "2026-05-15T07:56:25Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
+                            "originalUrl": "https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                            "originalWidth": 1536,
+                            "originalHeight": 864,
+                            "caption": "Ethereum's outlook is receiving some muted predictions | Source: CCN",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3CtKaiogwKwu714RWDa33Q--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                                    "width": 1536,
+                                    "height": 864,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ouFPo7ZduU4J1ZwP8uYJ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "CCN",
+                            "url": "https://www.ccn.com/",
+                            "sourceId": "ccn_928"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-muted-predictions-075625331.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "e5b074c9-132d-37c9-ab40-9c4a4b395083",
+                    "content": {
+                        "id": "e5b074c9-132d-37c9-ab40-9c4a4b395083",
+                        "contentType": "STORY",
+                        "title": "Crypto Billionaire Changpeng Zhao Revealed In A Podcast He'd Never Sat In A Lamborghini—Then He Got A Surprise",
+                        "description": "",
+                        "summary": "Binance (CRYPTO: BNB) co-founder Changpeng “CZ” Zhao recounted on Thursday a moment from a recent interview, in which the host surprised him with a moving gesture. The ‘Lamborghini’ Surprise CZ appeared on Patrick Bet-David's podcast earlier this week, where they discussed a wide range of topics, including Bitcoin (CRYPTO: BTC), artificial intelligence, and the rise of Binance. Recalling the podcast, CZ mentioned never sitting in a Lamborghini before. But to his surprise, Bet-David had one waiti",
+                        "pubDate": "2026-05-15T07:38:50Z",
+                        "displayTime": "2026-05-15T07:38:50Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/Benzinga/2ff573c7c93771bf23803438c6c8d624",
+                            "originalWidth": 1024,
+                            "originalHeight": 681,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5IWLT9GqPJGXwzqcsEoafQ--~B/aD02ODE7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/2ff573c7c93771bf23803438c6c8d624",
+                                    "width": 1024,
+                                    "height": 681,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ZkXZgkBoLReRIzrptvBmOw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/2ff573c7c93771bf23803438c6c8d624",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Benzinga",
+                            "url": "http://www.benzinga.com/",
+                            "sourceId": "Benzinga"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-changpeng-zhao-revealed-073850838.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-billionaire-changpeng-zhao-revealed-073850838.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "27bba590-71ff-37e0-b0bb-9cababf6d4d2",
+                    "content": {
+                        "id": "27bba590-71ff-37e0-b0bb-9cababf6d4d2",
+                        "contentType": "STORY",
+                        "title": "MicroStrategy’s STRC Notches $1.53 Billion in Daily Volume for New Record",
+                        "description": "",
+                        "summary": "MicroStrategy's STRC stock hit a $1.53B daily volume record Thursday as Strive unveiled daily SATA dividends from June 16.",
+                        "pubDate": "2026-05-15T07:25:05Z",
+                        "displayTime": "2026-05-15T07:25:05Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/61798529a1c95f3c939b29a9c3fd6010",
                             "originalWidth": 1920,
                             "originalHeight": 1080,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/TvBjhhtxyJCHluP6BPdhSA--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/xnEpRkT3SIztl3t0fZQaiQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/61798529a1c95f3c939b29a9c3fd6010",
                                     "width": 1920,
                                     "height": 1080,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/73OK6SSoyLcJQ9eyzGD_sg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/c22e688520e3241a054d8d54f93123a6",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Ia69Q.4O_5paHgO.muBgQQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/61798529a1c95f3c939b29a9c3fd6010",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -627,161 +808,13 @@
                             "sourceId": "beincrypto_us_662"
                         },
                         "canonicalUrl": {
-                            "url": "https://beincrypto.com/why-is-the-crypto-market-down-today/",
+                            "url": "https://beincrypto.com/microstrategy-strc-stock-record-trading-volume/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-market-down-today-035710630.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "783486f7-96eb-393a-b2a8-047293756fde",
-                    "content": {
-                        "id": "783486f7-96eb-393a-b2a8-047293756fde",
-                        "contentType": "STORY",
-                        "title": "KULR Technology Group Inc (KULR) Q1 2026 Earnings Call Highlights: Revenue Surge and Strategic ...",
-                        "description": "",
-                        "summary": "KULR Technology Group Inc (KULR) reports a 98% revenue growth and strategic moves to scale production, despite ongoing challenges in transitioning to full-scale operations.",
-                        "pubDate": "2026-05-15T05:02:13Z",
-                        "displayTime": "2026-05-15T05:02:13Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/kulr-technology-group-inc-kulr-050213266.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/kulr-technology-group-inc-kulr-050213266.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "7325bc9b-36e9-36a0-bfe5-b7401ea48aa6",
-                    "content": {
-                        "id": "7325bc9b-36e9-36a0-bfe5-b7401ea48aa6",
-                        "contentType": "STORY",
-                        "title": "Rumble Inc (RUM) Q1 2026 Earnings Call Highlights: Strategic Acquisitions and User Growth Amid ...",
-                        "description": "",
-                        "summary": "Rumble Inc (RUM) reports increased revenue and user growth, driven by strategic acquisitions and partnerships, despite facing a significant net loss and rising expenses.",
-                        "pubDate": "2026-05-15T05:00:57Z",
-                        "displayTime": "2026-05-15T05:00:57Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/rumble-inc-rum-q1-2026-050057147.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/rumble-inc-rum-q1-2026-050057147.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "27bb4a86-c9f0-3154-a016-ea323a31061a",
-                    "content": {
-                        "id": "27bb4a86-c9f0-3154-a016-ea323a31061a",
-                        "contentType": "STORY",
-                        "title": "Strive Makes SATA First US Security to Pay Cash Dividends Every Business Day",
-                        "description": "",
-                        "summary": "Strive's SATA becomes the first US listed security to pay daily cash dividends at a 13% annual rate from June 16.",
-                        "pubDate": "2026-05-15T04:12:40Z",
-                        "displayTime": "2026-05-15T04:12:40Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/573741bb316143a3957959e5665cc15b",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/boN8EYusN_sWJWEaJktNEg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/573741bb316143a3957959e5665cc15b",
-                                    "width": 1920,
-                                    "height": 1080,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ohKG_N2UmZOnpkqt4IzNdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/573741bb316143a3957959e5665cc15b",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://beincrypto.com/strive-sata-daily-dividend-bitcoin-treasury/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/strive-makes-sata-first-us-041240916.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microstrategy-strc-notches-1-53-072505134.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -802,13 +835,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-15T06:59:45.793439",
-            "price": 1336.0,
-            "change": -20.800048828125,
+            "timestamp": "2026-05-15T09:38:45.909932",
+            "price": 1336.9000244140625,
+            "change": -19.9000244140625,
             "open": 1356.800048828125,
             "high": 1364.800048828125,
-            "low": 1334.0,
-            "volume": 8805099,
+            "low": 1329.199951171875,
+            "volume": 18456188,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1124,14 +1157,76 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-15T06:59:46.026458",
-            "price": 2280.0,
-            "change": 28.0,
+            "timestamp": "2026-05-15T09:38:46.392868",
+            "price": 2264.699951171875,
+            "change": 12.699951171875,
             "open": 2252.0,
             "high": 2304.89990234375,
             "low": 2252.0,
-            "volume": 1980466,
+            "volume": 2918586,
             "news": [
+                {
+                    "id": "8f21dba7-8773-3b86-9382-a2d01e2ecc62",
+                    "content": {
+                        "id": "8f21dba7-8773-3b86-9382-a2d01e2ecc62",
+                        "contentType": "STORY",
+                        "title": "Explainer-Why India's Tata Sons is facing pressure to list",
+                        "description": "",
+                        "summary": "By Jayshree P Upadhyay and Gopika Gopakumar MUMBAI, May 15 (Reuters) - Tata Sons, the holding company of 31 group companies including TCS, Tata Motors and Tata Steel, is facing pressure to go public -",
+                        "pubDate": "2026-05-15T07:32:58Z",
+                        "displayTime": "2026-05-15T07:32:58Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/reuters.com/009a45b4656ea56fde3365fe5c479e13",
+                            "originalWidth": 800,
+                            "originalHeight": 549,
+                            "caption": "Natarajan Chandrasekaran, Chairperson Tata Sons, attends the listing ceremony of Tata Capital Limited at the National Stock Exchange (NSE) in Mumbai, India, October 13, 2025. REUTERS/Francis Mascarenhas",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Tt9Lmh8qYTc8scZJoPPabA--~B/aD01NDk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/009a45b4656ea56fde3365fe5c479e13",
+                                    "width": 800,
+                                    "height": 549,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/tnDHARVrTRrNKjLXwJ8.1g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/009a45b4656ea56fde3365fe5c479e13",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Reuters",
+                            "url": "https://www.reuters.com/",
+                            "sourceId": "reuters.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://sg.finance.yahoo.com/news/explainer-why-indias-tata-sons-073258579.html",
+                            "site": "finance",
+                            "region": "SG",
+                            "lang": "en-SG"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/news/explainer-why-indias-tata-sons-073258579.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "1a5fd6a1-95a0-37d3-9304-6a98e216a088",
                     "content": {
@@ -1379,80 +1474,18 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
-                    "content": {
-                        "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
-                        "contentType": "STORY",
-                        "title": "CrowdStrike Gartner Leader Status And QuiltWorks Expansion Deepen AI Security Role",
-                        "description": "",
-                        "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) is named a Leader in the 2026 Gartner Magic Quadrant for Cyberthreat Intelligence Technologies. The company expands its Project QuiltWorks coalition, adding global partners including Armadin, Cognizant, HCLTech, Infosys, KPMG, NTT DATA, Tata Consultancy Services, and Wipro. Project QuiltWorks focuses on applying frontier AI to cybersecurity risk management across enterprises. CrowdStrike, known for its Falcon platform and focus on AI-powered...",
-                        "pubDate": "2026-05-06T01:10:07Z",
-                        "displayTime": "2026-05-06T01:10:07Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/UQbC6LujlUkNT9H5eTYgJg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/qMppP11U0NbYKZ583cpmtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-gartner-leader-status-quiltworks-011007711.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-gartner-leader-status-quiltworks-011007711.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-15T06:59:46.279326",
-            "price": 774.5,
-            "change": 1.5,
+            "timestamp": "2026-05-15T09:38:46.810452",
+            "price": 767.2999877929688,
+            "change": -5.70001220703125,
             "open": 773.0,
             "high": 781.9000244140625,
-            "low": 767.75,
-            "volume": 12461666,
+            "low": 766.2999877929688,
+            "volume": 21813793,
             "news": [
                 {
                     "id": "8f5c2361-6b58-3840-82bd-8c721efcf39d",
@@ -1711,14 +1744,76 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-15T06:59:46.481952",
-            "price": 1120.4000244140625,
-            "change": 18.4000244140625,
+            "timestamp": "2026-05-15T09:38:47.220196",
+            "price": 1118.9000244140625,
+            "change": 16.9000244140625,
             "open": 1102.0,
             "high": 1133.199951171875,
             "low": 1101.5999755859375,
-            "volume": 6687967,
+            "volume": 12839240,
             "news": [
+                {
+                    "id": "89140f21-8564-3ec3-8fda-63a8164d563c",
+                    "content": {
+                        "id": "89140f21-8564-3ec3-8fda-63a8164d563c",
+                        "contentType": "STORY",
+                        "title": "Here’s Why Hedge Funds Are Still Bullish On Accenture (ACN) Despite Hitting 52-Week Low",
+                        "description": "",
+                        "summary": "Accenture plc (NYSE:ACN) is one of the Best 52-Week Low Stocks to Buy According to Hedge Funds. On May 11, after OpenAI announced it was launching an OpenAI Deployment Company, shares of several consulting companies fell. However, UBS expressed a positive opinion regarding Accenture plc (NYSE:ACN) stock, with a target price of $320 and a […]",
+                        "pubDate": "2026-05-15T09:28:59Z",
+                        "displayTime": "2026-05-15T09:28:59Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/81d49ba9ccbc7a063c1de5a807e43f8b",
+                            "originalWidth": 1456,
+                            "originalHeight": 816,
+                            "caption": "Accenture plc (NYSE:ACN) is one of the Best 52-Week Low Stocks to Buy According to Hedge Funds.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ZTol5oOigTCP58445Gn.qA--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/81d49ba9ccbc7a063c1de5a807e43f8b",
+                                    "width": 1456,
+                                    "height": 816,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ULUCMa_cW3ltyYKmgE6PBQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/81d49ba9ccbc7a063c1de5a807e43f8b",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/why-hedge-funds-still-bullish-092859779.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/why-hedge-funds-still-bullish-092859779.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "57cc8364-37a1-34f7-9c93-0ffce8fdb8d8",
                     "content": {
@@ -1947,74 +2042,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
-                    "content": {
-                        "id": "30c89af7-6a86-3dfc-922d-99714e67ea3f",
-                        "contentType": "STORY",
-                        "title": "CrowdStrike Gartner Leader Status And QuiltWorks Expansion Deepen AI Security Role",
-                        "description": "",
-                        "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) is named a Leader in the 2026 Gartner Magic Quadrant for Cyberthreat Intelligence Technologies. The company expands its Project QuiltWorks coalition, adding global partners including Armadin, Cognizant, HCLTech, Infosys, KPMG, NTT DATA, Tata Consultancy Services, and Wipro. Project QuiltWorks focuses on applying frontier AI to cybersecurity risk management across enterprises. CrowdStrike, known for its Falcon platform and focus on AI-powered...",
-                        "pubDate": "2026-05-06T01:10:07Z",
-                        "displayTime": "2026-05-06T01:10:07Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/UQbC6LujlUkNT9H5eTYgJg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/qMppP11U0NbYKZ583cpmtw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/cee5dc64e101a4d032f4f34bbd8ab44e",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-gartner-leader-status-quiltworks-011007711.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-gartner-leader-status-quiltworks-011007711.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-15T06:59:46.689824",
+            "timestamp": "2026-05-15T09:38:47.639562",
             "price": 298.2099914550781,
             "change": -1.610015869140625,
             "open": 299.82000732421875,
@@ -2074,6 +2107,130 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "74d88c24-53d9-3828-86ca-e5f160e1ec5c",
+                    "content": {
+                        "id": "74d88c24-53d9-3828-86ca-e5f160e1ec5c",
+                        "contentType": "STORY",
+                        "title": "Is Apple (AAPL) One of the Best US Stocks to Invest in According to Billionaires?",
+                        "description": "",
+                        "summary": "Apple Inc. (NASDAQ:AAPL) is included among the 10 Best US Stocks to Invest in According to Billionaires. Apple Inc. (NASDAQ:AAPL) designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. Apple Inc. (NASDAQ:AAPL) made headlines on May 8 when a Wall Street Journal report revealed that the tech giant has reached a preliminary […]",
+                        "pubDate": "2026-05-15T08:45:00Z",
+                        "displayTime": "2026-05-15T08:45:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+                            "originalWidth": 1456,
+                            "originalHeight": 816,
+                            "caption": "Is Apple (AAPL) One of the Best US Stocks to Invest in According to Billionaires?",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ZW3fq6JkBYqEx9N2Vum6qQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+                                    "width": 1456,
+                                    "height": 816,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Lc51vPFvh_63B_mHSkS49Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/410ac07c4c90786d8592963501a2ed84",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-one-best-us-084500391.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-one-best-us-084500391.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "f473580b-392d-368d-8244-43772134ec02",
+                    "content": {
+                        "id": "f473580b-392d-368d-8244-43772134ec02",
+                        "contentType": "STORY",
+                        "title": "Apple And OpenAI Rift Puts AI Partnerships And Investor Focus In Spotlight",
+                        "description": "",
+                        "summary": "Apple’s partnership with OpenAI has reportedly become strained, with OpenAI preparing potential legal action. The dispute centers on alleged shortfalls in Apple’s delivery of commercial and integration commitments under a multi year agreement. The tension is emerging as Apple expands its AI offerings and opens its ecosystem to additional third party AI providers. For investors following Apple, NasdaqGS:AAPL, the dispute lands at a time when the stock is trading around $298.21 and has...",
+                        "pubDate": "2026-05-15T07:24:14Z",
+                        "displayTime": "2026-05-15T07:24:14Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/fBnY8upz5XxbZDDWlufZ9w--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/bU5AIomYRBg3WBNqAswADg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/69084628647944e382f8e555f97913e8",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-rift-puts-ai-072414422.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/apple-openai-rift-puts-ai-072414422.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -2207,136 +2364,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "cea1fe5b-ed9c-38bb-b9a8-3e9123d52c16",
-                    "content": {
-                        "id": "cea1fe5b-ed9c-38bb-b9a8-3e9123d52c16",
-                        "contentType": "STORY",
-                        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
-                        "description": "",
-                        "summary": "Artificial intelligence could be Amazon's ticket into the ultra-exclusive $4 trillion club.",
-                        "pubDate": "2026-05-14T22:37:00Z",
-                        "displayTime": "2026-05-14T22:37:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "The Amazon logo on a translucent orange background.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mmtXoXwdZGTa2MNO73JWJQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                                    "width": 1200,
-                                    "height": 800,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/IZB5u6ASj_PAlqb8tInGwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-stock-buy-joins-223700641.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "794361d3-edab-3020-b3ca-7f9d6eba1f4f",
-                    "content": {
-                        "id": "794361d3-edab-3020-b3ca-7f9d6eba1f4f",
-                        "contentType": "STORY",
-                        "title": "BuzzHPC targets $200M in AI revenue while Big Tech is still burning cash",
-                        "description": "",
-                        "summary": "While the biggest names in tech are burning billions to build AI infrastructure, BuzzHPC is already running close to 80% EBITDA margins and generating real revenue. Craig Tavares, President and COO of BuzzHPC — a subsidiary of Hive Digital Technologies — joined TheStreet Roundtable to lay out a ...",
-                        "pubDate": "2026-05-14T21:56:03Z",
-                        "displayTime": "2026-05-14T21:56:03Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/d95cefd278ac55f954c39660ed6050f2",
-                            "originalWidth": 1536,
-                            "originalHeight": 864,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Ikq33f4hMfpxCA8pEiLYkQ--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d95cefd278ac55f954c39660ed6050f2",
-                                    "width": 1536,
-                                    "height": 864,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/WHxaFzpAeeviZ9XZGO5blw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d95cefd278ac55f954c39660ed6050f2",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.thestreet.com/crypto/markets/buzzhpc-targets-200m-in-ai-revenue-while-big-tech-is-still-burning-cash",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/buzzhpc-targets-200m-ai-revenue-215603460.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-15T06:59:46.901559",
+            "timestamp": "2026-05-15T09:38:48.091866",
             "price": 409.42999267578125,
             "change": 4.949981689453125,
             "open": 404.4800109863281,
@@ -2526,32 +2559,32 @@
                     }
                 },
                 {
-                    "id": "1ebc5497-0dee-3c64-a054-877cd7137457",
+                    "id": "f1c5e507-5e9a-3b21-a2fb-6866cdab7d0c",
                     "content": {
-                        "id": "1ebc5497-0dee-3c64-a054-877cd7137457",
+                        "id": "f1c5e507-5e9a-3b21-a2fb-6866cdab7d0c",
                         "contentType": "STORY",
-                        "title": "CMA launches probe into Microsoft business software ecosystem",
+                        "title": "Ackman's Pershing Square takes stake in Microsoft, citing 'compelling' valuation",
                         "description": "",
-                        "summary": "The UK watchdog will examine whether Microsoft has SMS in business software and whether it limits customer choice and competition.",
-                        "pubDate": "2026-05-15T06:57:22Z",
-                        "displayTime": "2026-05-15T06:57:22Z",
+                        "summary": "Bill Ackman's hedge fund Pershing Square will disclose a ‌new position in Microsoft later in ‌the day, the billionaire investor said on Friday, arguing ​that the tech giant sits at a \"highly compelling valuation\".  Ackman's new closed-end fund Pershing Square USA, which debuted on the NYSE ‌last month, has ⁠also recently made Microsoft a core holding, he said in a ⁠post on social media platform X.  Pershing's bet on Microsoft comes amid Ackman's growing ​appetite for ​tech holdings.",
+                        "pubDate": "2026-05-15T09:27:54Z",
+                        "displayTime": "2026-05-15T09:27:54Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/verdict_626/c3cf57500439878d3aabd1b246d75b37",
-                            "originalWidth": 1440,
-                            "originalHeight": 810,
-                            "caption": "CMA launches probe into Microsoft business software ecosystem",
+                            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
+                            "originalWidth": 800,
+                            "originalHeight": 533,
+                            "caption": "FILE PHOTO: Web Summit digital trade show in Vancouver",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/y9MOITrELp4634MX.4cYPQ--~B/aD04MTA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/verdict_626/c3cf57500439878d3aabd1b246d75b37",
-                                    "width": 1440,
-                                    "height": 810,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5Xuwrhs2HeNQwNqAES_nbg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
+                                    "width": 800,
+                                    "height": 533,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/HuuDcfWuDd6.yUwrrwWspQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/verdict_626/c3cf57500439878d3aabd1b246d75b37",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5dwM4mC6pmWsF6cvjjQB7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2559,18 +2592,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Verdict",
-                            "url": "https://www.globaldata.com/",
-                            "sourceId": "verdict_626"
+                            "displayName": "Reuters",
+                            "url": "http://www.reuters.com/",
+                            "sourceId": "reuters-finance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.verdict.co.uk/cma-launches-probe-into-microsoft-business-software-ecosystem/",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/economy/policy/articles/cma-launches-probe-microsoft-business-065722064.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2588,32 +2621,32 @@
                     }
                 },
                 {
-                    "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
+                    "id": "6641d501-3d4d-3d2a-a5a2-d1ed910a1f10",
                     "content": {
-                        "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
+                        "id": "6641d501-3d4d-3d2a-a5a2-d1ed910a1f10",
                         "contentType": "STORY",
-                        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+                        "title": "Better Super Semiconductor Stock: Advanced Micro Devices (AMD) or Broadcom?",
                         "description": "",
-                        "summary": "Market concentration can amplify gains but also compound declines during a stock market sell-off.",
-                        "pubDate": "2026-05-15T05:15:00Z",
-                        "displayTime": "2026-05-15T05:15:00Z",
+                        "summary": "Shares of AMD and Broadcom have produced blistering gains thanks to artificial intelligence.",
+                        "pubDate": "2026-05-15T09:19:00Z",
+                        "displayTime": "2026-05-15T09:19:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "A rocket ship emitting pink spheres, illustrating the stock market’s rise from artificial intelligence (AI) growth stocks. ",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/98329666c699083470eb97fa819fd02f",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "People viewing a mobile device in front of stacks of supercomputers.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/FgdfpC7ZJ3tWZZAyK7gToA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
-                                    "width": 1200,
-                                    "height": 800,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hbISPE1bNYrDSmp3uBiJCg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/98329666c699083470eb97fa819fd02f",
+                                    "width": 1400,
+                                    "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/uMy7UiHpzE9VTeLxVyzXDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/eDtl1QRD797bC.GadFH4fQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/98329666c699083470eb97fa819fd02f",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2626,13 +2659,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
+                            "url": "https://www.fool.com/investing/2026/05/15/better-super-semiconductor-stock-amd-or-broadcom/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-gained-4-8-051500475.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/better-super-semiconductor-stock-advanced-091900973.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2650,32 +2683,51 @@
                     }
                 },
                 {
-                    "id": "0e858d63-a8d3-3106-99ea-cf54b8502a8d",
+                    "id": "a4de6c29-c47d-30ec-bcca-154215171b13",
                     "content": {
-                        "id": "0e858d63-a8d3-3106-99ea-cf54b8502a8d",
+                        "id": "a4de6c29-c47d-30ec-bcca-154215171b13",
                         "contentType": "STORY",
-                        "title": "Intrusion Inc (INTZ) Q1 2026 Earnings Call Highlights: Strategic Wins and Challenges Amidst ...",
+                        "title": "Microsoft (MSFT) – Among the 10 Best US Stocks to Invest in According to Billionaires",
                         "description": "",
-                        "summary": "Despite a significant new contract and expanding partnerships, Intrusion Inc (INTZ) faces revenue challenges due to government contract delays.",
-                        "pubDate": "2026-05-15T05:01:33Z",
-                        "displayTime": "2026-05-15T05:01:33Z",
+                        "summary": "Microsoft Corporation (NASDAQ:MSFT) is included among the 10 Best US Stocks to Invest in According to Billionaires. Microsoft Corporation (NASDAQ:MSFT) is engaged in developing and marketing software, services, and hardware that deliver new opportunities, greater convenience, and enhanced value to people’s lives. Financial Times reported on May 8 that Sir Christopher Hohn’s hedge fund, TCI, […]",
+                        "pubDate": "2026-05-15T08:41:18Z",
+                        "displayTime": "2026-05-15T08:41:18Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
-                        "thumbnail": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+                            "originalWidth": 1024,
+                            "originalHeight": 683,
+                            "caption": "Microsoft (MSFT) - Among the 10 Best US Stocks to Invest in According to Billionaires",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/OOcw.gPZJvOf8NP2TOZfGw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+                                    "width": 1024,
+                                    "height": 683,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/VcfOtNco9_H3ZfJ8_tZEVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/52d1772a91e0b074c5496ca25de5811e",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
                         "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-best-084118955.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-best-084118955.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2696,7 +2748,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-15T06:59:47.070300",
+            "timestamp": "2026-05-15T09:38:48.530758",
             "price": 401.07000732421875,
             "change": 3.790008544921875,
             "open": 397.2799987792969,
@@ -2829,6 +2881,130 @@
                     }
                 },
                 {
+                    "id": "f1c5e507-5e9a-3b21-a2fb-6866cdab7d0c",
+                    "content": {
+                        "id": "f1c5e507-5e9a-3b21-a2fb-6866cdab7d0c",
+                        "contentType": "STORY",
+                        "title": "Ackman's Pershing Square takes stake in Microsoft, citing 'compelling' valuation",
+                        "description": "",
+                        "summary": "Bill Ackman's hedge fund Pershing Square will disclose a ‌new position in Microsoft later in ‌the day, the billionaire investor said on Friday, arguing ​that the tech giant sits at a \"highly compelling valuation\".  Ackman's new closed-end fund Pershing Square USA, which debuted on the NYSE ‌last month, has ⁠also recently made Microsoft a core holding, he said in a ⁠post on social media platform X.  Pershing's bet on Microsoft comes amid Ackman's growing ​appetite for ​tech holdings.",
+                        "pubDate": "2026-05-15T09:27:54Z",
+                        "displayTime": "2026-05-15T09:27:54Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
+                            "originalWidth": 800,
+                            "originalHeight": 533,
+                            "caption": "FILE PHOTO: Web Summit digital trade show in Vancouver",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5Xuwrhs2HeNQwNqAES_nbg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
+                                    "width": 800,
+                                    "height": 533,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5dwM4mC6pmWsF6cvjjQB7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/54d0665436f66490928c5984ee898f90",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Reuters",
+                            "url": "http://www.reuters.com/",
+                            "sourceId": "reuters-finance.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "2bb7cf6f-5c2a-3817-8784-671ccd606fd5",
+                    "content": {
+                        "id": "2bb7cf6f-5c2a-3817-8784-671ccd606fd5",
+                        "contentType": "STORY",
+                        "title": "Google in Talks with SpaceX to Launch Data Centers into Space",
+                        "description": "",
+                        "summary": "Alphabet Inc. (NASDAQ:GOOG) is included among the 10 Best US Stocks to Invest in According to Billionaires. Alphabet Inc. (NASDAQ:GOOG) is a holding company with segments that include Google Services, Google Cloud, and Other Bets. Alphabet Inc. (NASDAQ:GOOG)’s Google announced on May 12 that it was in discussions with Elon Musk’s SpaceX and others regarding […]",
+                        "pubDate": "2026-05-15T08:41:34Z",
+                        "displayTime": "2026-05-15T08:41:34Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c",
+                            "originalWidth": 4860,
+                            "originalHeight": 3240,
+                            "caption": "Google in Talks with SpaceX to Launch Data Centers into Space",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PBR5Zaj1mx6Y5DBeaeMo_A--~B/aD0zMjQwO3c9NDg2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c",
+                                    "width": 4860,
+                                    "height": 3240,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lpzghWm0c706VMSPzYaxBg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/b37705cc559a18e5d7c905152c29378c",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/google-talks-spacex-launch-data-084134109.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/google-talks-spacex-launch-data-084134109.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
                     "content": {
                         "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
@@ -2889,117 +3065,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "6f675c58-1308-30f0-8833-0d138059ce5d",
-                    "content": {
-                        "id": "6f675c58-1308-30f0-8833-0d138059ce5d",
-                        "contentType": "STORY",
-                        "title": "Alphabet's $60 Billion AI Debt Blitz Puts Credit Markets On Alert",
-                        "description": "",
-                        "summary": "Alphabet's global bond push highlights rising AI funding needs and growing pressure on overseas credit markets.",
-                        "pubDate": "2026-05-15T00:30:42Z",
-                        "displayTime": "2026-05-15T00:30:42Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/currencies/articles/alphabets-60-billion-ai-debt-003042104.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/currencies/articles/alphabets-60-billion-ai-debt-003042104.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "cea1fe5b-ed9c-38bb-b9a8-3e9123d52c16",
-                    "content": {
-                        "id": "cea1fe5b-ed9c-38bb-b9a8-3e9123d52c16",
-                        "contentType": "STORY",
-                        "title": "1 Unstoppable Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $4 Trillion Club",
-                        "description": "",
-                        "summary": "Artificial intelligence could be Amazon's ticket into the ultra-exclusive $4 trillion club.",
-                        "pubDate": "2026-05-14T22:37:00Z",
-                        "displayTime": "2026-05-14T22:37:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "The Amazon logo on a translucent orange background.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mmtXoXwdZGTa2MNO73JWJQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                                    "width": 1200,
-                                    "height": 800,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/IZB5u6ASj_PAlqb8tInGwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f347c529cdbafe8b6f8436cbb8ee0520",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/14/1-stock-buy-joins-nvidia-alphabet-4-trillion-club/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-stock-buy-joins-223700641.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-15T06:59:47.292072",
+            "timestamp": "2026-05-15T09:38:48.878088",
             "price": 443.29998779296875,
             "change": -3.19000244140625,
             "open": 446.489990234375,
@@ -3189,32 +3260,75 @@
                     }
                 },
                 {
-                    "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
+                    "id": "6d95f3e4-b6b0-3314-a65b-256af195ce78",
                     "content": {
-                        "id": "6471e9f9-11f5-34d7-8da5-34b0be9ccd4e",
+                        "id": "6d95f3e4-b6b0-3314-a65b-256af195ce78",
                         "contentType": "STORY",
-                        "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+                        "title": "Market Chatter: Australian Judge Warns Tesla Over Document Production in Consumer Lawsuit",
                         "description": "",
-                        "summary": "Market concentration can amplify gains but also compound declines during a stock market sell-off.",
-                        "pubDate": "2026-05-15T05:15:00Z",
-                        "displayTime": "2026-05-15T05:15:00Z",
+                        "summary": "Tesla (TSLA) came under pressure from an Australian judge, who questioned whether the automaker was",
+                        "pubDate": "2026-05-15T09:08:17Z",
+                        "displayTime": "2026-05-15T09:08:17Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "MT Newswires",
+                            "url": "https://www.mtnewswires.com/",
+                            "sourceId": "mt_newswires_premium_news_706"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-australian-judge-warns-090817309.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-australian-judge-warns-090817309.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": true,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "42ef7189-851c-34ec-8ebb-ac17c960b459",
+                    "content": {
+                        "id": "42ef7189-851c-34ec-8ebb-ac17c960b459",
+                        "contentType": "STORY",
+                        "title": "Tesla to Invest $250 Million in Berlin Gigafactory",
+                        "description": "",
+                        "summary": "Tesla, Inc. (NASDAQ:TSLA) is included among the 10 Best US Stocks to Invest in According to Billionaires. Tesla, Inc. (NASDAQ:TSLA) designs, develops, manufactures, sells, and leases high-performance fully electric vehicles and energy generation and storage systems, and offers services related to its products. Tesla, Inc. (NASDAQ:TSLA) revealed on May 12 that it would invest $250 […]",
+                        "pubDate": "2026-05-15T08:43:41Z",
+                        "displayTime": "2026-05-15T08:43:41Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "A rocket ship emitting pink spheres, illustrating the stock market’s rise from artificial intelligence (AI) growth stocks. ",
+                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/3f65dbb005b4ed8d7d2944bf11706e67",
+                            "originalWidth": 2880,
+                            "originalHeight": 1620,
+                            "caption": "Tesla to Invest $250 Million in Berlin Gigafactory",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/FgdfpC7ZJ3tWZZAyK7gToA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
-                                    "width": 1200,
-                                    "height": 800,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/mGuZ5eiSjmLP6NNX8rUvLw--~B/aD0xNjIwO3c9Mjg4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/3f65dbb005b4ed8d7d2944bf11706e67",
+                                    "width": 2880,
+                                    "height": 1620,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/uMy7UiHpzE9VTeLxVyzXDg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a9b9de51ec4231ba9494c27a03307b88",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zk8IatsbsXTn7ybEc1GwoQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/3f65dbb005b4ed8d7d2944bf11706e67",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3222,18 +3336,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
+                            "displayName": "Insider Monkey",
+                            "url": "http://www.insidermonkey.com",
+                            "sourceId": "insidermonkey.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-invest-250-million-berlin-084341890.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-gained-4-8-051500475.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-invest-250-million-berlin-084341890.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3251,32 +3365,32 @@
                     }
                 },
                 {
-                    "id": "58aa9660-2891-3950-8999-9f60ebd5f4a8",
+                    "id": "3a154a5f-f6c5-35ba-bfeb-63228c24987c",
                     "content": {
-                        "id": "58aa9660-2891-3950-8999-9f60ebd5f4a8",
+                        "id": "3a154a5f-f6c5-35ba-bfeb-63228c24987c",
                         "contentType": "STORY",
-                        "title": "Tesla, Toyota expose surprising auto industry truth",
+                        "title": "Elon Musk Says 'Space Is The Only Way' After Jensen Huang Warns AI Could Soon Need 1,000x More Energy",
                         "description": "",
-                        "summary": "Toyota Motor (TM) and Tesla (TSLA) are generally seen as rivals in the global auto business. Toyota is the manufacturing powerhouse, selling more than 11 million automobiles a year in almost every major market. Tesla is the electric vehicle disruptor that pushed the industry to embrace batteries, ...",
-                        "pubDate": "2026-05-15T04:37:00Z",
-                        "displayTime": "2026-05-15T04:37:00Z",
+                        "summary": "Tesla Inc. (NASDAQ:TSLA) and SpaceX CEO Elon Musk reaffirmed orbital datacenter goals on Thursday as NVIDIA Corp (NASDAQ:NVDA) CEO Jensen Huang outlined the growing need for energy to operate AI compute. Space Is The Only Way User @TheChiefNerd posted a clip on X that showed Huang sharing that the amount of energy needed for AI compute exceeded current capacity. “The amount of energy that we need for computing is probably 1,000x more than we currently have,” Huang said. Read Also: Elon Musk Says",
+                        "pubDate": "2026-05-15T07:50:31Z",
+                        "displayTime": "2026-05-15T07:50:31Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/d31d6b1ab70ce83310d4580362aa77f8",
-                            "originalWidth": 1200,
-                            "originalHeight": 675,
+                            "originalUrl": "https://media.zenfs.com/en/Benzinga/634026aee9fe16bebb03eef54989b4c0",
+                            "originalWidth": 1000,
+                            "originalHeight": 667,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/e7zpV0LwZqvJPh2k70yfMg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/d31d6b1ab70ce83310d4580362aa77f8",
-                                    "width": 1200,
-                                    "height": 675,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zLk8K96PZd4gYdVSXKh3iA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/634026aee9fe16bebb03eef54989b4c0",
+                                    "width": 1000,
+                                    "height": 667,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/U4iytUn7LV3Ze8IuCYVzMA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/d31d6b1ab70ce83310d4580362aa77f8",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/8B3dFUtVZmZ.iRa.EbM4tw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/634026aee9fe16bebb03eef54989b4c0",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3284,80 +3398,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
+                            "displayName": "Benzinga",
+                            "url": "http://www.benzinga.com/",
+                            "sourceId": "Benzinga"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.thestreet.com/automotive/tesla-toyota-expose-surprising-auto-industry-truth",
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-space-only-075031638.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-toyota-expose-surprising-auto-043700448.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "66c7db5d-c324-3a89-9fad-6312b7df56d6",
-                    "content": {
-                        "id": "66c7db5d-c324-3a89-9fad-6312b7df56d6",
-                        "contentType": "STORY",
-                        "title": "Why are so many U.S. CEOs in China with Trump, and what do they want?",
-                        "description": "",
-                        "summary": "More than a dozen American CEOs are accompanying President Trump on his trip to China. That's not unusual.",
-                        "pubDate": "2026-05-15T03:23:51Z",
-                        "displayTime": "2026-05-15T03:23:51Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/9z96o5ojKlHM2OwbsPSXyQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/trumpxi-may142026_7635.png",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/9z96o5ojKlHM2OwbsPSXyQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/trumpxi-may142026_7635.png",
-                                    "width": 1920,
-                                    "height": 1080,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/4cDAlQ305NSl4EHWrJsUQA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/trumpxi-may142026_7635.png",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "CBS News",
-                            "url": "https://www.cbsnews.com/",
-                            "sourceId": "cbs_news_897"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/economy/policy/articles/why-are-so-many-us-ceos-in-china-with-trump-and-what-do-they-want-032351850.html",
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-space-only-075031638.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3378,7 +3430,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-15T06:59:47.518814",
+            "timestamp": "2026-05-15T09:38:49.358755",
             "price": 235.74000549316406,
             "change": 5.8899993896484375,
             "open": 229.85000610351562,
@@ -3387,32 +3439,32 @@
             "volume": 179114200,
             "news": [
                 {
-                    "id": "f47d3bb7-eb58-401c-a3e4-e43b2e6011a2",
+                    "id": "08fe5994-2455-4c3d-bf68-9bada788bd15",
                     "content": {
-                        "id": "f47d3bb7-eb58-401c-a3e4-e43b2e6011a2",
+                        "id": "08fe5994-2455-4c3d-bf68-9bada788bd15",
                         "contentType": "STORY",
-                        "title": "Stock market today: Dow retakes 50,000 level, S&P 500 and Nasdaq surge to fresh records as AI trade roars back",
+                        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as yields rise, Trump-Xi summit ends",
                         "description": "",
-                        "summary": "The AI trade lifted stocks on Thursday as all eyes were on the crucial Trump-Xi summit that kicked off in Beijing.",
-                        "pubDate": "2026-05-13T22:32:30Z",
-                        "displayTime": "2026-05-14T21:12:19Z",
+                        "summary": "Inflation worries are preying on investors as they weigh the outcomes of the Trump-Xi summit in China.",
+                        "pubDate": "2026-05-14T22:45:27Z",
+                        "displayTime": "2026-05-15T08:29:51Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/8PGMHNP6K55VXkgYXuNgpQ--~B/aD0yODQzO3c9NDI2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6c909b57-d73e-4cf9-89d2-cdea94ceb185",
-                            "originalWidth": 4264,
-                            "originalHeight": 2843,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/kGdL3aCVXNk10gSGwpwhtg--~B/aD00MDQxO3c9NjA2MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/74e4dcfb-de39-4d4e-a6ee-082703ea529f",
+                            "originalWidth": 6061,
+                            "originalHeight": 4041,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/8PGMHNP6K55VXkgYXuNgpQ--~B/aD0yODQzO3c9NDI2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6c909b57-d73e-4cf9-89d2-cdea94ceb185",
-                                    "width": 4264,
-                                    "height": 2843,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/kGdL3aCVXNk10gSGwpwhtg--~B/aD00MDQxO3c9NjA2MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/74e4dcfb-de39-4d4e-a6ee-082703ea529f",
+                                    "width": 6061,
+                                    "height": 4041,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/83O9atqqYbb037pxjHE8QA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/6c909b57-d73e-4cf9-89d2-cdea94ceb185",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/UG_Sfb0ENXjp.nLRhE3OUg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/74e4dcfb-de39-4d4e-a6ee-082703ea529f",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3425,13 +3477,13 @@
                             "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-retakes-50000-level-sp-500-and-nasdaq-surge-to-fresh-records-as-ai-trade-roars-back-223230929.html",
+                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-retakes-50000-level-sp-500-and-nasdaq-surge-to-fresh-records-as-ai-trade-roars-back-223230929.html",
+                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-fall-as-yields-rise-trump-xi-summit-ends-224527041.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3447,6 +3499,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "f47d3bb7-eb58-401c-a3e4-e43b2e6011a2",
+                                        "contentType": "STORY",
+                                        "isHosted": true,
+                                        "title": "Stock market today: Dow retakes 50,000 level, S&P 500 and Nasdaq surge to fresh records as AI trade roars back",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/8PGMHNP6K55VXkgYXuNgpQ--~B/aD0yODQzO3c9NDI2NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/6c909b57-d73e-4cf9-89d2-cdea94ceb185",
+                                            "originalWidth": 4264,
+                                            "originalHeight": 2843,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance",
+                                            "sourceId": "yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-retakes-50000-level-sp-500-and-nasdaq-surge-to-fresh-records-as-ai-trade-roars-back-223230929.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-retakes-50000-level-sp-500-and-nasdaq-surge-to-fresh-records-as-ai-trade-roars-back-223230929.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "42822ed6-762e-4e4e-8414-21e290c015a8",
@@ -3473,65 +3552,38 @@
                                             "url": "https://finance.yahoo.com/markets/article/cerebras-stock-surges-nearly-70-in-biggest-ipo-of-2026-130757196.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "535f941f-d2ad-4f71-ac61-26ac4a30be05",
-                                        "contentType": "VIDEO",
-                                        "isHosted": true,
-                                        "title": "Dow back above 50,000, US stocks hit new records on AI rally",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/5tRbgSnWEHlAVia1dFRGZQ--~B/aD0yOTU0O3c9NTI1MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ee3b19a7-235a-46d7-89f3-02ff05fe83e3_18616883145454cf5ba2c31524c2e0bdd0a593d7b167d91f8438ebb95fa19702.jpg",
-                                            "originalWidth": 5251,
-                                            "originalHeight": 2954,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance Video",
-                                            "sourceId": "video.yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/video/dow-back-above-50000-us-stocks-hit-new-records-on-ai-rally-201203787.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/video/dow-back-above-50000-us-stocks-hit-new-records-on-ai-rally-201203787.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "31e1ae95-7231-433a-8178-adf3b186889b",
+                    "id": "535f941f-d2ad-4f71-ac61-26ac4a30be05",
                     "content": {
-                        "id": "31e1ae95-7231-433a-8178-adf3b186889b",
+                        "id": "535f941f-d2ad-4f71-ac61-26ac4a30be05",
                         "contentType": "VIDEO",
-                        "title": "What the Trump–Xi summit in China could mean for Nvidia",
-                        "description": "<p>President Trump's summit in China with President Xi is underway, with Nvidia (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" data-i13n=\"cpos:1;pos:1\">NVDA</a>) CEO Jensen Huang and Tesla (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/TSLA/\" data-i13n=\"cpos:2;pos:1\">TSLA</a>) CEO Elon Musk tagging along.</p>\n<p>Yahoo Finance Technology Editor Dan Howley explains what talks in China could mean for Nvidia.</p>",
-                        "summary": "President Trump's summit in China with President Xi is underway, with Nvidia (NVDA) CEO Jensen Huang and Tesla (TSLA) CEO Elon Musk tagging along. Yahoo Finance Technology Editor Dan Howley explains what talks in China could mean for Nvidia.",
-                        "pubDate": "2026-05-14T20:08:22Z",
+                        "title": "Dow back above 50,000, US stocks hit new records on AI rally",
+                        "description": "<p>US stocks (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch\" data-i13n=\"slk:^DJI;cpos:1;pos:1\">^DJI</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:2;pos:1\">^IXIC</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:3;pos:1\">^GSPC</a>) close Thursday's session higher after the Dow Jones Industrial Average crossed back above 50,000 points on the winds of the latest AI rally.</p>\n<p>Yahoo Finance Senior Markets Reporter Ines Ferré highlights the leaders and biggest gainers in the semiconductor trade.</p>",
+                        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) close Thursday's session higher after the Dow Jones Industrial Average crossed back above 50,000 points on the winds of the latest AI rally. Yahoo Finance Senior Markets Reporter Ines Ferré highlights the leaders and biggest gainers in the semiconductor trade.",
+                        "pubDate": "2026-05-14T20:12:03Z",
                         "displayTime": "",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
-                            "originalWidth": 5184,
-                            "originalHeight": 2916,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/5tRbgSnWEHlAVia1dFRGZQ--~B/aD0yOTU0O3c9NTI1MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ee3b19a7-235a-46d7-89f3-02ff05fe83e3_18616883145454cf5ba2c31524c2e0bdd0a593d7b167d91f8438ebb95fa19702.jpg",
+                            "originalWidth": 5251,
+                            "originalHeight": 2954,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
-                                    "width": 5184,
-                                    "height": 2916,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/5tRbgSnWEHlAVia1dFRGZQ--~B/aD0yOTU0O3c9NTI1MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ee3b19a7-235a-46d7-89f3-02ff05fe83e3_18616883145454cf5ba2c31524c2e0bdd0a593d7b167d91f8438ebb95fa19702.jpg",
+                                    "width": 5251,
+                                    "height": 2954,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/uCZ85PugGEOJmCB9S5O0kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/CRhaq9c5rbCJtAcj3EmcrQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ee3b19a7-235a-46d7-89f3-02ff05fe83e3_18616883145454cf5ba2c31524c2e0bdd0a593d7b167d91f8438ebb95fa19702.jpg",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3544,13 +3596,13 @@
                             "sourceId": "video.yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/what-the-trumpxi-summit-in-china-could-mean-for-nvidia-200822221.html",
+                            "url": "https://finance.yahoo.com/video/dow-back-above-50000-us-stocks-hit-new-records-on-ai-rally-201203787.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/what-the-trumpxi-summit-in-china-could-mean-for-nvidia-200822221.html",
+                            "url": "https://finance.yahoo.com/video/dow-back-above-50000-us-stocks-hit-new-records-on-ai-rally-201203787.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3566,6 +3618,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "31e1ae95-7231-433a-8178-adf3b186889b",
+                                        "contentType": "VIDEO",
+                                        "isHosted": true,
+                                        "title": "What the Trump–Xi summit in China could mean for Nvidia",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/67yeS6jsqIQuM_es9Sihow--~B/aD0yOTE2O3c9NTE4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0295734f-401c-4017-a3d8-9a3efa278dc8_c2993c74426faf4a292e0a412a74282f9b7d8fe3e9e4b702df58860ff054881a.jpg",
+                                            "originalWidth": 5184,
+                                            "originalHeight": 2916,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance Video",
+                                            "sourceId": "video.yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/video/what-the-trumpxi-summit-in-china-could-mean-for-nvidia-200822221.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/video/what-the-trumpxi-summit-in-china-could-mean-for-nvidia-200822221.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "d1141bdc-0b3a-495c-8079-dd41bd69ebec",
@@ -3592,65 +3671,38 @@
                                             "url": "https://finance.yahoo.com/markets/article/nvidia-tops-55-trillion-valuation-as-stock-surges-153749987.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "c67078ee-d021-4a29-9bd0-636fab347dd4",
-                                        "contentType": "STORY",
-                                        "isHosted": true,
-                                        "title": "Why Cerebras AI chips stand out in the Nvidia-dominated market",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/29gUn3HQfe3MP2KhaoxCVw--~B/aD04OTU7dz0xMjQ3O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-05-14-at-114005-am_2335.png",
-                                            "originalWidth": 1247,
-                                            "originalHeight": 895,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance",
-                                            "sourceId": "yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/news/why-cerebras-ai-chips-stand-out-in-the-nvidia-dominated-market-155742216.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/news/why-cerebras-ai-chips-stand-out-in-the-nvidia-dominated-market-155742216.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "7e8f5472-ba66-467e-a2cb-6da97695fb59",
+                    "id": "c67078ee-d021-4a29-9bd0-636fab347dd4",
                     "content": {
-                        "id": "7e8f5472-ba66-467e-a2cb-6da97695fb59",
-                        "contentType": "VIDEO",
-                        "title": "Trump, Elon Musk are trying to open up China for business",
-                        "description": "<p>President Trump's summit in China with President Xi is underway, with Nvidia (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" data-i13n=\"cpos:1;pos:1\">NVDA</a>) CEO Jensen Huang and Tesla (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/TSLA/\" data-i13n=\"cpos:2;pos:1\">TSLA</a>) CEO Elon Musk tagging along.</p>\n<p>Yahoo Finance Washington Correspondent Ben Werschkul explains what you need to know from the first day of the summit.</p>",
-                        "summary": "President Trump's summit in China with President Xi is underway, with Nvidia (NVDA) CEO Jensen Huang and Tesla (TSLA) CEO Elon Musk tagging along. Yahoo Finance Washington Correspondent Ben Werschkul explains what you need to know from the first day of the summit.",
-                        "pubDate": "2026-05-14T15:09:48Z",
-                        "displayTime": "",
+                        "id": "c67078ee-d021-4a29-9bd0-636fab347dd4",
+                        "contentType": "STORY",
+                        "title": "Why Cerebras AI chips stand out in the Nvidia-dominated market",
+                        "description": "",
+                        "summary": "Cerebras' chips are far different from Nvidia's, but both are designed to power AI data centers.",
+                        "pubDate": "2026-05-14T15:57:42Z",
+                        "displayTime": "2026-05-14T15:57:42Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/MLHYfPmCrrMgtKtpV9M0MA--~B/aD00MTcwO3c9NzQxNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/814fe095-1a0d-4c67-abda-fc7273ba6ca5_618283d5606f6a5bf5b01d69952ad33fbb73e416ef6c11fa612867698163c0ee.jpg",
-                            "originalWidth": 7415,
-                            "originalHeight": 4170,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/29gUn3HQfe3MP2KhaoxCVw--~B/aD04OTU7dz0xMjQ3O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-05-14-at-114005-am_2335.png",
+                            "originalWidth": 1247,
+                            "originalHeight": 895,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/MLHYfPmCrrMgtKtpV9M0MA--~B/aD00MTcwO3c9NzQxNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/814fe095-1a0d-4c67-abda-fc7273ba6ca5_618283d5606f6a5bf5b01d69952ad33fbb73e416ef6c11fa612867698163c0ee.jpg",
-                                    "width": 7415,
-                                    "height": 4170,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/29gUn3HQfe3MP2KhaoxCVw--~B/aD04OTU7dz0xMjQ3O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-05-14-at-114005-am_2335.png",
+                                    "width": 1247,
+                                    "height": 895,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/cG5IM84tUQ4zAhGFnPG3iw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/814fe095-1a0d-4c67-abda-fc7273ba6ca5_618283d5606f6a5bf5b01d69952ad33fbb73e416ef6c11fa612867698163c0ee.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cQhAQiFQPc1KXkPkj7FwNA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-05-14-at-114005-am_2335.png",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3658,18 +3710,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Yahoo Finance Video",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "video.yahoofinance.com"
+                            "displayName": "Yahoo Finance",
+                            "url": "http://finance.yahoo.com/",
+                            "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/trump-elon-musk-are-trying-to-open-up-china-for-business-150948221.html",
+                            "url": "https://finance.yahoo.com/news/why-cerebras-ai-chips-stand-out-in-the-nvidia-dominated-market-155742216.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/trump-elon-musk-are-trying-to-open-up-china-for-business-150948221.html",
+                            "url": "https://finance.yahoo.com/news/why-cerebras-ai-chips-stand-out-in-the-nvidia-dominated-market-155742216.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3685,6 +3737,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "7e8f5472-ba66-467e-a2cb-6da97695fb59",
+                                        "contentType": "VIDEO",
+                                        "isHosted": true,
+                                        "title": "Trump, Elon Musk are trying to open up China for business",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/MLHYfPmCrrMgtKtpV9M0MA--~B/aD00MTcwO3c9NzQxNTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/814fe095-1a0d-4c67-abda-fc7273ba6ca5_618283d5606f6a5bf5b01d69952ad33fbb73e416ef6c11fa612867698163c0ee.jpg",
+                                            "originalWidth": 7415,
+                                            "originalHeight": 4170,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance Video",
+                                            "sourceId": "video.yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/video/trump-elon-musk-are-trying-to-open-up-china-for-business-150948221.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/video/trump-elon-musk-are-trying-to-open-up-china-for-business-150948221.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "8d4c0f74-0716-4b6b-b695-4922be57ae4a",
@@ -3711,65 +3790,38 @@
                                             "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-to-report-q1-earnings-as-chip-stocks-soar-on-ai-strength-191200180.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "b6001ce4-2470-48d5-b0a0-e90806d81cee",
-                                        "contentType": "VIDEO",
-                                        "isHosted": true,
-                                        "title": "What's driving the meteoric rise of the DRAM ETF",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/lzI2u3Ezu35l4rHen7vuQw--~B/aD0zMzQ2O3c9NTk0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7e4ca4ac-0ea7-49b3-8055-b0942ad6124a_8a0115cd44f2f966f837e20407c182e7f7c5f5094eb7b6a7b624d9bc4aa4962b.jpg",
-                                            "originalWidth": 5948,
-                                            "originalHeight": 3346,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance Video",
-                                            "sourceId": "video.yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/video/whats-driving-the-meteoric-rise-of-the-dram-etf-143943058.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/video/whats-driving-the-meteoric-rise-of-the-dram-etf-143943058.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "64dc4b7c-be6b-416c-9fb4-6c8f175044e5",
+                    "id": "b6001ce4-2470-48d5-b0a0-e90806d81cee",
                     "content": {
-                        "id": "64dc4b7c-be6b-416c-9fb4-6c8f175044e5",
+                        "id": "b6001ce4-2470-48d5-b0a0-e90806d81cee",
                         "contentType": "VIDEO",
-                        "title": "Are retail investors leaning away from software amid tech rally?",
-                        "description": "<p>While record-breaking rallies in tech push the US market (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch\" data-i13n=\"slk:^DJI;cpos:1;pos:1\">^DJI</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:2;pos:1\">^IXIC</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:3;pos:1\">^GSPC</a>) to new heights in 2026, are retail investors still as engaged with these market dynamics that come with these massive valuations?</p>\n<p>Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma comment on the latest trends in retail trading activity observed by JPMorgan.</p>",
-                        "summary": "While record-breaking rallies in tech push the US market (^DJI, ^IXIC, ^GSPC) to new heights in 2026, are retail investors still as engaged with these market dynamics that come with these massive valuations? Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma comment on the latest trends in retail trading activity observed by JPMorgan.",
-                        "pubDate": "2026-05-14T14:16:00Z",
+                        "title": "What's driving the meteoric rise of the DRAM ETF",
+                        "description": "<p>The Roundhill Memory ETF (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/DRAM/\" data-i13n=\"cpos:1;pos:1\">DRAM</a>) has become the <a target=\"_blank\" class=\"link\" href=\"https://finance.yahoo.com/news/roundhill-fund-becomes-fastest-growing-101059164.html\" data-i13n=\"cpos:2;pos:1\">fastest-growing ETF ever</a>, soaring past $6.5 billion in managed assets. This comes as memory chip stocks like Micron Technology (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/MU/\" data-i13n=\"cpos:3;pos:1\">MU</a>) surge by 180% year-to-date in 2026 and Sandisk (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/SNDK/\" data-i13n=\"cpos:4;pos:1\">SNDK</a>) skyrocketing over 3,200% over the past year alone.</p>\n<p>Roundhill Investments CEO Dave Mazza — whose firm manages the fund — comes on Market Catalyst to talk about the ETF's growth and the supply and demand dynamics at play with AI data center projects. </p>",
+                        "summary": "The Roundhill Memory ETF (DRAM) has become the fastest-growing ETF ever, soaring past $6.5 billion in managed assets. This comes as memory chip stocks like Micron Technology (MU) surge by 180% year-to-date in 2026 and Sandisk (SNDK) skyrocketing over 3,200% over the past year alone. Roundhill Investments CEO Dave Mazza — whose firm manages the fund — comes on Market Catalyst to talk about the ETF's growth and the supply and demand dynamics at play with AI data center projects.",
+                        "pubDate": "2026-05-14T14:39:43Z",
                         "displayTime": "",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/GcaPTWLzDeYLpuriQ6bsbQ--~B/aD0zMTEwO3c9NTUzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f605c9b-bec3-4c96-b022-c6a7f5de1101_54ec538afa9e064622057cb72fedb344a14a6cfdab92440f639dfd0a7bef3197.jpg",
-                            "originalWidth": 5530,
-                            "originalHeight": 3110,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/lzI2u3Ezu35l4rHen7vuQw--~B/aD0zMzQ2O3c9NTk0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7e4ca4ac-0ea7-49b3-8055-b0942ad6124a_8a0115cd44f2f966f837e20407c182e7f7c5f5094eb7b6a7b624d9bc4aa4962b.jpg",
+                            "originalWidth": 5948,
+                            "originalHeight": 3346,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/GcaPTWLzDeYLpuriQ6bsbQ--~B/aD0zMTEwO3c9NTUzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f605c9b-bec3-4c96-b022-c6a7f5de1101_54ec538afa9e064622057cb72fedb344a14a6cfdab92440f639dfd0a7bef3197.jpg",
-                                    "width": 5530,
-                                    "height": 3110,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lzI2u3Ezu35l4rHen7vuQw--~B/aD0zMzQ2O3c9NTk0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7e4ca4ac-0ea7-49b3-8055-b0942ad6124a_8a0115cd44f2f966f837e20407c182e7f7c5f5094eb7b6a7b624d9bc4aa4962b.jpg",
+                                    "width": 5948,
+                                    "height": 3346,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/7Zn7bJEqJ3X.PPPtcqPhJg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f605c9b-bec3-4c96-b022-c6a7f5de1101_54ec538afa9e064622057cb72fedb344a14a6cfdab92440f639dfd0a7bef3197.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/b.IxDNoPLfJtePfb.mzFvA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7e4ca4ac-0ea7-49b3-8055-b0942ad6124a_8a0115cd44f2f966f837e20407c182e7f7c5f5094eb7b6a7b624d9bc4aa4962b.jpg",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3782,13 +3834,13 @@
                             "sourceId": "video.yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html",
+                            "url": "https://finance.yahoo.com/video/whats-driving-the-meteoric-rise-of-the-dram-etf-143943058.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html",
+                            "url": "https://finance.yahoo.com/video/whats-driving-the-meteoric-rise-of-the-dram-etf-143943058.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3804,6 +3856,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "64dc4b7c-be6b-416c-9fb4-6c8f175044e5",
+                                        "contentType": "VIDEO",
+                                        "isHosted": true,
+                                        "title": "Are retail investors leaning away from software amid tech rally?",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/GcaPTWLzDeYLpuriQ6bsbQ--~B/aD0zMTEwO3c9NTUzMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f605c9b-bec3-4c96-b022-c6a7f5de1101_54ec538afa9e064622057cb72fedb344a14a6cfdab92440f639dfd0a7bef3197.jpg",
+                                            "originalWidth": 5530,
+                                            "originalHeight": 3110,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance Video",
+                                            "sourceId": "video.yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/video/retail-investors-leaning-away-software-141600541.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "6afc3dab-babb-41d8-af46-9d60df6f3012",
@@ -3830,65 +3909,38 @@
                                             "url": "https://finance.yahoo.com/video/why-the-cerebras-ipo-is-a-huge-deal-for-the-ai-chip-game-140614303.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "57674e38-74dd-478a-aebb-1ec535424805",
-                                        "contentType": "STORY",
-                                        "isHosted": true,
-                                        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LXQLhime.yA1NV1tFxiivg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/f3f7e162-d02a-4495-8b76-c9a4a63a445f",
-                                            "originalWidth": 8256,
-                                            "originalHeight": 5504,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance",
-                                            "sourceId": "yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "a235ba5d-fb5a-470f-8c1b-835b86a767b9",
+                    "id": "57674e38-74dd-478a-aebb-1ec535424805",
                     "content": {
-                        "id": "a235ba5d-fb5a-470f-8c1b-835b86a767b9",
-                        "contentType": "VIDEO",
-                        "title": "Photonics is 'phase 3' of AI infrastructure build. But what is photonics?",
-                        "description": "<p>The Nasdaq Composite (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:1;pos:1\">^IXIC</a>) leads Wednesday's stock gains alongside the S&P 500 (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:2;pos:1\">^GSPC</a>), the former ending the trading day 1.2% higher as the sector rallied.</p>\n<p>IDX Advisors CIO Ben McMillan comes on Market Domination Overtime to explain the demand for photonics technology — or the use of laser and light to transmit data — that could be the next phase of the AI Revolution.</p>",
-                        "summary": "The Nasdaq Composite (^IXIC) leads Wednesday's stock gains alongside the S&P 500 (^GSPC), the former ending the trading day 1.2% higher as the sector rallied. IDX Advisors CIO Ben McMillan comes on Market Domination Overtime to explain the demand for photonics technology — or the use of laser and light to transmit data — that could be the next phase of the AI Revolution.",
-                        "pubDate": "2026-05-14T10:30:00Z",
-                        "displayTime": "",
+                        "id": "57674e38-74dd-478a-aebb-1ec535424805",
+                        "contentType": "STORY",
+                        "title": "Xi Jinping tells CEOs that 'China's door will only open wider' as Trump's two-day visit gets underway",
+                        "description": "",
+                        "summary": "Chinese President Xi Jinping warmly welcomed a delegation of US CEOs on Thursday during the first day of President Trump's visit to the country.",
+                        "pubDate": "2026-05-14T11:39:54Z",
+                        "displayTime": "2026-05-14T11:39:54Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/PmAY5Jb_ehrpDb4As1_7fg--~B/aD0zNjgwO3c9NjU0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45424012-9fd9-4728-b7e2-11bb739e6eb2_19d456cba0a5c509b4df445b84237521ebb7a27f45f1d19b49f89e33cbb2ab6c.jpg",
-                            "originalWidth": 6543,
-                            "originalHeight": 3680,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LXQLhime.yA1NV1tFxiivg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/f3f7e162-d02a-4495-8b76-c9a4a63a445f",
+                            "originalWidth": 8256,
+                            "originalHeight": 5504,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/PmAY5Jb_ehrpDb4As1_7fg--~B/aD0zNjgwO3c9NjU0MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45424012-9fd9-4728-b7e2-11bb739e6eb2_19d456cba0a5c509b4df445b84237521ebb7a27f45f1d19b49f89e33cbb2ab6c.jpg",
-                                    "width": 6543,
-                                    "height": 3680,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/LXQLhime.yA1NV1tFxiivg--~B/aD01NTA0O3c9ODI1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/f3f7e162-d02a-4495-8b76-c9a4a63a445f",
+                                    "width": 8256,
+                                    "height": 5504,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/wdIQbSVZDyQ6FDUlcSMalQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/45424012-9fd9-4728-b7e2-11bb739e6eb2_19d456cba0a5c509b4df445b84237521ebb7a27f45f1d19b49f89e33cbb2ab6c.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/KUJgREld7dtx09M74Lfv_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/f3f7e162-d02a-4495-8b76-c9a4a63a445f",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3896,18 +3948,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Yahoo Finance Video",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "video.yahoofinance.com"
+                            "displayName": "Yahoo Finance",
+                            "url": "http://finance.yahoo.com/",
+                            "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/photonics-phase-3-ai-infrastructure-103000049.html",
+                            "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/photonics-phase-3-ai-infrastructure-103000049.html",
+                            "url": "https://finance.yahoo.com/economy/policy/article/xi-jinping-tells-ceos-that-chinas-door-will-only-open-wider-as-trumps-two-day-visit-gets-underway-113954588.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3928,13 +3980,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-15T06:59:47.728709",
-            "price": 2254.7900390625,
-            "change": -27.669677734375,
+            "timestamp": "2026-05-15T09:38:49.724283",
+            "price": 2256.3701171875,
+            "change": -26.089599609375,
             "open": 2282.459716796875,
             "high": 2297.05712890625,
             "low": 2243.15673828125,
-            "volume": 19529205760,
+            "volume": 19811915776,
             "news": [
                 {
                     "id": "bdb223ee-f32d-4651-8fa5-66e1fdc0854f",
@@ -3988,6 +4040,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "932f9982-1622-30c0-976e-7698d119efaa",
+                    "content": {
+                        "id": "932f9982-1622-30c0-976e-7698d119efaa",
+                        "contentType": "STORY",
+                        "title": "Ethereum To $5,000? Muted Predictions As JPMorgan Claims ETH Will Stay Behind Bitcoin Without Improvements",
+                        "description": "",
+                        "summary": "JPMorgan analysts warned Ethereum could continue underperforming Bitcoin unless the network delivers stronger activity, DeFi growth and real-world adoption. Motley Fool analyst Dominic Basulto predicted ...",
+                        "pubDate": "2026-05-15T07:56:25Z",
+                        "displayTime": "2026-05-15T07:56:25Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                            "originalWidth": 1536,
+                            "originalHeight": 864,
+                            "caption": "Ethereum's outlook is receiving some muted predictions | Source: CCN",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3CtKaiogwKwu714RWDa33Q--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                                    "width": 1536,
+                                    "height": 864,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ouFPo7ZduU4J1ZwP8uYJ3Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/e0b2524207111b165905c20b70656131",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "CCN",
+                            "url": "https://www.ccn.com/",
+                            "sourceId": "ccn_928"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.ccn.com/news/crypto/ethereum-price-5000-jpmorgan-eth-bitcoin/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-5-000-muted-predictions-075625331.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -4183,68 +4297,6 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "62a4700b-6c8a-3c8e-9d80-7b7087007a05",
-                    "content": {
-                        "id": "62a4700b-6c8a-3c8e-9d80-7b7087007a05",
-                        "contentType": "STORY",
-                        "title": "JPMorgan sees one clear winner in crypto right now",
-                        "description": "",
-                        "summary": "A trend that has defined crypto markets since 2023 is still firmly in place, according to JPMorgan — and nothing on the horizon looks strong enough to break it. Analysts led by managing director Nikolaos Panigirtzoglou said in a new report that Bitcoin continues to outperform Ether and altcoins ...",
-                        "pubDate": "2026-05-14T23:51:04Z",
-                        "displayTime": "2026-05-14T23:51:04Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/12b3a0b6ac162bba1932b3a641f2623a",
-                            "originalWidth": 1536,
-                            "originalHeight": 1024,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/OaeMZbEElU9GwFg9sQshnw--~B/aD0xMDI0O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/12b3a0b6ac162bba1932b3a641f2623a",
-                                    "width": 1536,
-                                    "height": 1024,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/HlUAUW4.81LOuBF06BVhdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/12b3a0b6ac162bba1932b3a641f2623a",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.thestreet.com/crypto/markets/jpmorgan-sees-one-clear-winner-in-crypto-right-now",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-sees-one-clear-winner-235104126.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         }
@@ -4253,7 +4305,16 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:47.913462",
+            "collected_at": "2026-05-15T09:38:50.028478",
+            "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as yields rise, Trump-Xi summit ends",
+            "summary": "Inflation worries are preying on investors as they weigh the outcomes of the Trump-Xi summit in China.",
+            "published": "2026-05-14T22:45:27Z",
+            "provider": "Yahoo Finance"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-15T09:38:50.028490",
             "title": "Stock market today: Dow retakes 50,000 level, S&P 500 and Nasdaq surge to fresh records as AI trade roars back",
             "summary": "The AI trade lifted stocks on Thursday as all eyes were on the crucial Trump-Xi summit that kicked off in Beijing.",
             "published": "2026-05-13T22:32:30Z",
@@ -4262,52 +4323,52 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:47.913474",
-            "title": "Dow Jones Futures Fall, Yields Top 4.5% After Nvidia Runs, Cerebras IPO Soars; Trump-Xi Summit Continues",
-            "summary": "The stock market hit highs as Nvidia led and AI chip IPO Cerebras soared in its debut, while Broadcom and Taiwan Semiconductor flashed buy signals. The Trump-Xi summit continues.",
-            "published": "2026-05-15T03:04:38Z",
-            "provider": "Investor's Business Daily"
-        },
-        {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-15T06:59:47.913476",
-            "title": "Review & Preview: 50,000 and a Handshake",
-            "summary": "While the Taiwan tripwire remains, the first day of the U.S.-Beijing summit suggests both superpowers are prioritizing market stability over friction.",
-            "published": "2026-05-14T23:55:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-15T09:38:50.028493",
+            "title": "If I Could Tell All Investors 1 Thing About the Stock Market Right Now, It's This",
+            "summary": "The future of the market is uncertain, but that doesn't have to be a bad thing.",
+            "published": "2026-05-15T09:20:00Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.013893",
-            "title": "Jerome Powell's last day as Fed chair: What to watch tomorrow",
-            "summary": "Yahoo Finance's Josh Lipton takes a look at the top stories for investors to watch on Friday, May 15, including Cerebras' (CBRS) second trading day, day two of President Trump's summit in China with President Xi, and Federal Reserve Chair Jerome Powell's last day in office.",
-            "published": "2026-05-14T21:30:00Z",
-            "provider": "Yahoo Finance Video"
+            "collected_at": "2026-05-15T09:38:50.156569",
+            "title": "Earnings live updates: Applied Materials stock rises on strong AI de, Figma stock surges",
+            "summary": "The pace of first quarter earnings reports eases this week as economic data takes center stage, but investors will still be on the lookout for results from a handful of big corporations.",
+            "published": "2026-05-11T10:30:00Z",
+            "provider": "Yahoo Finance"
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.013905",
+            "collected_at": "2026-05-15T09:38:50.156571",
+            "title": "The S&P 500's earnings boom is facing a bond market warning: Chart of the Day",
+            "summary": "Stocks are hitting records as earnings surge. Meanwhile, bonds are competing harder for investor cash.",
+            "published": "2026-05-14T10:00:00Z",
+            "provider": "Yahoo Finance"
+        },
+        {
+            "source_ticker": "^IXIC",
+            "category": "business",
+            "collected_at": "2026-05-15T09:38:50.312808",
+            "title": "Cerebras stock surges nearly 70% in biggest IPO of 2026",
+            "summary": "The AI chipmaker opened at $350 per share, well above its IPO price of $185.",
+            "published": "2026-05-14T13:07:57Z",
+            "provider": "Yahoo Finance"
+        },
+        {
+            "source_ticker": "^IXIC",
+            "category": "business",
+            "collected_at": "2026-05-15T09:38:50.312810",
             "title": "Dow back above 50,000, US stocks hit new records on AI rally",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) close Thursday's session higher after the Dow Jones Industrial Average crossed back above 50,000 points on the winds of the latest AI rally. Yahoo Finance Senior Markets Reporter Ines Ferré highlights the leaders and biggest gainers in the semiconductor trade.",
             "published": "2026-05-14T20:12:03Z",
             "provider": "Yahoo Finance Video"
         },
         {
-            "source_ticker": "^GSPC",
-            "category": "business",
-            "collected_at": "2026-05-15T06:59:48.013907",
-            "title": "Asian shares dive as US yields hit one-year high",
-            "summary": "By Stella Qiu SYDNEY, May 15 (Reuters) - Asian shares dived on Friday as investor euphoria over tech stocks gave way to inflation fears that saw Treasury yields spike to one-year highs and rising bets",
-            "published": "2026-05-15T05:38:36Z",
-            "provider": "Reuters"
-        },
-        {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.213223",
+            "collected_at": "2026-05-15T09:38:50.472166",
             "title": "Gold and silver prices today, Thursday, May 14: Gold holds, silver stays strong",
             "summary": "Gold opened at $4,696.80 per troy ounce on Thursday, down 0.2% from Wednesday’s close. Gold moved higher this morning, trading at $4,702.90 as of 6:25 a.m. ET. Silver opened at $88.12 per ounce on Thursday, down 1.4% from Wednesday’s closing price. Silver moved lower in early trading, moving to $87.54 as of 6:25 a.m. ET.",
             "published": "2026-05-14T10:46:13Z",
@@ -4316,25 +4377,25 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.213236",
-            "title": "Freehold Royalties (TSX:FRU) Valuation After Q1 2026 Results And New Permian Basin Investments",
-            "summary": "Freehold Royalties (TSX:FRU) is back in focus after releasing Q1 2026 results, reporting slightly lower profit year over year, steady production, reaffirmed guidance, new investments in the Permian Basin, and continued dividends and share buybacks. See our latest analysis for Freehold Royalties. The Q1 2026 update, renewed share buyback plan, continued monthly dividends, and fresh Permian Basin royalty acquisitions have coincided with a 15.8% year to date share price return and a 55.6% total...",
-            "published": "2026-05-15T06:12:35Z",
+            "collected_at": "2026-05-15T09:38:50.472179",
+            "title": "Assessing ConocoPhillips (COP) Valuation After Greater Ekofisk Redevelopment And Offshore Syria Exploration Moves",
+            "summary": "ConocoPhillips (COP) is back in the headlines after Norway approved redevelopment plans for the Greater Ekofisk area and the company signed an offshore exploration MoU offshore Syria with regional partners. See our latest analysis for ConocoPhillips. The recent Greater Ekofisk approval and offshore Syria MoU come after a strong run, with ConocoPhillips delivering a year to date share price return of 23.03% and a 1 year total shareholder return of 33.35%, while the 5 year total shareholder...",
+            "published": "2026-05-15T09:14:35Z",
             "provider": "Simply Wall St."
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.213238",
-            "title": "United States Antimony Corp (UAMY) Q1 2026 Earnings Call Highlights: Strategic Diversification ...",
-            "summary": "Despite a net loss, UAMY's diversified mineral portfolio and substantial government grants position the company for future growth.",
-            "published": "2026-05-15T05:03:41Z",
-            "provider": "GuruFocus.com"
+            "collected_at": "2026-05-15T09:38:50.472182",
+            "title": "A Look At Alkane Resources (ASX:ALK) Valuation After Strong Q3 2026 Sales And Earnings",
+            "summary": "Alkane Resources (ASX:ALK) drew fresh investor attention after reporting third quarter 2026 results, with sales of A$274.37 million and net income of A$92.99 million, as well as a scheduled earnings call on 15 May. See our latest analysis for Alkane Resources. Despite the strong third quarter and nine month results, Alkane Resources' share price has eased recently, with a 30 day share price return down 19.2%, even though the 1 year total shareholder return of 110.42% and 3 year total...",
+            "published": "2026-05-15T09:12:47Z",
+            "provider": "Simply Wall St."
         },
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.306699",
+            "collected_at": "2026-05-15T09:38:50.636732",
             "title": "Are retail investors leaning away from software amid tech rally?",
             "summary": "While record-breaking rallies in tech push the US market (^DJI, ^IXIC, ^GSPC) to new heights in 2026, are retail investors still as engaged with these market dynamics that come with these massive valuations? Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma comment on the latest trends in retail trading activity observed by JPMorgan.",
             "published": "2026-05-14T14:16:00Z",
@@ -4343,7 +4404,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.306712",
+            "collected_at": "2026-05-15T09:38:50.636744",
             "title": "Cisco surges on Q3 AI demand, while cutting 4,000 jobs in AI overhaul",
             "summary": "Cisco Systems (CSCO) stock has surged by double-digits since reporting fiscal third quarter results in Wednesday's extended hours, topping Wall Street expectations with revenue of $15.84 billion and adjusted earnings of $1.06 per share. This comes after the cloud operator laid off 4,000 workers as part of a new AI-focused restructuring. Hennion & Walsh CIO Kevin Mahn and Yahoo Finance Senior Reporters Ines Ferré and Brooke DiPalma take a closer look at the AI demand propelling Cisco, the cloud operator's outlook, and its recent job cuts.",
             "published": "2026-05-14T13:52:52Z",
@@ -4352,10 +4413,10 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-15T06:59:48.306714",
-            "title": "Oil price strain keeps rupee near record low, state banks' dollar sales cushion",
-            "summary": "By Jaspreet Kalra MUMBAI, May 15 (Reuters) - The Indian rupee slipped on Friday and was on course for an over 1% weekly drop, as oil prices held above $100 per barrel, while dollar sales by state-run",
-            "published": "2026-05-15T06:08:44Z",
+            "collected_at": "2026-05-15T09:38:50.636746",
+            "title": "Indian rupee slides to record low past 96/USD as oil prices climb",
+            "summary": "MUMBAI, May 15 (Reuters) - The Indian rupee fell to an all-time low on Friday, as oil prices neared $110 per barrel, deepening challenges for India's external sector, which have started to reflect in",
+            "published": "2026-05-15T09:21:09Z",
             "provider": "Reuters"
         }
     ],
@@ -4363,7 +4424,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.402767",
+            "collected_at": "2026-05-15T09:38:50.784074",
             "title": "What Does the Strong Q1 Earnings Growth Say About the Economy?",
             "summary": "We discuss the economic read-through and the earnings outlook for the Tech, Energy, and Retail sectors.",
             "published": "2026-05-14T20:15:00Z",
@@ -4372,7 +4433,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.402778",
+            "collected_at": "2026-05-15T09:38:50.784087",
             "title": "International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
             "summary": "For a decade, owning anything outside the S&P 500 felt like paying tuition to learn a lesson you already knew. International developed equities lagged, the dollar marched higher, and every diversification pitch sounded like an apology. That trade has flipped. Over the past year, Vanguard FTSE Developed Markets ETF (NYSEARCA:VEA) returned 34% against the S&P ... International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
             "published": "2026-05-14T17:08:41Z",
@@ -4381,7 +4442,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.402780",
+            "collected_at": "2026-05-15T09:38:50.784089",
             "title": "DRAM ETF’s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn’t Belong in Retirement Portfolios",
             "summary": "The Roundhill Memory ETF (CBOE:DRAM) launched on April 2, 2026 as the first U.S.-listed fund built entirely around memory chip makers, and it has already returned 85% since inception. For a retiree screening DRAM as an inflation hedge or AI-themed growth sleeve, that headline number is the wrong place to start. DRAM is a concentrated, ... DRAM ETF’s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn’t Belong in Retirement Portfolios",
             "published": "2026-05-14T15:00:32Z",
@@ -4390,7 +4451,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.504581",
+            "collected_at": "2026-05-15T09:38:50.973220",
             "title": "Why This Hedge Fund Made a $3 Million Bet on Carter’s Despite Retail Headwinds",
             "summary": "Known for its Carter’s and OshKosh brands, this childrenswear leader serves families through retail, wholesale, and digital channels.",
             "published": "2026-05-14T19:13:17Z",
@@ -4399,7 +4460,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.504596",
+            "collected_at": "2026-05-15T09:38:50.973232",
             "title": "Exchange-Traded Funds Move Higher as US Equities Advance After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
             "published": "2026-05-14T17:07:44Z",
@@ -4408,7 +4469,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.504599",
+            "collected_at": "2026-05-15T09:38:50.973234",
             "title": "Exchange-Traded Funds, Equity Futures Advance Pre-Bell Thursday Amid US-China Meeting",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
             "published": "2026-05-14T13:13:35Z",
@@ -4417,7 +4478,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.608457",
+            "collected_at": "2026-05-15T09:38:51.102661",
             "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "summary": "The Vanguard Total Stock Market Index Fund Institutional Plus Shares (VSMPX) is one of the largest pooled equity vehicles in the world, but most readers searching for it cannot actually buy it. VSMPX is a mutual fund share class, not an ETF, and Vanguard reserves it for institutional clients writing checks measured in hundreds of ... VSMPX Tracks VTI Perfectly at Half the Cost, but There’s a Catch for Individual Investors",
             "published": "2026-05-12T15:15:35Z",
@@ -4426,7 +4487,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.608469",
+            "collected_at": "2026-05-15T09:38:51.102673",
             "title": "VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "summary": "If your equity sleeve has more than two or three funds, Vanguard Total Stock Market Index Fund Admiral Shares (NASDAQ:VTSAX) is the case for simplifying. VTSAX owns essentially the entire investable U.S. stock market in one wrapper, charges almost nothing, and has compounded at a rate that has embarrassed most actively managed funds over the ... VTSAX Returns 300% in a Decade While Most Managed Funds Fall Behind",
             "published": "2026-05-12T11:10:02Z",
@@ -4435,7 +4496,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.608471",
+            "collected_at": "2026-05-15T09:38:51.102675",
             "title": "Battle of the Broad Market ETFs: Vanguard's VTI vs. Schwab's SCHB",
             "summary": "Both ETFs track thousands of U.S. stocks and share remarkably similar risk and return profiles, yet differ in portfolio breadth and fund size.",
             "published": "2026-05-11T15:19:02Z",
@@ -4444,7 +4505,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.699253",
+            "collected_at": "2026-05-15T09:38:51.242196",
             "title": "Huge Inflows to New Memory Stock Fund Propel It Past Cathie Wood’s ARKK",
             "summary": "A red-hot ETF that launched just six weeks ago has surpassed Cathie Wood's flagship ARK Innovation (ARKK) fund in assets.  Roundhill's Memory ETF, known by ticker DRAM, has accumulated some $9 billion in assets since its April 2 launch.  Individual investors have been piling into the fund at an unprecedented pace for a new launch, according to data provider Vanda Research.",
             "published": "2026-05-14T17:25:04Z",
@@ -4453,7 +4514,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.699266",
+            "collected_at": "2026-05-15T09:38:51.242207",
             "title": "Cathie Wood trims $3.17M of surging bioscience stock",
             "summary": "There is a pattern to how Cathie Wood exits positions. It rarely happens in one move. It happens in layers, a little here, a little there, until you look back and realize ARK has been sending a signal for weeks. That pattern is playing out right now with Twist Bioscience (TWST). On May 12, ARK sold ...",
             "published": "2026-05-14T04:37:00Z",
@@ -4462,7 +4523,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.699269",
+            "collected_at": "2026-05-15T09:38:51.242209",
             "title": "Cathie Wood, Ross Gerber Snap Up The Same 10 Stocks — Here's The Unlikely Portfolio Crossover",
             "summary": "For retail investors, few names are more recognizable than Ross Gerber and Cathie Wood. Both are known for their high-profile media appearances, active social media followings and ETFs built around their investment strategies. The AdvisorShares Gerber Kawasaki ETF (NYSE:GK), launched back in 2021, tracks picks from Gerber's firm. Meanwhile, Wood, as the CEO of Ark Invest, has multiple ETFs. Ark Autonomous Technology & Robotics ETF (BATS:ARKQ) Ark Innovation ETF (BATS:ARKK) Ark Next Generation In",
             "published": "2026-05-13T18:41:16Z",
@@ -4471,7 +4532,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.790207",
+            "collected_at": "2026-05-15T09:38:51.374517",
             "title": "Update: Gold Trading Lower as the Dollar Rises Following U.S. Retail Sales Data",
             "summary": "(Updates prices.) Gold moved lower midafternoon Thursday as the dollar rose after a report showed",
             "published": "2026-05-14T18:00:13Z",
@@ -4480,7 +4541,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-15T06:59:48.790219",
+            "collected_at": "2026-05-15T09:38:51.374530",
             "title": "Gold Edges Higher as Treasury Yields Ease Following U.S. Retail Sales Data",
             "summary": "Gold edged higher early Thursday as treasury yields eased after a report showed U.S. retail-sales gr",
             "published": "2026-05-14T13:13:52Z",
@@ -4491,7 +4552,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 12,
+        "total_business_articles": 13,
         "total_investment_articles": 14
     }
 }
