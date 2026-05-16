@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-16T14:57:10.672822",
+    "collection_timestamp": "2026-05-16T14:57:21.227336",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-16T14:57:05.985474",
+            "timestamp": "2026-05-16T14:57:16.650589",
             "price": 23643.5,
             "change": -87.900390625,
             "open": 23731.400390625,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-16T14:57:06.259998",
+            "timestamp": "2026-05-16T14:57:16.883086",
             "price": 75237.9921875,
             "change": -259.109375,
             "open": 75497.1015625,
@@ -518,7 +518,7 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-16T14:57:06.486987",
+            "timestamp": "2026-05-16T14:57:17.129335",
             "price": 78098.3125,
             "change": -965.25,
             "open": 79063.5625,
@@ -840,7 +840,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-16T14:57:06.752859",
+            "timestamp": "2026-05-16T14:57:17.398066",
             "price": 1336.4000244140625,
             "change": -20.4000244140625,
             "open": 1356.800048828125,
@@ -1162,7 +1162,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-16T14:57:07.368408",
+            "timestamp": "2026-05-16T14:57:17.658316",
             "price": 2264.0,
             "change": 12.0,
             "open": 2252.0,
@@ -1484,7 +1484,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-16T14:57:07.669543",
+            "timestamp": "2026-05-16T14:57:17.905900",
             "price": 767.5,
             "change": -5.5,
             "open": 773.0,
@@ -1730,7 +1730,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-16T14:57:07.969464",
+            "timestamp": "2026-05-16T14:57:18.205765",
             "price": 1119.0,
             "change": 17.0,
             "open": 1102.0,
@@ -2033,7 +2033,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-16T14:57:08.287197",
+            "timestamp": "2026-05-16T14:57:18.514926",
             "price": 300.2300109863281,
             "change": 2.33001708984375,
             "open": 297.8999938964844,
@@ -2355,7 +2355,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-16T14:57:08.522190",
+            "timestamp": "2026-05-16T14:57:18.837991",
             "price": 421.9200134277344,
             "change": 7.6500244140625,
             "open": 414.2699890136719,
@@ -2734,7 +2734,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-16T14:57:08.796604",
+            "timestamp": "2026-05-16T14:57:19.071322",
             "price": 396.7799987792969,
             "change": 0.459991455078125,
             "open": 396.32000732421875,
@@ -3089,7 +3089,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-16T14:57:09.038817",
+            "timestamp": "2026-05-16T14:57:19.401951",
             "price": 422.239990234375,
             "change": -11.740020751953125,
             "open": 433.9800109863281,
@@ -3387,7 +3387,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-16T14:57:09.277326",
+            "timestamp": "2026-05-16T14:57:19.708725",
             "price": 225.32000732421875,
             "change": -4.4399871826171875,
             "open": 229.75999450683594,
@@ -3823,13 +3823,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-16T14:57:09.514671",
-            "price": 2179.389892578125,
-            "change": -43.887451171875,
+            "timestamp": "2026-05-16T14:57:20.008751",
+            "price": 2179.31005859375,
+            "change": -43.96728515625,
             "open": 2223.27734375,
             "high": 2229.213134765625,
             "low": 2166.02490234375,
-            "volume": 13274163200,
+            "volume": 13164981248,
             "news": [
                 {
                     "id": "b8488457-ad1f-3917-ad78-2e5675b7e232",
@@ -4129,7 +4129,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.727475",
+            "collected_at": "2026-05-16T14:57:20.227808",
             "title": "History's weirdest bubbles have a message for the AI trade: Chart of the Day",
             "summary": "The stock market has a long history of getting carried away by the future.",
             "published": "2026-05-16T11:43:10Z",
@@ -4138,7 +4138,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.727491",
+            "collected_at": "2026-05-16T14:57:20.227823",
             "title": "6 Words From Now-Former Fed Chair Jerome Powell That Will Echo Through Wall Street for Years to Come",
             "summary": "It's incredibly rare when a sitting Fed chair interjects their opinion on stock valuations -- and when this happens, it shouldn't be ignored.",
             "published": "2026-05-16T13:26:00Z",
@@ -4147,7 +4147,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.727496",
+            "collected_at": "2026-05-16T14:57:20.227828",
             "title": "A Historical Double Whammy Makes a Stock Market Crash More Likely Under President Donald Trump",
             "summary": "As the Dow, S&P 500, and Nasdaq Composite ascend to the heavens, so does the likelihood of the Trump bull market taking the elevator down.",
             "published": "2026-05-16T08:26:00Z",
@@ -4156,7 +4156,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.850980",
+            "collected_at": "2026-05-16T14:57:20.337698",
             "title": "Warren Buffett Has Been Saying This for Years. 1 Vanguard ETF Puts That Advice Into Practice.",
             "summary": "Warren Buffett often advocates for low-cost, value-oriented investing. But over the years, he's specifically advocated for one Vanguard ETF in particular.",
             "published": "2026-05-16T14:20:00Z",
@@ -4165,7 +4165,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.850982",
+            "collected_at": "2026-05-16T14:57:20.337701",
             "title": "Value, Quality, Momentum, And Lower Volatility In One Emerging Markets Fund",
             "summary": "Emerging markets investing has a recurring frustration. You buy the asset class for diversification and growth, then find that a handful of state-owned banks, commodity giants, and speculative tech names dominate the index. Fidelity Emerging Markets Multifactor ETF (NYSEARCA:FDEM) tries to fix that by screening the same universe through four lenses at once, value, quality, ... Value, Quality, Momentum, And Lower Volatility In One Emerging Markets Fund",
             "published": "2026-05-16T13:46:58Z",
@@ -4174,7 +4174,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.955327",
+            "collected_at": "2026-05-16T14:57:20.434280",
             "title": "Cerebras stock slides after near-70% surge in biggest IPO of 2026",
             "summary": "The AI chipmaker opened at $350 per share on Thursday, well above its IPO price of $185.",
             "published": "2026-05-14T13:07:57Z",
@@ -4183,7 +4183,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:09.955344",
+            "collected_at": "2026-05-16T14:57:20.434297",
             "title": "Stock Market Week Ahead: Nvidia, Alphabet, Atlanta Fed Lead A Charged Week",
             "summary": "Stock market investors await Nvidia earnings and the Google I/O Conference, as well as a key conference from the Atlanta Federal Reserve.",
             "published": "2026-05-16T12:28:25Z",
@@ -4192,7 +4192,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.054730",
+            "collected_at": "2026-05-16T14:57:20.566833",
             "title": "A Look At Vizsla Silver (TSX:VZLA) Valuation After New Panuco Contracts And Government Relations Hire",
             "summary": "Vizsla Silver (TSX:VZLA) is back in focus after awarding key engineering and mine design contracts for its Panuco silver-gold project in Mexico, and appointing a new Vice President of Government Relations. See our latest analysis for Vizsla Silver. Despite a string of project and leadership announcements in recent weeks, Vizsla Silver’s share price has fallen 6.78% over the past day and is down 36.71% year to date. Its 1 year total shareholder return of 43.58% and 3 year total shareholder...",
             "published": "2026-05-16T14:11:29Z",
@@ -4201,7 +4201,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.054745",
+            "collected_at": "2026-05-16T14:57:20.566847",
             "title": "K92 Mining Q1 Earnings Call Highlights",
             "summary": "K92 Mining (TSE:KNT) reported higher first-quarter revenue and record cash balances as production at its Kainantu Gold Mine in Papua New Guinea benefited from the commissioning of its Stage 3 processing plant and continued underground development gains, management said on the company’s first-quarter",
             "published": "2026-05-16T13:08:07Z",
@@ -4210,7 +4210,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.054747",
+            "collected_at": "2026-05-16T14:57:20.566850",
             "title": "i-80 Gold Q1 Earnings Call Highlights",
             "summary": "i-80 Gold (TSE:IAU) said its first quarter of 2026 marked a turning point for the Nevada-focused gold developer, with management highlighting a completed recapitalization, stronger production from Granite Creek and continued progress on several projects tied to its plan to become a mid-tier gold pro",
             "published": "2026-05-16T12:06:23Z",
@@ -4219,7 +4219,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.160333",
+            "collected_at": "2026-05-16T14:57:20.667907",
             "title": "Jerome Powell's final day as Fed Chair",
             "summary": "Yahoo Finance Senior Reporter Jennifer Schonberger joins Market Domination to discuss outgoing Fed Chair Jerome Powell's tenure.",
             "published": "2026-05-15T19:38:23Z",
@@ -4228,7 +4228,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.160349",
+            "collected_at": "2026-05-16T14:57:20.667921",
             "title": "The market is at the start of the next commodity supercycle, Carlyle's Jeff Currie says",
             "summary": "The market is entering the next commodity supercycle, Carlyle Group's Jeff Currie argues.",
             "published": "2026-05-15T18:12:08Z",
@@ -4237,7 +4237,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-16T14:57:10.160351",
+            "collected_at": "2026-05-16T14:57:20.667924",
             "title": "The Top 5 Analyst Questions From Clean Harbors’s Q1 Earnings Call",
             "summary": "Clean Harbors’ first quarter results were met with a negative market reaction, with management attributing the outcome to mixed revenue growth and margin expansion in both major business segments. While Environmental Services saw continued demand for project and emergency response work—including PFAS remediation—adverse weather and softness in Industrial Services tempered overall top-line performance. Co-CEO Eric Gerstenberg highlighted that “our ES segment achieved positive Q1 results despite c",
             "published": "2026-05-16T13:00:55Z",
@@ -4248,7 +4248,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.259249",
+            "collected_at": "2026-05-16T14:57:20.762595",
             "title": "Just Because Money’s in Your Roth IRA Doesn’t Mean You’re Investing It",
             "summary": "On the May 4 episode of How to Money, co-host Joel Larsgaard described setting up a Roth IRA for his daughter at Fidelity. He received a call from the brokerage flagging that most of the account was sitting in cash. His takeaway, delivered on air: “I know a lot of people, they think they’re investing, ... Just Because Money’s in Your Roth IRA Doesn’t Mean You’re Investing It",
             "published": "2026-05-16T11:41:35Z",
@@ -4257,7 +4257,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.259265",
+            "collected_at": "2026-05-16T14:57:20.762608",
             "title": "Why 90% of Professional Fund Managers Lose to the S&P 500. Here’s the One Strategy That Works",
             "summary": "The most uncomfortable fact in professional money management arrived courtesy of S&P Dow Jones Indices: 90% of active fund managers underperformed the S&P 500 over the last 15 years. These are people paid handsomely to beat a benchmark, and the overwhelming majority cannot. On a recent episode of the Money Guy Show titled Everyday Investors ... Why 90% of Professional Fund Managers Lose to the S&P 500. Here’s the One Strategy That Works",
             "published": "2026-05-16T09:13:04Z",
@@ -4266,7 +4266,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.259268",
+            "collected_at": "2026-05-16T14:57:20.762610",
             "title": "I’m 54 with no retirement savings: a financial advisor says I can still become a millionaire by 67",
             "summary": "A 54-year-old caller from Canada phoned into Ramsey Everyday Millionaires with a problem most people would consider terminal: no retirement savings, no house, and a net monthly income of $5,600. The host’s response was the kind of thing that makes a caller say “Wow” out loud. “If you save 15% of your gross annually into ... I’m 54 with no retirement savings: a financial advisor says I can still become a millionaire by 67",
             "published": "2026-05-16T08:35:01Z",
@@ -4275,7 +4275,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.373280",
+            "collected_at": "2026-05-16T14:57:20.862758",
             "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded In",
             "published": "2026-05-15T17:07:16Z",
@@ -4284,7 +4284,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.373296",
+            "collected_at": "2026-05-16T14:57:20.862771",
             "title": "Stocks Slide as Inflation Fears Lift Bond Yields",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.91%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.83%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -1.30%. June E-mini S&P futures (ESM26 ) are down -1.02%, and June E-mini Nasdaq futures...",
             "published": "2026-05-15T15:14:42Z",
@@ -4293,7 +4293,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.373299",
+            "collected_at": "2026-05-16T14:57:20.862774",
             "title": "Prediction. The S&P 500 Is So Far Above Its Moving Averages That a 10% Correction This Summer Is Not Out of the Question",
             "summary": "Lance Roberts of RIA Advisors warned on the Thoughtful Money podcast that the S&P 500 has stretched so far above its key moving averages that a mean-reversion move could be a higher-probability scenario heading into the summer. “The big risk here is right now… we’ve got this massive deviation that’s going on kind of in ... Prediction. The S&P 500 Is So Far Above Its Moving Averages That a 10% Correction This Summer Is Not Out of the Question",
             "published": "2026-05-15T14:35:37Z",
@@ -4302,7 +4302,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.466581",
+            "collected_at": "2026-05-16T14:57:21.002447",
             "title": "I’m 25 with $500k in index funds and 11 rental units generating $3,500 monthly. Am I actually financially independent?",
             "summary": "Cody Berman went on The Personal Finance Podcast and described hitting financial independence right before his 26th birthday. He held about $500,000 in a Total Stock Market Index Fund, plus 11 rental units purchased with $200,000 in down payments. The real estate produced “between $3,000 and $3,500 a month in cash flow after everything was ... I’m 25 with $500k in index funds and 11 rental units generating $3,500 monthly. Am I actually financially independent?",
             "published": "2026-05-15T23:44:54Z",
@@ -4311,7 +4311,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.466583",
+            "collected_at": "2026-05-16T14:57:21.002450",
             "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
             "summary": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
             "published": "2026-05-15T18:37:00Z",
@@ -4320,7 +4320,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.569821",
+            "collected_at": "2026-05-16T14:57:21.136337",
             "title": "Daily ETF Flows: ARKK Tops The List",
             "summary": "<p>Here are the daily ETF fund flows for May 14, 2026.</p>",
             "published": "2026-05-15T21:00:03Z",
@@ -4329,7 +4329,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.569836",
+            "collected_at": "2026-05-16T14:57:21.136352",
             "title": "Cathie Wood Is Buying the Year’s Hottest AI IPO. Why ARK Is Betting on Cerebras Systems.",
             "summary": "Cathie Wood’s ARK Invest is staying true to its high-growth strategy.  Two of its biggest funds snapped up  Cerebras Systems  on the heels of the chip maker’s impressive market debut, which saw the stock surge nearly 70%.  A trading disclosure shows the flagship  (ARKK) picked up 71,655 Cerebras shares on Thursday.",
             "published": "2026-05-15T14:27:00Z",
@@ -4338,7 +4338,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.569839",
+            "collected_at": "2026-05-16T14:57:21.136354",
             "title": "Cathie Wood Jumps Into AI IPO Sensation",
             "summary": "ARK loads up on Cerebras after explosive Nasdaq debut",
             "published": "2026-05-15T12:32:07Z",
@@ -4347,7 +4347,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.672711",
+            "collected_at": "2026-05-16T14:57:21.227226",
             "title": "Gold Or Oil? This ETF Decides For You When Inflation Strikes",
             "summary": "Energy prices in the United States just did something violent. The PCE energy index jumped 11.56% month-over-month in March 2026, which pushed headline inflation back up to 3.5% year-over-year after a year of relative calm. West Texas Intermediate ripped from around $60 a barrel in January to over $100 today. If you have spent the ... Gold Or Oil? This ETF Decides For You When Inflation Strikes",
             "published": "2026-05-16T11:42:43Z",
@@ -4356,7 +4356,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.672727",
+            "collected_at": "2026-05-16T14:57:21.227240",
             "title": "Grading Powell’s Fed: Good for Stocks, Bad for Affordability",
             "summary": "One result of the massive monetary expansion was an upsurge in inflation, to a peak of over 9% in 2022—which the Fed infamously termed “transitory.”",
             "published": "2026-05-15T19:40:00Z",
@@ -4365,7 +4365,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-16T14:57:10.672730",
+            "collected_at": "2026-05-16T14:57:21.227243",
             "title": "Update: Gold Falls as the USD and Treasury Yields Surge on Inflation Worries",
             "summary": "(Updates prices) Gold traded lower midafternoon Friday as the dollar and yields climbed on conce",
             "published": "2026-05-15T18:01:38Z",
