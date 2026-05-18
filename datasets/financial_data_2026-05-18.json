@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-18T16:47:45.778395",
+    "collection_timestamp": "2026-05-18T16:47:56.672572",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-18T16:47:38.822570",
+            "timestamp": "2026-05-18T16:47:51.839369",
             "price": 23649.94921875,
             "change": 167.75,
             "open": 23482.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-18T16:47:39.207017",
+            "timestamp": "2026-05-18T16:47:52.181126",
             "price": 75315.0390625,
             "change": 507.0703125,
             "open": 74807.96875,
@@ -518,9 +518,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-18T16:47:39.632532",
-            "price": 76420.2421875,
-            "change": -994.671875,
+            "timestamp": "2026-05-18T16:47:52.382736",
+            "price": 76455.0,
+            "change": -959.9140625,
             "open": 77414.9140625,
             "high": 77673.90625,
             "low": 76052.2421875,
@@ -897,7 +897,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-18T16:47:40.137896",
+            "timestamp": "2026-05-18T16:47:52.701927",
             "price": 1335.9000244140625,
             "change": 1.9000244140625,
             "open": 1334.0,
@@ -1219,7 +1219,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-18T16:47:40.661164",
+            "timestamp": "2026-05-18T16:47:52.951649",
             "price": 2283.199951171875,
             "change": 19.199951171875,
             "open": 2264.0,
@@ -1541,7 +1541,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-18T16:47:41.064348",
+            "timestamp": "2026-05-18T16:47:53.273593",
             "price": 768.6500244140625,
             "change": 9.6500244140625,
             "open": 759.0,
@@ -1787,7 +1787,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-18T16:47:41.571137",
+            "timestamp": "2026-05-18T16:47:53.580310",
             "price": 1142.5,
             "change": 23.5,
             "open": 1119.0,
@@ -2090,13 +2090,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-18T16:47:42.000506",
-            "price": 295.3550109863281,
-            "change": -4.884979248046875,
+            "timestamp": "2026-05-18T16:47:53.913754",
+            "price": 295.3299865722656,
+            "change": -4.910003662109375,
             "open": 300.239990234375,
             "high": 300.6600036621094,
             "low": 294.9100036621094,
-            "volume": 15758982,
+            "volume": 15761209,
             "news": [
                 {
                     "id": "cb28970d-75aa-3d7d-9ee8-04aa567f1671",
@@ -2407,13 +2407,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-18T16:47:42.598689",
-            "price": 419.2959899902344,
-            "change": 3.194000244140625,
+            "timestamp": "2026-05-18T16:47:54.211454",
+            "price": 419.6099853515625,
+            "change": 3.50799560546875,
             "open": 416.10198974609375,
             "high": 424.1600036621094,
             "low": 415.6099853515625,
-            "volume": 14987039,
+            "volume": 14991566,
             "news": [
                 {
                     "id": "55459837-0d6c-35d5-aec3-dd1b30aad0bc",
@@ -2724,13 +2724,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-18T16:47:42.943942",
-            "price": 400.82501220703125,
-            "change": 4.985015869140625,
+            "timestamp": "2026-05-18T16:47:54.452572",
+            "price": 400.93499755859375,
+            "change": 5.095001220703125,
             "open": 395.8399963378906,
             "high": 408.6099853515625,
             "low": 394.5299987792969,
-            "volume": 15726049,
+            "volume": 15729783,
             "news": [
                 {
                     "id": "2f045e53-e001-4673-83ec-84670bd429a2",
@@ -2971,6 +2971,63 @@
                     }
                 },
                 {
+                    "id": "55459837-0d6c-35d5-aec3-dd1b30aad0bc",
+                    "content": {
+                        "id": "55459837-0d6c-35d5-aec3-dd1b30aad0bc",
+                        "contentType": "STORY",
+                        "title": "Trump’s Stock-Trading Activity Rose Sharply in First Quarter",
+                        "description": "",
+                        "summary": "President Trump’s trading activity surged in the first quarter, totaling more than 3,700 transactions, according to recent financial disclosures. The disclosures, published by the U.S. Office of Government Ethics late last week, include millions of dollars in transactions relating to companies such as Nvidia, Alphabet and Amazon.",
+                        "pubDate": "2026-05-18T16:02:07Z",
+                        "displayTime": "2026-05-18T16:02:07Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/55459837-0d6c-35d5-aec3-dd1b30aad0bc/trump%E2%80%99s-stock-trading.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/wsj.com/3c28784bc7d6ebd36d2146b04222fbd9",
+                            "originalWidth": 1280,
+                            "originalHeight": 640,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/a2VzhKl_Ko1K84Hkma_JzQ--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/3c28784bc7d6ebd36d2146b04222fbd9",
+                                    "width": 1280,
+                                    "height": 640,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/am9sueusHL7klqWymcQn2w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/3c28784bc7d6ebd36d2146b04222fbd9",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "The Wall Street Journal",
+                            "url": "http://www.wsj.com/",
+                            "sourceId": "wsj.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/trump-s-stock-trading-activity-rose-sharply-in-first-quarter-ZUbhMecoZDU95am9G5Li?siteid=yhoof2&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "b3305792-25c2-362e-a0de-a44b0c01a700",
                     "content": {
                         "id": "b3305792-25c2-362e-a0de-a44b0c01a700",
@@ -3031,80 +3088,18 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "51201ec1-efd5-3e38-827c-a5126b14d09e",
-                    "content": {
-                        "id": "51201ec1-efd5-3e38-827c-a5126b14d09e",
-                        "contentType": "STORY",
-                        "title": "Berkshire CEO Greg Abel sells 16 stocks, triples Alphabet",
-                        "description": "",
-                        "summary": "Greg Abel exited positions including Visa, Mastercard, Amazon, and UnitedHealth while boosting Berkshire's Alphabet stake to almost 58 million shares",
-                        "pubDate": "2026-05-18T14:41:36Z",
-                        "displayTime": "2026-05-18T14:41:36Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/quartz_855/dcf045c086bfaa2e8384a4faaf7669dd",
-                            "originalWidth": 1280,
-                            "originalHeight": 720,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/wrCaA.xni8XMTfQldLEPGQ--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/quartz_855/dcf045c086bfaa2e8384a4faaf7669dd",
-                                    "width": 1280,
-                                    "height": 720,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1fuiJtqYa6jky0tKAPcp.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/quartz_855/dcf045c086bfaa2e8384a4faaf7669dd",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Quartz",
-                            "url": "https://qz.com/",
-                            "sourceId": "quartz_855"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://qz.com/berkshire-hathaway-greg-abel-alphabet-google-stake-051526",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-ceo-greg-abel-sells-144136463.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-18T16:47:43.350442",
-            "price": 410.0050048828125,
-            "change": -9.350006103515625,
+            "timestamp": "2026-05-18T16:47:54.697616",
+            "price": 410.0849914550781,
+            "change": -9.27001953125,
             "open": 419.3550109863281,
             "high": 421.1300048828125,
             "low": 407.8601989746094,
-            "volume": 29985785,
+            "volume": 29996196,
             "news": [
                 {
                     "id": "c6c26d3b-8fc8-4476-9193-7436e44e0407",
@@ -3405,13 +3400,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-18T16:47:43.897358",
-            "price": 220.5800018310547,
-            "change": -9.240005493164062,
+            "timestamp": "2026-05-18T16:47:54.948987",
+            "price": 220.60499572753906,
+            "change": -9.215011596679688,
             "open": 229.82000732421875,
             "high": 230.0,
             "low": 219.64019775390625,
-            "volume": 84463608,
+            "volume": 84492052,
             "news": [
                 {
                     "id": "170e136a-7259-459c-9d90-422f536aedd5",
@@ -3784,9 +3779,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-18T16:47:44.328440",
-            "price": 2098.39990234375,
-            "change": -31.46923828125,
+            "timestamp": "2026-05-18T16:47:55.249127",
+            "price": 2098.760009765625,
+            "change": -31.109130859375,
             "open": 2129.869140625,
             "high": 2153.500732421875,
             "low": 2092.27783203125,
@@ -4109,7 +4104,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.585901",
+            "collected_at": "2026-05-18T16:47:55.520492",
             "title": "Stock market today: Nasdaq, S&P 500, Dow slip as inflation fears grip markets",
             "summary": "Oil prices rose with US-Iran tensions in focus to start a week dominated by Nvidia earnings.",
             "published": "2026-05-17T23:27:05Z",
@@ -4118,7 +4113,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.585915",
+            "collected_at": "2026-05-18T16:47:55.520506",
             "title": "Stock Market Today: Dow Weakens As Oil Swings Higher; These Warren Buffett New Names Rise (Live Coverage)",
             "summary": "Stock Market Today: The major indexes weakened as oil prices reversed higher on Iran state media news.",
             "published": "2026-05-18T16:09:15Z",
@@ -4127,7 +4122,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.585918",
+            "collected_at": "2026-05-18T16:47:55.520509",
             "title": "Top Midday Stories: NextEra, Dominion to Combine in All-Stock Deal; Big Pharma Firms Denied Certiorari by Supreme Court in Medicare Pricing Case",
             "summary": "The Dow Jones Industrial Average, Nasdaq Composite and S&P 500 Index were down in late-morning tradi",
             "published": "2026-05-18T15:46:26Z",
@@ -4136,7 +4131,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.684981",
+            "collected_at": "2026-05-18T16:47:55.704942",
             "title": "Why Nvidia earnings must deliver massively",
             "summary": "Ideally, Nvidia will have a big earnings day.",
             "published": "2026-05-18T13:16:00Z",
@@ -4145,7 +4140,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.684983",
+            "collected_at": "2026-05-18T16:47:55.704944",
             "title": "History's weirdest bubbles have a message for the AI trade: Chart of the Day",
             "summary": "The stock market has a long history of getting carried away by the future.",
             "published": "2026-05-16T11:43:10Z",
@@ -4154,7 +4149,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.829368",
+            "collected_at": "2026-05-18T16:47:55.852424",
             "title": "Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",
             "summary": "Investors step into the week after a Friday in the red, spurred by a stable of geopolitical uncertainties post Trump-Xi summit, rising bond yields, and sticky inflation.",
             "published": "2026-05-17T10:42:55Z",
@@ -4163,7 +4158,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.932578",
+            "collected_at": "2026-05-18T16:47:55.951471",
             "title": "Gold Below $4,600 on Rate Concerns Despite Weaker Dollar",
             "summary": "Gold prices remained below $4,600 a troy ounce despite a weaker U.S. dollar, as a lack of progress in Iran peace talks fuels concerns over the direction of interest rates.",
             "published": "2026-05-18T15:51:00Z",
@@ -4172,7 +4167,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.932594",
+            "collected_at": "2026-05-18T16:47:55.951487",
             "title": "Orla Mining Swaps Solo Growth For Stake In Larger Gold Producer",
             "summary": "Equinox Gold and Orla Mining have agreed to combine in an all share transaction to create a new senior North American gold producer. The deal will merge their operations, expanding the combined company's resource base, operational scale, and geographic footprint. The transaction directly affects Orla Mining's corporate structure, ticker TSX:OLA, and future position in the gold sector. For Orla Mining, ticker TSX:OLA, this announcement comes after a strong longer term run, with the stock up...",
             "published": "2026-05-18T15:13:33Z",
@@ -4181,7 +4176,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:44.932596",
+            "collected_at": "2026-05-18T16:47:55.951489",
             "title": "Investors Are Choosing Bitcoin Over Gold to Fight Inflation. Here's How That Could Backfire.",
             "summary": "The digital currency's scarcity makes it an appealing hedge for inflation -- in theory.",
             "published": "2026-05-18T14:37:00Z",
@@ -4190,7 +4185,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:45.050610",
+            "collected_at": "2026-05-18T16:47:56.073561",
             "title": "Oil prices rise as Trump says 'clock is ticking' for Iran",
             "summary": "Oil prices ticked up Monday morning after tensions re-flared in the Middle East over the weekend.",
             "published": "2026-05-18T16:22:11Z",
@@ -4199,7 +4194,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-18T16:47:45.050627",
+            "collected_at": "2026-05-18T16:47:56.073579",
             "title": "Oil rises, bond yields weigh on stocks",
             "summary": "Stock markets diverged Monday as investors worried about borrowing costs, while oil prices rose as US President Donald Trump ratcheted up pressure on Iran.\"Global government yields rose sharply heading into the start of this week, as three forces collided: surging oil prices, fading hopes for a Strait of Hormuz resolution, and mounting fiscal concerns especially in the UK and US,\" said Michael Wan at MUFG.\nRising yields make borrowing more expensive, potentially putting a brake on investments li",
             "published": "2026-05-18T15:51:24Z",
@@ -4210,7 +4205,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.160153",
+            "collected_at": "2026-05-18T16:47:56.192977",
             "title": "If You Hold This Growth ETF, You Are Losing Money",
             "summary": "The iShares S&P 500 Growth ETF (NYSEARCA:IVW) charges 0.18% a year to own a basket of large-cap growth stocks you can rent for a quarter of that price elsewhere. On a $200,000 position held for thirty years of compounding, that gap quietly hands BlackRock several thousand dollars in fees for exposure that is, holding-for-holding, almost ... If You Hold This Growth ETF, You Are Losing Money",
             "published": "2026-05-18T15:19:46Z",
@@ -4219,7 +4214,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.160168",
+            "collected_at": "2026-05-18T16:47:56.192992",
             "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Stalled Iran Peace Efforts, Inflation Concerns",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1%, and the actively t",
             "published": "2026-05-18T13:12:22Z",
@@ -4228,7 +4223,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.160170",
+            "collected_at": "2026-05-18T16:47:56.192995",
             "title": "A $1.7 Million Portfolio Lost $312,000 in 18 Trading Days, Proving the Case Most Retirees Hate to Hear",
             "summary": "A 65-year-old couple retired last spring with $1.7 million in a 70/30 portfolio and planned to withdraw $68,000 annually under the classic 4% rule. Then came an 18-trading-day slide that ripped through both sides of the allocation. The equity sleeve dropped from $1.19 million to $880,000, a $310,000 decline, while rising rates shaved roughly 7% ... A $1.7 Million Portfolio Lost $312,000 in 18 Trading Days, Proving the Case Most Retirees Hate to Hear",
             "published": "2026-05-18T11:23:44Z",
@@ -4237,7 +4232,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.307757",
+            "collected_at": "2026-05-18T16:47:56.292008",
             "title": "Hedge Your AI Holdings With This Safe Haven ETF if the Bubble Bursts",
             "summary": "If you are sitting on a portfolio that has ridden Nvidia (NASDAQ:NVDA), the hyperscalers, and every adjacent AI name to fresh highs, the question is what happens when the narrative cracks. The Consumer Staples Select Sector SPDR Fund (NYSEARCA:XLP) is the unglamorous answer most AI-heavy investors have not bothered to consider. XLP owns the companies that ... Hedge Your AI Holdings With This Safe Haven ETF if the Bubble Bursts",
             "published": "2026-05-18T14:25:55Z",
@@ -4246,7 +4241,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.307773",
+            "collected_at": "2026-05-18T16:47:56.292023",
             "title": "History Says VUG Is Not Worth Your Money. Hold This Instead",
             "summary": "Over the past decade, Vanguard Growth ETF (NYSEARCA:VUG) returned 427% while Invesco QQQ Trust (NASDAQ:QQQ) delivered 563%. VUG’s broader CRSP index dilutes winners. QQQ concentrates them, and downturns barely separated the two. Over five years, VUG gained 98% against QQQ’s 113%. At 0.18%, QQQ’s expense ratio and concentration profile explain the performance gap. Why index ... History Says VUG Is Not Worth Your Money. Hold This Instead",
             "published": "2026-05-18T13:56:46Z",
@@ -4255,7 +4250,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.422326",
+            "collected_at": "2026-05-18T16:47:56.388638",
             "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
             "summary": "A low starting salary, global pandemic, unaffordable housing market, graduate school and two kids didn’t stop Blake Edwards and his wife from becoming millionaires by their early 30s.",
             "published": "2026-05-18T16:13:00Z",
@@ -4264,7 +4259,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.422341",
+            "collected_at": "2026-05-18T16:47:56.388653",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right — in 1995. Here’s What That Advice Should Sound Like in 2026.",
             "summary": "Over the past 30 years, the investing landscape for retirees has altered radically. One of the fundamental bases for portfolio allocation has required revision. While these ratios have undergone significant change, the ETF boom now makes the menu of options across the board much broader than ever before. However, for a tried and true equities ... If Your Advisor Said to Add Bonds at 65, They Were Right — in 1995. Here’s What That Advice Should Sound Like in 2026.",
             "published": "2026-05-17T14:30:22Z",
@@ -4273,7 +4268,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.422344",
+            "collected_at": "2026-05-18T16:47:56.388656",
             "title": "Why 90% of Professional Fund Managers Lose to the S&P 500. Here’s the One Strategy That Works",
             "summary": "The most uncomfortable fact in professional money management arrived courtesy of S&P Dow Jones Indices: 90% of active fund managers underperformed the S&P 500 over the last 15 years. These are people paid handsomely to beat a benchmark, and the overwhelming majority cannot. On a recent episode of the Money Guy Show titled Everyday Investors ... Why 90% of Professional Fund Managers Lose to the S&P 500. Here’s the One Strategy That Works",
             "published": "2026-05-16T09:13:04Z",
@@ -4282,7 +4277,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.652506",
+            "collected_at": "2026-05-18T16:47:56.563943",
             "title": "Cathie Wood sells $40.6 million of popular semiconductor stock",
             "summary": "Cathie Wood, chief of Ark Investment Management, is known for actively trading her holdings, sometimes selling stocks during sharp market pullbacks. Semiconductor stocks experienced a major market pullback on May 15, with the iShares Semiconductor ETF (SOXX) dropping roughly 4%. Amid that sell-off, ...",
             "published": "2026-05-16T23:23:51Z",
@@ -4291,7 +4286,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.652521",
+            "collected_at": "2026-05-18T16:47:56.563960",
             "title": "Cathie Wood, Ross Gerber Snap Up The Same 10 Stocks — Here's The Unlikely Portfolio Crossover",
             "summary": "For retail investors, few names are more recognizable than Ross Gerber and Cathie Wood. Both are known for their high-profile media appearances, active social media followings and ETFs built around their investment strategies. The AdvisorShares Gerber Kawasaki ETF, launched back...",
             "published": "2026-05-16T20:30:08Z",
@@ -4300,7 +4295,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.652524",
+            "collected_at": "2026-05-18T16:47:56.563962",
             "title": "Daily ETF Flows: ARKK Tops The List",
             "summary": "<p>Here are the daily ETF fund flows for May 14, 2026.</p>",
             "published": "2026-05-15T21:00:03Z",
@@ -4309,7 +4304,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.778263",
+            "collected_at": "2026-05-18T16:47:56.672457",
             "title": "Investors Are Choosing Bitcoin Over Gold to Fight Inflation. Here's How That Could Backfire.",
             "summary": "The digital currency's scarcity makes it an appealing hedge for inflation -- in theory.",
             "published": "2026-05-18T14:37:00Z",
@@ -4318,7 +4313,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-18T16:47:45.778297",
+            "collected_at": "2026-05-18T16:47:56.672475",
             "title": "Gold Or Oil? This ETF Decides For You When Inflation Strikes",
             "summary": "Energy prices in the United States just did something violent. The PCE energy index jumped 11.56% month-over-month in March 2026, which pushed headline inflation back up to 3.5% year-over-year after a year of relative calm. West Texas Intermediate ripped from around $60 a barrel in January to over $100 today. If you have spent the ... Gold Or Oil? This ETF Decides For You When Inflation Strikes",
             "published": "2026-05-16T11:42:43Z",
