@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-19T16:51:52.031712",
+    "collection_timestamp": "2026-05-19T16:52:02.929435",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-19T16:51:47.068019",
+            "timestamp": "2026-05-19T16:51:58.051952",
             "price": 23618.0,
             "change": -57.30078125,
             "open": 23675.30078125,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-19T16:51:47.406535",
+            "timestamp": "2026-05-19T16:51:58.334715",
             "price": 75200.8515625,
             "change": -240.421875,
             "open": 75441.2734375,
@@ -580,9 +580,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-19T16:51:47.698406",
-            "price": 76772.0,
-            "change": -180.046875,
+            "timestamp": "2026-05-19T16:51:58.598659",
+            "price": 76749.453125,
+            "change": -202.59375,
             "open": 76952.046875,
             "high": 77206.0,
             "low": 76193.6640625,
@@ -883,7 +883,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-19T16:51:48.132420",
+            "timestamp": "2026-05-19T16:51:58.920201",
             "price": 1322.699951171875,
             "change": -16.0,
             "open": 1338.699951171875,
@@ -1205,7 +1205,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-19T16:51:48.417007",
+            "timestamp": "2026-05-19T16:51:59.200423",
             "price": 2327.10009765625,
             "change": 27.10009765625,
             "open": 2300.0,
@@ -1527,7 +1527,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-19T16:51:48.680652",
+            "timestamp": "2026-05-19T16:51:59.604274",
             "price": 762.4500122070312,
             "change": -4.25,
             "open": 766.7000122070312,
@@ -1773,7 +1773,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-19T16:51:48.960546",
+            "timestamp": "2026-05-19T16:51:59.952854",
             "price": 1196.9000244140625,
             "change": 34.9000244140625,
             "open": 1162.0,
@@ -2057,13 +2057,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-19T16:51:49.271269",
-            "price": 298.6000061035156,
-            "change": 1.6300048828125,
+            "timestamp": "2026-05-19T16:52:00.290662",
+            "price": 298.5849914550781,
+            "change": 1.614990234375,
             "open": 296.9700012207031,
             "high": 300.510009765625,
             "low": 296.3500061035156,
-            "volume": 17480586,
+            "volume": 17489096,
             "news": [
                 {
                     "id": "113ad517-2208-4b24-bc50-21af653d56c1",
@@ -2393,13 +2393,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-19T16:51:49.545258",
-            "price": 418.6300048828125,
-            "change": -11.264984130859375,
+            "timestamp": "2026-05-19T16:52:00.540426",
+            "price": 418.760009765625,
+            "change": -11.134979248046875,
             "open": 429.8949890136719,
             "high": 432.70001220703125,
             "low": 417.1000061035156,
-            "volume": 17490065,
+            "volume": 17496689,
             "news": [
                 {
                     "id": "113ad517-2208-4b24-bc50-21af653d56c1",
@@ -2772,13 +2772,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-19T16:51:49.754949",
-            "price": 388.2099914550781,
-            "change": -8.779998779296875,
+            "timestamp": "2026-05-19T16:52:00.804999",
+            "price": 388.18499755859375,
+            "change": -8.80499267578125,
             "open": 396.989990234375,
             "high": 397.1499938964844,
             "low": 386.1199951171875,
-            "volume": 16614570,
+            "volume": 16616970,
             "news": [
                 {
                     "id": "e2dcc145-1357-4121-b199-d37893046059",
@@ -3146,13 +3146,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-19T16:51:50.009828",
-            "price": 400.1099853515625,
-            "change": -2.875,
+            "timestamp": "2026-05-19T16:52:01.068135",
+            "price": 400.2650146484375,
+            "change": -2.719970703125,
             "open": 402.9849853515625,
             "high": 404.75,
             "low": 393.6300048828125,
-            "volume": 27747783,
+            "volume": 27769800,
             "news": [
                 {
                     "id": "3e2578be-cdf7-4a5f-b5c7-7293cce6c9e3",
@@ -3506,13 +3506,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-19T16:51:50.288722",
-            "price": 222.6699981689453,
-            "change": 2.9749908447265625,
+            "timestamp": "2026-05-19T16:52:01.359429",
+            "price": 222.8699951171875,
+            "change": 3.17498779296875,
             "open": 219.69500732421875,
             "high": 223.36000061035156,
             "low": 217.91000366210938,
-            "volume": 69911938,
+            "volume": 69940870,
             "news": [
                 {
                     "id": "b9a83c42-b3ab-406c-9c44-49de61162bab",
@@ -3999,9 +3999,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-19T16:51:50.525832",
-            "price": 2117.080078125,
-            "change": -11.46630859375,
+            "timestamp": "2026-05-19T16:52:01.597241",
+            "price": 2117.280029296875,
+            "change": -11.266357421875,
             "open": 2128.54638671875,
             "high": 2142.905029296875,
             "low": 2098.125244140625,
@@ -4324,7 +4324,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.893542",
+            "collected_at": "2026-05-19T16:52:01.838920",
             "title": "Buy Apple Stock and Other Dow Winners, Sell Salesforce and Other Losers, Technician Says",
             "summary": "It isn’t time to bail on the Magnificent Seven yet. But there are momentum winners in staples and healthcare, too.",
             "published": "2026-05-19T14:59:00Z",
@@ -4333,7 +4333,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.893552",
+            "collected_at": "2026-05-19T16:52:01.838933",
             "title": "Nvidia, Apple, Amazon Could Lead Next Magnificent Seven Breakout",
             "summary": "Apple, Nvidia Among Top Picks as Oppenheimer Bets on Big Tech Breakout",
             "published": "2026-05-19T14:58:35Z",
@@ -4342,7 +4342,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.893554",
+            "collected_at": "2026-05-19T16:52:01.838935",
             "title": "S&P 500 and Nasdaq open lower as chip stocks drag, inflation fears persist",
             "summary": "May 19 (Reuters) - The S&P 500 and the Nasdaq opened lower on Tuesday, pressured by a selloff in heavyweight chip stocks and lingering inflation concerns as Treasury yields continued to rise.",
             "published": "2026-05-19T13:35:16Z",
@@ -4351,7 +4351,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.991237",
+            "collected_at": "2026-05-19T16:52:01.978811",
             "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
             "summary": "The S&P 500 has never been more concentrated in two stocks than it is today.",
             "published": "2026-05-19T15:52:14Z",
@@ -4360,7 +4360,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.991249",
+            "collected_at": "2026-05-19T16:52:01.978822",
             "title": "Earnings live updates: Home Depot beats earnings estimates as small DIY projects remain a 'real source of strength'",
             "summary": "Investors will get highly anticipated quarterly results from Nvidia (NVDA) on Wednesday in what's expected to be the marquee earnings event of the week.",
             "published": "2026-05-18T11:54:13Z",
@@ -4369,7 +4369,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:50.991251",
+            "collected_at": "2026-05-19T16:52:01.978824",
             "title": "Applied Digital, Viasat, CECO Environmental, and HNI Shares Plummet, What You Need To Know",
             "summary": "A number of stocks fell in the afternoon session after investors reacted to a cocktail of negative macroeconomic news, including surging oil prices and rising Treasury yields.",
             "published": "2026-05-19T16:36:55Z",
@@ -4378,7 +4378,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.237367",
+            "collected_at": "2026-05-19T16:52:02.112496",
             "title": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic",
             "summary": "Nvidia earnings report is expected to be the main event for tech investors this week.",
             "published": "2026-05-18T11:11:03Z",
@@ -4387,7 +4387,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.237379",
+            "collected_at": "2026-05-19T16:52:02.112503",
             "title": "Take a closer look at Nvidia stock using Yahoo Finance's AlphaSpace",
             "summary": "Yahoo Finance has launched AlphaSpace, a premium investment platform that combines data, charting, news, analysis, and more to help retail investors understand markets and make smart decisions faster. Yahoo Finance Executive Editor Brian Sozzi demonstrates how to use the platform by taking a closer look at AI chip stock Nvidia (NVDA) ahead of its first quarter earnings on Wednesday. Innovator From Goldman Sachs Asset Management chief investment strategist Tim Urbanowicz weighs in with his firm's general outlook on Nvidia.",
             "published": "2026-05-19T14:03:12Z",
@@ -4396,7 +4396,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.237381",
+            "collected_at": "2026-05-19T16:52:02.112505",
             "title": "Markets Await Pending Home Sales Data",
             "summary": "Markets Await Pending Home Sales Data",
             "published": "2026-05-19T14:57:00Z",
@@ -4405,7 +4405,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.391656",
+            "collected_at": "2026-05-19T16:52:02.218038",
             "title": "Gold and silver prices today, Tuesday, May 19: Prices holding after president calls off planned attacks on Iran",
             "summary": "Gold opened at $4,570.60 per troy ounce on Tuesday, up 0.3% from Monday's closing price of $4,558. The price of gold moved lower in early trading. Silver opened at $78.05 per ounce on Tuesday, 0.8% higher than Monday's closing price of $77.44. The price of silver also slid lower in early trading.",
             "published": "2026-05-19T10:54:00Z",
@@ -4414,7 +4414,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.391666",
+            "collected_at": "2026-05-19T16:52:02.218045",
             "title": "AngloGold Ashanti Cut to Underweight at ABSA: Has the Golden Run Finally Ended?",
             "summary": "Shares of AngloGold Ashanti (NYSE:AU) just lost a key voice of support. ABSA Securities downgraded the gold miner to Underweight with a $100.82 price target, a notable bearish pivot after a powerful multi-year rally in both gold and gold mining equities. For long-term investors, the call raises a fair question: has the golden run finally ... AngloGold Ashanti Cut to Underweight at ABSA: Has the Golden Run Finally Ended?",
             "published": "2026-05-19T16:02:11Z",
@@ -4423,7 +4423,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.391668",
+            "collected_at": "2026-05-19T16:52:02.218047",
             "title": "Thor Explorations reports 35.8% rise in Q1 2026 net income",
             "summary": "The company generated revenue of $74.3m (C$102.27m), up 16.1% from $64m in the previous year.",
             "published": "2026-05-19T15:33:36Z",
@@ -4432,7 +4432,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.507955",
+            "collected_at": "2026-05-19T16:52:02.362442",
             "title": "The 10-year Treasury yield is moving the 'wrong way' for stocks",
             "summary": "Bond yields have surpassed key thresholds that analysts say will hit the stock market.",
             "published": "2026-05-19T15:47:29Z",
@@ -4441,7 +4441,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.507966",
+            "collected_at": "2026-05-19T16:52:02.362452",
             "title": "3 factors that could prompt a summer stock market correction",
             "summary": "Keep an eye on these possible market risks.",
             "published": "2026-05-19T11:49:27Z",
@@ -4450,7 +4450,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T16:51:51.507968",
+            "collected_at": "2026-05-19T16:52:02.362454",
             "title": "Bond market is losing 'a bit of faith' in Fed's inflation handling",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) are mixed ahead of Monday's session close as renewed inflation fears begin to seep into the bond market and Treasury yields (^TYX, ^TNX, ^FVX): the ten-year Treasury now sits above 4.6% while the 30-year moves to its highest level in nearly 20 years. Macquarie global FX & interest rates strategist Thierry Wizman outlines the economic and geopolitical worries that are hitting global bond markets the hardest.",
             "published": "2026-05-18T19:46:46Z",
@@ -4461,7 +4461,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.612807",
+            "collected_at": "2026-05-19T16:52:02.465480",
             "title": "Former Fed Official: The Fed’s Biggest Mistake Wasn’t Rate Cuts. It Was Keeping Them Low Too Long.",
             "summary": "For much of the post-2008 era, Wall Street treated zero interest rates as a permanent feature of the landscape, a kind of monetary gravity that pulled every asset price higher. Stocks ran. Bonds ran. Private credit ran. The benchmark S&P 500 vaulted off its 2009 low while the technology-packed Nasdaq Composite did even better. But ... Former Fed Official: The Fed’s Biggest Mistake Wasn’t Rate Cuts. It Was Keeping Them Low Too Long.",
             "published": "2026-05-19T16:08:23Z",
@@ -4470,7 +4470,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.612816",
+            "collected_at": "2026-05-19T16:52:02.465487",
             "title": "Be Cautious With AMD at $420 and Consider Your Options",
             "summary": "Advanced Micro Devices (NASDAQ:AMD) at $420.99 screens as a compelling research setup. The stock pulled back 8.24% in the last week into a window where the AI infrastructure thesis is still gaining altitude. That dip toward the $410 to $415 zone marks a notable level, and the latest results reinforce the underlying setup. AMD designs ... Be Cautious With AMD at $420 and Consider Your Options",
             "published": "2026-05-19T15:40:21Z",
@@ -4479,7 +4479,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.612818",
+            "collected_at": "2026-05-19T16:52:02.465489",
             "title": "MSA Advisors Sells Out of Vail Resorts Position, Unloads $8.3 Million in Stock",
             "summary": "Vail Resorts operates 37 mountain destinations and luxury properties, generating revenue from lift tickets, lodging, and real estate.",
             "published": "2026-05-19T14:37:40Z",
@@ -4488,7 +4488,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.722150",
+            "collected_at": "2026-05-19T16:52:02.564667",
             "title": "This AI ETF Shows Why Your AI Portfolio Isn’t Making You Money",
             "summary": "Walk through a typical retail brokerage account in 2026 and the AI sleeve looks like a teenager’s bedroom. A little NVIDIA (NASDAQ:NVDA), a little Palantir (NASDAQ:PLTR), a few “AI-adjacent” small caps somebody mentioned on a podcast, maybe a thematic fund bought because the ticker sounded clever. The Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) is the cleanest case ... This AI ETF Shows Why Your AI Portfolio Isn’t Making You Money",
             "published": "2026-05-19T14:58:00Z",
@@ -4497,7 +4497,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.722157",
+            "collected_at": "2026-05-19T16:52:02.564674",
             "title": "XNTK Has Crushed QQQ by Six Points in 2026 and the Reason Is Hidden in How Each Fund Decides Which Stocks Matter",
             "summary": "If you want exposure to U.S. technology through a single ticker, the default answer for most investors is Invesco QQQ Trust (NASDAQ:QQQ), the most recognized tech-tilted ETF in the world. The less obvious choice, SPDR NYSE Technology ETF (NYSEARCA:XNTK), has quietly outpaced it by roughly six percentage points so far in 2026. The funds look ... XNTK Has Crushed QQQ by Six Points in 2026 and the Reason Is Hidden in How Each Fund Decides Which Stocks Matter",
             "published": "2026-05-19T13:15:21Z",
@@ -4506,7 +4506,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.722160",
+            "collected_at": "2026-05-19T16:52:02.564677",
             "title": "Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Tuesday Amid Uncertainty Surrounding US-Iran Talks",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4% and the actively tr",
             "published": "2026-05-19T13:14:14Z",
@@ -4515,7 +4515,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.826507",
+            "collected_at": "2026-05-19T16:52:02.676951",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4524,7 +4524,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.826514",
+            "collected_at": "2026-05-19T16:52:02.676961",
             "title": "The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "summary": "The retiree was 66, single, living in Pennsylvania, and relying on a $1.1 million brokerage account to supplement her Social Security income. Her goal was straightforward: generate about $55,000 a year from the portfolio to cover the gap between her guaranteed income and the cost of remaining in her home. She followed the standard retirement playbook ... The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "published": "2026-05-18T21:23:35Z",
@@ -4533,7 +4533,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.826516",
+            "collected_at": "2026-05-19T16:52:02.676963",
             "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
             "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
             "published": "2026-05-18T21:20:00Z",
@@ -4542,7 +4542,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.923093",
+            "collected_at": "2026-05-19T16:52:02.827905",
             "title": "Thematic ETFs 101: How to Invest in AI, Clean Energy  Other Megatrends",
             "summary": "<p>Not sure what a thematic ETF is or how it differs from a regular index fund? This guide breaks down how thematic ETFs work, the most popular investment themes — from AI to clean energy — and what every beginner should know before investing in one.</p>",
             "published": "2026-05-19T00:58:19Z",
@@ -4551,7 +4551,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.923102",
+            "collected_at": "2026-05-19T16:52:02.827912",
             "title": "Cathie Wood buys 33M of Canadian tech stock",
             "summary": "Cathie Wood has never been shy about placing big bets on disruptive technology. And when Shopify reported a blockbuster first quarter on May 5, 2026, ARK Invest did not wait around. The firm loaded up on the Canadian e-commerce giant in a move that signals Wood still sees enormous upside ahead, ...",
             "published": "2026-05-18T23:17:00Z",
@@ -4560,7 +4560,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:51.923105",
+            "collected_at": "2026-05-19T16:52:02.827915",
             "title": "Daily ETF Flows: ARKK Takes No. 1 Spot",
             "summary": "<p>Here are the daily ETF fund flows for May 15, 2026.</p>",
             "published": "2026-05-18T21:00:26Z",
@@ -4569,7 +4569,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:52.031631",
+            "collected_at": "2026-05-19T16:52:02.929349",
             "title": "Gold Edges Lower as USD and Yields Rise on Inflation Worries",
             "summary": "Gold prices edged lower early Tuesday as the dollar and yields continued to climb on rising concerns",
             "published": "2026-05-19T13:40:33Z",
@@ -4578,7 +4578,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T16:51:52.031642",
+            "collected_at": "2026-05-19T16:52:02.929358",
             "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
             "summary": "<p>An exchange-traded fund, or ETF, is a basket of investments that trades on a stock exchange like a single share. Here's how ETFs work, why they've grown into a $13.4 trillion industry, and how to decide if they belong in your portfolio.</p>",
             "published": "2026-05-18T19:15:50Z",
