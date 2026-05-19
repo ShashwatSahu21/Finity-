@@ -1,11 +1,11 @@
 {
-    "collection_timestamp": "2026-05-19T07:51:37.652558",
+    "collection_timestamp": "2026-05-19T07:51:48.079963",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-19T07:51:32.115090",
-            "price": 23728.099609375,
-            "change": 52.798828125,
+            "timestamp": "2026-05-19T07:51:44.067810",
+            "price": 23727.25,
+            "change": 51.94921875,
             "open": 23675.30078125,
             "high": 23782.30078125,
             "low": 23647.400390625,
@@ -325,9 +325,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-19T07:51:32.491511",
-            "price": 75524.7109375,
-            "change": 83.4375,
+            "timestamp": "2026-05-19T07:51:44.279982",
+            "price": 75516.578125,
+            "change": 75.3046875,
             "open": 75441.2734375,
             "high": 75746.2734375,
             "low": 75371.0703125,
@@ -518,9 +518,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-19T07:51:32.885085",
-            "price": 77201.78125,
-            "change": 249.734375,
+            "timestamp": "2026-05-19T07:51:44.555777",
+            "price": 77217.3984375,
+            "change": 265.3515625,
             "open": 76952.046875,
             "high": 77206.0,
             "low": 76502.5546875,
@@ -897,13 +897,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-19T07:51:33.324203",
-            "price": 1334.4000244140625,
-            "change": -4.2999267578125,
+            "timestamp": "2026-05-19T07:51:44.772547",
+            "price": 1334.199951171875,
+            "change": -4.5,
             "open": 1338.699951171875,
             "high": 1344.0,
             "low": 1332.5,
-            "volume": 9391269,
+            "volume": 9405810,
             "news": [
                 {
                     "id": "31f586ed-829e-3ef6-88b8-69e54e339c2c",
@@ -1219,13 +1219,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-19T07:51:33.764753",
-            "price": 2335.60009765625,
-            "change": 35.60009765625,
+            "timestamp": "2026-05-19T07:51:45.070722",
+            "price": 2335.89990234375,
+            "change": 35.89990234375,
             "open": 2300.0,
             "high": 2377.60009765625,
             "low": 2297.10009765625,
-            "volume": 8356177,
+            "volume": 8356499,
             "news": [
                 {
                     "id": "74506265-3e9c-3fab-9ce5-85290cee5954",
@@ -1541,13 +1541,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-19T07:51:34.136384",
-            "price": 766.9000244140625,
-            "change": 0.20001220703125,
+            "timestamp": "2026-05-19T07:51:45.309399",
+            "price": 766.9500122070312,
+            "change": 0.25,
             "open": 766.7000122070312,
             "high": 770.7999877929688,
             "low": 763.5,
-            "volume": 21141511,
+            "volume": 21144824,
             "news": [
                 {
                     "id": "b752a1e8-0b24-31a4-96f1-7876fbb18314",
@@ -1787,13 +1787,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-19T07:51:34.546925",
+            "timestamp": "2026-05-19T07:51:45.524885",
             "price": 1189.800048828125,
             "change": 27.800048828125,
             "open": 1162.0,
             "high": 1197.699951171875,
             "low": 1162.0,
-            "volume": 20479381,
+            "volume": 20486228,
             "news": [
                 {
                     "id": "b1b48301-e016-361e-b4bf-7c9f6a908d4f",
@@ -2090,7 +2090,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-19T07:51:34.860479",
+            "timestamp": "2026-05-19T07:51:45.843590",
             "price": 297.8399963378906,
             "change": -2.399993896484375,
             "open": 300.239990234375,
@@ -2407,7 +2407,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-19T07:51:35.238533",
+            "timestamp": "2026-05-19T07:51:46.099460",
             "price": 423.5400085449219,
             "change": 6.920013427734375,
             "open": 416.6199951171875,
@@ -2729,7 +2729,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-19T07:51:35.608507",
+            "timestamp": "2026-05-19T07:51:46.317058",
             "price": 396.94000244140625,
             "change": 1.25,
             "open": 395.69000244140625,
@@ -3108,7 +3108,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-19T07:51:35.882415",
+            "timestamp": "2026-05-19T07:51:46.547305",
             "price": 409.989990234375,
             "change": -9.279998779296875,
             "open": 419.2699890136719,
@@ -3430,7 +3430,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-19T07:51:36.219682",
+            "timestamp": "2026-05-19T07:51:46.773196",
             "price": 222.32000732421875,
             "change": -7.54998779296875,
             "open": 229.8699951171875,
@@ -3866,9 +3866,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-19T07:51:36.555265",
-            "price": 2142.199951171875,
-            "change": 13.653564453125,
+            "timestamp": "2026-05-19T07:51:46.987858",
+            "price": 2142.010009765625,
+            "change": 13.463623046875,
             "open": 2128.54638671875,
             "high": 2141.6650390625,
             "low": 2119.827880859375,
@@ -4191,7 +4191,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.743627",
+            "collected_at": "2026-05-19T07:51:47.170127",
             "title": "History's weirdest bubbles have a message for the AI trade: Chart of the Day",
             "summary": "The stock market has a long history of getting carried away by the future.",
             "published": "2026-05-16T11:43:10Z",
@@ -4200,7 +4200,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.743635",
+            "collected_at": "2026-05-19T07:51:47.170135",
             "title": "Investors eye Nvidia, bond yields, and the next commodity supercycle: What to watch this week",
             "summary": "Investors step into the week after a Friday in the red, spurred by a stable of geopolitical uncertainties post Trump-Xi summit, rising bond yields, and sticky inflation.",
             "published": "2026-05-17T10:42:55Z",
@@ -4209,7 +4209,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.743638",
+            "collected_at": "2026-05-19T07:51:47.170137",
             "title": "Oppenheimer made a specific call on stock market's biggest names",
             "summary": "The seven stocks that carried the market for two years started 2026 by falling 16% in a single quarter. The group that defined the AI rally had become the market's biggest source of disappointment. Now one of Wall Street's firms thinks the narrative is about to flip again. And it is pointing to ...",
             "published": "2026-05-19T04:37:00Z",
@@ -4218,7 +4218,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.846770",
+            "collected_at": "2026-05-19T07:51:47.283637",
             "title": "The stock market is facing a big challenge right now",
             "summary": "A stunning artificial intelligence-driven rally in stocks from the March 30 low has made finding great investment opportunities that much harder.",
             "published": "2026-05-18T13:36:46Z",
@@ -4227,7 +4227,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.846781",
+            "collected_at": "2026-05-19T07:51:47.283645",
             "title": "Earnings live updates: Nvidia and Walmart, 2 important bellwethers for the US economy, report results this week",
             "summary": "Investors will get highly anticipated quarterly results from Nvidia (NVDA) on Wednesday in what’s expected to be the marquee earnings event of the week.",
             "published": "2026-05-18T11:54:13Z",
@@ -4236,7 +4236,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.955239",
+            "collected_at": "2026-05-19T07:51:47.366577",
             "title": "Dow Jones Futures: Trump Iran Delay Saves Dow, But Sandisk, Bloom Energy, AI Leaders Sell Off",
             "summary": "President Trump said he delayed a planned attack on Iran, but Sandisk, Bloom Energy and other AI leaders still tumbled.",
             "published": "2026-05-19T03:06:14Z",
@@ -4245,7 +4245,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:36.955242",
+            "collected_at": "2026-05-19T07:51:47.366580",
             "title": "Review & Preview: Earnings’ Last Gasp",
             "summary": "Nvidia and Walmart will close out a strong earnings season later this week but investors are looking for signs of inflation-weary consumers.",
             "published": "2026-05-18T23:55:00Z",
@@ -4254,7 +4254,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.070928",
+            "collected_at": "2026-05-19T07:51:47.491748",
             "title": "Equinox (EQX) and Orla Mining Announce At-Market Merger Agreement",
             "summary": "Equinox Gold Corp. (NYSEAMERICAN:EQX) is one of the 8 Best Debt Free Gold Stocks to Buy. On May 13, 2026, Equinox Gold Corp. (NYSEAMERICAN:EQX) and Orla Mining announced a definitive arrangement agreement for an at-market merger that would create a North American senior gold producer with approximately 1.1 million ounces of expected annual gold production […]",
             "published": "2026-05-19T07:16:45Z",
@@ -4263,7 +4263,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.070938",
+            "collected_at": "2026-05-19T07:51:47.491755",
             "title": "Royal Gold (RGLD) Reports Q1 adjusted EPS",
             "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the 8 Best Debt Free Gold Stocks to Buy. On May 6, 2026, Royal Gold, Inc. (NASDAQ:RGLD) reported Q1 adjusted EPS of $2.72, compared to the consensus estimate of $2.75. Revenue totaled $469.1M, versus the consensus estimate of $476.35M. CEO Bill Heissenbuttel said the company’s record first-quarter performance […]",
             "published": "2026-05-19T07:16:16Z",
@@ -4272,7 +4272,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.070941",
+            "collected_at": "2026-05-19T07:51:47.491758",
             "title": "Barrick Mining (B): The Best Debt Free Gold Stock to Buy",
             "summary": "Barrick Mining Corporation (NYSE:B) is one of the 8 Best Debt Free Gold Stocks to Buy. On May 14, 2026, Barrick Mining Corporation (NYSE:B) announced that shareholders elected all nominees listed in the company’s Information Circular during the 2026 Annual Meeting of Shareholders. The elected directors were Helen Cai, Brian Greenspun, Brett Harvey, Mark Hill, […]",
             "published": "2026-05-19T07:16:06Z",
@@ -4281,7 +4281,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.167583",
+            "collected_at": "2026-05-19T07:51:47.581115",
             "title": "US–Iran stalemate: A look at year-end oil price predictions",
             "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley explains the latest developments on US–Iran negotiations, how the Strait of Hormuz is reaching critical levels, and analysts' year-end oil (CL=F, BZ=F) price targets.",
             "published": "2026-05-18T21:06:09Z",
@@ -4290,7 +4290,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.167590",
+            "collected_at": "2026-05-19T07:51:47.581122",
             "title": "Oil prices rise as Trump says 'clock is ticking' for Iran",
             "summary": "Oil prices ticked up Monday morning after tensions re-flared in the Middle East over the weekend.",
             "published": "2026-05-18T16:22:11Z",
@@ -4299,7 +4299,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T07:51:37.167593",
+            "collected_at": "2026-05-19T07:51:47.581125",
             "title": "Bitcoin and ethereum prices today, Monday, May 18, 2026: Prices are down and moving lower this morning",
             "summary": "Bitcoin opened at $77,414.91 on Monday, the lowest opening price since the start of the month. As of 7:26 a.m. ET, the price of bitcoin shifted lower to $76,803.25. Ethereum opened at $2,129.87 on Monday, the lowest opening price since April 7. The price of ethereum moved to $2,113.92 as of 7:26 a.m. ET.",
             "published": "2026-05-18T11:41:00Z",
@@ -4310,7 +4310,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.253447",
+            "collected_at": "2026-05-19T07:51:47.671172",
             "title": "Trump's Iran War Risks 'Unmoored' Inflation And 'Weaker Economy,' Warns Moody's Chief Economist As Ed Yardeni Sees July Rate Hike",
             "summary": "Geopolitical tensions from the Iran war are raising alarms on Wall Street, with top economists warning that inflationary pressures could force the Federal Reserve into aggressive rate hikes. Inflation Fears And ‘Economic Damage’ The economic toll of the Iran war is extending far beyond rising commodity prices. According to Mark Zandi, chief economist at Moody's Analytics, surging interest rates—highlighted by the 10-year Treasury yield jumping to 4.6%—reflect a rapidly shifting landscape. Zandi",
             "published": "2026-05-19T06:25:06Z",
@@ -4319,7 +4319,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.253459",
+            "collected_at": "2026-05-19T07:51:47.671180",
             "title": "Semiconductor Exposure in S&P 500 Hits 18%. That’s More Than Double the Tech Bubble Peak.",
             "summary": "Cameron Dawson, chief investment officer at NewEdge Wealth, dropped a statistic on Thoughtful Money with Adam Taggart that should reframe how investors think about diversification in 2026. “10 years ago, the semiconductor index or weight in the S&P 500 was 2%. Today it’s 18%,” she said, adding that “that 18% is more than double what ... Semiconductor Exposure in S&P 500 Hits 18%. That’s More Than Double the Tech Bubble Peak.",
             "published": "2026-05-19T01:56:37Z",
@@ -4328,7 +4328,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.253461",
+            "collected_at": "2026-05-19T07:51:47.671183",
             "title": "Stocks Settle Mixed as Iran War Remains Unresolved",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -0.07%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.32%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.45%. June E-mini S&P futures (ESM26 ) fell -0.12%, and June E-mini Nasdaq futures...",
             "published": "2026-05-18T20:35:50Z",
@@ -4337,7 +4337,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.352966",
+            "collected_at": "2026-05-19T07:51:47.758375",
             "title": "ETF Inflows Hit $725 Billion YTD as DRAM Stays Hot",
             "summary": "<p>U.S.-listed ETFs gathered $61.1 billion in net inflows during the week ending Friday, May 15, pushing year-to-date inflows to nearly $725 billion.</p>",
             "published": "2026-05-18T21:00:14Z",
@@ -4346,7 +4346,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.352977",
+            "collected_at": "2026-05-19T07:51:47.758387",
             "title": "Nvidia Earnings Wednesday: These ETFs Have the Most Riding on One Stock",
             "summary": "<p>Nvidia reports fiscal Q1 2027 earnings Wednesday after the close, with analysts expecting $79 billion in revenue. The result will ripple across <strong>QQQ</strong>, <strong>SMH</strong>, <strong>SOXX</strong>, and every other ETF with significant Nvidia exposure — and some have far more on the line than others.</p>",
             "published": "2026-05-18T19:23:33Z",
@@ -4355,7 +4355,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.440091",
+            "collected_at": "2026-05-19T07:51:47.846421",
             "title": "The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "summary": "The retiree was 66, single, living in Pennsylvania, and relying on a $1.1 million brokerage account to supplement her Social Security income. Her goal was straightforward: generate about $55,000 a year from the portfolio to cover the gap between her guaranteed income and the cost of remaining in her home. She followed the standard retirement playbook ... The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "published": "2026-05-18T21:23:35Z",
@@ -4364,7 +4364,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.440101",
+            "collected_at": "2026-05-19T07:51:47.846427",
             "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
             "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
             "published": "2026-05-18T21:20:00Z",
@@ -4373,7 +4373,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.440104",
+            "collected_at": "2026-05-19T07:51:47.846430",
             "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
             "summary": "<p>An exchange-traded fund, or ETF, is a basket of investments that trades on a stock exchange like a single share. Here's how ETFs work, why they've grown into a $13.4 trillion industry, and how to decide if they belong in your portfolio.</p>",
             "published": "2026-05-18T19:15:50Z",
@@ -4382,7 +4382,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.552215",
+            "collected_at": "2026-05-19T07:51:47.989503",
             "title": "Thematic ETFs 101: How to Invest in AI, Clean Energy  Other Megatrends",
             "summary": "<p>Not sure what a thematic ETF is or how it differs from a regular index fund? This guide breaks down how thematic ETFs work, the most popular investment themes — from AI to clean energy — and what every beginner should know before investing in one.</p>",
             "published": "2026-05-19T00:58:19Z",
@@ -4391,7 +4391,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.552223",
+            "collected_at": "2026-05-19T07:51:47.989510",
             "title": "Cathie Wood buys 33M of Canadian tech stock",
             "summary": "Cathie Wood has never been shy about placing big bets on disruptive technology. And when Shopify reported a blockbuster first quarter on May 5, 2026, ARK Invest did not wait around. The firm loaded up on the Canadian e-commerce giant in a move that signals Wood still sees enormous upside ahead, ...",
             "published": "2026-05-18T23:17:00Z",
@@ -4400,7 +4400,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.552225",
+            "collected_at": "2026-05-19T07:51:47.989513",
             "title": "Daily ETF Flows: ARKK Takes No. 1 Spot",
             "summary": "<p>Here are the daily ETF fund flows for May 15, 2026.</p>",
             "published": "2026-05-18T21:00:26Z",
@@ -4409,7 +4409,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.652491",
+            "collected_at": "2026-05-19T07:51:48.079877",
             "title": "Investors Are Choosing Bitcoin Over Gold to Fight Inflation. Here's How That Could Backfire.",
             "summary": "The digital currency's scarcity makes it an appealing hedge for inflation -- in theory.",
             "published": "2026-05-18T14:37:00Z",
@@ -4418,7 +4418,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T07:51:37.652494",
+            "collected_at": "2026-05-19T07:51:48.079879",
             "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Stalled Iran Peace Efforts, Inflation Concerns",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1%, and the actively t",
             "published": "2026-05-18T13:12:22Z",
