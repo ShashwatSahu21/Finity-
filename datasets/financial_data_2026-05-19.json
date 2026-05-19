@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-19T19:43:13.953422",
+    "collection_timestamp": "2026-05-19T19:43:25.843292",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-19T19:43:08.363204",
+            "timestamp": "2026-05-19T19:43:20.041564",
             "price": 23618.0,
             "change": -57.30078125,
             "open": 23675.30078125,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-19T19:43:08.695143",
+            "timestamp": "2026-05-19T19:43:20.341925",
             "price": 75200.8515625,
             "change": -240.421875,
             "open": 75441.2734375,
@@ -580,9 +580,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-19T19:43:08.947784",
-            "price": 76804.0078125,
-            "change": -148.0390625,
+            "timestamp": "2026-05-19T19:43:20.625505",
+            "price": 76811.9375,
+            "change": -140.109375,
             "open": 76952.046875,
             "high": 77206.0,
             "low": 76193.6640625,
@@ -883,7 +883,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-19T19:43:09.256515",
+            "timestamp": "2026-05-19T19:43:21.090353",
             "price": 1322.699951171875,
             "change": -16.0,
             "open": 1338.699951171875,
@@ -1205,7 +1205,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-19T19:43:09.613059",
+            "timestamp": "2026-05-19T19:43:21.425980",
             "price": 2327.10009765625,
             "change": 27.10009765625,
             "open": 2300.0,
@@ -1527,7 +1527,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-19T19:43:09.925841",
+            "timestamp": "2026-05-19T19:43:21.732906",
             "price": 762.4500122070312,
             "change": -4.25,
             "open": 766.7000122070312,
@@ -1773,7 +1773,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-19T19:43:10.229734",
+            "timestamp": "2026-05-19T19:43:22.044577",
             "price": 1196.9000244140625,
             "change": 34.9000244140625,
             "open": 1162.0,
@@ -2057,13 +2057,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-19T19:43:10.548225",
-            "price": 297.94000244140625,
-            "change": 0.970001220703125,
+            "timestamp": "2026-05-19T19:43:22.407764",
+            "price": 297.9100036621094,
+            "change": 0.94000244140625,
             "open": 296.9700012207031,
             "high": 300.510009765625,
             "low": 296.3500061035156,
-            "volume": 24046062,
+            "volume": 24061144,
             "news": [
                 {
                     "id": "6be8585c-315f-473e-b50e-850ae3e50a43",
@@ -2417,13 +2417,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-19T19:43:10.961805",
-            "price": 417.7799987792969,
-            "change": -12.114990234375,
+            "timestamp": "2026-05-19T19:43:22.697517",
+            "price": 417.80499267578125,
+            "change": -12.089996337890625,
             "open": 429.8949890136719,
             "high": 432.70001220703125,
             "low": 417.1000061035156,
-            "volume": 23082715,
+            "volume": 23090404,
             "news": [
                 {
                     "id": "113ad517-2208-4b24-bc50-21af653d56c1",
@@ -2796,41 +2796,41 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-19T19:43:11.294655",
-            "price": 388.7900085449219,
-            "change": -8.199981689453125,
+            "timestamp": "2026-05-19T19:43:22.944533",
+            "price": 388.70001220703125,
+            "change": -8.28997802734375,
             "open": 396.989990234375,
             "high": 397.1499938964844,
             "low": 386.1199951171875,
-            "volume": 25917294,
+            "volume": 25922481,
             "news": [
                 {
-                    "id": "c09f3878-6e0f-45dd-bb2a-db30d0ba3c8d",
+                    "id": "6be8585c-315f-473e-b50e-850ae3e50a43",
                     "content": {
-                        "id": "c09f3878-6e0f-45dd-bb2a-db30d0ba3c8d",
+                        "id": "6be8585c-315f-473e-b50e-850ae3e50a43",
                         "contentType": "STORY",
-                        "title": "Google debuts Gemini 3.5 AI model family at I/O conference",
+                        "title": "Samsung and Google detail AI smart glasses, putting pressure on Meta as Apple preps rival eyewear",
                         "description": "",
-                        "summary": "Google launched its new Gemini 3.5 family of AI models at its I/O conference Tuedsay.",
+                        "summary": "Samsung and Google showed off their AI-powered smart glasses on Tuesday.",
                         "pubDate": "2026-05-19T17:45:00Z",
                         "displayTime": "2026-05-19T17:45:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/L9pFA3fiCqw5DmDBndzFyQ--~B/aD0zMzY2O3c9NTA0OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/af1cd99e-c903-4c3f-9b2b-e3b2bbdaa2ea",
-                            "originalWidth": 5049,
-                            "originalHeight": 3366,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LY.wZzVSahhDROSc0e5i1g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/d1e86859-c0d3-4350-8862-49d94b2dccf9",
+                            "originalWidth": 6048,
+                            "originalHeight": 4024,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/L9pFA3fiCqw5DmDBndzFyQ--~B/aD0zMzY2O3c9NTA0OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/af1cd99e-c903-4c3f-9b2b-e3b2bbdaa2ea",
-                                    "width": 5049,
-                                    "height": 3366,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/LY.wZzVSahhDROSc0e5i1g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/d1e86859-c0d3-4350-8862-49d94b2dccf9",
+                                    "width": 6048,
+                                    "height": 4024,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/QjCe3xmHsvqbjh6AA2bODQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/af1cd99e-c903-4c3f-9b2b-e3b2bbdaa2ea",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/R.VlslZ8COld4JrB5d5m.A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/d1e86859-c0d3-4350-8862-49d94b2dccf9",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2843,13 +2843,13 @@
                             "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/article/google-debuts-gemini-35-ai-model-family-at-io-conference-174500727.html",
+                            "url": "https://finance.yahoo.com/sectors/technology/article/samsung-and-google-detail-ai-smart-glasses-putting-pressure-on-meta-as-apple-preps-rival-eyewear-174500630.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/article/google-debuts-gemini-35-ai-model-family-at-io-conference-174500727.html",
+                            "url": "https://finance.yahoo.com/sectors/technology/article/samsung-and-google-detail-ai-smart-glasses-putting-pressure-on-meta-as-apple-preps-rival-eyewear-174500630.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2867,14 +2867,14 @@
                             "storylineItems": [
                                 {
                                     "content": {
-                                        "id": "6be8585c-315f-473e-b50e-850ae3e50a43",
+                                        "id": "c09f3878-6e0f-45dd-bb2a-db30d0ba3c8d",
                                         "contentType": "STORY",
                                         "isHosted": true,
-                                        "title": "Samsung and Google detail AI smart glasses, putting pressure on Meta as Apple preps rival eyewear",
+                                        "title": "Google debuts Gemini 3.5 AI model family at I/O conference",
                                         "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/LY.wZzVSahhDROSc0e5i1g--~B/aD00MDI0O3c9NjA0ODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/d1e86859-c0d3-4350-8862-49d94b2dccf9",
-                                            "originalWidth": 6048,
-                                            "originalHeight": 4024,
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/L9pFA3fiCqw5DmDBndzFyQ--~B/aD0zMzY2O3c9NTA0OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/af1cd99e-c903-4c3f-9b2b-e3b2bbdaa2ea",
+                                            "originalWidth": 5049,
+                                            "originalHeight": 3366,
                                             "caption": "",
                                             "resolutions": null
                                         },
@@ -2885,10 +2885,10 @@
                                         "previewUrl": null,
                                         "providerContentUrl": "",
                                         "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/sectors/technology/article/samsung-and-google-detail-ai-smart-glasses-putting-pressure-on-meta-as-apple-preps-rival-eyewear-174500630.html"
+                                            "url": "https://finance.yahoo.com/sectors/technology/article/google-debuts-gemini-35-ai-model-family-at-io-conference-174500727.html"
                                         },
                                         "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/sectors/technology/article/samsung-and-google-detail-ai-smart-glasses-putting-pressure-on-meta-as-apple-preps-rival-eyewear-174500630.html"
+                                            "url": "https://finance.yahoo.com/sectors/technology/article/google-debuts-gemini-35-ai-model-family-at-io-conference-174500727.html"
                                         }
                                     }
                                 },
@@ -3227,13 +3227,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-19T19:43:11.607775",
-            "price": 403.3808898925781,
-            "change": 0.395904541015625,
+            "timestamp": "2026-05-19T19:43:23.271586",
+            "price": 403.5050048828125,
+            "change": 0.52001953125,
             "open": 402.9849853515625,
             "high": 405.6300048828125,
             "low": 393.6300048828125,
-            "volume": 40569291,
+            "volume": 40581570,
             "news": [
                 {
                     "id": "b9a83c42-b3ab-406c-9c44-49de61162bab",
@@ -3644,13 +3644,13 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-19T19:43:11.932211",
-            "price": 221.38999938964844,
-            "change": 1.6949920654296875,
+            "timestamp": "2026-05-19T19:43:23.613969",
+            "price": 221.47450256347656,
+            "change": 1.7794952392578125,
             "open": 219.69500732421875,
             "high": 224.47999572753906,
             "low": 217.91000366210938,
-            "volume": 103046398,
+            "volume": 103074260,
             "news": [
                 {
                     "id": "b9a83c42-b3ab-406c-9c44-49de61162bab",
@@ -4137,9 +4137,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-19T19:43:12.378524",
-            "price": 2112.35009765625,
-            "change": -16.1962890625,
+            "timestamp": "2026-05-19T19:43:23.908345",
+            "price": 2112.5,
+            "change": -16.04638671875,
             "open": 2128.54638671875,
             "high": 2142.905029296875,
             "low": 2098.125244140625,
@@ -4462,7 +4462,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.629235",
+            "collected_at": "2026-05-19T19:43:24.434400",
             "title": "Stock Market Today: Nasdaq In The Red Amid Trump-Iran Threat; Energy Stock In Buy Zone",
             "summary": "Dow falls after Home Depot's earnings. More retail earnings and Google's I/O event are in focus.",
             "published": "2026-05-19T19:38:09Z",
@@ -4471,7 +4471,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.629248",
+            "collected_at": "2026-05-19T19:43:24.434413",
             "title": "Equity Markets Fall Intraday as Traders Monitor Middle East Developments",
             "summary": "US benchmark equity indexes were lower and Treasury yields jumped after midday Tuesday as traders co",
             "published": "2026-05-19T18:17:26Z",
@@ -4480,7 +4480,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.629251",
+            "collected_at": "2026-05-19T19:43:24.434415",
             "title": "US Equity Indexes Slide as Treasury Yields Surge Amid Trump's Warning to Iran in Event of No Peace Deal",
             "summary": "US equity indexes fell after the 30-year Treasury yield hit its highest in just under two decades, w",
             "published": "2026-05-19T18:12:27Z",
@@ -4489,7 +4489,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.768807",
+            "collected_at": "2026-05-19T19:43:24.574668",
             "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
             "summary": "The S&P 500 has never been more concentrated in two stocks than it is today.",
             "published": "2026-05-19T15:52:14Z",
@@ -4498,7 +4498,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.768820",
+            "collected_at": "2026-05-19T19:43:24.574681",
             "title": "Earnings live updates: Home Depot beats earnings estimates as small DIY projects remain a 'real source of strength'",
             "summary": "Investors will get highly anticipated quarterly results from Nvidia (NVDA) on Wednesday in what's expected to be the marquee earnings event of the week.",
             "published": "2026-05-18T11:54:13Z",
@@ -4507,7 +4507,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.904396",
+            "collected_at": "2026-05-19T19:43:24.747715",
             "title": "Tech stocks today: OpenAI co-founder Andrej Karpathy joins Anthropic",
             "summary": "Nvidia earnings report is expected to be the main event for tech investors this week.",
             "published": "2026-05-18T11:11:03Z",
@@ -4516,7 +4516,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:12.904411",
+            "collected_at": "2026-05-19T19:43:24.747730",
             "title": "Take a closer look at Nvidia stock using Yahoo Finance's AlphaSpace",
             "summary": "Yahoo Finance has launched AlphaSpace, a premium investment platform that combines data, charting, news, analysis, and more to help retail investors understand markets and make smart decisions faster. Yahoo Finance Executive Editor Brian Sozzi demonstrates how to use the platform by taking a closer look at AI chip stock Nvidia (NVDA) ahead of its first quarter earnings on Wednesday. Innovator From Goldman Sachs Asset Management chief investment strategist Tim Urbanowicz weighs in with his firm's general outlook on Nvidia.",
             "published": "2026-05-19T14:03:12Z",
@@ -4525,7 +4525,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.067192",
+            "collected_at": "2026-05-19T19:43:24.916029",
             "title": "Gold and silver prices today, Tuesday, May 19: Prices holding after president calls off planned attacks on Iran",
             "summary": "Gold opened at $4,570.60 per troy ounce on Tuesday, up 0.3% from Monday's closing price of $4,558. The price of gold moved lower in early trading. Silver opened at $78.05 per ounce on Tuesday, 0.8% higher than Monday's closing price of $77.44. The price of silver also slid lower in early trading.",
             "published": "2026-05-19T10:54:00Z",
@@ -4534,7 +4534,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.067206",
+            "collected_at": "2026-05-19T19:43:24.916042",
             "title": "Goldman Sachs has crucial message for gold investors in 2026",
             "summary": "Goldman Sachs thought it knew how much gold central banks were buying. It was wrong by more than 70%. And the correction to that model has significant implications for where gold prices are heading in the second half of 2026. Goldman analysts Lina Thomas and Daan Struyven published a note on May 18 ...",
             "published": "2026-05-19T18:33:00Z",
@@ -4543,7 +4543,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.067209",
+            "collected_at": "2026-05-19T19:43:24.916045",
             "title": "Update: Gold Trading Lower as USD and Yields Rise on Inflation Worries",
             "summary": "(Updates prices.) Gold moved lower midafternoon Tuesday as the dollar and yields continued to cli",
             "published": "2026-05-19T18:01:45Z",
@@ -4552,7 +4552,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.205434",
+            "collected_at": "2026-05-19T19:43:25.169975",
             "title": "Trump threatened Iran with 'another big hit' amid peace talks",
             "summary": "President Trump threatened to resume airstrikes and deliver \"another big hit\" to Iran if a peace deal isn't reached soon; the US leader has since stepped back from this rhetoric. Yahoo Finance Breaking Business News Reporter Jake Conley highlights Trump's comments, his demands for the reopening of the Strait of Hormuz, and how oil prices (CL=F, BZ=F) are reacting to these headlines.",
             "published": "2026-05-19T19:34:56Z",
@@ -4561,7 +4561,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.205447",
+            "collected_at": "2026-05-19T19:43:25.169988",
             "title": "Oil reserves are dangerously low. Here's what happens next.",
             "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley chats with Morning Brief host Julie Hyman about the latest US–Iran developments, highlighting the dangerously low levels to which oil (CL=F, BZ=F) reserves are falling.",
             "published": "2026-05-19T15:20:08Z",
@@ -4570,7 +4570,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-19T19:43:13.205450",
+            "collected_at": "2026-05-19T19:43:25.169991",
             "title": "US–Iran stalemate: A look at year-end oil price predictions",
             "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley explains the latest developments on US–Iran negotiations, how the Strait of Hormuz is reaching critical levels, and analysts' year-end oil (CL=F, BZ=F) price targets.",
             "published": "2026-05-18T21:06:09Z",
@@ -4581,7 +4581,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.347308",
+            "collected_at": "2026-05-19T19:43:25.307246",
             "title": "Most Retirees Skip Over Vanguard’s $100 Billion VYM Despite Its 2.9 Percent Yield and Almost Zero Maintenance",
             "summary": "A retiree holding $200,000 of Vanguard High Dividend Yield ETF (NYSEARCA:VYM) collects roughly $5,800 in annual income at the fund’s 2.9% distribution yield, with no rebalancing and no concentration risk to monitor. That is the quiet pitch behind VYM, a roughly $100 billion fund that retirees routinely skip in favor of louder, higher-yielding products on ... Most Retirees Skip Over Vanguard’s $100 Billion VYM Despite Its 2.9 Percent Yield and Almost Zero Maintenance",
             "published": "2026-05-19T17:40:13Z",
@@ -4590,7 +4590,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.347321",
+            "collected_at": "2026-05-19T19:43:25.307259",
             "title": "Former Fed Official: The Fed’s Biggest Mistake Wasn’t Rate Cuts. It Was Keeping Them Low Too Long.",
             "summary": "For much of the post-2008 era, Wall Street treated zero interest rates as a permanent feature of the landscape, a kind of monetary gravity that pulled every asset price higher. Stocks ran. Bonds ran. Private credit ran. The benchmark S&P 500 vaulted off its 2009 low while the technology-packed Nasdaq Composite did even better. But ... Former Fed Official: The Fed’s Biggest Mistake Wasn’t Rate Cuts. It Was Keeping Them Low Too Long.",
             "published": "2026-05-19T16:08:23Z",
@@ -4599,7 +4599,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.347324",
+            "collected_at": "2026-05-19T19:43:25.307262",
             "title": "Be Cautious With AMD at $420 and Consider Your Options",
             "summary": "Advanced Micro Devices (NASDAQ:AMD) at $420.99 screens as a compelling research setup. The stock pulled back 8.24% in the last week into a window where the AI infrastructure thesis is still gaining altitude. That dip toward the $410 to $415 zone marks a notable level, and the latest results reinforce the underlying setup. AMD designs ... Be Cautious With AMD at $420 and Consider Your Options",
             "published": "2026-05-19T15:40:21Z",
@@ -4608,7 +4608,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.475599",
+            "collected_at": "2026-05-19T19:43:25.431397",
             "title": "Exchange-Traded Funds Decline, US Equities Drop After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded Inve",
             "published": "2026-05-19T17:50:05Z",
@@ -4617,7 +4617,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.475634",
+            "collected_at": "2026-05-19T19:43:25.431410",
             "title": "This AI ETF Shows Why Your AI Portfolio Isn’t Making You Money",
             "summary": "Walk through a typical retail brokerage account in 2026 and the AI sleeve looks like a teenager’s bedroom. A little NVIDIA (NASDAQ:NVDA), a little Palantir (NASDAQ:PLTR), a few “AI-adjacent” small caps somebody mentioned on a podcast, maybe a thematic fund bought because the ticker sounded clever. The Themes Generative Artificial Intelligence ETF (NASDAQ:WISE) is the cleanest case ... This AI ETF Shows Why Your AI Portfolio Isn’t Making You Money",
             "published": "2026-05-19T14:58:00Z",
@@ -4626,7 +4626,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.475639",
+            "collected_at": "2026-05-19T19:43:25.431413",
             "title": "XNTK Has Crushed QQQ by Six Points in 2026 and the Reason Is Hidden in How Each Fund Decides Which Stocks Matter",
             "summary": "If you want exposure to U.S. technology through a single ticker, the default answer for most investors is Invesco QQQ Trust (NASDAQ:QQQ), the most recognized tech-tilted ETF in the world. The less obvious choice, SPDR NYSE Technology ETF (NYSEARCA:XNTK), has quietly outpaced it by roughly six percentage points so far in 2026. The funds look ... XNTK Has Crushed QQQ by Six Points in 2026 and the Reason Is Hidden in How Each Fund Decides Which Stocks Matter",
             "published": "2026-05-19T13:15:21Z",
@@ -4635,7 +4635,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.604814",
+            "collected_at": "2026-05-19T19:43:25.562932",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4644,7 +4644,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.604828",
+            "collected_at": "2026-05-19T19:43:25.562945",
             "title": "The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "summary": "The retiree was 66, single, living in Pennsylvania, and relying on a $1.1 million brokerage account to supplement her Social Security income. Her goal was straightforward: generate about $55,000 a year from the portfolio to cover the gap between her guaranteed income and the cost of remaining in her home. She followed the standard retirement playbook ... The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "published": "2026-05-18T21:23:35Z",
@@ -4653,7 +4653,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.604830",
+            "collected_at": "2026-05-19T19:43:25.562948",
             "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
             "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
             "published": "2026-05-18T21:20:00Z",
@@ -4662,7 +4662,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.821360",
+            "collected_at": "2026-05-19T19:43:25.701154",
             "title": "Thematic ETFs 101: How to Invest in AI, Clean Energy  Other Megatrends",
             "summary": "<p>Not sure what a thematic ETF is or how it differs from a regular index fund? This guide breaks down how thematic ETFs work, the most popular investment themes — from AI to clean energy — and what every beginner should know before investing in one.</p>",
             "published": "2026-05-19T00:58:19Z",
@@ -4671,7 +4671,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.821373",
+            "collected_at": "2026-05-19T19:43:25.701167",
             "title": "Cathie Wood buys 33M of Canadian tech stock",
             "summary": "Cathie Wood has never been shy about placing big bets on disruptive technology. And when Shopify reported a blockbuster first quarter on May 5, 2026, ARK Invest did not wait around. The firm loaded up on the Canadian e-commerce giant in a move that signals Wood still sees enormous upside ahead, ...",
             "published": "2026-05-18T23:17:00Z",
@@ -4680,7 +4680,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.821375",
+            "collected_at": "2026-05-19T19:43:25.701170",
             "title": "Daily ETF Flows: ARKK Takes No. 1 Spot",
             "summary": "<p>Here are the daily ETF fund flows for May 15, 2026.</p>",
             "published": "2026-05-18T21:00:26Z",
@@ -4689,7 +4689,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.953307",
+            "collected_at": "2026-05-19T19:43:25.843179",
             "title": "Update: Gold Trading Lower as USD and Yields Rise on Inflation Worries",
             "summary": "(Updates prices.) Gold moved lower midafternoon Tuesday as the dollar and yields continued to cli",
             "published": "2026-05-19T18:01:45Z",
@@ -4698,7 +4698,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.953320",
+            "collected_at": "2026-05-19T19:43:25.843191",
             "title": "Treasury Yields Spike To Trump's Second-Term High, Sinking Gold And S&P 500",
             "summary": "The 10-year Treasury yield hit its highest level since before President Donald Trump's inauguration in January 2025 on Tuesday amid stubbornly high oil prices and shifting global financial currents.  The gold price, tracked by the SPDR Gold Shares ETF, hit its lowest level since March 30, while the S&P 500 is losing ground for a third straight session.  Futures markets are pricing in a longer disruption, with crude oil for December delivery hitting a conflict high on Monday before easing slightly to $84.40 on Tuesday after Trump said he had called off an attack.",
             "published": "2026-05-19T17:18:58Z",
@@ -4707,7 +4707,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-19T19:43:13.953323",
+            "collected_at": "2026-05-19T19:43:25.843194",
             "title": "Gold Edges Lower as USD and Yields Rise on Inflation Worries",
             "summary": "Gold prices edged lower early Tuesday as the dollar and yields continued to climb on rising concerns",
             "published": "2026-05-19T13:40:33Z",
