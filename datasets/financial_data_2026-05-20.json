@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-20T20:01:59.264479",
+    "collection_timestamp": "2026-05-20T20:02:13.255025",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-20T20:01:52.191621",
+            "timestamp": "2026-05-20T20:02:05.452202",
             "price": 23659.0,
             "change": 201.75,
             "open": 23457.25,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-20T20:01:52.634444",
+            "timestamp": "2026-05-20T20:02:05.893170",
             "price": 75318.390625,
             "change": 511.8984375,
             "open": 74806.4921875,
@@ -580,9 +580,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-20T20:01:52.917628",
-            "price": 77521.3984375,
-            "change": 764.0859375,
+            "timestamp": "2026-05-20T20:02:06.232326",
+            "price": 77505.4296875,
+            "change": 748.1171875,
             "open": 76757.3125,
             "high": 77592.609375,
             "low": 76499.2734375,
@@ -864,7 +864,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-20T20:01:53.308009",
+            "timestamp": "2026-05-20T20:02:06.573813",
             "price": 1359.699951171875,
             "change": 41.0,
             "open": 1318.699951171875,
@@ -1186,7 +1186,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-20T20:01:53.976347",
+            "timestamp": "2026-05-20T20:02:06.909441",
             "price": 2327.39990234375,
             "change": 3.5,
             "open": 2323.89990234375,
@@ -1508,7 +1508,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-20T20:01:54.433586",
+            "timestamp": "2026-05-20T20:02:07.229146",
             "price": 759.5,
             "change": -0.0999755859375,
             "open": 759.5999755859375,
@@ -1754,7 +1754,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-20T20:01:54.773770",
+            "timestamp": "2026-05-20T20:02:07.607681",
             "price": 1193.699951171875,
             "change": 6.699951171875,
             "open": 1187.0,
@@ -2038,7 +2038,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-20T20:01:55.068518",
+            "timestamp": "2026-05-20T20:02:08.022109",
             "price": 302.25,
             "change": 4.07000732421875,
             "open": 298.17999267578125,
@@ -2355,7 +2355,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-20T20:01:55.464968",
+            "timestamp": "2026-05-20T20:02:08.378203",
             "price": 421.05999755859375,
             "change": 7.074005126953125,
             "open": 413.9859924316406,
@@ -2672,7 +2672,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-20T20:01:56.336158",
+            "timestamp": "2026-05-20T20:02:08.702518",
             "price": 388.9100036621094,
             "change": 1.214996337890625,
             "open": 387.69500732421875,
@@ -3108,7 +3108,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-20T20:01:56.706992",
+            "timestamp": "2026-05-20T20:02:09.100212",
             "price": 417.260009765625,
             "change": 9.615020751953125,
             "open": 407.6449890136719,
@@ -3406,7 +3406,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-20T20:01:56.983274",
+            "timestamp": "2026-05-20T20:02:09.434059",
             "price": 223.47000122070312,
             "change": 0.3699951171875,
             "open": 223.10000610351562,
@@ -3899,9 +3899,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-20T20:01:57.319996",
-            "price": 2134.52001953125,
-            "change": 24.451904296875,
+            "timestamp": "2026-05-20T20:02:09.819155",
+            "price": 2133.830078125,
+            "change": 23.761962890625,
             "open": 2110.068115234375,
             "high": 2143.3154296875,
             "low": 2102.436279296875,
@@ -4224,7 +4224,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.635367",
+            "collected_at": "2026-05-20T20:02:10.371729",
             "title": "Stock market today: Dow, S&P 500, Nasdaq drop amid rising bond yields",
             "summary": "Wall Street weighed inflation concerns and counted down to Nvidia earnings.",
             "published": "2026-05-18T22:23:43Z",
@@ -4233,7 +4233,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.635380",
+            "collected_at": "2026-05-20T20:02:10.371741",
             "title": "Stock Market Today: Dow Gains 600 Points; Fed Panel Sees Possible Rate Hike (Live Coverage)",
             "summary": "Stock Market Today: The Federal Open Market Committee releases its April meeting notes. Nvidia stock rises ahead of earnings.",
             "published": "2026-05-20T19:10:20Z",
@@ -4242,7 +4242,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.635383",
+            "collected_at": "2026-05-20T20:02:10.371744",
             "title": "Dow's Rises Higher Ahead of Closing Bell",
             "summary": "The Dow is now up 600 points, or 1.2%, as more stocks mark gains. In the 30-component Dow, 22 stocks were higher compared to some 16 earlier. The S&P 500 is up nearly 1%. Nasdaq is up 1.4%.  Stocks are rallying alongside a cooldown in oil prices.",
             "published": "2026-05-20T18:42:40Z",
@@ -4251,7 +4251,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.792005",
+            "collected_at": "2026-05-20T20:02:10.518761",
             "title": "SpaceX IPO set to bolster space ETFs: What it means for investors",
             "summary": "The much-anticipated IPO of Elon Musk's SpaceX (SPAX.PVT) could be coming to the launch pad as early as this June, with the public debut of the private space operator adding rocket fuel to related funds and the space economy as a whole. ETF.com president Dave Nadig goes over the ETFs that will benefit the most from SpaceX's mega-IPO event, the broad market exposure to the non-profit going public, and the institutions already engaging with the space funds.",
             "published": "2026-05-20T18:00:00Z",
@@ -4260,7 +4260,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.792018",
+            "collected_at": "2026-05-20T20:02:10.518775",
             "title": "Investors might be penalizing Nvidia for not boosting cash returns like its Big Tech peers",
             "summary": "Maybe it’s time for Nvidia and CEO Jensen Huang to up cash giveaways to lure in new investors. It wouldn’t hurt to offer an enticement.",
             "published": "2026-05-20T12:23:58Z",
@@ -4269,7 +4269,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.792021",
+            "collected_at": "2026-05-20T20:02:10.518777",
             "title": "Vanguard’s $94 Billion Mid Cap ETF Is Quietly Beating the S&P 500 With a Fifty Year Old Strategy",
             "summary": "Most retirees who own an S&P 500 index fund hold a portfolio dominated by mega-cap technology, with mid-sized businesses getting almost no weight despite making up a meaningful share of corporate America. That gap is the reason the Vanguard Mid-Cap ETF (NYSEARCA:VO) exists, and with roughly $94 billion in assets and a 0.04% expense ratio, ... Vanguard’s $94 Billion Mid Cap ETF Is Quietly Beating the S&P 500 With a Fifty Year Old Strategy",
             "published": "2026-05-20T19:53:57Z",
@@ -4278,7 +4278,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:57.938661",
+            "collected_at": "2026-05-20T20:02:10.696866",
             "title": "Tech stocks today: Samsung workers reportedly postpone strike that threatened to disrupt global chip supplies",
             "summary": "Nvidia earnings report is expected to be the main event for tech investors this week.",
             "published": "2026-05-18T11:11:03Z",
@@ -4287,7 +4287,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:58.192319",
+            "collected_at": "2026-05-20T20:02:10.864261",
             "title": "Gold and Silver Climb Despite Potential of Further Downside",
             "summary": "Gold and silver futures finished higher, even as traders see potential rate hikes as a pressure point for prices.",
             "published": "2026-05-20T18:24:00Z",
@@ -4296,7 +4296,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:58.192332",
+            "collected_at": "2026-05-20T20:02:10.864273",
             "title": "Assessing Canadian Natural Resources’ Valuation After Record Production And Heightened Shareholder Returns",
             "summary": "Canadian Natural Resources (TSX:CNQ) is back in focus after a cluster of recent updates, including record production figures, a fresh dividend decision, ongoing share repurchases, and adjusted 2026 capital and production guidance. See our latest analysis for Canadian Natural Resources. The recent production records, dividend affirmation and continued buybacks appear to be feeding into strong momentum, with a 30 day share price return of 15.54% and a 1 year total shareholder return of 66.89%...",
             "published": "2026-05-20T18:21:09Z",
@@ -4305,7 +4305,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:58.192334",
+            "collected_at": "2026-05-20T20:02:10.864276",
             "title": "Kevin O'Leary Says 'Volatile' Bitcoin Is 'Speculative'—But Stablecoins Have 'Real Value'",
             "summary": "Renowned investor and media personality Kevin O’Leary made a sharp distinction between Bitcoin and dollar-denominated stablecoin on Monday, attributing the latter’s value to its backing by U.S. Treasuries or T-bills. Why O’Leary Thinks Stablecoin Have Value O’Leary took to X,...",
             "published": "2026-05-20T18:01:21Z",
@@ -4314,7 +4314,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:58.347364",
+            "collected_at": "2026-05-20T20:02:12.242859",
             "title": "How April's Fed minutes reveal a divided FOMC",
             "summary": "Yahoo Finance Fed Correspondent Jennifer Schonberger shares insights from the most recent minutes from the Federal Reserve.",
             "published": "2026-05-20T19:35:39Z",
@@ -4323,7 +4323,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-20T20:01:58.347379",
+            "collected_at": "2026-05-20T20:02:12.242874",
             "title": "Market Chatter: Canada PM Carney Pitches Reluctant British Columbia on New Oil Pipeline to Fuel Asia",
             "summary": "Prime Minister Mark Carney said people in British Columbia should see \"substantial economic and fina",
             "published": "2026-05-20T19:31:04Z",
@@ -4334,7 +4334,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.517408",
+            "collected_at": "2026-05-20T20:02:12.516601",
             "title": "Small caps finally woke up — now they're testing traders again: Chart of the Day",
             "summary": "Small-cap stocks are bouncing off a make-or-break level.",
             "published": "2026-05-20T16:55:49Z",
@@ -4343,7 +4343,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.517417",
+            "collected_at": "2026-05-20T20:02:12.516615",
             "title": "Vanguard’s $94 Billion Mid Cap ETF Is Quietly Beating the S&P 500 With a Fifty Year Old Strategy",
             "summary": "Most retirees who own an S&P 500 index fund hold a portfolio dominated by mega-cap technology, with mid-sized businesses getting almost no weight despite making up a meaningful share of corporate America. That gap is the reason the Vanguard Mid-Cap ETF (NYSEARCA:VO) exists, and with roughly $94 billion in assets and a 0.04% expense ratio, ... Vanguard’s $94 Billion Mid Cap ETF Is Quietly Beating the S&P 500 With a Fifty Year Old Strategy",
             "published": "2026-05-20T19:53:57Z",
@@ -4352,7 +4352,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.517420",
+            "collected_at": "2026-05-20T20:02:12.516617",
             "title": "MSTY Holders Face a Risk That Has Nothing to Do With Bitcoin Falling",
             "summary": "The YieldMax MSTR Option Income Strategy ETF (NASDAQ:MSTY) trades near $24, and the trap in that number is what it has done while bitcoin spent most of the last year doing something else. MSTY launched in February 2024 as a way to monetize the option premium on MicroStrategy shares and hand investors a triple-digit distribution ... MSTY Holders Face a Risk That Has Nothing to Do With Bitcoin Falling",
             "published": "2026-05-20T18:23:26Z",
@@ -4361,7 +4361,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.684235",
+            "collected_at": "2026-05-20T20:02:12.691633",
             "title": "JEPQ’s 9.5% Yield Is Impressive, But the ELN Counterparty Risk Is the Hidden Cost",
             "summary": "Retirees chasing the JPMorgan Nasdaq Equity Premium Income ETF (NASDAQ:JEPQ) for its near 9.5% distribution yield are buying something more layered than they think. The fund pairs a Nasdaq-100 stock basket with equity-linked notes (ELNs), which are unsecured debt obligations issued by the banks. That distinction matters because the yield does not come purely from ... JEPQ’s 9.5% Yield Is Impressive, But the ELN Counterparty Risk Is the Hidden Cost",
             "published": "2026-05-20T18:53:28Z",
@@ -4370,7 +4370,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.684245",
+            "collected_at": "2026-05-20T20:02:12.691647",
             "title": "Exchange-Traded Funds Move Higher as US Equities Rise After Midday",
             "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV advanced. Actively trad",
             "published": "2026-05-20T17:08:10Z",
@@ -4379,7 +4379,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.684248",
+            "collected_at": "2026-05-20T20:02:12.691649",
             "title": "Exchange-Traded Funds, Equity Futures Advance Pre-Bell Wednesday Ahead of Nvidia Earnings Report",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
             "published": "2026-05-20T13:13:19Z",
@@ -4388,7 +4388,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.837738",
+            "collected_at": "2026-05-20T20:02:12.943515",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4397,7 +4397,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.837750",
+            "collected_at": "2026-05-20T20:02:12.943528",
             "title": "The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "summary": "The retiree was 66, single, living in Pennsylvania, and relying on a $1.1 million brokerage account to supplement her Social Security income. Her goal was straightforward: generate about $55,000 a year from the portfolio to cover the gap between her guaranteed income and the cost of remaining in her home. She followed the standard retirement playbook ... The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
             "published": "2026-05-18T21:23:35Z",
@@ -4406,7 +4406,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:58.837753",
+            "collected_at": "2026-05-20T20:02:12.943531",
             "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
             "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
             "published": "2026-05-18T21:20:00Z",
@@ -4415,7 +4415,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.098798",
+            "collected_at": "2026-05-20T20:02:13.098874",
             "title": "Cathie Wood Just Bet $46 Million on a Newly Public AI Chip Stock. Should You Follow Her?",
             "summary": "The wafer-scale chip company has soared since its blockbuster Nasdaq debut last week.",
             "published": "2026-05-20T02:31:00Z",
@@ -4424,7 +4424,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.098811",
+            "collected_at": "2026-05-20T20:02:13.098888",
             "title": "Thematic ETFs 101: How to Invest in AI, Clean Energy  Other Megatrends",
             "summary": "<p>Not sure what a thematic ETF is or how it differs from a regular index fund? This guide breaks down how thematic ETFs work, the most popular investment themes — from AI to clean energy — and what every beginner should know before investing in one.</p>",
             "published": "2026-05-19T00:58:19Z",
@@ -4433,7 +4433,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.098813",
+            "collected_at": "2026-05-20T20:02:13.098890",
             "title": "Cathie Wood buys 33M of Canadian tech stock",
             "summary": "Cathie Wood has never been shy about placing big bets on disruptive technology. And when Shopify reported a blockbuster first quarter on May 5, 2026, ARK Invest did not wait around. The firm loaded up on the Canadian e-commerce giant in a move that signals Wood still sees enormous upside ahead, ...",
             "published": "2026-05-18T23:17:00Z",
@@ -4442,7 +4442,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.264375",
+            "collected_at": "2026-05-20T20:02:13.254922",
             "title": "Update: Gold Trading Higher as Yields and the Dollar Decline",
             "summary": "(Updates prices.) Gold traded higher midafternoon Wednesday as treasury yields and the dollar fel",
             "published": "2026-05-20T18:00:12Z",
@@ -4451,7 +4451,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.264388",
+            "collected_at": "2026-05-20T20:02:13.254935",
             "title": "SGDM Nearly Doubled Gold’s Gains While IAUI Capped Upside for a 12.52% Yield and One Choice Depends Entirely on 2026",
             "summary": "Gold’s run has forced investors to pick a lane. Sprott Gold Miners ETF (NASDAQ:SGDM) and NEOS Gold High Income ETF (NASDAQ:IAUI) both let you express a bullish gold view, but they sit at opposite ends of the risk spectrum. With SPDR Gold Shares (NYSEARCA:GLD) up 42.39% over the past year, one of these funds delivered ... SGDM Nearly Doubled Gold’s Gains While IAUI Capped Upside for a 12.52% Yield and One Choice Depends Entirely on 2026",
             "published": "2026-05-20T17:40:21Z",
@@ -4460,7 +4460,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-20T20:01:59.264393",
+            "collected_at": "2026-05-20T20:02:13.254941",
             "title": "Gold Edges Lower Even as Yields Ease and the Dollar Steadies",
             "summary": "Gold prices fell for a third-straight session early Wednesday even as treasury yields eased and the",
             "published": "2026-05-20T13:13:35Z",
