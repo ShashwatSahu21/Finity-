@@ -46,4 +46,11 @@ export const api = {
 
   // Gamification
   getBadges: () => request<{ badges: any[] }>('/gamification/badges'),
+
+  // Market
+  getStocks: () => request<any[]>('/market/stocks'),
+  getMutualFunds: () => request<any[]>('/market/mutual-funds'),
+  getNews: (category?: string) => request<any[]>(`/market/news${category ? `?category=${category}` : ''}`),
+  getHistory: (symbolOrCode: string, days?: number) => request<any[]>(`/market/history/${symbolOrCode}${days ? `?days=${days}` : ''}`),
+  syncMarketData: () => request<any>('/market/sync', { method: 'POST' }),
 };

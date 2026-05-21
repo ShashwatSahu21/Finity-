@@ -182,3 +182,55 @@ async def analyze_budget(
         "ideal": {"needs": ideal_needs, "wants": ideal_wants, "savings": ideal_savings},
         "health": "Good" if savings >= ideal_savings else "Needs Improvement",
     }
+
+
+# ── Market / Financials Routes ────────────────────────────────
+@router.get("/market/stocks")
+async def get_market_stocks():
+    """Get live rates for tracked stock indices, equities and crypto."""
+    from app.services import market_db
+    try:
+        return market_db.get_stocks()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.get("/market/mutual-funds")
+async def get_market_mutual_funds():
+    """Get live rates for tracked mutual funds."""
+    from app.services import market_db
+    try:
+        return market_db.get_mutual_funds()
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.get("/market/news")
+async def get_market_news(category: Optional[str] = None, limit: int = 20):
+    """Get live financial news articles."""
+    from app.services import market_db
+    try:
+        return market_db.get_news(category=category, limit=limit)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.get("/market/history/{symbol_or_code}")
+async def get_market_history(symbol_or_code: str, days: int = 30):
+    """Get price/NAV history for charting."""
+    from app.services import market_db
+    try:
+        return market_db.get_history(symbol_or_code, days=days)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@router.post("/market/sync")
+async def sync_market_data():
+    """Manually trigger background sync of market data."""
+    from app.services import market_db
+    import asyncio
+    # Run sync in background task
+    asyncio.create_task(market_db.sync_all_data())
+    return {"status": "sync_triggered", "message": "Synchronisation started in the background."}
+

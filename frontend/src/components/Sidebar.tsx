@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import {
   LayoutDashboard, LineChart, MessageSquare, BookOpen,
-  Wallet, Building2, User, Trophy, Flame
+  Wallet, Building2, User, Trophy
 } from 'lucide-react';
 import { useStore } from '../store/useStore';
 import type { NavSection } from '../types';

@@ -1,6 +1,8 @@
 import { Toaster } from 'react-hot-toast';
+import { motion, AnimatePresence } from 'framer-motion';
 import TopNav from './components/TopNav';
 import Dashboard from './pages/Dashboard';
+import Market from './pages/Market';
 import Simulator from './pages/Simulator';
 import Chat from './pages/Chat';
 import Budget from './pages/Budget';
@@ -8,6 +10,13 @@ import Loans from './pages/Loans';
 import Learn from './pages/Learn';
 import Profile from './pages/Profile';
 import { useStore } from './store/useStore';
+import './App.css';
+
+const pageTransition = {
+  initial: { opacity: 0, y: 15 },
+  animate: { opacity: 1, y: 0, transition: { duration: 0.5 } },
+  exit: { opacity: 0, y: -15, transition: { duration: 0.3 } },
+};
 
 function App() {
   const { activeSection } = useStore();
@@ -15,6 +24,7 @@ function App() {
   const renderPage = () => {
     switch (activeSection) {
       case 'dashboard': return <Dashboard />;
+      case 'market': return <Market />;
       case 'simulator': return <Simulator />;
       case 'chat': return <Chat />;
       case 'budget': return <Budget />;
@@ -26,31 +36,49 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-white text-slate-900 font-sans">
+    <div className="min-h-screen font-sans text-surface-900 relative">
+      {/* ── Animated Mesh Background ── */}
+      <div className="mesh-bg" />
+
+      {/* ── Toast Notifications ── */}
       <Toaster
         position="top-right"
         toastOptions={{
           style: {
-            background: '#ffffff',
+            background: 'rgba(255, 255, 255, 0.9)',
+            backdropFilter: 'blur(16px)',
             color: '#0f172a',
-            border: '1px solid #e2e8f0',
-            borderRadius: '12px',
-            fontSize: '14px',
-            boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)',
+            border: '1px solid rgba(226, 232, 240, 0.6)',
+            borderRadius: '16px',
+            fontSize: '13px',
+            fontWeight: 600,
+            boxShadow: '0 8px 32px rgba(0, 0, 0, 0.08)',
+            padding: '12px 16px',
           },
+          duration: 3000,
         }}
       />
 
-      {/* Top Navigation */}
+      {/* ── Top Navigation ── */}
       <TopNav />
 
-      {/* Main Content */}
-      <main className="min-h-screen pb-20 px-4 sm:px-6 lg:px-8 bg-white relative overflow-hidden" style={{ paddingTop: '8rem' }}>
-        {/* Background Decorative Glow */}
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-7xl h-[500px] bg-indigo-50/30 blur-[120px] rounded-full pointer-events-none -z-10" />
-        
-        <div className="max-w-[1100px] mx-auto relative z-10">
-          {renderPage()}
+      {/* ── Main Content ── */}
+      <main
+        className="min-h-screen pb-24 px-4 sm:px-6 lg:px-8 relative overflow-hidden"
+        style={{ paddingTop: '5.5rem' }}
+      >
+        <div className="max-w-[1200px] mx-auto relative z-10">
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={activeSection}
+              variants={pageVariants}
+              initial="initial"
+              animate="animate"
+              exit="exit"
+            >
+              {renderPage()}
+            </motion.div>
+          </AnimatePresence>
         </div>
       </main>
     </div>

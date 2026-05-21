@@ -112,4 +112,4 @@ export interface GamificationState {
 }
 
 export type RiskLevel = 'conservative' | 'moderate' | 'aggressive';
-export type NavSection = 'dashboard' | 'simulator' | 'chat' | 'budget' | 'loans' | 'learn' | 'profile';
+export type NavSection = 'dashboard' | 'market' | 'simulator' | 'chat' | 'budget' | 'loans' | 'learn' | 'profile';

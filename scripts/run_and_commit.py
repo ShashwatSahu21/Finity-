@@ -12,6 +12,7 @@ import os
 import time
 import json
 import io
+import random
 from datetime import datetime
 
 # Fix Windows console encoding
@@ -153,7 +154,7 @@ def run_collector():
 
 def git_commit_and_push(run_number):
     """Stage datasets, commit with structured message, and push."""
-    template = COMMIT_TEMPLATES[run_number - 1]
+    template = random.choice(COMMIT_TEMPLATES)
     title = template["title"].format(run=run_number, date=DATE_STR, time=TIME_STR)
     body = template["body"].format(run=run_number, date=DATE_STR, time=TIME_STR)
     
@@ -186,14 +187,63 @@ def git_commit_and_push(run_number):
     return True
 
 
+def get_commits_today():
+    """Count the number of commits made today so far."""
+    try:
+        today_date = datetime.now().strftime("%Y-%m-%d")
+        result = subprocess.run(
+            ["git", "log", f"--since={today_date} 00:00:00", "--oneline"],
+            cwd=REPO_DIR,
+            capture_output=True,
+            text=True
+        )
+        if result.returncode == 0:
+            lines = result.stdout.strip().split("\n")
+            count = len([l for l in lines if l.strip()])
+            print(f"  [Git] Commits made today so far: {count}")
+            return count
+        return 0
+    except Exception as e:
+        print(f"  [Git Error] Failed to count today's commits: {e}")
+        return 0
+
+
 def main():
-    total_runs = 10
+    commits_so_far = get_commits_today()
+    max_remaining = 15 - commits_so_far
+    
+    if max_remaining <= 0:
+        print("=" * 70)
+        print("  Daily commit limit (15) already reached. Skipping execution today.")
+        print("=" * 70)
+        return
+
+    # Choose a baseline runs count between 1 and 3
+    baseline_runs = random.randint(1, 3)
+    
+    # Check if this is the last scheduled run of the day (e.g., after 18:00 UTC)
+    # and if we need to boost runs to reach the minimum of 5 daily commits.
+    from datetime import datetime, timezone
+    current_hour_utc = datetime.now(timezone.utc).hour
+    
+    if current_hour_utc >= 18 and (commits_so_far + baseline_runs) < 5:
+        # Boost runs to meet minimum daily commits (5)
+        total_runs = 5 - commits_so_far
+    else:
+        total_runs = baseline_runs
+
+    # Cap total_runs so that we never exceed the maximum daily commits (15)
+    total_runs = min(total_runs, max_remaining)
+    # Ensure at least 1 run if we haven't hit the daily cap yet
+    total_runs = max(total_runs, 1)
+
     successful = 0
     
     print("=" * 70)
     print(f"  Finity Automated Market Data Collection")
     print(f"  Date: {DATE_STR} | Time: {TIME_STR} IST")
-    print(f"  Total Runs: {total_runs}")
+    print(f"  Commits so far today: {commits_so_far}")
+    print(f"  Planned Runs for this session: {total_runs}")
     print("=" * 70)
     
     for run in range(1, total_runs + 1):
@@ -222,24 +272,27 @@ def main():
             print(f"  Waiting 5 seconds before next run...")
             time.sleep(5)
     
-    # Push all commits at once
-    print(f"\n{'=' * 70}")
-    print(f"  Pushing {successful} commits to GitHub...")
-    print(f"{'=' * 70}")
-    
-    try:
-        result = subprocess.run(
-            ["git", "push", "origin", "main"],
-            cwd=REPO_DIR,
-            capture_output=True,
-            text=True,
-            check=True
-        )
-        print(f"  [OK] Successfully pushed to origin/main")
-        if result.stdout:
-            print(result.stdout)
-    except subprocess.CalledProcessError as e:
-        print(f"  [X] Push failed: {e.stderr}")
+    if successful > 0:
+        # Push all commits at once
+        print(f"\n{'=' * 70}")
+        print(f"  Pushing {successful} commits to GitHub...")
+        print(f"{'=' * 70}")
+        
+        try:
+            result = subprocess.run(
+                ["git", "push", "origin", "main"],
+                cwd=REPO_DIR,
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            print(f"  [OK] Successfully pushed to origin/main")
+            if result.stdout:
+                print(result.stdout)
+        except subprocess.CalledProcessError as e:
+            print(f"  [X] Push failed: {e.stderr}")
+    else:
+        print("\nNo new commits to push.")
     
     print(f"\n{'=' * 70}")
     print(f"  Summary: {successful}/{total_runs} runs committed and pushed")
