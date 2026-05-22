@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-22T10:16:51.509571",
+    "collection_timestamp": "2026-05-22T10:17:01.750169",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-22T10:16:47.843063",
+            "timestamp": "2026-05-22T10:16:58.549108",
             "price": 23719.30078125,
             "change": 48.1015625,
             "open": 23671.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-22T10:16:48.094747",
+            "timestamp": "2026-05-22T10:16:58.677885",
             "price": 75415.3515625,
             "change": 154.9609375,
             "open": 75260.390625,
@@ -642,9 +642,9 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-22T10:16:48.219456",
-            "price": 77173.2109375,
-            "change": -373.3203125,
+            "timestamp": "2026-05-22T10:16:58.794800",
+            "price": 77170.71875,
+            "change": -375.8125,
             "open": 77546.53125,
             "high": 77807.5546875,
             "low": 77134.640625,
@@ -959,7 +959,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-22T10:16:48.434430",
+            "timestamp": "2026-05-22T10:16:59.044649",
             "price": 1354.5,
             "change": 4.5,
             "open": 1350.0,
@@ -1281,7 +1281,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-22T10:16:48.638112",
+            "timestamp": "2026-05-22T10:16:59.191902",
             "price": 2317.300048828125,
             "change": -13.800048828125,
             "open": 2331.10009765625,
@@ -1603,7 +1603,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-22T10:16:48.890062",
+            "timestamp": "2026-05-22T10:16:59.344962",
             "price": 766.7999877929688,
             "change": 7.64996337890625,
             "open": 759.1500244140625,
@@ -1849,7 +1849,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-22T10:16:49.100598",
+            "timestamp": "2026-05-22T10:16:59.513119",
             "price": 1174.5,
             "change": -8.0,
             "open": 1182.5,
@@ -2114,7 +2114,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-22T10:16:49.350955",
+            "timestamp": "2026-05-22T10:16:59.670485",
             "price": 304.989990234375,
             "change": 3.92999267578125,
             "open": 301.05999755859375,
@@ -2436,7 +2436,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-22T10:16:49.579583",
+            "timestamp": "2026-05-22T10:16:59.822473",
             "price": 419.0899963378906,
             "change": -5.660003662109375,
             "open": 424.75,
@@ -2734,7 +2734,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-22T10:16:49.717299",
+            "timestamp": "2026-05-22T10:16:59.939746",
             "price": 387.6600036621094,
             "change": 1.959991455078125,
             "open": 385.70001220703125,
@@ -3094,7 +3094,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-22T10:16:49.869678",
+            "timestamp": "2026-05-22T10:17:00.231853",
             "price": 417.8500061035156,
             "change": -4.329986572265625,
             "open": 422.17999267578125,
@@ -3416,7 +3416,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-22T10:16:50.055405",
+            "timestamp": "2026-05-22T10:17:00.548415",
             "price": 219.50999450683594,
             "change": -2.779998779296875,
             "open": 222.2899932861328,
@@ -3904,9 +3904,9 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-22T10:16:50.211728",
-            "price": 2118.6298828125,
-            "change": -13.079345703125,
+            "timestamp": "2026-05-22T10:17:00.682734",
+            "price": 2118.719970703125,
+            "change": -12.9892578125,
             "open": 2131.709228515625,
             "high": 2138.39794921875,
             "low": 2118.490966796875,
@@ -4229,7 +4229,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.382932",
+            "collected_at": "2026-05-22T10:17:00.873106",
             "title": "Stocks climb on US-Iran diplomacy hopes as strong season season wraps",
             "summary": "US stock futures cautiously rose as the world awaited an update on US-Iran peace talks.",
             "published": "2026-05-21T22:34:54Z",
@@ -4238,7 +4238,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.382945",
+            "collected_at": "2026-05-22T10:17:00.873120",
             "title": "Prediction: Alphabet Will Join the $5 Trillion Club and the Dow Jones Industrial Average in June",
             "summary": "Honeywell is spinning off its aerospace segment, which could trigger a shake-up in the Dow Jones Industrial Average this summer.",
             "published": "2026-05-22T10:05:00Z",
@@ -4247,7 +4247,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.382947",
+            "collected_at": "2026-05-22T10:17:00.873122",
             "title": "Dow Jones Futures Rise; Amazon, Credo Lead AI Stocks In Buy Areas",
             "summary": "The Dow hit a record close as oil prices fell further. Amazon led AI stocks in buy areas even as Nvidia retreated.",
             "published": "2026-05-22T10:04:45Z",
@@ -4256,7 +4256,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.578574",
+            "collected_at": "2026-05-22T10:17:00.959439",
             "title": "Are investors more concerned with Iran than Nvidia's Q1 earnings?",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) — namely the Dow Jones Industrial Average — are gaining back some ground ahead of Thursday's close as investors continue to digest Nvidia's (NVDA) first quarter earnings. The AI chip stock's movement has largely been muted despite the company boasting record quarterly revenue ($81.62 billion). Gradient Investments senior portfolio manager Keith Gangl weighs in on how investors are viewing Nvidia's results through the broader lens of geopolitical pressures stemming from the US-Iran war. Catch up on the top moments from Nvidia's earnings call, as well as what Nvidia CFO Colette Kress told Yahoo Finance about the company's CPU sales forecasts.",
             "published": "2026-05-21T19:31:35Z",
@@ -4265,7 +4265,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.578576",
+            "collected_at": "2026-05-22T10:17:00.959441",
             "title": "Walmart stock falls on cautious earnings outlook as gas prices hit consumers' wallets",
             "summary": "Walmart delivered results in line with expectations as consumers seek out value.",
             "published": "2026-05-20T14:37:04Z",
@@ -4274,7 +4274,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.665039",
+            "collected_at": "2026-05-22T10:17:01.081114",
             "title": "US stocks rebound, cybersecurity sector surges to record highs",
             "summary": "All three of the major indexes (^DJI, ^IXIC, ^GSPC) rebounded on Thursday and ended the trading session in positive territory. Yahoo Finance Markets and Data Editor Jared Blikre assesses the day's market moves while also taking a closer look at the record rally driving cybersecurity stocks higher.",
             "published": "2026-05-21T20:09:17Z",
@@ -4283,7 +4283,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.665042",
+            "collected_at": "2026-05-22T10:17:01.081116",
             "title": "Stock market today: Dow clinches record high, S&P 500 and Nasdaq rise as stocks rebound on US-Iran peace hopes",
             "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
             "published": "2026-05-20T23:23:11Z",
@@ -4292,7 +4292,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.818109",
+            "collected_at": "2026-05-22T10:17:01.173252",
             "title": "Gold prices today, Thursday, May 21: Gold prices are holding, waiting on signs of peace or further escalation",
             "summary": "Gold futures opened at $4,548 per troy ounce on Thursday, May 21, 2026, up 0.3% from Wednesday’s close. The price of gold moved lower this morning, trading at $4,514.20 as of 6:53 a.m. ET.",
             "published": "2026-05-21T11:01:54Z",
@@ -4301,7 +4301,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.818122",
+            "collected_at": "2026-05-22T10:17:01.173265",
             "title": "Should You Buy the iShares Silver ETF After Its 35% Plunge? Here's What Could Happen Next.",
             "summary": "Precious metals like gold and silver have given up a chunk of their 2025 gains.",
             "published": "2026-05-22T07:20:00Z",
@@ -4310,7 +4310,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:50.818124",
+            "collected_at": "2026-05-22T10:17:01.173268",
             "title": "Mark Cuban 'Sold' Most Of His Bitcoin And Now Calls Memecoins 'Garbage' — What Changed The Billionaire's Mind On Crypto?",
             "summary": "Billionaire investor Mark Cuban revealed on Thursday that he’s sold most of his Bitcoin (CRYPTO: BTC) as it didn’t turn out to be the “hedge” he expected it to be. How Bitcoin Disappointed Cuban Appearing on the Portfolio Players podcast, Cuban said that Bitcoin has “lost the plot” and been “disappointing.” The “Shark Tank” celebrity said he always thought of Bitcoin as a “better version” of gold and the “best alternative” to fiat currency losing its value. “Well, gold just blew up and went to $",
             "published": "2026-05-22T03:28:32Z",
@@ -4319,7 +4319,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:51.034581",
+            "collected_at": "2026-05-22T10:17:01.271208",
             "title": "Oil prices are hard-pressing consumers at bottom of K-shaped economy",
             "summary": "Walmart (WMT) came out with first quarter results that were in line with earnings and revenue estimates, with executives citing headwinds tied to consumers under additional price stresses. Gradient Investments senior portfolio manager Keith Gangl discusses the impact that higher gas prices (RB=F) are having on consumer sentiment and Walmart's customer base. Catch Yahoo Finance's interview with Walmart CFO John David Rainey.",
             "published": "2026-05-22T10:00:00Z",
@@ -4328,7 +4328,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:51.034594",
+            "collected_at": "2026-05-22T10:17:01.271221",
             "title": "Oil prices fall after Iranian news agency says US and Iran may be 'hours' from announcing deal",
             "summary": "Oil prices spiked on Thursday after Iran's supreme leader said the regime's stores of enriched uranium cannot leave the country.",
             "published": "2026-05-21T14:14:52Z",
@@ -4337,7 +4337,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T10:16:51.034596",
+            "collected_at": "2026-05-22T10:17:01.271223",
             "title": "Bond markets are not so subtly telling the Fed that rates aren't high enough",
             "summary": "Market expectations have shifted away from rate cuts to the Fed holding rates steady this year or even modestly tightening.",
             "published": "2026-05-21T10:00:00Z",
@@ -4348,7 +4348,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.122561",
+            "collected_at": "2026-05-22T10:17:01.372549",
             "title": "Worried About a Recession? Here’s Why Selling When Economists Call It is Already Too Late",
             "summary": "Andrew Sather of The Investing for Beginners Podcast recently made a point that should reshape how investors think about recession headlines. \"When people say there’s a recession, they’re saying it 6 months after it happens. Like, that’s the literal definition of it. You have to wait 6 months,\" he said on the episode Back to ... Worried About a Recession? Here’s Why Selling When Economists Call It is Already Too Late",
             "published": "2026-05-22T02:45:29Z",
@@ -4357,7 +4357,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.122574",
+            "collected_at": "2026-05-22T10:17:01.372563",
             "title": "Nasdaq, S&P 500, Dow Futures Climb As Trump's $2B Quantum Computing Bet Outweighs Iran Jitters: RKLB, IBM, RGTI, NIO In Focus",
             "summary": "The Trump administration said on Friday it would invest $2 billion in quantum computing stocks, with about half earmarked for IBM.",
             "published": "2026-05-22T02:01:48Z",
@@ -4366,7 +4366,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.122576",
+            "collected_at": "2026-05-22T10:17:01.372565",
             "title": "Ramsey Everyday Millionaires: Why Waiting for Markets to “Settle” Usually Means Waiting Forever",
             "summary": "The dilemma comes from a caller on Ramsey Everyday Millionaires, but it captures something nearly every investor with a lump sum has felt: the cash is in hand, the headlines are loud, and every day spent deciding feels like another day of being wrong. The caller had just sold her primary residence and walked away ... Ramsey Everyday Millionaires: Why Waiting for Markets to “Settle” Usually Means Waiting Forever",
             "published": "2026-05-21T23:02:48Z",
@@ -4375,7 +4375,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.222791",
+            "collected_at": "2026-05-22T10:17:01.467794",
             "title": "Dow Hits Record Highs, S&P 500 And Nasdaq Climb Amid Hopes Of Diplomatic Resolution Between US and Iran— IBM, STLA, SPOT, FCEL, EL In Focus",
             "summary": "A stark jump in IBM share price drove the Dow Jones Index to record highs.",
             "published": "2026-05-21T21:47:57Z",
@@ -4384,7 +4384,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.222794",
+            "collected_at": "2026-05-22T10:17:01.467796",
             "title": "Stocks Rebound as Crude Oil Falls on Hopes for a US-Iran Deal",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Thursday closed up +0.17%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.55%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.20%. June E-mini S&P futures (ESM26 ) rose +0.18%, and June E-mini Nasdaq futures...",
             "published": "2026-05-21T20:35:09Z",
@@ -4393,7 +4393,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.314897",
+            "collected_at": "2026-05-22T10:17:01.564946",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4402,7 +4402,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.314910",
+            "collected_at": "2026-05-22T10:17:01.564960",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4411,7 +4411,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.314912",
+            "collected_at": "2026-05-22T10:17:01.564962",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4420,7 +4420,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.417107",
+            "collected_at": "2026-05-22T10:17:01.662879",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4429,7 +4429,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.417120",
+            "collected_at": "2026-05-22T10:17:01.662893",
             "title": "Cathie Wood Joins the Cerebras Bandwagon With More Than 100,000 Shares. Wait for It to Deliver Before You Buy In, Too.",
             "summary": "Wood just added Cerebras, the latest hot AI name, to two of her Ark Invest funds.",
             "published": "2026-05-20T13:15:01Z",
@@ -4438,7 +4438,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.417122",
+            "collected_at": "2026-05-22T10:17:01.662895",
             "title": "Cathie Wood Just Bet $46 Million on a Newly Public AI Chip Stock. Should You Follow Her?",
             "summary": "The wafer-scale chip company has soared since its blockbuster Nasdaq debut last week.",
             "published": "2026-05-20T02:31:00Z",
@@ -4447,7 +4447,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.509470",
+            "collected_at": "2026-05-22T10:17:01.750065",
             "title": "An Investor’s Field Guide to ETF Structures",
             "summary": "<p>ETFs are the preferred investment vehicle for many investors these days, but they’re not all created equal. Don’t miss this deep dive into how an ETF’s legal structure can shape risk, taxes, and returns. </p>",
             "published": "2026-05-21T20:19:02Z",
@@ -4456,7 +4456,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.509483",
+            "collected_at": "2026-05-22T10:17:01.750078",
             "title": "Update: Gold Rises as the Dollar and Yields Moderate as Iran Considers a Fresh U.S. Peace Offer",
             "summary": "(Updates prices.) Gold edged higher midafternoon Thursday, moving up from early losses as the dol",
             "published": "2026-05-21T18:01:42Z",
@@ -4465,7 +4465,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-22T10:16:51.509485",
+            "collected_at": "2026-05-22T10:17:01.750081",
             "title": "Gold Trading Lower as USD and Yields Climb While Iran Considers a Fresh U.S. Peace Offer",
             "summary": "Gold traded lower early Thursday as the dollar and yields rose on an uncertain outlook for a peace d",
             "published": "2026-05-21T13:19:48Z",
