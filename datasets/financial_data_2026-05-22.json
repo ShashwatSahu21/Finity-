@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-22T16:26:51.834108",
+    "collection_timestamp": "2026-05-22T19:21:37.033450",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-22T16:26:47.049446",
+            "timestamp": "2026-05-22T19:21:31.012339",
             "price": 23719.30078125,
             "change": 48.1015625,
             "open": 23671.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-22T16:26:47.240475",
+            "timestamp": "2026-05-22T19:21:31.377271",
             "price": 75415.3515625,
             "change": 154.9609375,
             "open": 75260.390625,
@@ -642,13 +642,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-22T16:26:47.433782",
-            "price": 76782.0234375,
-            "change": -764.5078125,
+            "timestamp": "2026-05-22T19:21:31.709101",
+            "price": 76269.4609375,
+            "change": -1277.0703125,
             "open": 77546.53125,
             "high": 77807.5546875,
-            "low": 76571.25,
-            "volume": 26273271808,
+            "low": 76150.59375,
+            "volume": 25086076928,
             "news": [
                 {
                     "id": "99f6229c-1ba1-41d1-94a3-911e98152fc9",
@@ -713,32 +713,32 @@
                     }
                 },
                 {
-                    "id": "fb8d7f8a-b7c1-32e0-ac4e-977eca4be70e",
+                    "id": "3d10f760-3b6a-3346-8e19-d1b39d250087",
                     "content": {
-                        "id": "fb8d7f8a-b7c1-32e0-ac4e-977eca4be70e",
+                        "id": "3d10f760-3b6a-3346-8e19-d1b39d250087",
                         "contentType": "STORY",
-                        "title": "Bitcoin Drops Below $77,000 as Waller Speech Suggests Fed Rate Hike Risk",
+                        "title": "Crypto executive joins Elon Musk's SpaceX mission to Mars",
                         "description": "",
-                        "summary": "Bitcoin slips below $77,000 after Fed Governor Waller's hawkish speech lifts October rate hike odds and pressures risk.",
-                        "pubDate": "2026-05-22T15:58:48Z",
-                        "displayTime": "2026-05-22T15:58:48Z",
+                        "summary": "Crypto executive Chun Wang has become the latest person to sign up for a deep-space mission with Elon Musk's SpaceX. Wang co-founded F2Pool in 2013, building it into one of the dominant Bitcoin mining pool operators globally. The company currently holds an 11.43% market share of the ...",
+                        "pubDate": "2026-05-22T18:48:41Z",
+                        "displayTime": "2026-05-22T18:48:41Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/4978bcc2930440adf0a494723e1f0e06",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
+                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/412725f4939ff5a8474f5f414394f687",
+                            "originalWidth": 1536,
+                            "originalHeight": 1024,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/xxLUof__IuHZOQj5y94uXg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/4978bcc2930440adf0a494723e1f0e06",
-                                    "width": 1920,
-                                    "height": 1080,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/kE86A68lXIPtkduP2MMosg--~B/aD0xMDI0O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/412725f4939ff5a8474f5f414394f687",
+                                    "width": 1536,
+                                    "height": 1024,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/eeKvfqGlB8BGEyiU11CePw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/4978bcc2930440adf0a494723e1f0e06",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/TpGdzXDj5d0pFq1WvJVh5A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/412725f4939ff5a8474f5f414394f687",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -746,80 +746,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
+                            "displayName": "TheStreet",
+                            "url": "https://www.thestreet.com/",
+                            "sourceId": "thestreet_881"
                         },
                         "canonicalUrl": {
-                            "url": "https://beincrypto.com/bitcoin-price-drops-waller-fed-hawkish-speech/",
+                            "url": "https://www.thestreet.com/crypto/markets/crypto-executive-joins-elon-musks-spacex-mission-to-mars",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-77-000-155848725.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "510e244d-229a-3f77-aa0e-58973c65dced",
-                    "content": {
-                        "id": "510e244d-229a-3f77-aa0e-58973c65dced",
-                        "contentType": "STORY",
-                        "title": "Trump Media Moves Over $200 Million in Bitcoin as Losses Pile Up: Arkham",
-                        "description": "",
-                        "summary": "It's unknown whether Trump Media & Technology Group is selling its Bitcoin, though it has amassed sizable losses on its holdings.",
-                        "pubDate": "2026-05-22T15:56:52Z",
-                        "displayTime": "2026-05-22T15:56:52Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/decrypt_157/09f035b3a65d4338715edf4b575419e4",
-                            "originalWidth": 1280,
-                            "originalHeight": 720,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/92kapzReqSD9gk2ZcIWE8g--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/decrypt_157/09f035b3a65d4338715edf4b575419e4",
-                                    "width": 1280,
-                                    "height": 720,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/32cBgFjLqt.UoyQafr1N5w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/decrypt_157/09f035b3a65d4338715edf4b575419e4",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "decrypt",
-                            "url": "https://decrypt.co/",
-                            "sourceId": "decrypt_157"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://decrypt.co/368752/trump-media-moves-over-200-million-bitcoin-losses-arkham",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-moves-over-200-155652723.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-executive-joins-elon-musks-184841545.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -841,14 +779,14 @@
                     "content": {
                         "id": "516024ad-d294-3dad-b22d-f5dd551580a2",
                         "contentType": "STORY",
-                        "title": "Stock Market Today: Dow Holds Gain Despite Consumer Data Surprise; Dell Soars On This News (Live Coverage)",
+                        "title": "Stock Market Today: Dow Tops 50,000; Cadence Design Breaks Out  (Live Coverage)",
                         "description": "",
                         "summary": "Stock Market Today: The Dow Jones index rose Friday ahead of a key inflation survey. AMD stock rallied near record highs.",
-                        "pubDate": "2026-05-22T15:45:31Z",
-                        "displayTime": "2026-05-22T15:45:31Z",
+                        "pubDate": "2026-05-22T18:22:21Z",
+                        "displayTime": "2026-05-22T18:22:21Z",
                         "isHosted": false,
                         "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/516024ad-d294-3dad-b22d-f5dd551580a2/stock-market-today-dow-holds.html",
+                        "previewUrl": "https://finance.yahoo.com/m/516024ad-d294-3dad-b22d-f5dd551580a2/stock-market-today-dow-tops.html",
                         "thumbnail": {
                             "originalUrl": "https://media.zenfs.com/en/ibd.com/b93082b62d669a716dcee1724ff49dd4",
                             "originalWidth": 1000,
@@ -894,32 +832,32 @@
                     }
                 },
                 {
-                    "id": "a002041b-64cf-36fe-ab14-fa2dd93eb92b",
+                    "id": "abef0c51-0492-36f3-a96b-61cb256871e4",
                     "content": {
-                        "id": "a002041b-64cf-36fe-ab14-fa2dd93eb92b",
+                        "id": "abef0c51-0492-36f3-a96b-61cb256871e4",
                         "contentType": "STORY",
-                        "title": "MSTR's Michael Saylor Says Selling Bitcoin May Be Necessary To Maximize BTC-Per-Share Over Seven Years",
+                        "title": "‘Pro-Crypto’ Fed Chair Kevin Warsh Sworn In On Bitcoin Pizza Day, But BTC Continues To Battle $77K — Retail Traders Caught Off Guard",
                         "description": "",
-                        "summary": "Michael Saylor said in a recent interview that Strategy may sell some Bitcoin because models relying solely on equity, credit or Bitcoin holdings fail to maximize BTC-per-share over a seven-year period.",
-                        "pubDate": "2026-05-22T15:22:13Z",
-                        "displayTime": "2026-05-22T15:22:13Z",
+                        "summary": "Retail traders on Stocktwits had expected a stronger Bitcoin rally due to new Federal Reserve Chair Kevin Warsh’s reputation as a ‘pro-crypto’ policymaker.",
+                        "pubDate": "2026-05-22T18:16:19Z",
+                        "displayTime": "2026-05-22T18:16:19Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/1e798f53ff033ed50d8844c808057e7a",
+                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/6a8c880bca08ea05c804b8cca57c333c",
                             "originalWidth": 1280,
-                            "originalHeight": 853,
+                            "originalHeight": 854,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ceHI9iQvunuqH.FCsH.mIg--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/1e798f53ff033ed50d8844c808057e7a",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/gp_eNwLBGmdHgn2kecpQiw--~B/aD04NTQ7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/6a8c880bca08ea05c804b8cca57c333c",
                                     "width": 1280,
-                                    "height": 853,
+                                    "height": 854,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/GsXsgK3qv2loYjcmu5qXpQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/1e798f53ff033ed50d8844c808057e7a",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/gYPKKmgrEE_seDYsMNkrlQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/6a8c880bca08ea05c804b8cca57c333c",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -932,13 +870,75 @@
                             "sourceId": "stocktwits_383"
                         },
                         "canonicalUrl": {
-                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/mstr-michael-saylor-says-selling-bitcoin-may-be-necessary-models-show/cZgRWH6Reou",
+                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/pro-crypto-fed-chair-kevin-warsh-sworn-in-on-bitcoin-pizza-day/cZgRjS9ReY3",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/mstrs-michael-saylor-says-selling-152213150.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/pro-crypto-fed-chair-kevin-181619724.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "3dbc6552-df26-3a02-b355-ede7a640ec5d",
+                    "content": {
+                        "id": "3dbc6552-df26-3a02-b355-ede7a640ec5d",
+                        "contentType": "STORY",
+                        "title": "Trump Media moves $205 million amid mounting unrealized losses",
+                        "description": "",
+                        "summary": "Trump Media & Technology Group Corp. (Nasdaq: DJT), the media company behind President Donald Trump's social media app Truth Social, moved 2,650 Bitcoin (BTC) worth approximately $205 million to Crypto.com on May 22, as per Lookonchain. The company announced in May 2025 that ...",
+                        "pubDate": "2026-05-22T18:01:54Z",
+                        "displayTime": "2026-05-22T18:01:54Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/fe8bb3141a6b4d76d3b27375b921e19a",
+                            "originalWidth": 1536,
+                            "originalHeight": 1024,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/GKggxiWlJbQUyJ48K8Uf4w--~B/aD0xMDI0O3c9MTUzNjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/thestreet_881/fe8bb3141a6b4d76d3b27375b921e19a",
+                                    "width": 1536,
+                                    "height": 1024,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/SV5ZvssH3jTwYhIhFPnOOg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/fe8bb3141a6b4d76d3b27375b921e19a",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "TheStreet",
+                            "url": "https://www.thestreet.com/",
+                            "sourceId": "thestreet_881"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.thestreet.com/crypto/markets/trump-media-moves-205-million-amid-mounting-losses",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-moves-205-million-180154751.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -959,7 +959,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-22T16:26:47.699030",
+            "timestamp": "2026-05-22T19:21:32.148618",
             "price": 1354.5,
             "change": 4.5,
             "open": 1350.0,
@@ -1281,7 +1281,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-22T16:26:48.056163",
+            "timestamp": "2026-05-22T19:21:32.560146",
             "price": 2317.300048828125,
             "change": -13.800048828125,
             "open": 2331.10009765625,
@@ -1603,7 +1603,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-22T16:26:48.294206",
+            "timestamp": "2026-05-22T19:21:32.910122",
             "price": 766.7999877929688,
             "change": 7.64996337890625,
             "open": 759.1500244140625,
@@ -1849,7 +1849,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-22T16:26:48.587852",
+            "timestamp": "2026-05-22T19:21:33.303325",
             "price": 1174.5,
             "change": -8.0,
             "open": 1182.5,
@@ -2114,13 +2114,13 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-22T16:26:48.860829",
-            "price": 310.260009765625,
-            "change": 4.20001220703125,
+            "timestamp": "2026-05-22T19:21:33.666903",
+            "price": 309.1099853515625,
+            "change": 3.04998779296875,
             "open": 306.05999755859375,
             "high": 311.3999938964844,
             "low": 305.8500061035156,
-            "volume": 21763115,
+            "volume": 30289835,
             "news": [
                 {
                     "id": "4a367f94-a29a-4b87-bbb7-a2b2798639fc",
@@ -2185,94 +2185,32 @@
                     }
                 },
                 {
-                    "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
-                    "content": {
-                        "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
-                        "contentType": "STORY",
-                        "title": "Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
-                        "description": "",
-                        "summary": "Retirees evaluating dividend funds tend to anchor on current yield, which is exactly why Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) often gets overlooked. The fund pays a distribution yield of roughly 1.6%, which looks unimpressive next to higher-yielding alternatives. Morningstar analysts have repeatedly flagged VIG as a quiet winner for retirees precisely because of that misread. ... Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
-                        "pubDate": "2026-05-22T16:14:32Z",
-                        "displayTime": "2026-05-22T16:14:32Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
-                            "originalWidth": 1500,
-                            "originalHeight": 1001,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/k5oTcgIMFrpWQsjbpZrBSg--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
-                                    "width": 1500,
-                                    "height": 1001,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1o42YHkYM5p3EALR58.eqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/vanguards-vig-quietly-returned-247-while-investors-chased-higher-yields/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-vig-quietly-returned-247-161432865.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
                     "id": "10c8f645-a0e5-33e0-a5c7-ab8f7c9cbcac",
                     "content": {
                         "id": "10c8f645-a0e5-33e0-a5c7-ab8f7c9cbcac",
                         "contentType": "STORY",
-                        "title": "Wall St climbs, Dow at record high with US-Iran talks in spotlight",
+                        "title": "Wall Street rises, Dow hits record high as Middle East hopes lift sentiment",
                         "description": "",
-                        "summary": "By Shashwat Chauhan and Medha Singh May 22 (Reuters) - Wall Street's main indexes rose on Friday ahead of a long weekend, with the blue-chip Dow hitting a record high for the first time since the Iran",
-                        "pubDate": "2026-05-22T15:47:58Z",
-                        "displayTime": "2026-05-22T15:47:58Z",
+                        "summary": "By Chibuike Oguh, Shashwat Chauhan and Medha Singh NEW YORK, May 22 (Reuters) - U.S. stocks rose on Friday, with the Dow reaching an intraday record high, as investors cheered signs of progress in",
+                        "pubDate": "2026-05-22T19:12:31Z",
+                        "displayTime": "2026-05-22T19:12:31Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/reuters.com/5fdaaabbe075e32bfdef068ed668f535",
+                            "originalUrl": "https://media.zenfs.com/en/reuters.com/3ba27583345e39eabad1427c25bbf279",
                             "originalWidth": 800,
                             "originalHeight": 533,
                             "caption": "Traders work on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., May 21, 2026. REUTERS/Jeenah Moon",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/XujE9N_cZRDRT_spEC716w--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5fdaaabbe075e32bfdef068ed668f535",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/lVztgUv9krkTGPUbuRtTAQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3ba27583345e39eabad1427c25bbf279",
                                     "width": 800,
                                     "height": 533,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/RcTOULE872cOQl0Tsu7tmw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/5fdaaabbe075e32bfdef068ed668f535",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/4pUAqjR_5upxN0kRSp405Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/3ba27583345e39eabad1427c25bbf279",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2309,32 +2247,32 @@
                     }
                 },
                 {
-                    "id": "2976f7af-4aeb-3114-8d13-15b60572a006",
+                    "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
                     "content": {
-                        "id": "2976f7af-4aeb-3114-8d13-15b60572a006",
+                        "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
                         "contentType": "STORY",
-                        "title": "Best Buy Poised for In-Line First-Quarter Comparable Sales, Wedbush Says",
+                        "title": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
                         "description": "",
-                        "summary": "Best Buy (BBY) is expected to report in-line comparable sales for the first quarter and issue a cons",
-                        "pubDate": "2026-05-22T15:31:23Z",
-                        "displayTime": "2026-05-22T15:31:23Z",
+                        "summary": "CNBC’s Dominic Chu opened Friday’s market coverage by noting that “the stocks are looking like they may open higher today, rounding out what could be the eighth straight winning week for the S&P 500.” That kind of streak does not happen by accident, and inside the Trump bull market it has become the defining rhythm: ... Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+                        "pubDate": "2026-05-22T18:45:23Z",
+                        "displayTime": "2026-05-22T18:45:23Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/mt_newswires_premium_news_706/e9c9c6f34f34ce2196712d87764b767b",
-                            "originalWidth": 1000,
-                            "originalHeight": 667,
-                            "caption": "bestbuy - Shutterstock",
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
+                            "originalWidth": 1366,
+                            "originalHeight": 767,
+                            "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/uHkr8dtMPKxlZBzLPJlCRA--~B/aD02Njc7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/mt_newswires_premium_news_706/e9c9c6f34f34ce2196712d87764b767b",
-                                    "width": 1000,
-                                    "height": 667,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/erD8Id6NEXZy4_CWXGwPuA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
+                                    "width": 1366,
+                                    "height": 767,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/2KZbZWf.gpmpocd3lbwX8A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mt_newswires_premium_news_706/e9c9c6f34f34ce2196712d87764b767b",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/gt5e6_B3vVKWzJ2ayH3LVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2342,18 +2280,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "MT Newswires",
-                            "url": "https://www.mtnewswires.com/",
-                            "sourceId": "mt_newswires_premium_news_706"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-poised-line-first-153123985.html",
+                            "url": "https://247wallst.com/investing/2026/05/22/dominic-chu-the-trump-bull-markets-ai-rally-is-powering-the-sp-500-toward-an-8th-straight-winning-week/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-poised-line-first-153123985.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/dominic-chu-trump-bull-market-184523549.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2363,7 +2301,7 @@
                         },
                         "finance": {
                             "premiumFinance": {
-                                "isPremiumNews": true,
+                                "isPremiumNews": false,
                                 "isPremiumFreeNews": false
                             }
                         },
@@ -2371,32 +2309,32 @@
                     }
                 },
                 {
-                    "id": "b64576c3-8d8d-3ecf-bcf9-4b65167ba706",
+                    "id": "65397fe3-f8f9-312f-9b9c-4f780dc76902",
                     "content": {
-                        "id": "b64576c3-8d8d-3ecf-bcf9-4b65167ba706",
+                        "id": "65397fe3-f8f9-312f-9b9c-4f780dc76902",
                         "contentType": "STORY",
-                        "title": "Apple Execs Say We Are In The Early Innings Of Spatial Computing – Here's How The Technology Is Already Changing The Consumer World",
+                        "title": "CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates",
                         "description": "",
-                        "summary": "Consumers are in the early innings of spatial computing technology, and U.S. retail giants are already incorporating the immersive technology into the retail buying experience, Apple Inc. (NYSE:AAPL) executives believe. Recommendation engines, project management tools, and shelf-stacking robots are among...",
-                        "pubDate": "2026-05-22T15:16:12Z",
-                        "displayTime": "2026-05-22T15:16:12Z",
+                        "summary": "Income investors holding the VictoryShares US Large Cap High Div Volatility Wtd ETF (NYSEARCA:CDL) own a fund built around one premise: large American companies with stable share prices tend to pay reliable dividends. CDL distributes cash monthly and paid $2.29 per share in 2025 against a current share price of roughly $76. With Treasury yields ... CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates",
+                        "pubDate": "2026-05-22T18:30:54Z",
+                        "displayTime": "2026-05-22T18:30:54Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/fd3f0dd25efe481d253eb67f37f7642b",
-                            "originalWidth": 1024,
-                            "originalHeight": 640,
-                            "caption": "Apple Execs Say We Are In The Early Innings Of Spatial Computing – Here's How The Technology Is Already Changing The Consumer World",
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
+                            "originalWidth": 1500,
+                            "originalHeight": 843,
+                            "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/d8ugLoJaJbTwUdXyO404bQ--~B/aD02NDA7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/fd3f0dd25efe481d253eb67f37f7642b",
-                                    "width": 1024,
-                                    "height": 640,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/_yiemRMYKeVFt5theGc83w--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
+                                    "width": 1500,
+                                    "height": 843,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/.Q5fNnfmUy1QxVAifYZetg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fd3f0dd25efe481d253eb67f37f7642b",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ilRxZJe5fDcszf49.1Qviw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2404,18 +2342,80 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://tech.yahoo.com/ar-vr/articles/apple-execs-early-innings-spatial-151612623.html",
-                            "site": "tech",
+                            "url": "https://247wallst.com/investing/2026/05/22/cdls-2-29-annual-dividend-beats-treasury-yields-despite-rising-interest-rates-3/",
+                            "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://tech.yahoo.com/ar-vr/articles/apple-execs-early-innings-spatial-151612623.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cdl-2-29-annual-dividend-183054029.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
+                    "content": {
+                        "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
+                        "contentType": "STORY",
+                        "title": "SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
+                        "description": "",
+                        "summary": "A young saver opens a Schwab account, picks the Schwab U.S. Large-Cap Growth ETF (NYSEARCA:SCHG) over a plain S&P 500 fund because they want a growth tilt at almost no cost, and assumes 197 holdings buys them diversification. The math says otherwise. SCHG’s top 10 names drive 59% of the portfolio, which means more than ... SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
+                        "pubDate": "2026-05-22T18:30:53Z",
+                        "displayTime": "2026-05-22T18:30:53Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                            "originalWidth": 1500,
+                            "originalHeight": 682,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/NjTk6HuWC2i2psguXehZZw--~B/aD02ODI7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                                    "width": 1500,
+                                    "height": 682,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cImNApBUYmgytEeNllnx5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/22/schgs-top-ten-holdings-now-drive-59-percent-of-the-fund-creating-hidden-single-stock-risk/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/schg-top-ten-holdings-now-183053001.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2436,13 +2436,13 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-22T16:26:49.130816",
-            "price": 419.58648681640625,
-            "change": 0.106475830078125,
+            "timestamp": "2026-05-22T19:21:34.094957",
+            "price": 418.67999267578125,
+            "change": -0.800018310546875,
             "open": 419.4800109863281,
             "high": 424.3999938964844,
             "low": 416.3399963378906,
-            "volume": 11190945,
+            "volume": 15538552,
             "news": [
                 {
                     "id": "a189823e-8c57-49b4-ba72-a5601d1eb9e7",
@@ -2507,32 +2507,156 @@
                     }
                 },
                 {
-                    "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
+                    "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
                     "content": {
-                        "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
+                        "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
                         "contentType": "STORY",
-                        "title": "Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
+                        "title": "The 1 Chart Every AI Investor Needs to See Before Buying Anything Right Now",
                         "description": "",
-                        "summary": "Retirees evaluating dividend funds tend to anchor on current yield, which is exactly why Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) often gets overlooked. The fund pays a distribution yield of roughly 1.6%, which looks unimpressive next to higher-yielding alternatives. Morningstar analysts have repeatedly flagged VIG as a quiet winner for retirees precisely because of that misread. ... Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
-                        "pubDate": "2026-05-22T16:14:32Z",
-                        "displayTime": "2026-05-22T16:14:32Z",
+                        "summary": "At first glance, this information may look more like a reason not to invest in these companies.",
+                        "pubDate": "2026-05-22T19:05:00Z",
+                        "displayTime": "2026-05-22T19:05:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "Person analyzes paper document.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WEWpTzg_sah.mno.6ntTDw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/CFkxOoC.XzenGjKXRVK1KQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/22/chart-every-ai-investor-needs-see-before-buy/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-chart-every-ai-investor-190500080.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
+                    "content": {
+                        "id": "8884375f-11f5-3f91-b617-70c4ac4d320b",
+                        "contentType": "STORY",
+                        "title": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+                        "description": "",
+                        "summary": "CNBC’s Dominic Chu opened Friday’s market coverage by noting that “the stocks are looking like they may open higher today, rounding out what could be the eighth straight winning week for the S&P 500.” That kind of streak does not happen by accident, and inside the Trump bull market it has become the defining rhythm: ... Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+                        "pubDate": "2026-05-22T18:45:23Z",
+                        "displayTime": "2026-05-22T18:45:23Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
+                            "originalWidth": 1366,
+                            "originalHeight": 767,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/erD8Id6NEXZy4_CWXGwPuA--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
+                                    "width": 1366,
+                                    "height": 767,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/gt5e6_B3vVKWzJ2ayH3LVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/d2c7a06fb106248f83af33519a1a6ca1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/22/dominic-chu-the-trump-bull-markets-ai-rally-is-powering-the-sp-500-toward-an-8th-straight-winning-week/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/dominic-chu-trump-bull-market-184523549.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "65397fe3-f8f9-312f-9b9c-4f780dc76902",
+                    "content": {
+                        "id": "65397fe3-f8f9-312f-9b9c-4f780dc76902",
+                        "contentType": "STORY",
+                        "title": "CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates",
+                        "description": "",
+                        "summary": "Income investors holding the VictoryShares US Large Cap High Div Volatility Wtd ETF (NYSEARCA:CDL) own a fund built around one premise: large American companies with stable share prices tend to pay reliable dividends. CDL distributes cash monthly and paid $2.29 per share in 2025 against a current share price of roughly $76. With Treasury yields ... CDL’s $2.29 annual dividend beats Treasury yields despite rising interest rates",
+                        "pubDate": "2026-05-22T18:30:54Z",
+                        "displayTime": "2026-05-22T18:30:54Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
                             "originalWidth": 1500,
-                            "originalHeight": 1001,
+                            "originalHeight": 843,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/k5oTcgIMFrpWQsjbpZrBSg--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/_yiemRMYKeVFt5theGc83w--~B/aD04NDM7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
                                     "width": 1500,
-                                    "height": 1001,
+                                    "height": 843,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1o42YHkYM5p3EALR58.eqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ilRxZJe5fDcszf49.1Qviw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fac00c2982555a7e5f4d3b542245f32b",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2545,13 +2669,13 @@
                             "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/vanguards-vig-quietly-returned-247-while-investors-chased-higher-yields/",
+                            "url": "https://247wallst.com/investing/2026/05/22/cdls-2-29-annual-dividend-beats-treasury-yields-despite-rising-interest-rates-3/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-vig-quietly-returned-247-161432865.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cdl-2-29-annual-dividend-183054029.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2569,75 +2693,32 @@
                     }
                 },
                 {
-                    "id": "40b3ef04-0a22-33df-a532-e847f76829e5",
+                    "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
                     "content": {
-                        "id": "40b3ef04-0a22-33df-a532-e847f76829e5",
+                        "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
                         "contentType": "STORY",
-                        "title": "DocuSign AI-Backed Platform Increasingly Addressing Enterprise Needs, RBC Says",
+                        "title": "SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
                         "description": "",
-                        "summary": "DocuSign's (DOCU) AI-backed platform IAM, initially targeted at mid-market clients, is increasingly",
-                        "pubDate": "2026-05-22T15:04:22Z",
-                        "displayTime": "2026-05-22T15:04:22Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "MT Newswires",
-                            "url": "https://www.mtnewswires.com/",
-                            "sourceId": "mt_newswires_premium_news_706"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/docusign-ai-backed-platform-increasingly-150422662.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/docusign-ai-backed-platform-increasingly-150422662.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": true,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "eed058cd-29d7-3c48-b33c-eda02e913cc2",
-                    "content": {
-                        "id": "eed058cd-29d7-3c48-b33c-eda02e913cc2",
-                        "contentType": "STORY",
-                        "title": "Grok Could Undermine SpaceX IPO",
-                        "description": "",
-                        "summary": "Morningstar warned, “‘Financials Look Reckless’: Lifting xAI’s Hood in the SpaceX IPO”. Its AI division, xAI, lost $2.47 billion on $818 million in the first quarter of this year. “If you compare xAI to a traditional SaaS company, the financials look reckless,” Harrison Rolfes, a senior research analyst at PitchBook, wrote. That may be a ... Grok Could Undermine SpaceX IPO",
-                        "pubDate": "2026-05-22T14:59:19Z",
-                        "displayTime": "2026-05-22T14:59:19Z",
+                        "summary": "A young saver opens a Schwab account, picks the Schwab U.S. Large-Cap Growth ETF (NYSEARCA:SCHG) over a plain S&P 500 fund because they want a growth tilt at almost no cost, and assumes 197 holdings buys them diversification. The math says otherwise. SCHG’s top 10 names drive 59% of the portfolio, which means more than ... SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
+                        "pubDate": "2026-05-22T18:30:53Z",
+                        "displayTime": "2026-05-22T18:30:53Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/69e3b48502edc0a0ab25f46c07bc3ac9",
-                            "originalWidth": 2560,
-                            "originalHeight": 1695,
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                            "originalWidth": 1500,
+                            "originalHeight": 682,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/_5WRfScLQ0BsxD9SHcXLZQ--~B/aD0xNjk1O3c9MjU2MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/69e3b48502edc0a0ab25f46c07bc3ac9",
-                                    "width": 2560,
-                                    "height": 1695,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/NjTk6HuWC2i2psguXehZZw--~B/aD02ODI7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                                    "width": 1500,
+                                    "height": 682,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/.Y3TR1oJE2PFC4qAdAIYmA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/69e3b48502edc0a0ab25f46c07bc3ac9",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cImNApBUYmgytEeNllnx5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2650,74 +2731,17 @@
                             "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/grok-could-undermine-spacex-ipo/",
+                            "url": "https://247wallst.com/investing/2026/05/22/schgs-top-ten-holdings-now-drive-59-percent-of-the-fund-creating-hidden-single-stock-risk/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/grok-could-undermine-spacex-ipo-145919124.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/schg-top-ten-holdings-now-183053001.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "defc5482-a175-3985-847a-948024fe3c75",
-                    "content": {
-                        "id": "defc5482-a175-3985-847a-948024fe3c75",
-                        "contentType": "STORY",
-                        "title": "As Meta Misfires And Apple Shines, Amazon Stock Has Wall Street Smiling. Here's Why.",
-                        "description": "",
-                        "summary": "Boosted by accelerating first-quarter earnings and sales, Amazon stock has bounced back into buy range while flashing telltale clues.",
-                        "pubDate": "2026-05-22T14:43:03Z",
-                        "displayTime": "2026-05-22T14:43:03Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/defc5482-a175-3985-847a-948024fe3c75/as-meta-misfires-and-apple.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-                            "originalWidth": 1000,
-                            "originalHeight": 563,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/tOn5yiN9XBeL8j1misX1NA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-                                    "width": 1000,
-                                    "height": 563,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/F0vTs1yv170aOte7Rv56cw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/912ecb3beaa0c37463dabc5c40239fde",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Investor's Business Daily",
-                            "url": "http://www.investors.com/",
-                            "sourceId": "ibd.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.investors.com/research/ibd-stock-analysis/as-meta-misfires-and-nvidia-shines-amazon-stock-has-wall-street-smiling-heres-why/?src=A00220&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
                         "metadata": {
                             "editorsPick": false
                         },
@@ -2734,13 +2758,13 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-22T16:26:49.403295",
-            "price": 385.9100036621094,
-            "change": -1.41998291015625,
+            "timestamp": "2026-05-22T19:21:34.384831",
+            "price": 382.9049987792969,
+            "change": -4.42498779296875,
             "open": 387.3299865722656,
             "high": 388.739990234375,
-            "low": 383.9800109863281,
-            "volume": 7430773,
+            "low": 382.8800048828125,
+            "volume": 12853076,
             "news": [
                 {
                     "id": "326efe15-1045-439a-bbb3-8053182d0938",
@@ -2867,32 +2891,32 @@
                     }
                 },
                 {
-                    "id": "19013fef-c15f-3300-a1ef-7a9a592630e2",
+                    "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
                     "content": {
-                        "id": "19013fef-c15f-3300-a1ef-7a9a592630e2",
+                        "id": "c8006821-7b40-3d8f-8720-312e9022e4f7",
                         "contentType": "STORY",
-                        "title": "The AI Data Center Buildout Is Accelerating, and Nuclear Could Be the Most Underowned Piece of the Puzzle",
+                        "title": "SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
                         "description": "",
-                        "summary": "The data center buildout doesn’t seem like it’s about to slow down. As more firms look to step up and supply AI compute, some of which (unlike the cash-rich hyperscalers) are risking their shirts by going into debt, it feels like timing the peak in the AI boom or the beginning of an AI bubble ... The AI Data Center Buildout Is Accelerating, and Nuclear Could Be the Most Underowned Piece of the Puzzle",
-                        "pubDate": "2026-05-22T16:01:15Z",
-                        "displayTime": "2026-05-22T16:01:15Z",
+                        "summary": "A young saver opens a Schwab account, picks the Schwab U.S. Large-Cap Growth ETF (NYSEARCA:SCHG) over a plain S&P 500 fund because they want a growth tilt at almost no cost, and assumes 197 holdings buys them diversification. The math says otherwise. SCHG’s top 10 names drive 59% of the portfolio, which means more than ... SCHG’s Top Ten Holdings Now Drive 59 Percent of the Fund, Creating Hidden Single Stock Risk",
+                        "pubDate": "2026-05-22T18:30:53Z",
+                        "displayTime": "2026-05-22T18:30:53Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
-                            "originalWidth": 1366,
-                            "originalHeight": 768,
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                            "originalWidth": 1500,
+                            "originalHeight": 682,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/8p6CFAPtwkxv03joeuGvPg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
-                                    "width": 1366,
-                                    "height": 768,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/NjTk6HuWC2i2psguXehZZw--~B/aD02ODI7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
+                                    "width": 1500,
+                                    "height": 682,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/6Q5MO2ZMZVmdu8iGzv28Hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cImNApBUYmgytEeNllnx5Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8b87ce7d624cf8cd24c83eefc4478da1",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2905,13 +2929,13 @@
                             "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/the-ai-data-center-buildout-is-accelerating-and-nuclear-could-be-the-most-underowned-piece-of-the-puzzle/",
+                            "url": "https://247wallst.com/investing/2026/05/22/schgs-top-ten-holdings-now-drive-59-percent-of-the-fund-creating-hidden-single-stock-risk/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/energy/articles/ai-data-center-buildout-accelerating-160115680.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/schg-top-ten-holdings-now-183053001.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2929,32 +2953,32 @@
                     }
                 },
                 {
-                    "id": "26d65528-3d36-3992-96bc-117430d5be1d",
+                    "id": "b042bacd-7632-36d2-b4a7-cb05acf455a2",
                     "content": {
-                        "id": "26d65528-3d36-3992-96bc-117430d5be1d",
+                        "id": "b042bacd-7632-36d2-b4a7-cb05acf455a2",
                         "contentType": "STORY",
-                        "title": "We tried Google’s AI glasses and they’re almost there",
+                        "title": "Google appeals US court ruling on search monopoly",
                         "description": "",
-                        "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
-                        "pubDate": "2026-05-22T15:37:15Z",
-                        "displayTime": "2026-05-22T15:37:15Z",
+                        "summary": "Alphabet's Google on Friday appealed a Washington federal judge's ruling ‌that it holds illegal monopolies in online search ‌and related advertising.  • Google argued that U.S. ​Judge Amit Mehta made legal errors in his 2024 ruling, which found the company illegally blocked competitors by paying billions of dollars annually to firms including Apple ‌to be the ⁠default search engine on new devices.  • The arrangements did not prevent the device ⁠makers and browser developers from promoting rival search services like Microsoft's Bing, Google argued.",
+                        "pubDate": "2026-05-22T18:18:55Z",
+                        "displayTime": "2026-05-22T18:18:55Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/techcrunch_finance_785/e52f5ca524bb1776b36b25d41dcf19d3",
-                            "originalWidth": 1000,
-                            "originalHeight": 562,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/reuters-finance.com/761c32d6b402ed843f2085e9e6c848bd",
+                            "originalWidth": 800,
+                            "originalHeight": 534,
+                            "caption": "FILE PHOTO: A Google logo is seen at a company research facility in Mountain View, California",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/nVyuKynY5nxqQ.0gipd8BQ--~B/aD01NjI7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_finance_785/e52f5ca524bb1776b36b25d41dcf19d3",
-                                    "width": 1000,
-                                    "height": 562,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/_k4NIi2TqvwHvA3O10DbyA--~B/aD01MzQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/761c32d6b402ed843f2085e9e6c848bd",
+                                    "width": 800,
+                                    "height": 534,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/W7LXQ6moGDNlJxMt8_UPew--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/techcrunch_finance_785/e52f5ca524bb1776b36b25d41dcf19d3",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cGhgYkyDsm1nRorjVpGtvQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters-finance.com/761c32d6b402ed843f2085e9e6c848bd",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2962,18 +2986,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "TechCrunch",
-                            "url": "https://techcrunch.com/",
-                            "sourceId": "techcrunch_finance_785"
+                            "displayName": "Reuters",
+                            "url": "http://www.reuters.com/",
+                            "sourceId": "reuters-finance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/news/tried-google-ai-glasses-almost-153715472.html",
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/google-appeals-us-court-ruling-181855360.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/news/tried-google-ai-glasses-almost-153715472.html",
+                            "url": "https://finance.yahoo.com/sectors/technology/articles/google-appeals-us-court-ruling-181855360.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2991,32 +3015,32 @@
                     }
                 },
                 {
-                    "id": "8917fded-fe1d-3127-82f1-238949991e59",
+                    "id": "4bf4cab6-25a9-328f-ac10-e0e4a941ec55",
                     "content": {
-                        "id": "8917fded-fe1d-3127-82f1-238949991e59",
+                        "id": "4bf4cab6-25a9-328f-ac10-e0e4a941ec55",
                         "contentType": "STORY",
-                        "title": "Chicago’s Old Finance Hub Gets New Life From ‘Google Effect’",
+                        "title": "These Stocks Are Today’s Movers: Dell, Apple, IBM, Estée Lauder, Futu, Rocket Lab, Workday, and More",
                         "description": "",
-                        "summary": "(Bloomberg) -- A neglected part of downtown Chicago is perking up as Alphabet Inc. redevelops a 1980s-vintage building designed to house legions of state government workers. Most Read from BloombergBungie Plans Layoffs After Ending ‘Destiny 2’ DevelopmentSpot the Difference: Putin Gets Trump Treatment From Xi in ChinaIran Says the US’s Latest Proposal Has ‘Narrowed the Gaps’Iran in Talks With Oman Over Permanent Hormuz Toll SystemModi’s Toffee Gift to Meloni Ignites Rally in Wrong Indian StockSt",
-                        "pubDate": "2026-05-22T15:15:39Z",
-                        "displayTime": "2026-05-22T15:15:39Z",
-                        "isHosted": true,
+                        "summary": "Estée Lauder ends acquisition talks with Spain’s Puig Brands and Workday’s first-quarter earnings beat Wall Street estimates.",
+                        "pubDate": "2026-05-22T18:15:00Z",
+                        "displayTime": "2026-05-22T18:15:00Z",
+                        "isHosted": false,
                         "bypassModal": false,
-                        "previewUrl": null,
+                        "previewUrl": "https://finance.yahoo.com/m/4bf4cab6-25a9-328f-ac10-e0e4a941ec55/these-stocks-are-today%E2%80%99s.html",
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/18a113090168d7723bf26243f4b61b7f",
-                            "originalWidth": 2000,
-                            "originalHeight": 1334,
+                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
+                            "originalWidth": 1280,
+                            "originalHeight": 640,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/k9_MnM3PEwTSsx_cvEgVHQ--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/18a113090168d7723bf26243f4b61b7f",
-                                    "width": 2000,
-                                    "height": 1334,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/xh5_VHT99o_RwnkP_4zTmg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
+                                    "width": 1280,
+                                    "height": 640,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/NZRvmIbJNbO60Z0QlsKE2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/18a113090168d7723bf26243f4b61b7f",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/yD5IgBBqPZlELEf0etS0JA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/4419d9277b22b49d3b60ddbb097e24fc",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3024,22 +3048,17 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
+                            "displayName": "Barrons.com",
+                            "url": "http://www.barrons.com/",
+                            "sourceId": "Barrons.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/google-ignites-real-estate-revival-120004852.html",
+                            "url": "https://www.barrons.com/articles/stock-movers-9326f611?siteid=yhoof2&yptr=yahoo",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/google-ignites-real-estate-revival-120004852.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
+                        "clickThroughUrl": null,
                         "metadata": {
                             "editorsPick": false
                         },
@@ -3056,13 +3075,13 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-22T16:26:49.578224",
-            "price": 427.4100036621094,
-            "change": 4.7449951171875,
+            "timestamp": "2026-05-22T19:21:34.669931",
+            "price": 427.17999267578125,
+            "change": 4.514984130859375,
             "open": 422.6650085449219,
-            "high": 431.07000732421875,
+            "high": 431.510009765625,
             "low": 420.510009765625,
-            "volume": 26303805,
+            "volume": 38705836,
             "news": [
                 {
                     "id": "4a367f94-a29a-4b87-bbb7-a2b2798639fc",
@@ -3189,32 +3208,51 @@
                     }
                 },
                 {
-                    "id": "1d74907e-e0fb-361a-afd9-3a0108bc492e",
+                    "id": "285ba7ef-8f91-3fa0-b7a9-4fc0f2c180e8",
                     "content": {
-                        "id": "1d74907e-e0fb-361a-afd9-3a0108bc492e",
+                        "id": "285ba7ef-8f91-3fa0-b7a9-4fc0f2c180e8",
                         "contentType": "STORY",
-                        "title": "SpaceX Targets $75 Billion IPO at Up to $2 Trillion Valuation",
+                        "title": "Elon Musk's new Tesla update is a joy for customers and investors",
                         "description": "",
-                        "summary": "Filing shows Musk retaining control as SpaceX expands deeper into AI, Starlink and space infrastructure ambitions.",
-                        "pubDate": "2026-05-22T15:03:32Z",
-                        "displayTime": "2026-05-22T15:03:32Z",
+                        "summary": "Tesla has been losing ground in one of its most strategically important markets. Domestic rivals have been faster, cheaper, and increasingly more capable on the software features that matter most to buyers there. The company has known this. So have investors. On May 21, Tesla did something about ...",
+                        "pubDate": "2026-05-22T18:17:00Z",
+                        "displayTime": "2026-05-22T18:17:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
-                        "thumbnail": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/b79764c67423c698a05551bfe6a17a58",
+                            "originalWidth": 1200,
+                            "originalHeight": 675,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ez0JZF1N2mP_SLl2ZUUadQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/b79764c67423c698a05551bfe6a17a58",
+                                    "width": 1200,
+                                    "height": 675,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/KvH1LkJyRw7ca_ywpx0cwQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/b79764c67423c698a05551bfe6a17a58",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
                         "provider": {
-                            "displayName": "GuruFocus.com",
-                            "url": "http://www.gurufocus.com/",
-                            "sourceId": "us.finance.gurufocus"
+                            "displayName": "TheStreet",
+                            "url": "https://www.thestreet.com/",
+                            "sourceId": "thestreet_881"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-targets-75-billion-ipo-150332363.html",
+                            "url": "https://www.thestreet.com/automotive/elon-musks-new-tesla-update-is-a-joy-for-customers-and-investors",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-targets-75-billion-ipo-150332363.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-joy-customers-181700438.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3232,32 +3270,32 @@
                     }
                 },
                 {
-                    "id": "8a335b75-86f3-3d9e-9e38-4610fa52eec6",
+                    "id": "552f066a-ada7-3b89-ab95-58825ac153f5",
                     "content": {
-                        "id": "8a335b75-86f3-3d9e-9e38-4610fa52eec6",
+                        "id": "552f066a-ada7-3b89-ab95-58825ac153f5",
                         "contentType": "STORY",
-                        "title": "12 Zeros and 1 Musk: The Trillionaire Era Officially Begins.",
+                        "title": "SpaceX IPO Could Make Elon Musk World’s First Trillionaire, Eclipsing Rockefeller’s Wealth Share",
                         "description": "",
-                        "summary": "Tesla  and SpaceX CEO Elon Musk, already the world’s richest person, is now the world’s first trillionaire.  On Wednesday, his rocket company, SpaceX, released its initial public offering registration statement to the public.  Musk’s Tesla stock, including his 2018 vested stock options, is currently worth about $290 billion.",
-                        "pubDate": "2026-05-22T14:21:00Z",
-                        "displayTime": "2026-05-22T14:21:00Z",
-                        "isHosted": false,
+                        "summary": "Robert Frank’s CNBC segment on May 22, 2026, titled Elon Musk’s trillionaire march: Here’s what to know, laid out the arithmetic of how the SpaceX IPO could push Musk past a threshold no human has ever crossed. “Elon Musk is worth right now around $800 billion,” Frank said. “The SpaceX IPO likely to put him ... SpaceX IPO Could Make Elon Musk World’s First Trillionaire, Eclipsing Rockefeller’s Wealth Share",
+                        "pubDate": "2026-05-22T18:04:25Z",
+                        "displayTime": "2026-05-22T18:04:25Z",
+                        "isHosted": true,
                         "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/8a335b75-86f3-3d9e-9e38-4610fa52eec6/12-zeros-and-1-musk-the.html",
+                        "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/c12786fe13ee46aecf3e92456e448576",
-                            "originalWidth": 1280,
-                            "originalHeight": 640,
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fc2acbebb8d9b27812b66838d21710b4",
+                            "originalWidth": 1366,
+                            "originalHeight": 768,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/4xzpHW7Ttyex_xlG2ROMxA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c12786fe13ee46aecf3e92456e448576",
-                                    "width": 1280,
-                                    "height": 640,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/rJ9YCgrI.EQVkArfVBrwtA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/fc2acbebb8d9b27812b66838d21710b4",
+                                    "width": 1366,
+                                    "height": 768,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/krUHdX096outRw.2GvCDxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/c12786fe13ee46aecf3e92456e448576",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/LZY2ECt3Bqfdl0yjJn1jiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fc2acbebb8d9b27812b66838d21710b4",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3265,17 +3303,22 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Barrons.com",
-                            "url": "http://www.barrons.com/",
-                            "sourceId": "Barrons.com"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.barrons.com/articles/elon-musk-trillionaire-spacex-ipo-tesla-59f01f29?siteid=yhoof2&yptr=yahoo",
+                            "url": "https://247wallst.com/investing/2026/05/22/spacex-ipo-could-make-elon-musk-worlds-first-trillionaire-eclipsing-rockefellers-wealth-share/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "clickThroughUrl": null,
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-elon-musk-180425393.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
                         "metadata": {
                             "editorsPick": false
                         },
@@ -3289,32 +3332,32 @@
                     }
                 },
                 {
-                    "id": "3d6bc356-cdc9-36a6-8b18-34605e73683e",
+                    "id": "0ea64aaf-2c7a-3323-984c-362c4b9e7f3a",
                     "content": {
-                        "id": "3d6bc356-cdc9-36a6-8b18-34605e73683e",
+                        "id": "0ea64aaf-2c7a-3323-984c-362c4b9e7f3a",
                         "contentType": "STORY",
-                        "title": "Why the SpaceX Hype Isn’t Boosting Tesla Stock",
+                        "title": "The Federal Government Ghosts Grok",
                         "description": "",
-                        "summary": "Shares have been listless lately as investors have given SpaceX more of their attention.  Investors have also turned their attention to SpaceX, which made its IPO registration public on Wednesday.  Tesla CEO Elon Musk, of course, runs both companies, and Tesla was mentioned in the filing almost 90 times.",
-                        "pubDate": "2026-05-22T14:06:00Z",
-                        "displayTime": "2026-05-22T14:06:00Z",
-                        "isHosted": false,
+                        "summary": "Government AI inventory showed Grok appearing in just three of four hundred vendor examples with ChatGPT, Gemini, and others outpacing.",
+                        "pubDate": "2026-05-22T17:16:05Z",
+                        "displayTime": "2026-05-22T17:16:05Z",
+                        "isHosted": true,
                         "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/3d6bc356-cdc9-36a6-8b18-34605e73683e/why-the-spacex-hype-isn%E2%80%99t.html",
+                        "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/a980885647f163c1b9aab8a97a3e3fde",
-                            "originalWidth": 1280,
-                            "originalHeight": 640,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/moby_896/398b1b93370cc2612efe8ae29537bddc",
+                            "originalWidth": 928,
+                            "originalHeight": 1152,
+                            "caption": "The Federal Government Ghosts Grok",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/udP8ixSw3LmGR1EZ0jYaCg--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/a980885647f163c1b9aab8a97a3e3fde",
-                                    "width": 1280,
-                                    "height": 640,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WXFfzw8ykl2Ard8dLzSZZg--~B/aD0xMTUyO3c9OTI4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moby_896/398b1b93370cc2612efe8ae29537bddc",
+                                    "width": 928,
+                                    "height": 1152,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/U_BjqBHvDafHml2ksPOvFA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/a980885647f163c1b9aab8a97a3e3fde",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/h42lAEynfCK3aqOIrwTH_Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moby_896/398b1b93370cc2612efe8ae29537bddc",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3322,17 +3365,22 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Barrons.com",
-                            "url": "http://www.barrons.com/",
-                            "sourceId": "Barrons.com"
+                            "displayName": "Moby",
+                            "url": "https://moby.co/",
+                            "sourceId": "moby_896"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-0d4263b2?siteid=yhoof2&yptr=yahoo",
+                            "url": "https://app.moby.co/home/news/news-the-federal-government-ghosts-grok?utm_source=yahoo_finance&utm_medium=rss",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "clickThroughUrl": null,
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/federal-government-ghosts-grok-171605078.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
                         "metadata": {
                             "editorsPick": false
                         },
@@ -3349,41 +3397,41 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-22T16:26:49.855472",
-            "price": 216.9499969482422,
-            "change": -3.954010009765625,
+            "timestamp": "2026-05-22T19:21:35.070185",
+            "price": 215.1199951171875,
+            "change": -5.7840118408203125,
             "open": 220.9040069580078,
             "high": 221.00999450683594,
-            "low": 215.16000366210938,
-            "volume": 83240534,
+            "low": 214.86000061035156,
+            "volume": 131591647,
             "news": [
                 {
-                    "id": "3a2e0088-877a-425f-b721-ba9ab4f7c20a",
+                    "id": "041c389b-a3cc-4b1d-a569-e04f433d3704",
                     "content": {
-                        "id": "3a2e0088-877a-425f-b721-ba9ab4f7c20a",
-                        "contentType": "VIDEO",
-                        "title": "Nvidia vs. AMD vs. Intel: Which is the best chip stock to own?",
-                        "description": "<p>Between Nvidia (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" data-i13n=\"cpos:1;pos:1\">NVDA</a>), Advanced Micro Devices (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/AMD/\" data-i13n=\"cpos:2;pos:1\">AMD</a>), and Intel (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/INTC/\" data-i13n=\"cpos:3;pos:1\">INTC</a>), which chip stock stands out among the rest?</p>\n<p>Yahoo Finance Executive Editor Brian Sozzi is joined by Markets and Data Editor Jared Blikre, Senior Business Reporter Ines Ferré, and Portfolio Wealth Advisors president and CIO Lee Munson to share their thoughts on these leaders within the AI chip space.</p>\n<p></p>",
-                        "summary": "Between Nvidia (NVDA), Advanced Micro Devices (AMD), and Intel (INTC), which chip stock stands out among the rest? Yahoo Finance Executive Editor Brian Sozzi is joined by Markets and Data Editor Jared Blikre, Senior Business Reporter Ines Ferré, and Portfolio Wealth Advisors president and CIO Lee Munson to share their thoughts on these leaders within the AI chip space.",
-                        "pubDate": "2026-05-22T14:34:08Z",
-                        "displayTime": "",
+                        "id": "041c389b-a3cc-4b1d-a569-e04f433d3704",
+                        "contentType": "STORY",
+                        "title": "Chip stocks are hitting fresh records, but Nvidia isn't the driver",
+                        "description": "",
+                        "summary": "Chip stocks are back to hitting intraday record highs as investors rotate across the semiconductor complex.",
+                        "pubDate": "2026-05-22T19:07:38Z",
+                        "displayTime": "2026-05-22T19:07:38Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
-                            "originalWidth": 2628,
-                            "originalHeight": 1478,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/wAOyrw2ApViFTRQ2e1yjQQ--~B/aD0yMjAzO3c9MzE4MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/1fccd8d4-6db2-4caf-9a55-0cf0301ca0b0",
+                            "originalWidth": 3182,
+                            "originalHeight": 2203,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
-                                    "width": 2628,
-                                    "height": 1478,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/wAOyrw2ApViFTRQ2e1yjQQ--~B/aD0yMjAzO3c9MzE4MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/1fccd8d4-6db2-4caf-9a55-0cf0301ca0b0",
+                                    "width": 3182,
+                                    "height": 2203,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/cmMVdcdb1RJ1BUV0e49rpw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/56ZBGGrW1BLoVrS7PgMpkg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/1fccd8d4-6db2-4caf-9a55-0cf0301ca0b0",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3391,18 +3439,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Yahoo Finance Video",
-                            "url": "https://finance.yahoo.com/",
-                            "sourceId": "video.yahoofinance.com"
+                            "displayName": "Yahoo Finance",
+                            "url": "http://finance.yahoo.com/",
+                            "sourceId": "yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/nvidia-vs-amd-vs-intel-which-is-the-best-chip-stock-to-own-143408694.html",
+                            "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-hitting-fresh-records-but-nvidia-isnt-the-driver-190738738.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/nvidia-vs-amd-vs-intel-which-is-the-best-chip-stock-to-own-143408694.html",
+                            "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-hitting-fresh-records-but-nvidia-isnt-the-driver-190738738.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3418,6 +3466,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "3a2e0088-877a-425f-b721-ba9ab4f7c20a",
+                                        "contentType": "VIDEO",
+                                        "isHosted": true,
+                                        "title": "Nvidia vs. AMD vs. Intel: Which is the best chip stock to own?",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/H2nWOuyal1tTNJKaE7qvbw--~B/aD0xNDc4O3c9MjYyODthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1261a512-743d-40d2-96bb-9408499fa57b_7b294e259c7c93f556600e65965b1420d1d771b90aa12ed5925c268645f86ede.jpg",
+                                            "originalWidth": 2628,
+                                            "originalHeight": 1478,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance Video",
+                                            "sourceId": "video.yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/video/nvidia-vs-amd-vs-intel-which-is-the-best-chip-stock-to-own-143408694.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/video/nvidia-vs-amd-vs-intel-which-is-the-best-chip-stock-to-own-143408694.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "fb53ff98-d5e8-4001-82cd-4f1487ab84bb",
@@ -3444,65 +3519,38 @@
                                             "url": "https://finance.yahoo.com/video/are-there-any-warnings-to-glean-from-markets-new-record-highs-140357896.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "b1d2d6de-2686-400f-b321-e41124c53a07",
-                                        "contentType": "VIDEO",
-                                        "isHosted": true,
-                                        "title": "Why Nvidia's stock is mispriced, and Wall Street is underestimating its earnings power",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/3ygWrgT55hl5K.W5PTDx.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/832a1f55-ee72-4ce7-a572-e2782f689793/main/1280x720/29s781ms/match/image.jpg",
-                                            "originalWidth": 1280,
-                                            "originalHeight": 720,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance Video",
-                                            "sourceId": "video.yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "6e9c1006-cc77-4b20-82b9-44385c2109cf",
+                    "id": "b1d2d6de-2686-400f-b321-e41124c53a07",
                     "content": {
-                        "id": "6e9c1006-cc77-4b20-82b9-44385c2109cf",
+                        "id": "b1d2d6de-2686-400f-b321-e41124c53a07",
                         "contentType": "VIDEO",
-                        "title": "US stocks rebound, cybersecurity sector surges to record highs",
-                        "description": "<p>All three of the major indexes (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch\" data-i13n=\"slk:^DJI;cpos:1;pos:1\">^DJI</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:2;pos:1\">^IXIC</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:3;pos:1\">^GSPC</a>) rebounded on Thursday and ended the trading session in positive territory.</p>\n<p>Yahoo Finance Markets and Data Editor Jared Blikre assesses the day's market moves while also taking a closer look at the record rally driving cybersecurity stocks higher.</p>",
-                        "summary": "All three of the major indexes (^DJI, ^IXIC, ^GSPC) rebounded on Thursday and ended the trading session in positive territory. Yahoo Finance Markets and Data Editor Jared Blikre assesses the day's market moves while also taking a closer look at the record rally driving cybersecurity stocks higher.",
-                        "pubDate": "2026-05-21T20:09:17Z",
+                        "title": "Why Nvidia's stock is mispriced, and Wall Street is underestimating its earnings power",
+                        "description": "<p>The big guys on Wall Street have always had the advantage in the market. Until now.  Meet AlphaSpace. Advanced charting, real-time fundamental analysis, portfolio tracking, and premium news that changes EVERYTHING for the everyday investor.</p>",
+                        "summary": "The big guys on Wall Street have always had the advantage in the market. Until now.&nbsp; Meet AlphaSpace. Advanced charting, real-time fundamental analysis, portfolio tracking, and premium news that changes EVERYTHING for the everyday investor.",
+                        "pubDate": "2026-05-21T20:36:09Z",
                         "displayTime": "",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dX_aizpVZjG7TRF0_m4Gvw--~B/aD0zODg2O3c9NjkwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/33f024c0-c053-11f0-b1db-7e50a318e899_368cd54bbdee7279a8502945db284a513b52f620018da44f57c9e2d70651e227.jpg",
-                            "originalWidth": 6909,
-                            "originalHeight": 3886,
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/3ygWrgT55hl5K.W5PTDx.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/832a1f55-ee72-4ce7-a572-e2782f689793/main/1280x720/29s781ms/match/image.jpg",
+                            "originalWidth": 1280,
+                            "originalHeight": 720,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/dX_aizpVZjG7TRF0_m4Gvw--~B/aD0zODg2O3c9NjkwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/33f024c0-c053-11f0-b1db-7e50a318e899_368cd54bbdee7279a8502945db284a513b52f620018da44f57c9e2d70651e227.jpg",
-                                    "width": 6909,
-                                    "height": 3886,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3ygWrgT55hl5K.W5PTDx.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/832a1f55-ee72-4ce7-a572-e2782f689793/main/1280x720/29s781ms/match/image.jpg",
+                                    "width": 1280,
+                                    "height": 720,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/sZW4MF7ktibqVnMPLa0fHA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/33f024c0-c053-11f0-b1db-7e50a318e899_368cd54bbdee7279a8502945db284a513b52f620018da44f57c9e2d70651e227.jpg",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/mzTeErxnk.3LBbbyIHBDYw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/832a1f55-ee72-4ce7-a572-e2782f689793/main/1280x720/29s781ms/match/image.jpg",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3515,13 +3563,13 @@
                             "sourceId": "video.yahoofinance.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/video/us-stocks-rebound-cybersecurity-sector-surges-to-record-highs-200917094.html",
+                            "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/video/us-stocks-rebound-cybersecurity-sector-surges-to-record-highs-200917094.html",
+                            "url": "https://finance.yahoo.com/video/why-nvidias-stock-mispriced-wall-203609805.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3537,6 +3585,33 @@
                         },
                         "storyline": {
                             "storylineItems": [
+                                {
+                                    "content": {
+                                        "id": "6e9c1006-cc77-4b20-82b9-44385c2109cf",
+                                        "contentType": "VIDEO",
+                                        "isHosted": true,
+                                        "title": "US stocks rebound, cybersecurity sector surges to record highs",
+                                        "thumbnail": {
+                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/dX_aizpVZjG7TRF0_m4Gvw--~B/aD0zODg2O3c9NjkwOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/33f024c0-c053-11f0-b1db-7e50a318e899_368cd54bbdee7279a8502945db284a513b52f620018da44f57c9e2d70651e227.jpg",
+                                            "originalWidth": 6909,
+                                            "originalHeight": 3886,
+                                            "caption": "",
+                                            "resolutions": null
+                                        },
+                                        "provider": {
+                                            "displayName": "Yahoo Finance Video",
+                                            "sourceId": "video.yahoofinance.com"
+                                        },
+                                        "previewUrl": null,
+                                        "providerContentUrl": "",
+                                        "canonicalUrl": {
+                                            "url": "https://finance.yahoo.com/video/us-stocks-rebound-cybersecurity-sector-surges-to-record-highs-200917094.html"
+                                        },
+                                        "clickThroughUrl": {
+                                            "url": "https://finance.yahoo.com/video/us-stocks-rebound-cybersecurity-sector-surges-to-record-highs-200917094.html"
+                                        }
+                                    }
+                                },
                                 {
                                     "content": {
                                         "id": "828a3516-7606-44b7-b900-0593bb2b8ed4",
@@ -3563,65 +3638,162 @@
                                             "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-clinches-record-high-sp-500-and-nasdaq-rise-as-stocks-rebound-on-us-iran-peace-hopes-232311117.html"
                                         }
                                     }
-                                },
-                                {
-                                    "content": {
-                                        "id": "9109d22e-3e8c-4284-ac8d-19e18001b4cb",
-                                        "contentType": "VIDEO",
-                                        "isHosted": true,
-                                        "title": "Are investors more concerned with Iran than Nvidia's Q1 earnings?",
-                                        "thumbnail": {
-                                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/WxyNjZomuVB.B6f4HImYTQ--~B/aD0yNDE0O3c9NDI5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a851f194-ad20-4cc0-8961-1e3046627968_f686c887bd48ae8bc6ca2fdb07597384ddd0d680f4ee350cceb7c6f6e635b1d1.jpg",
-                                            "originalWidth": 4292,
-                                            "originalHeight": 2414,
-                                            "caption": "",
-                                            "resolutions": null
-                                        },
-                                        "provider": {
-                                            "displayName": "Yahoo Finance Video",
-                                            "sourceId": "video.yahoofinance.com"
-                                        },
-                                        "previewUrl": null,
-                                        "providerContentUrl": "",
-                                        "canonicalUrl": {
-                                            "url": "https://finance.yahoo.com/video/are-investors-more-concerned-with-iran-than-nvidias-q1-earnings-193135672.html"
-                                        },
-                                        "clickThroughUrl": {
-                                            "url": "https://finance.yahoo.com/video/are-investors-more-concerned-with-iran-than-nvidias-q1-earnings-193135672.html"
-                                        }
-                                    }
                                 }
                             ]
                         }
                     }
                 },
                 {
-                    "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
+                    "id": "9109d22e-3e8c-4284-ac8d-19e18001b4cb",
                     "content": {
-                        "id": "6116d633-dbd1-31c2-b5ec-b760a7ac44fc",
-                        "contentType": "STORY",
-                        "title": "Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
-                        "description": "",
-                        "summary": "Retirees evaluating dividend funds tend to anchor on current yield, which is exactly why Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) often gets overlooked. The fund pays a distribution yield of roughly 1.6%, which looks unimpressive next to higher-yielding alternatives. Morningstar analysts have repeatedly flagged VIG as a quiet winner for retirees precisely because of that misread. ... Vanguard’s VIG Quietly Returned 247% While Investors Chased Higher Yields",
-                        "pubDate": "2026-05-22T16:14:32Z",
-                        "displayTime": "2026-05-22T16:14:32Z",
+                        "id": "9109d22e-3e8c-4284-ac8d-19e18001b4cb",
+                        "contentType": "VIDEO",
+                        "title": "Are investors more concerned with Iran than Nvidia's Q1 earnings?",
+                        "description": "<p>US stocks (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EDJI?p=%5EDJI&.tsrc=fin-srch\" data-i13n=\"slk:^DJI;cpos:1;pos:1\">^DJI</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EIXIC?p=%5EIXIC&.tsrc=fin-srch\" data-i13n=\"slk:^IXIC;cpos:2;pos:1\">^IXIC</a>, <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/%5EGSPC?p=%5EGSPC&.tsrc=fin-srch\" data-i13n=\"slk:^GSPC;cpos:3;pos:1\">^GSPC</a>) — namely the Dow Jones Industrial Average — are gaining back some ground ahead of Thursday's close as investors continue to digest Nvidia's (<a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" data-i13n=\"slk:NVDA;cpos:4;pos:1\">NVDA</a>) first quarter earnings. The AI chip stock's movement has largely been muted despite the company boasting record quarterly revenue ($81.62 billion).</p>\n<p>Gradient Investments senior portfolio manager Keith Gangl weighs in on how investors are viewing Nvidia's results through the broader lens of geopolitical pressures stemming from the US-Iran war.</p>\n<p>Catch up on the top moments from <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/video/nvidia-is-still-not-including-china-in-its-revenue-outlook-232731030.html\" data-i13n=\"slk:Nvidia's earnings call;cpos:5;pos:1\">Nvidia's earnings call</a>, as well as what Nvidia CFO Colette Kress <a target=\"_blank\" rel=\"\" class=\"link\" href=\"https://finance.yahoo.com/video/nvidia-cfo-on-blackwells--vera-rubins-trillion-dollar-future-132512235.html\" data-i13n=\"slk:told Yahoo Finance;cpos:6;pos:1\">told Yahoo Finance</a> about the company's CPU sales forecasts.</p>\n<p></p>",
+                        "summary": "US stocks (^DJI, ^IXIC, ^GSPC) — namely the Dow Jones Industrial Average — are gaining back some ground ahead of Thursday's close as investors continue to digest Nvidia's (NVDA) first quarter earnings. The AI chip stock's movement has largely been muted despite the company boasting record quarterly revenue ($81.62 billion). Gradient Investments senior portfolio manager Keith Gangl weighs in on how investors are viewing Nvidia's results through the broader lens of geopolitical pressures stemming from the US-Iran war. Catch up on the top moments from Nvidia's earnings call, as well as what Nvidia CFO Colette Kress told Yahoo Finance about the company's CPU sales forecasts.",
+                        "pubDate": "2026-05-21T19:31:35Z",
+                        "displayTime": "",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/WxyNjZomuVB.B6f4HImYTQ--~B/aD0yNDE0O3c9NDI5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a851f194-ad20-4cc0-8961-1e3046627968_f686c887bd48ae8bc6ca2fdb07597384ddd0d680f4ee350cceb7c6f6e635b1d1.jpg",
+                            "originalWidth": 4292,
+                            "originalHeight": 2414,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WxyNjZomuVB.B6f4HImYTQ--~B/aD0yNDE0O3c9NDI5MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a851f194-ad20-4cc0-8961-1e3046627968_f686c887bd48ae8bc6ca2fdb07597384ddd0d680f4ee350cceb7c6f6e635b1d1.jpg",
+                                    "width": 4292,
+                                    "height": 2414,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PfSre9BkpgbtL0SH4TPG2g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a851f194-ad20-4cc0-8961-1e3046627968_f686c887bd48ae8bc6ca2fdb07597384ddd0d680f4ee350cceb7c6f6e635b1d1.jpg",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Yahoo Finance Video",
+                            "url": "https://finance.yahoo.com/",
+                            "sourceId": "video.yahoofinance.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/video/are-investors-more-concerned-with-iran-than-nvidias-q1-earnings-193135672.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/video/are-investors-more-concerned-with-iran-than-nvidias-q1-earnings-193135672.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
+                    "content": {
+                        "id": "f91991b5-2ca8-36c3-b822-5ac9a56c7023",
+                        "contentType": "STORY",
+                        "title": "The 1 Chart Every AI Investor Needs to See Before Buying Anything Right Now",
+                        "description": "",
+                        "summary": "At first glance, this information may look more like a reason not to invest in these companies.",
+                        "pubDate": "2026-05-22T19:05:00Z",
+                        "displayTime": "2026-05-22T19:05:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "Person analyzes paper document.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WEWpTzg_sah.mno.6ntTDw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/CFkxOoC.XzenGjKXRVK1KQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/540941a3db57adf17a19d7bd19197147",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/22/chart-every-ai-investor-needs-see-before-buy/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-chart-every-ai-investor-190500080.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "2f499f4a-c406-39c0-b36a-2ad66f8c21b8",
+                    "content": {
+                        "id": "2f499f4a-c406-39c0-b36a-2ad66f8c21b8",
+                        "contentType": "STORY",
+                        "title": "CWB’s 19% YTD Return Shows How Convertible Bonds Bridge Stock Gains and Income Floor",
+                        "description": "",
+                        "summary": "Convertible bonds sit in an odd corner of capital markets: corporate debt with an embedded equity option, paying coupon income while carrying upside tied to the issuer’s stock. The SPDR Bloomberg Convertible Securities ETF (NYSEARCA:CWB) is the largest fund built around that hybrid, with roughly $5 billion in assets and a 0.40% expense ratio. CWB ... CWB’s 19% YTD Return Shows How Convertible Bonds Bridge Stock Gains and Income Floor",
+                        "pubDate": "2026-05-22T18:59:55Z",
+                        "displayTime": "2026-05-22T18:59:55Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/3784f9ac4f7878f6e2bfdfab7a8e650c",
                             "originalWidth": 1500,
-                            "originalHeight": 1001,
+                            "originalHeight": 1000,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/k5oTcgIMFrpWQsjbpZrBSg--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/c6diIrS_c4p2P6CcBMixVA--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/3784f9ac4f7878f6e2bfdfab7a8e650c",
                                     "width": 1500,
-                                    "height": 1001,
+                                    "height": 1000,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1o42YHkYM5p3EALR58.eqg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/5379788e64fddb843e7bb5a3e425ff8e",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/AytLSYUV0nsEslcyHKDTow--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/3784f9ac4f7878f6e2bfdfab7a8e650c",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3634,137 +3806,13 @@
                             "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/vanguards-vig-quietly-returned-247-while-investors-chased-higher-yields/",
+                            "url": "https://247wallst.com/investing/2026/05/22/cwbs-19-ytd-return-shows-how-convertible-bonds-bridge-stock-gains-and-income-floor/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-vig-quietly-returned-247-161432865.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "8374644c-892d-3159-891f-5fd9270a5e4d",
-                    "content": {
-                        "id": "8374644c-892d-3159-891f-5fd9270a5e4d",
-                        "contentType": "STORY",
-                        "title": "QUBT Rallies With the Rest of Quantum Computing, but Don’t Buy the Hype",
-                        "description": "",
-                        "summary": "Quantum computing stocks are flying again, lifted by a wave of policy enthusiasm after reports that the Trump administration is taking stakes in select quantum names. Quantum Computing (NASDAQ:QUBT) has joined the parade, jumping 19.35% on May 21 and another 15.64% intraday on May 22 to $13.20. The problem: QUBT was not one of the ... QUBT Rallies With the Rest of Quantum Computing, but Don’t Buy the Hype",
-                        "pubDate": "2026-05-22T16:04:12Z",
-                        "displayTime": "2026-05-22T16:04:12Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/aafd7a0590b5e50644751d73a258157b",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/eli79t6K47dpoXTiAhWynQ--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/aafd7a0590b5e50644751d73a258157b",
-                                    "width": 1920,
-                                    "height": 1080,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/IL1tgQeIn3JOfndLtC2bEg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/aafd7a0590b5e50644751d73a258157b",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/qubt-rallies-with-the-rest-of-quantum-computing-but-dont-buy-the-hype/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/qubt-rallies-rest-quantum-computing-160412637.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "19013fef-c15f-3300-a1ef-7a9a592630e2",
-                    "content": {
-                        "id": "19013fef-c15f-3300-a1ef-7a9a592630e2",
-                        "contentType": "STORY",
-                        "title": "The AI Data Center Buildout Is Accelerating, and Nuclear Could Be the Most Underowned Piece of the Puzzle",
-                        "description": "",
-                        "summary": "The data center buildout doesn’t seem like it’s about to slow down. As more firms look to step up and supply AI compute, some of which (unlike the cash-rich hyperscalers) are risking their shirts by going into debt, it feels like timing the peak in the AI boom or the beginning of an AI bubble ... The AI Data Center Buildout Is Accelerating, and Nuclear Could Be the Most Underowned Piece of the Puzzle",
-                        "pubDate": "2026-05-22T16:01:15Z",
-                        "displayTime": "2026-05-22T16:01:15Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
-                            "originalWidth": 1366,
-                            "originalHeight": 768,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/8p6CFAPtwkxv03joeuGvPg--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
-                                    "width": 1366,
-                                    "height": 768,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/6Q5MO2ZMZVmdu8iGzv28Hw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/832f5b46dcb85c9be79a0843adaa32bd",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/22/the-ai-data-center-buildout-is-accelerating-and-nuclear-could-be-the-most-underowned-piece-of-the-puzzle/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/energy/articles/ai-data-center-buildout-accelerating-160115680.html",
+                            "url": "https://finance.yahoo.com/markets/options/articles/cwb-19-ytd-return-shows-185955402.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3785,13 +3833,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-22T16:26:50.025952",
-            "price": 2117.030029296875,
-            "change": -14.67919921875,
+            "timestamp": "2026-05-22T19:21:35.346464",
+            "price": 2089.97998046875,
+            "change": -41.729248046875,
             "open": 2131.709228515625,
             "high": 2138.39794921875,
-            "low": 2113.005859375,
-            "volume": 11625151488,
+            "low": 2085.89892578125,
+            "volume": 11284643840,
             "news": [
                 {
                     "id": "99f6229c-1ba1-41d1-94a3-911e98152fc9",
@@ -3845,6 +3893,125 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "11c1beae-6a40-3eaa-b094-198c1df526f2",
+                    "content": {
+                        "id": "11c1beae-6a40-3eaa-b094-198c1df526f2",
+                        "contentType": "STORY",
+                        "title": "Coinbase and Other Crypto Stocks Are Falling. Several Possible Reasons for the Bad Day.",
+                        "description": "",
+                        "summary": "What looked like it would be a decent end to the week for crypto stocks turned sour Friday.  The price of  Bitcoin  fell by 0.9% over the past 24 hours, and  Ethereum  slipped by 0.5%.  The stocks began Friday trading about flat before tumbling in a half-hour span beginning around 10 a.m. Eastern Time.",
+                        "pubDate": "2026-05-22T17:55:00Z",
+                        "displayTime": "2026-05-22T17:55:00Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/11c1beae-6a40-3eaa-b094-198c1df526f2/coinbase-and-other-crypto.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/7cb39839efb59f668e9501b498b85cd2",
+                            "originalWidth": 1280,
+                            "originalHeight": 640,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/FKxMx0ak2HjoQGNmSpXWIw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/7cb39839efb59f668e9501b498b85cd2",
+                                    "width": 1280,
+                                    "height": 640,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/s6.Ck5.0uTLaMAyHVvJOXg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/7cb39839efb59f668e9501b498b85cd2",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Barrons.com",
+                            "url": "http://www.barrons.com/",
+                            "sourceId": "Barrons.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.barrons.com/articles/bitcoin-coinbase-strategy-crypto-stocks-0fd965de?siteid=yhoof2&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "9ff6d281-7e57-3850-bb75-3a9758885edc",
+                    "content": {
+                        "id": "9ff6d281-7e57-3850-bb75-3a9758885edc",
+                        "contentType": "STORY",
+                        "title": "Crypto and Blockchain Stocks Positioned for Long-Term Growth",
+                        "description": "",
+                        "summary": "Here, we discuss three stocks, V, CME and COIN, which are well-poised to benefit from the growing proliferation of bitcoin and other cryptocurrencies, as well as blockchain technology.",
+                        "pubDate": "2026-05-22T16:40:00Z",
+                        "displayTime": "2026-05-22T16:40:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/zacks.com/e5f9d2b872b2ac4441233f1027405853",
+                            "originalWidth": 635,
+                            "originalHeight": 400,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PYpp8QhVP9jJ9GKZ1Cqvmw--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e5f9d2b872b2ac4441233f1027405853",
+                                    "width": 635,
+                                    "height": 400,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/WlWYpVrqiIVkaWa6cTnzBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/e5f9d2b872b2ac4441233f1027405853",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Zacks",
+                            "url": "http://www.zacks.com/",
+                            "sourceId": "zacks.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-blockchain-stocks-positioned-long-164000508.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-blockchain-stocks-positioned-long-164000508.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3978,130 +4145,6 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "bc6b5df2-1f60-3ce5-b897-58f9acd9bf08",
-                    "content": {
-                        "id": "bc6b5df2-1f60-3ce5-b897-58f9acd9bf08",
-                        "contentType": "STORY",
-                        "title": "Ethereum Price Drop Coming? Sentiment Flips With ‘Nonstop Bearish’ Narratives",
-                        "description": "",
-                        "summary": "AKS Ethereum sentiment has deteriorated sharply amid price weakness. Bearish pressure intensified after Bankless founders Ryan Sean Adams and David Hoffman disclosed they had sold ...",
-                        "pubDate": "2026-05-22T13:17:15Z",
-                        "displayTime": "2026-05-22T13:17:15Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ccn_928/4b4c0cf8e8bf52be3fc6802c86160bfc",
-                            "originalWidth": 1536,
-                            "originalHeight": 864,
-                            "caption": "Ethereum sentiment is deteriorating — but why? | Source: CCN.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/98gDnnZ4D35gPlocSadeGg--~B/aD04NjQ7dz0xNTM2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ccn_928/4b4c0cf8e8bf52be3fc6802c86160bfc",
-                                    "width": 1536,
-                                    "height": 864,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1FVXdOjuuvNMId8gr276Kg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ccn_928/4b4c0cf8e8bf52be3fc6802c86160bfc",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "CCN",
-                            "url": "https://www.ccn.com/",
-                            "sourceId": "ccn_928"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.ccn.com/news/crypto/ethereum-price-sentiment-flips-nonstop-bearish-narratives/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-drop-coming-sentiment-131715051.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "359c0982-44b2-3f9a-a119-7b74b7411432",
-                    "content": {
-                        "id": "359c0982-44b2-3f9a-a119-7b74b7411432",
-                        "contentType": "STORY",
-                        "title": "XRP News: Copper Adds RLUSD as Ripple ETF Inflows Hit $8M+",
-                        "description": "",
-                        "summary": "On May 22, 2010, a programmer named Laszlo Hanyecz traded 10,000 BTC for two pizzas worth roughly $41. Today, those same coins are valued at approximately $773M, as Bitcoin Pizza Day marks its 16th anniversary. The question this anniversary raises isn’t whether Laszlo made a mistake. The real question is ...",
-                        "pubDate": "2026-05-22T11:21:03Z",
-                        "displayTime": "2026-05-22T11:21:03Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/99bitcoins_us_315/3a436815a1a8ec6a6a60c46e43a4c80d",
-                            "originalWidth": 1024,
-                            "originalHeight": 572,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/wFfYqhxsDzfQd_09n10IAg--~B/aD01NzI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/99bitcoins_us_315/3a436815a1a8ec6a6a60c46e43a4c80d",
-                                    "width": 1024,
-                                    "height": 572,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/u74nWxMaaosWVGjS8iO7Nw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/99bitcoins_us_315/3a436815a1a8ec6a6a60c46e43a4c80d",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "99bitcoins",
-                            "url": "https://99bitcoins.com/",
-                            "sourceId": "99bitcoins_us_315"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://99bitcoins.com/news/altcoins/xrp-news-etf-inflows-copper-rlusd-institutional/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-news-copper-adds-rlusd-112103747.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         }
@@ -4110,7 +4153,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.602941",
+            "collected_at": "2026-05-22T19:21:35.735948",
             "title": "US stocks rebound, cybersecurity sector surges to record highs",
             "summary": "All three of the major indexes (^DJI, ^IXIC, ^GSPC) rebounded on Thursday and ended the trading session in positive territory. Yahoo Finance Markets and Data Editor Jared Blikre assesses the day's market moves while also taking a closer look at the record rally driving cybersecurity stocks higher.",
             "published": "2026-05-21T20:09:17Z",
@@ -4119,7 +4162,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.602957",
+            "collected_at": "2026-05-22T19:21:35.735962",
             "title": "Stock market today: Dow clinches record high, S&P 500 and Nasdaq rise as stocks rebound on US-Iran peace hopes",
             "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
             "published": "2026-05-20T23:23:11Z",
@@ -4128,16 +4171,16 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.602959",
-            "title": "Stocks gain, oil higher as investors weigh Mideast peace prospects",
-            "summary": "Stocks pushed higher Friday while oil prices rose as traders tracked headlines on the chances for peace in the Middle East, against a backdrop of corporate earnings optimism and AI enthusiasm that have pushed indexes to record highs.Wall Street moved broadly higher after the Dow Jones reached an all-time high Thursday, despite concerns that soaring energy prices will stoke inflation and lead central banks to hike interest rates.",
-            "published": "2026-05-22T16:00:28Z",
-            "provider": "AFP"
+            "collected_at": "2026-05-22T19:21:35.735964",
+            "title": "Ford Surges 8%, Easily Outpaces General Motors and Stellantis: The Detroit Comeback Has a Clear Leader",
+            "summary": "Shares of Ford Motor Company (NYSE:F) are up 8% in midday trading on Friday, decisively outstripping Detroit peers General Motors (NYSE:GM), up 2%, and Stellantis (NYSE:STLA), up 1%. The Dow Jones Industrial Average is participating in the move, gaining 1%, but Ford stock is doing the heavy lifting in the automotive cohort. The bigger reveal ... Ford Surges 8%, Easily Outpaces General Motors and Stellantis: The Detroit Comeback Has a Clear Leader",
+            "published": "2026-05-22T18:45:49Z",
+            "provider": "24/7 Wall St."
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.723456",
+            "collected_at": "2026-05-22T19:21:35.875475",
             "title": "Are there any warnings to glean from market's new record highs?",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) tick higher at Friday's session open after bond yields (^TYX, ^TNX, ^FVX) surged this week, signaling renewed inflation worries amid market highs. Portfolio Wealth Advisors president and CIO Lee Munson and Yahoo Finance Markets and Data Editor Jared Blikre examine the growth and possible warning signs within the market.",
             "published": "2026-05-22T14:03:57Z",
@@ -4146,7 +4189,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.723474",
+            "collected_at": "2026-05-22T19:21:35.875489",
             "title": "Are investors more concerned with Iran than Nvidia's Q1 earnings?",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) — namely the Dow Jones Industrial Average — are gaining back some ground ahead of Thursday's close as investors continue to digest Nvidia's (NVDA) first quarter earnings. The AI chip stock's movement has largely been muted despite the company boasting record quarterly revenue ($81.62 billion). Gradient Investments senior portfolio manager Keith Gangl weighs in on how investors are viewing Nvidia's results through the broader lens of geopolitical pressures stemming from the US-Iran war. Catch up on the top moments from Nvidia's earnings call, as well as what Nvidia CFO Colette Kress told Yahoo Finance about the company's CPU sales forecasts.",
             "published": "2026-05-21T19:31:35Z",
@@ -4155,7 +4198,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:50.929407",
+            "collected_at": "2026-05-22T19:21:36.016128",
             "title": "Maybe investors can wait to buy SpaceX after IPO: Lee Munson",
             "summary": "Elon Musk's private space operator, SpaceX (SPAX.PVT), released its S-1 filing this week as it plans to go public via IPO in June. The Wall Street Journal has reported that AI developer OpenAI (OPAI.PVT) is preparing to file for its own mega-IPO. As investors anticipate this mega-IPO, should they be equally cautious as they are bullish on these companies ? Portfolio Wealth Advisors president and CIO Lee Munson, Yahoo Finance Markets and Data Editor Jared Blikre, and Senior Business Reporter Ines Ferré weigh in on the wave of upcoming IPOs.",
             "published": "2026-05-22T15:00:00Z",
@@ -4164,7 +4207,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.070345",
+            "collected_at": "2026-05-22T19:21:36.157811",
             "title": "Gold prices today, Friday, May 22: Gold hangs around $4,500, as it has all week",
             "summary": "Gold June futures opened at $4,544.20 per troy ounce on Friday, May 22, 2026, flat compared to Thursday’s closing price. The gold price moved even lower in early trading. At 6:45 a.m. ET, the price of gold was down to $4,520.30.",
             "published": "2026-05-22T11:01:25Z",
@@ -4173,25 +4216,25 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.070360",
-            "title": "Assessing Caledonia Mining (NYSEAM:CMCL) Valuation After Recent Share Price Weakness And Long Term Returns",
-            "summary": "Without a fresh headline event to focus on, Caledonia Mining (CMCL) still offers investors plenty to review, from its US$261.542 million in revenue to recent share price moves and long term total returns. See our latest analysis for Caledonia Mining. At a share price of US$23.09, Caledonia Mining has seen its share price fall over the past quarter, even though the 1 year total shareholder return of 42.9% and 3 year total shareholder return of 103.29% point to a much stronger longer term...",
-            "published": "2026-05-22T15:14:11Z",
-            "provider": "Simply Wall St."
+            "collected_at": "2026-05-22T19:21:36.157823",
+            "title": "Aluminum Supply Shocks Are Changing The Game For Alcoa",
+            "summary": "Aluminum usually doesn’t get the spotlight like gold or copper, but right now the market is unusually tight. A mix of Middle East supply disruptions, shipping issues, and U.S. tariffs has pushed prices higher and given Alcoa (NYSE:AA) a massive boost. The stock is up nearly 134% over the past year and is now trading close to its highs around $70.",
+            "published": "2026-05-22T18:02:58Z",
+            "provider": "Trefis"
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.070363",
-            "title": "McEwen Mining (MUX) Valuation Check After New San José Dividend And Project Growth Updates",
-            "summary": "McEwen (NYSE:MUX) has received a US$49.4 million dividend from the San José mine in Argentina, a cash inflow that lifts total 2026 dividends to US$58.2 million and supports its current growth plans. See our latest analysis for McEwen. Despite the fresh US$49.4 million dividend inflow and progress at projects like Los Azules, McEwen’s share price has slipped recently, with the 7 day share price return down 14.08% and the 90 day share price return down 18.54%, while the 1 year total shareholder...",
-            "published": "2026-05-22T15:14:04Z",
-            "provider": "Simply Wall St."
+            "collected_at": "2026-05-22T19:21:36.157826",
+            "title": "Update: Gold Edges Lower as the Dollar Steadies",
+            "summary": "(Updates prices.) Gold prices eased midafternoon Friday, remaining rangebound as the dollar stead",
+            "published": "2026-05-22T18:00:09Z",
+            "provider": "MT Newswires"
         },
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.197155",
+            "collected_at": "2026-05-22T19:21:36.385065",
             "title": "Consumer sentiment sinks to new record low 44.8 in May",
             "summary": "Consumer sentiment fell to 44.8 in May, as reported by the University of Michigan, sinking further from April's reading of 49.8. Market Catalysts Host Julie Hyman breaks down the data.",
             "published": "2026-05-22T14:31:42Z",
@@ -4200,7 +4243,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.197170",
+            "collected_at": "2026-05-22T19:21:36.385078",
             "title": "Oil prices are hard-pressing consumers at bottom of K-shaped economy",
             "summary": "Walmart (WMT) came out with first quarter results that were in line with earnings and revenue estimates, with executives citing headwinds tied to consumers under additional price stresses. Gradient Investments senior portfolio manager Keith Gangl discusses the impact that higher gas prices (RB=F) are having on consumer sentiment and Walmart's customer base. Catch Yahoo Finance's interview with Walmart CFO John David Rainey.",
             "published": "2026-05-22T10:00:00Z",
@@ -4209,45 +4252,54 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-22T16:26:51.197173",
-            "title": "Oil prices fall after Iranian news agency says US and Iran may be 'hours' from announcing deal",
-            "summary": "Oil prices spiked on Thursday after Iran's supreme leader said the regime's stores of enriched uranium cannot leave the country.",
-            "published": "2026-05-21T14:14:52Z",
-            "provider": "Yahoo Finance"
+            "collected_at": "2026-05-22T19:21:36.385080",
+            "title": "Q2 2026 Earnings Season Is Almost Over -- 3 Takeaways Investors Need To Know",
+            "summary": "Stocks are at all-time highs as earnings season comes to a close.",
+            "published": "2026-05-22T19:08:35Z",
+            "provider": "Motley Fool"
         }
     ],
     "investment_news": [
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.310432",
-            "title": "Joe Saladino: “Touch Your Portfolio Just Once a Year. That’s It.”",
-            "summary": "The instinct to do something when markets convulse is almost universal, and almost always expensive. That tension was on full display in April 2026, when tariff announcements rattled global markets and brokerage inboxes lit up with panicked questions. Joe Saladino, speaking on Paula Pant’s Afford Anything podcast, offered a counterintuitive prescription: pick a date on ... Joe Saladino: “Touch Your Portfolio Just Once a Year. That’s It.”",
-            "published": "2026-05-22T15:32:29Z",
+            "collected_at": "2026-05-22T19:21:36.509668",
+            "title": "CWB’s 19% YTD Return Shows How Convertible Bonds Bridge Stock Gains and Income Floor",
+            "summary": "Convertible bonds sit in an odd corner of capital markets: corporate debt with an embedded equity option, paying coupon income while carrying upside tied to the issuer’s stock. The SPDR Bloomberg Convertible Securities ETF (NYSEARCA:CWB) is the largest fund built around that hybrid, with roughly $5 billion in assets and a 0.40% expense ratio. CWB ... CWB’s 19% YTD Return Shows How Convertible Bonds Bridge Stock Gains and Income Floor",
+            "published": "2026-05-22T18:59:55Z",
             "provider": "24/7 Wall St."
         },
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.310447",
-            "title": "Vanguard S&P 500 ETF Offers Lower Fees Than SPDR Rival",
-            "summary": "Compare how these two S&P 500 giants stack up on long-term returns, dividend yields, and fund size beyond their headline expense ratios.",
-            "published": "2026-05-22T15:21:32Z",
-            "provider": "Motley Fool"
+            "collected_at": "2026-05-22T19:21:36.509681",
+            "title": "Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+            "summary": "CNBC’s Dominic Chu opened Friday’s market coverage by noting that “the stocks are looking like they may open higher today, rounding out what could be the eighth straight winning week for the S&P 500.” That kind of streak does not happen by accident, and inside the Trump bull market it has become the defining rhythm: ... Dominic Chu: The Trump Bull Market’s AI Rally Is Powering the S&P 500 Toward an 8th Straight Winning Week",
+            "published": "2026-05-22T18:45:23Z",
+            "provider": "24/7 Wall St."
         },
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.310449",
-            "title": "Boring Beats Brilliant: How a Utilities ETF Has Quietly Trounced the S&P 500 in Every Recession This Century",
-            "summary": "Utility stocks have been in the market limelight recently, and a big reason comes down to rising electricity demand from the artificial intelligence (AI) build-out. Data centers consume an enormous amount of power, and as hyperscalers race to expand infrastructure, investors have started piling into utility companies expected to benefit from rising electricity demand, transmission ... Boring Beats Brilliant: How a Utilities ETF Has Quietly Trounced the S&P 500 in Every Recession This Century",
-            "published": "2026-05-22T15:20:25Z",
+            "collected_at": "2026-05-22T19:21:36.509683",
+            "title": "Hassett Backs Incoming Fed Chair Warsh’s Focus on Monetary Policy, Downplays Inflation Risks From Oil Shock",
+            "summary": "Kevin Hassett, director of the White House National Economic Council, used a CNBC Squawk Box appearance on May 22, 2026 to give Kevin Warsh an unusually full-throated endorsement before Warsh has even taken the Fed Chair seat. Warsh wants to drag the Fed back to monetary policy and away from everything else, and the White ... Hassett Backs Incoming Fed Chair Warsh’s Focus on Monetary Policy, Downplays Inflation Risks From Oil Shock",
+            "published": "2026-05-22T18:26:20Z",
             "provider": "24/7 Wall St."
         },
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.429372",
+            "collected_at": "2026-05-22T19:21:36.635089",
+            "title": "Exchange-Traded Funds Rise as US Equities Advance After Midday",
+            "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV edged higher. Actively tra",
+            "published": "2026-05-22T17:10:32Z",
+            "provider": "MT Newswires"
+        },
+        {
+            "source_ticker": "QQQ",
+            "category": "investment",
+            "collected_at": "2026-05-22T19:21:36.635101",
             "title": "Is the VanEck Semiconductor ETF the Right ETF to Own as We Head Into June?",
             "summary": "Semiconductors have been the hottest sector in the market for three years. The rally doesn't look like it's over yet.",
             "published": "2026-05-22T14:05:00Z",
@@ -4256,25 +4308,16 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.429388",
+            "collected_at": "2026-05-22T19:21:36.635104",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Buoyed by Robust Corporate Earnings Season",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
             "published": "2026-05-22T13:10:38Z",
             "provider": "MT Newswires"
         },
         {
-            "source_ticker": "QQQ",
-            "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.429391",
-            "title": "Zacks Investment Ideas feature highlights: NVIDIA, QQQ, Micron, SanDisk, Cipher Mining and USO",
-            "summary": "QQQ surged about 30% since late March as bulls stay in control, but macro risks, election seasonality and oil keep headwinds in focus.",
-            "published": "2026-05-22T13:09:00Z",
-            "provider": "Zacks"
-        },
-        {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.574098",
+            "collected_at": "2026-05-22T19:21:36.770650",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4283,7 +4326,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.574114",
+            "collected_at": "2026-05-22T19:21:36.770662",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4292,7 +4335,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.574117",
+            "collected_at": "2026-05-22T19:21:36.770664",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4301,7 +4344,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.681593",
+            "collected_at": "2026-05-22T19:21:36.905197",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4310,7 +4353,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.681609",
+            "collected_at": "2026-05-22T19:21:36.905209",
             "title": "Cathie Wood Joins the Cerebras Bandwagon With More Than 100,000 Shares. Wait for It to Deliver Before You Buy In, Too.",
             "summary": "Wood just added Cerebras, the latest hot AI name, to two of her Ark Invest funds.",
             "published": "2026-05-20T13:15:01Z",
@@ -4319,7 +4362,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.681612",
+            "collected_at": "2026-05-22T19:21:36.905211",
             "title": "Cathie Wood Just Bet $46 Million on a Newly Public AI Chip Stock. Should You Follow Her?",
             "summary": "The wafer-scale chip company has soared since its blockbuster Nasdaq debut last week.",
             "published": "2026-05-20T02:31:00Z",
@@ -4328,20 +4371,20 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.834011",
-            "title": "Gold Edges Lower as USD and Treasury Yields Steady",
-            "summary": "Gold prices eased early Friday, remaining rangebound as the dollar and yields steady. Gold for J",
-            "published": "2026-05-22T13:04:47Z",
+            "collected_at": "2026-05-22T19:21:37.033348",
+            "title": "Update: Gold Edges Lower as the Dollar Steadies",
+            "summary": "(Updates prices.) Gold prices eased midafternoon Friday, remaining rangebound as the dollar stead",
+            "published": "2026-05-22T18:00:09Z",
             "provider": "MT Newswires"
         },
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-22T16:26:51.834014",
-            "title": "Dollar Holds Firm Amid Iran Deal Uncertainty: ETFs to Win/ Lose",
-            "summary": "The dollar hit a six-week high amid Iran deal uncertainty. ETFs tied to the dollar may gain, while gold and emerging markets could struggle.",
-            "published": "2026-05-22T12:13:00Z",
-            "provider": "Zacks"
+            "collected_at": "2026-05-22T19:21:37.033364",
+            "title": "Gold Edges Lower as USD and Treasury Yields Steady",
+            "summary": "Gold prices eased early Friday, remaining rangebound as the dollar and yields steady. Gold for J",
+            "published": "2026-05-22T13:04:47Z",
+            "provider": "MT Newswires"
         }
     ],
     "metadata": {
