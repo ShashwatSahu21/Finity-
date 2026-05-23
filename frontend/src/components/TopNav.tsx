@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion';
 import {
-  LayoutDashboard, LineChart, MessageSquare, BookOpen,
+  LayoutDashboard, LineChart, MessageSquare,
   Wallet, Building2, User, Trophy, Menu, X, TrendingUp, Sparkles
 } from 'lucide-react';
 import { useState } from 'react';
@@ -14,7 +14,6 @@ const navItems: { id: NavSection; label: string; icon: React.ReactNode }[] = [
   { id: 'chat', label: 'AI Coach', icon: <MessageSquare size={17} /> },
   { id: 'budget', label: 'Budget', icon: <Wallet size={17} /> },
   { id: 'loans', label: 'Loans', icon: <Building2 size={17} /> },
-  { id: 'learn', label: 'Learn', icon: <BookOpen size={17} /> },
 ];
 
 export default function TopNav() {
@@ -25,13 +24,13 @@ export default function TopNav() {
     <>
       {/* ── Desktop Navigation ── */}
       <nav className="fixed top-0 w-full z-50 glass-nav">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
+        <div className="max-w-[1800px] xl:max-w-[94%] mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex items-center justify-between h-20">
 
             {/* Logo */}
             <div className="flex-shrink-0 flex items-center gap-1.5">
-              <div className="w-7 h-7 rounded-lg primary-gradient flex items-center justify-center shadow-md shadow-finity-600/20">
-                <Sparkles size={14} className="text-white" />
+              <div className="w-8 h-8 rounded-lg primary-gradient flex items-center justify-center shadow-md shadow-finity-600/20">
+                <Sparkles size={15} className="text-white" />
               </div>
               <h1
                 className="text-lg font-extrabold tracking-tight text-surface-900 cursor-pointer select-none"
@@ -42,22 +41,22 @@ export default function TopNav() {
             </div>
 
             {/* Center Nav Pills */}
-            <div className="hidden md:flex flex-1 justify-center px-6">
-              <div className="relative flex bg-surface-100/60 p-1 rounded-xl border border-surface-200/60">
+            <div className="hidden xl:flex flex-1 justify-center px-6">
+              <div className="relative flex gap-3 xl:gap-5 bg-surface-100/90 p-2 rounded-2xl border border-surface-200/80">
                 {navItems.map((item) => (
                   <button
                     key={item.id}
                     onClick={() => setActiveSection(item.id)}
-                    className={`relative flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-[13px] font-semibold transition-all duration-300 cursor-pointer ${
+                    className={`relative flex items-center gap-2 px-4 xl:px-6 py-2.5 rounded-xl text-[13px] xl:text-[14.5px] font-bold transition-all duration-300 cursor-pointer ${
                       activeSection === item.id
                         ? 'text-finity-600'
-                        : 'text-surface-500 hover:text-surface-800'
+                        : 'text-surface-500 hover:text-surface-900'
                     }`}
                   >
                     {activeSection === item.id && (
                       <motion.div
                         layoutId="nav-active"
-                        className="absolute inset-0 bg-white rounded-lg shadow-sm ring-1 ring-surface-200/80"
+                        className="absolute inset-0 bg-white rounded-xl shadow-sm border border-surface-200/50"
                         transition={{ type: 'spring', bounce: 0.15, duration: 0.5 }}
                       />
                     )}
@@ -68,7 +67,7 @@ export default function TopNav() {
             </div>
 
             {/* Right: XP + Profile */}
-            <div className="hidden md:flex items-center gap-3">
+            <div className="hidden xl:flex items-center gap-3">
               <motion.div
                 className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl bg-finity-100/60 border border-finity-200/50 text-finity-600 text-xs font-bold tracking-wide cursor-default"
                 whileHover={{ scale: 1.03 }}
@@ -90,7 +89,7 @@ export default function TopNav() {
             </div>
 
             {/* Mobile Menu Toggle */}
-            <div className="md:hidden flex items-center">
+            <div className="xl:hidden flex items-center">
               <button
                 onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
                 className="text-surface-500 hover:text-surface-900 p-2 rounded-xl transition-colors cursor-pointer"
@@ -110,7 +109,7 @@ export default function TopNav() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.2 }}
-            className="fixed inset-0 z-40 md:hidden"
+            className="fixed inset-0 z-40 xl:hidden"
           >
             <div className="absolute inset-0 bg-white/95 backdrop-blur-xl pt-20 px-5 pb-8">
               <div className="space-y-1.5">

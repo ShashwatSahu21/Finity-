@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
-  Search, RefreshCw, TrendingUp, TrendingDown, 
+  Search, TrendingUp, TrendingDown, 
   Globe, Award, Calendar, ChevronRight, 
   Loader2, Sparkles, Building, AlertCircle
 } from 'lucide-react';
@@ -59,7 +59,6 @@ export default function Market() {
   const [news, setNews] = useState<NewsItem[]>([]);
   
   const [loading, setLoading] = useState(true);
-  const [syncing, setSyncing] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   
   // Detail views
@@ -75,17 +74,45 @@ export default function Market() {
       const [stocksData, mfData, newsData] = await Promise.all([
         api.getStocks(), api.getMutualFunds(), api.getNews()
       ]);
-      setStocks(stocksData || []);
-      setMutualFunds(mfData || []);
+      
+      const newStocks = stocksData || [];
+      const newFunds = mfData || [];
+      
+      setStocks(newStocks);
+      setMutualFunds(newFunds);
       setNews(newsData || []);
+
+      // Keep selected detail views updated in real-time
+      setSelectedStock((curr) => {
+        if (!curr) return null;
+        const updated = newStocks.find(s => s.symbol === curr.symbol);
+        return updated || curr;
+      });
+
+      setSelectedFund((curr) => {
+        if (!curr) return null;
+        const updated = newFunds.find(f => f.code === curr.code);
+        return updated || curr;
+      });
     } catch (err) {
-      toast.error('Failed to load financial market data.');
+      if (!silent) {
+        toast.error('Failed to load financial market data.');
+      }
     } finally {
-      setLoading(false);
+      if (!silent) setLoading(false);
     }
   };
 
-  useEffect(() => { loadData(); }, []);
+  useEffect(() => {
+    loadData();
+    
+    // Set up silent polling every 30 seconds
+    const interval = setInterval(() => {
+      loadData(true);
+    }, 30000);
+
+    return () => clearInterval(interval);
+  }, []);
 
   useEffect(() => {
     const fetchHistory = async () => {
@@ -103,24 +130,7 @@ export default function Market() {
       }
     };
     fetchHistory();
-  }, [selectedStock, selectedFund, historyDays]);
-
-  const handleSync = async () => {
-    setSyncing(true);
-    const syncToast = toast.loading('Syncing live data from Yahoo Finance and AMFI...', {
-      style: { background: 'rgba(255, 255, 255, 0.9)', backdropFilter: 'blur(16px)', color: '#0f172a', fontWeight: 600 }
-    });
-    try {
-      await api.syncMarketData();
-      await new Promise((resolve) => setTimeout(resolve, 3000));
-      await loadData(true);
-      toast.success('Market data successfully refreshed!', { id: syncToast });
-    } catch (err) {
-      toast.error('Sync request failed', { id: syncToast });
-    } finally {
-      setSyncing(false);
-    }
-  };
+  }, [selectedStock?.symbol, selectedFund?.code, historyDays]);
 
   const formatCurrency = (val: number, symbol: string) => {
     const isCrypto = symbol.includes('BTC') || symbol.includes('ETH');
@@ -152,14 +162,13 @@ export default function Market() {
           </p>
         </div>
         <div className="flex items-center gap-3">
-          <motion.button
-            onClick={handleSync} disabled={syncing}
-            className="px-6 py-3.5 btn-primary text-sm flex items-center gap-2 rounded-xl disabled:opacity-50"
-            whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}
-          >
-            {syncing ? <Loader2 size={16} className="animate-spin" /> : <RefreshCw size={16} />}
-            Sync Live Rates
-          </motion.button>
+          <div className="flex items-center gap-2 px-4 py-2.5 bg-emerald-50 border border-emerald-100 rounded-xl text-emerald-700 text-xs font-bold shadow-sm select-none">
+            <span className="relative flex h-2.5 w-2.5">
+              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+            </span>
+            Live Autoupdate Active (30s)
+          </div>
         </div>
       </motion.div>
 
@@ -203,7 +212,7 @@ export default function Market() {
                     <div className="glass-card p-12 text-center text-surface-500 font-medium">No tickers found matching your search.</div>
                   ) : (
                     filteredStocks.map((item, i) => {
-                      const isPositive = item.change >= 0;
+                      const isPositive = (item.change ?? 0) >= 0;
                       return (
                         <motion.div key={item.symbol} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.03 }}
                           onClick={() => { setSelectedStock(item); setSelectedFund(null); window.innerWidth < 1024 && window.scrollTo({ top: 0, behavior: 'smooth' }); }}
@@ -219,10 +228,10 @@ export default function Market() {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="font-extrabold text-surface-900 text-lg sm:text-xl tracking-tight">{formatCurrency(item.price, item.symbol)}</div>
+                            <div className="font-extrabold text-surface-900 text-lg sm:text-xl tracking-tight">{formatCurrency(item.price ?? 0, item.symbol)}</div>
                             <div className={`flex items-center justify-end gap-1.5 text-[11px] font-bold mt-1 ${isPositive ? 'text-emerald-600' : 'text-rose-600'}`}>
-                              <span>{isPositive ? '+' : ''}{item.change.toFixed(2)}</span>
-                              <span className={`px-2 py-0.5 rounded-lg ${isPositive ? 'bg-emerald-50' : 'bg-rose-50'}`}>({isPositive ? '+' : ''}{item.change_percent.toFixed(2)}%)</span>
+                              <span>{isPositive ? '+' : ''}{(item.change ?? 0).toFixed(2)}</span>
+                              <span className={`px-2 py-0.5 rounded-lg ${isPositive ? 'bg-emerald-50' : 'bg-rose-50'}`}>({isPositive ? '+' : ''}{(item.change_percent ?? 0).toFixed(2)}%)</span>
                             </div>
                           </div>
                         </motion.div>
@@ -239,7 +248,7 @@ export default function Market() {
                     <div className="glass-card p-12 text-center text-surface-500 font-medium">No mutual funds found matching your search.</div>
                   ) : (
                     filteredFunds.map((item, i) => {
-                      const isPositive = item.change >= 0;
+                      const isPositive = (item.change ?? 0) >= 0;
                       return (
                         <motion.div key={item.code} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.03 }}
                           onClick={() => { setSelectedFund(item); setSelectedStock(null); window.innerWidth < 1024 && window.scrollTo({ top: 0, behavior: 'smooth' }); }}
@@ -253,10 +262,10 @@ export default function Market() {
                             </div>
                           </div>
                           <div className="text-right flex-shrink-0">
-                            <div className="font-extrabold text-surface-900 text-lg sm:text-xl tracking-tight">{formatNav(item.nav)}</div>
+                            <div className="font-extrabold text-surface-900 text-lg sm:text-xl tracking-tight">{formatNav(item.nav ?? 0)}</div>
                             <div className={`flex items-center justify-end gap-1.5 text-[11px] font-bold mt-1 ${isPositive ? 'text-emerald-600' : 'text-rose-600'}`}>
-                              <span>{isPositive ? '+' : ''}{item.change.toFixed(4)}</span>
-                              <span className={`px-2 py-0.5 rounded-lg ${isPositive ? 'bg-emerald-50' : 'bg-rose-50'}`}>({isPositive ? '+' : ''}{item.change_percent.toFixed(2)}%)</span>
+                              <span>{isPositive ? '+' : ''}{(item.change ?? 0).toFixed(4)}</span>
+                              <span className={`px-2 py-0.5 rounded-lg ${isPositive ? 'bg-emerald-50' : 'bg-rose-50'}`}>({isPositive ? '+' : ''}{(item.change_percent ?? 0).toFixed(2)}%)</span>
                             </div>
                           </div>
                         </motion.div>
@@ -324,14 +333,14 @@ export default function Market() {
                     
                     <div className="flex items-baseline gap-3 mt-5">
                       <span className="text-4xl font-extrabold text-surface-900 tracking-tighter">
-                        {selectedStock ? formatCurrency(selectedStock.price, selectedStock.symbol) : formatNav(selectedFund!.nav)}
+                        {selectedStock ? formatCurrency(selectedStock.price ?? 0, selectedStock.symbol) : formatNav(selectedFund?.nav ?? 0)}
                       </span>
                       <span className={`text-sm font-bold flex items-center gap-1 px-2.5 py-1 rounded-lg ${
-                        (selectedStock ? selectedStock.change : selectedFund!.change) >= 0 ? 'bg-emerald-50 text-emerald-600' : 'bg-rose-50 text-rose-600'
+                        (selectedStock ? (selectedStock.change ?? 0) : (selectedFund?.change ?? 0)) >= 0 ? 'bg-emerald-50 text-emerald-600' : 'bg-rose-50 text-rose-600'
                       }`}>
-                        {(selectedStock ? selectedStock.change : selectedFund!.change) >= 0 ? <TrendingUp size={14}/> : <TrendingDown size={14}/>}
-                        {(selectedStock ? selectedStock.change : selectedFund!.change) >= 0 ? '+' : ''}
-                        {selectedStock ? selectedStock.change.toFixed(2) : selectedFund!.change.toFixed(4)} ({selectedStock ? selectedStock.change_percent.toFixed(2) : selectedFund!.change_percent.toFixed(2)}%)
+                        {(selectedStock ? (selectedStock.change ?? 0) : (selectedFund?.change ?? 0)) >= 0 ? <TrendingUp size={14}/> : <TrendingDown size={14}/>}
+                        {(selectedStock ? (selectedStock.change ?? 0) : (selectedFund?.change ?? 0)) >= 0 ? '+' : ''}
+                        {selectedStock ? (selectedStock.change ?? 0).toFixed(2) : (selectedFund?.change ?? 0).toFixed(4)} ({(selectedStock ? (selectedStock.change_percent ?? 0) : (selectedFund?.change_percent ?? 0)).toFixed(2)}%)
                       </span>
                     </div>
                   </div>
@@ -381,19 +390,19 @@ export default function Market() {
                       <>
                         <div className="p-3 bg-white rounded-xl shadow-sm border border-surface-100/50">
                           <p className="text-surface-400 font-bold text-[9px] uppercase tracking-widest">Daily Open</p>
-                          <p className="font-extrabold text-surface-900 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.open, selectedStock.symbol)}</p>
+                          <p className="font-extrabold text-surface-900 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.open ?? 0, selectedStock.symbol)}</p>
                         </div>
                         <div className="p-3 bg-white rounded-xl shadow-sm border border-surface-100/50">
                           <p className="text-surface-400 font-bold text-[9px] uppercase tracking-widest">Daily Volume</p>
-                          <p className="font-extrabold text-surface-900 text-sm mt-0.5 tracking-tight">{selectedStock.volume.toLocaleString()}</p>
+                          <p className="font-extrabold text-surface-900 text-sm mt-0.5 tracking-tight">{(selectedStock.volume ?? 0).toLocaleString()}</p>
                         </div>
                         <div className="p-3 bg-white rounded-xl shadow-sm border border-surface-100/50">
                           <p className="text-surface-400 font-bold text-[9px] uppercase tracking-widest">Session High</p>
-                          <p className="font-extrabold text-emerald-600 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.high, selectedStock.symbol)}</p>
+                          <p className="font-extrabold text-emerald-600 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.high ?? 0, selectedStock.symbol)}</p>
                         </div>
                         <div className="p-3 bg-white rounded-xl shadow-sm border border-surface-100/50">
                           <p className="text-surface-400 font-bold text-[9px] uppercase tracking-widest">Session Low</p>
-                          <p className="font-extrabold text-rose-600 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.low, selectedStock.symbol)}</p>
+                          <p className="font-extrabold text-rose-600 text-sm mt-0.5 tracking-tight">{formatCurrency(selectedStock.low ?? 0, selectedStock.symbol)}</p>
                         </div>
                       </>
                     ) : (

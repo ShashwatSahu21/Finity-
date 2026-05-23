@@ -9,6 +9,63 @@ import json
 
 DB_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "database", "finity_market.db")
 
+# Cache memory for stock, mutual fund, and news data
+_STOCKS_CACHE = None
+_MUTUAL_FUNDS_CACHE = None
+_NEWS_CACHE = [
+    {
+        "id": 1,
+        "title": "Indian Benchmark Indices Trade Stable Near Key Levels",
+        "summary": "Nifty 50 and Sensex continue to hold crucial support levels as investors analyze domestic earnings and global trends.",
+        "published": datetime.now().isoformat(),
+        "provider": "Finity Intelligence",
+        "category": "business",
+        "source_ticker": "^NSEI",
+        "timestamp": datetime.now().isoformat()
+    },
+    {
+        "id": 2,
+        "title": "Reliance and IT Majors Drive Late-Day Index Recovery",
+        "summary": "A late-day surge in Reliance Industries and tech giants TCS and Infosys helps lift the domestic indices out of red.",
+        "published": datetime.now().isoformat(),
+        "provider": "Finity Intelligence",
+        "category": "market",
+        "source_ticker": "RELIANCE.NS",
+        "timestamp": datetime.now().isoformat()
+    },
+    {
+        "id": 3,
+        "title": "Mutual Fund SIP Inflows Reach Record Milestones in India",
+        "summary": "Systematic Investment Plans (SIP) see continuous growth as retail investors show sustained confidence in mutual fund assets.",
+        "published": datetime.now().isoformat(),
+        "provider": "AMFI Updates",
+        "category": "business",
+        "source_ticker": "120018",
+        "timestamp": datetime.now().isoformat()
+    }
+]
+
+def load_cache_from_db():
+    global _STOCKS_CACHE, _MUTUAL_FUNDS_CACHE
+    try:
+        init_db()  # Ensure tables exist
+        conn = sqlite3.connect(DB_PATH)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+        
+        # Load stocks
+        cursor.execute("SELECT * FROM stocks")
+        _STOCKS_CACHE = [dict(r) for r in cursor.fetchall()]
+        
+        # Load mutual funds
+        cursor.execute("SELECT * FROM mutual_funds")
+        _MUTUAL_FUNDS_CACHE = [dict(r) for r in cursor.fetchall()]
+        
+        conn.close()
+        print(f"[Cache] Loaded caches from SQLite database: {len(_STOCKS_CACHE)} stocks, {len(_MUTUAL_FUNDS_CACHE)} mutual funds")
+    except Exception as e:
+        print("[Cache Error] Failed to load cache from DB:", e)
+
 # Tickers config
 STOCKS_CONFIG = {
     "^NSEI": "NIFTY 50",
@@ -68,19 +125,8 @@ def init_db():
         )
     """)
     
-    # Create news table
-    cursor.execute("""
-        CREATE TABLE IF NOT EXISTS news (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            title TEXT UNIQUE,
-            summary TEXT,
-            published TEXT,
-            provider TEXT,
-            category TEXT,
-            source_ticker TEXT,
-            timestamp TEXT
-        )
-    """)
+    # Drop previous news table to ensure news is not stored in DB
+    cursor.execute("DROP TABLE IF EXISTS news")
     
     # Create price history table for charting
     cursor.execute("""
@@ -97,34 +143,31 @@ def init_db():
     print("Database initialized at:", DB_PATH)
 
 def get_stocks():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    cursor = conn.cursor()
-    cursor.execute("SELECT * FROM stocks")
-    rows = cursor.fetchall()
-    conn.close()
-    return [dict(r) for r in rows]
+    global _STOCKS_CACHE
+    if _STOCKS_CACHE is None:
+        load_cache_from_db()
+    return _STOCKS_CACHE if _STOCKS_CACHE is not None else []
 
 def get_mutual_funds():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    cursor = conn.cursor()
-    cursor.execute("SELECT * FROM mutual_funds")
-    rows = cursor.fetchall()
-    conn.close()
-    return [dict(r) for r in rows]
+    global _MUTUAL_FUNDS_CACHE
+    if _MUTUAL_FUNDS_CACHE is None:
+        load_cache_from_db()
+    return _MUTUAL_FUNDS_CACHE if _MUTUAL_FUNDS_CACHE is not None else []
 
 def get_news(category=None, limit=20):
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    cursor = conn.cursor()
+    global _NEWS_CACHE
+    if not _NEWS_CACHE:
+        return []
+    
+    # Filter by category if provided
     if category:
-        cursor.execute("SELECT * FROM news WHERE category = ? ORDER BY timestamp DESC LIMIT ?", (category, limit))
+        filtered = [item for item in _NEWS_CACHE if item.get("category") == category]
     else:
-        cursor.execute("SELECT * FROM news ORDER BY timestamp DESC LIMIT ?", (limit,))
-    rows = cursor.fetchall()
-    conn.close()
-    return [dict(r) for r in rows]
+        filtered = list(_NEWS_CACHE)
+        
+    # Sort by timestamp descending
+    filtered.sort(key=lambda x: x.get("timestamp", ""), reverse=True)
+    return filtered[:limit]
 
 def get_history(symbol, days=30):
     conn = sqlite3.connect(DB_PATH)
@@ -169,6 +212,7 @@ def get_history(symbol, days=30):
         try:
             ticker = yf.Ticker(symbol)
             hist = ticker.history(period=f"{days}d")
+            hist = hist.dropna(subset=['Close'])
             if not hist.empty:
                 conn = sqlite3.connect(DB_PATH)
                 history_data = []
@@ -191,20 +235,25 @@ async def sync_all_data():
     init_db()
     conn = sqlite3.connect(DB_PATH)
     
+    fetched_news = []
+    
     # 1. Sync stocks
     for symbol, name in STOCKS_CONFIG.items():
         try:
             ticker = yf.Ticker(symbol)
-            hist = ticker.history(period="2d")
+            hist = ticker.history(period="5d")
+            hist = hist.dropna(subset=['Close'])
             if not hist.empty:
                 price = float(hist['Close'].iloc[-1])
                 prev_close = float(hist['Close'].iloc[-2]) if len(hist) > 1 else float(hist['Open'].iloc[0])
                 change = price - prev_close
                 change_pct = (change / prev_close) * 100 if prev_close else 0.0
                 open_val = float(hist['Open'].iloc[-1])
-                high_val = float(hist['High'].max())
-                low_val = float(hist['Low'].min())
+                high_val = float(hist['High'].iloc[-1])
+                low_val = float(hist['Low'].iloc[-1])
                 volume = int(hist['Volume'].iloc[-1])
+                
+                print(f"[Debug Sync] {symbol} price={price}, change={change}, open_val={open_val}, high_val={high_val}, low_val={low_val}, volume={volume}")
                 
                 conn.execute("""
                     INSERT OR REPLACE INTO stocks (symbol, name, price, change, change_percent, open, high, low, volume, timestamp)
@@ -220,10 +269,15 @@ async def sync_all_data():
                     published = content.get("pubDate", "")
                     provider = content.get("provider", {}).get("displayName", "Unknown") if isinstance(content.get("provider"), dict) else "Unknown"
                     
-                    conn.execute("""
-                        INSERT OR IGNORE INTO news (title, summary, published, provider, category, source_ticker, timestamp)
-                        VALUES (?, ?, ?, ?, ?, ?, ?)
-                    """, (title, summary, published, provider, "market", symbol, datetime.now().isoformat()))
+                    fetched_news.append({
+                        "title": title,
+                        "summary": summary,
+                        "published": published,
+                        "provider": provider,
+                        "category": "market",
+                        "source_ticker": symbol,
+                        "timestamp": datetime.now().isoformat()
+                    })
                     
             print(f"[Sync] Stock {symbol} updated")
         except Exception as e:
@@ -266,16 +320,54 @@ async def sync_all_data():
                 published = content.get("pubDate", "")
                 provider = content.get("provider", {}).get("displayName", "Unknown") if isinstance(content.get("provider"), dict) else "Unknown"
                 
-                conn.execute("""
-                    INSERT OR IGNORE INTO news (title, summary, published, provider, category, source_ticker, timestamp)
-                    VALUES (?, ?, ?, ?, ?, ?, ?)
-                """, (title, summary, published, provider, "business", symbol, datetime.now().isoformat()))
+                fetched_news.append({
+                    "title": title,
+                    "summary": summary,
+                    "published": published,
+                    "provider": provider,
+                    "category": "business",
+                    "source_ticker": symbol,
+                    "timestamp": datetime.now().isoformat()
+                })
         except Exception as e:
             print(f"[Sync Error] General news for {symbol}: {e}")
             
     conn.commit()
     conn.close()
+    
+    # Deduplicate and cache news in-memory
+    if fetched_news:
+        unique_news = []
+        seen_titles = set()
+        for item in fetched_news:
+            if item["title"] not in seen_titles:
+                seen_titles.add(item["title"])
+                unique_news.append(item)
+        for idx, item in enumerate(unique_news, start=1):
+            item["id"] = idx
+        global _NEWS_CACHE
+        _NEWS_CACHE = unique_news
+        
+    load_cache_from_db()
     print("[Sync] Completed syncing all financial data")
+
+async def autoupdate_loop():
+    """Background loop to update data every 30 seconds."""
+    print("[Autoupdate] Starting 30-second background autoupdate loop")
+    # Initial load of cache from DB
+    load_cache_from_db()
+    
+    # Delay first run slightly to let startup finish smoothly
+    await asyncio.sleep(2)
+    
+    while True:
+        try:
+            print("[Autoupdate] Fetching latest market data...")
+            await sync_all_data()
+            print("[Autoupdate] Market data sync completed successfully.")
+        except Exception as e:
+            print(f"[Autoupdate Error] Failed to sync market data: {e}")
+        await asyncio.sleep(30)
 
 if __name__ == "__main__":
     init_db()

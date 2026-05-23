@@ -103,7 +103,7 @@ export default function Loans() {
     elig === 'High' ? 'bg-emerald-50 border-emerald-100' : elig === 'Moderate' ? 'bg-amber-50 border-amber-100' : 'bg-rose-50 border-rose-100';
 
   return (
-    <div className="space-y-8 max-w-5xl mx-auto pb-8">
+    <div className="space-y-8 pb-8">
       {/* Header */}
       <motion.div {...fadeUp()}>
         <div className="flex items-center gap-2 mb-2">

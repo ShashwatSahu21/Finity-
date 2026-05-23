@@ -7,7 +7,6 @@ import Simulator from './pages/Simulator';
 import Chat from './pages/Chat';
 import Budget from './pages/Budget';
 import Loans from './pages/Loans';
-import Learn from './pages/Learn';
 import Profile from './pages/Profile';
 import { useStore } from './store/useStore';
 import './App.css';
@@ -29,7 +28,6 @@ function App() {
       case 'chat': return <Chat />;
       case 'budget': return <Budget />;
       case 'loans': return <Loans />;
-      case 'learn': return <Learn />;
       case 'profile': return <Profile />;
       default: return <Dashboard />;
     }
@@ -63,15 +61,12 @@ function App() {
       <TopNav />
 
       {/* ── Main Content ── */}
-      <main
-        className="min-h-screen pb-24 px-4 sm:px-6 lg:px-8 relative overflow-hidden"
-        style={{ paddingTop: '5.5rem' }}
-      >
-        <div className="max-w-[1200px] mx-auto relative z-10">
+      <main className="min-h-screen relative overflow-hidden" style={{ paddingTop: '135px', paddingBottom: '80px' }}>
+        <div className="max-w-[1800px] xl:max-w-[94%] mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <AnimatePresence mode="wait">
             <motion.div
               key={activeSection}
-              variants={pageVariants}
+              variants={pageTransition}
               initial="initial"
               animate="animate"
               exit="exit"

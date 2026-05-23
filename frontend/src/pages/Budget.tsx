@@ -47,7 +47,7 @@ export default function Budget() {
   const formatCurrency = (val: number) => `₹${val.toLocaleString('en-IN')}`;
 
   return (
-    <div className="space-y-8 max-w-5xl mx-auto pb-8">
+    <div className="space-y-8 pb-8">
       {/* Header */}
       <motion.div {...fadeUp()} className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
         <div>

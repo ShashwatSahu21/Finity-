@@ -62,7 +62,7 @@ export default function Chat() {
   };
 
   return (
-    <div className="flex flex-col h-[calc(100vh-8rem)] max-w-5xl mx-auto pb-4">
+    <div className="flex flex-col h-[calc(100vh-235px)] w-full pb-4">
       {/* Header */}
       <motion.div {...fadeUp()} className="flex items-center justify-between mb-6 shrink-0">
         <div>

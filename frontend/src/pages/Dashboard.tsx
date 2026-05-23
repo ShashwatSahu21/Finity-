@@ -2,9 +2,8 @@ import { useState, useEffect, useMemo } from 'react';
 import { motion } from 'framer-motion';
 import {
   TrendingUp, TrendingDown, Shield, Wallet, ArrowUpRight,
-  Sparkles, Trophy, Lightbulb, Target, PiggyBank,
-  LineChart as LineChartIcon, Building2, Bot, Flame, Zap,
-  ChevronRight, Activity
+  Sparkles, Trophy, Lightbulb, PiggyBank,
+  ChevronRight, Activity, Flame, Zap
 } from 'lucide-react';
 import { useStore } from '../store/useStore';
 import { api } from '../services/api';
@@ -135,13 +134,6 @@ export default function Dashboard() {
   const formatCurrency = (val: number) =>
     `₹${val >= 10000000 ? (val / 10000000).toFixed(1) + ' Cr' : val >= 100000 ? (val / 100000).toFixed(1) + 'L' : val.toLocaleString('en-IN')}`;
 
-  /* ── Quick action tiles ── */
-  const quickActions = [
-    { label: 'Simulate Investment', icon: <LineChartIcon size={18} />, section: 'simulator' as const, desc: 'Monte Carlo projections', gradient: 'from-finity-600 to-finity-700' },
-    { label: 'Ask AI Coach', icon: <Bot size={18} />, section: 'chat' as const, desc: 'Financial guidance', gradient: 'from-violet-500 to-purple-600' },
-    { label: 'Check Loan Score', icon: <Building2 size={18} />, section: 'loans' as const, desc: 'AI eligibility check', gradient: 'from-blue-500 to-indigo-600' },
-    { label: 'Plan a Goal', icon: <Target size={18} />, section: 'profile' as const, desc: 'Wealth milestone', gradient: 'from-emerald-500 to-green-600' },
-  ];
 
   return (
     <div className="space-y-8 pb-8">
@@ -154,9 +146,9 @@ export default function Dashboard() {
         <div className="hero-glow -top-48 -left-32 opacity-60" />
         <div className="hero-glow-secondary top-0 right-0 opacity-40" />
 
-        <div className="relative z-10 grid grid-cols-1 lg:grid-cols-5 gap-6 items-start">
+        <div className="relative z-10 grid grid-cols-1 lg:grid-cols-3 gap-6 items-start">
           {/* Left: Greeting & Summary */}
-          <div className="lg:col-span-3 space-y-6">
+          <div className="lg:col-span-2 space-y-6">
             <div>
               <div className="flex items-center gap-2 mb-3">
                 <div className="ai-orb-sm">
@@ -201,7 +193,7 @@ export default function Dashboard() {
           </div>
 
           {/* Right: Health Score Ring + Risk + Level */}
-          <motion.div {...fadeUp(0.2)} className="lg:col-span-2 glass-card p-6 space-y-5">
+          <motion.div {...fadeUp(0.2)} className="lg:col-span-1 glass-card p-6 space-y-5">
             <div className="flex items-center gap-4">
               <ProgressRing value={healthScore} size={72} strokeWidth={6} color={healthScore >= 70 ? '#10b981' : healthScore >= 40 ? '#f59e0b' : '#f43f5e'} />
               <div>
@@ -343,7 +335,7 @@ export default function Dashboard() {
               ))}
             </div>
           </div>
-          <div className="flex-1 w-full chart-glow">
+          <div className="w-full h-[320px] chart-glow mt-4">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={projectionData} margin={{ top: 10, right: 10, left: -20, bottom: 0 }}>
                 <defs>
@@ -413,7 +405,7 @@ export default function Dashboard() {
           </motion.div>
 
           {/* ── Daily Tip ── */}
-          <motion.div {...fadeUp(0.3)} className="glass-card p-5 bg-gradient-to-br from-finity-600 to-finity-700 border-none relative overflow-hidden group">
+          <motion.div {...fadeUp(0.3)} className="p-5 rounded-3xl primary-gradient text-white relative overflow-hidden group shadow-md shadow-finity-500/10 hover:shadow-lg hover:shadow-finity-500/20 hover:scale-[1.01] transition-all duration-300">
             <div className="absolute -right-8 -bottom-8 w-32 h-32 bg-white/10 rounded-full blur-2xl group-hover:scale-125 transition-transform duration-700" />
             <div className="relative z-10">
               <div className="flex items-center gap-2 mb-3">
@@ -423,44 +415,11 @@ export default function Dashboard() {
               <p className="text-white/90 text-sm font-semibold leading-relaxed">
                 "Consistency beats intensity. A ₹5,000/month SIP for 20 years at 12% grows to ₹49.9L — from just ₹12L invested."
               </p>
-              <button
-                onClick={() => setActiveSection('learn')}
-                className="mt-3 flex items-center gap-1.5 text-[11px] font-bold text-white/80 hover:text-white transition-colors cursor-pointer"
-              >
-                Start Learning <ArrowUpRight size={12} />
-              </button>
             </div>
           </motion.div>
         </div>
       </div>
 
-      {/* ═══════════════════════════════════════════
-          F. QUICK ACTION HUB
-          ═══════════════════════════════════════════ */}
-      <motion.section {...fadeUp(0.3)}>
-        <div className="flex items-center gap-2 mb-4">
-          <Zap size={14} className="text-finity-500" />
-          <span className="text-xs font-bold text-surface-400 uppercase tracking-widest">Quick Actions</span>
-        </div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
-          {quickActions.map((action, i) => (
-            <motion.button
-              key={action.label}
-              {...scaleIn(0.05 * i)}
-              onClick={() => setActiveSection(action.section)}
-              className="glass-card p-4 text-left group cursor-pointer hover:shadow-lg hover:shadow-finity-500/5 transition-all"
-              whileHover={{ y: -3 }}
-              whileTap={{ scale: 0.97 }}
-            >
-              <div className={`w-10 h-10 rounded-xl bg-gradient-to-br ${action.gradient} flex items-center justify-center text-white mb-3 shadow-lg group-hover:scale-105 transition-transform`}>
-                {action.icon}
-              </div>
-              <p className="text-sm font-bold text-surface-900 tracking-tight">{action.label}</p>
-              <p className="text-[11px] text-surface-400 font-medium mt-0.5">{action.desc}</p>
-            </motion.button>
-          ))}
-        </div>
-      </motion.section>
 
       {/* ── Financial Health Grid (C.) ── */}
       {monthlyIncome > 0 && (
@@ -469,12 +428,11 @@ export default function Dashboard() {
             <Activity size={14} className="text-finity-500" />
             <span className="text-xs font-bold text-surface-400 uppercase tracking-widest">Financial Metrics</span>
           </div>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             {[
               { label: 'Budget Health', value: savingsRate >= 20 ? 'Excellent' : savingsRate >= 10 ? 'Good' : 'Needs Work', metric: `${savingsRate.toFixed(0)}%`, ring: Math.min(savingsRate * 2.5, 100), color: savingsRate >= 20 ? '#10b981' : savingsRate >= 10 ? '#f59e0b' : '#f43f5e' },
               { label: 'Expense Control', value: `${expenses.length} entries`, metric: formatCurrency(totalExpenses), ring: Math.min((totalExpenses / (monthlyIncome || 1)) * 100, 100), color: '#6c63ff' },
               { label: 'Goal Progress', value: riskProfile ? 'Active' : 'Set a goal', metric: riskProfile ? `${riskProfile.risk_score}pts` : '—', ring: riskProfile ? riskProfile.risk_score : 0, color: '#7c4dff' },
-              { label: 'Learning', value: `${gamification.completed_lessons.length}/7`, metric: `${gamification.total_xp} XP`, ring: (gamification.completed_lessons.length / 7) * 100, color: '#f59e0b' },
             ].map((card, i) => (
               <motion.div
                 key={card.label}

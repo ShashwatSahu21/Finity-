@@ -20,13 +20,11 @@ const RISK_QUESTIONS: RiskQuestion[] = [
 ];
 
 const BADGES = [
-  { id: 'first_steps', name: 'First Steps', icon: '🎓', description: 'Complete first lesson' },
   { id: 'risk_aware', name: 'Risk Aware', icon: '🎯', description: 'Complete risk assessment' },
   { id: 'goal_setter', name: 'Goal Setter', icon: '🏆', description: 'Create a financial goal' },
   { id: 'simulator_pro', name: 'Simulator Pro', icon: '📊', description: 'Run 5 simulations' },
   { id: 'budget_beginner', name: 'Budget Beginner', icon: '💰', description: 'Track 10 expenses' },
   { id: 'week_warrior', name: 'Week Warrior', icon: '🔥', description: '7-day streak' },
-  { id: 'scholar', name: 'Scholar', icon: '📚', description: 'Complete all lessons' },
   { id: 'level_5', name: 'Rising Star', icon: '🌟', description: 'Reach level 5' },
   { id: 'level_10', name: 'Finance Guru', icon: '👑', description: 'Reach level 10' },
 ];
@@ -110,7 +108,7 @@ export default function Profile() {
   const formatCurrency = (val: number) => `₹${val.toLocaleString('en-IN')}`;
 
   return (
-    <div className="space-y-8 max-w-5xl mx-auto pb-8">
+    <div className="space-y-8 pb-8">
       {/* Header */}
       <motion.div {...fadeUp()}>
         <h1 className="text-3xl sm:text-4xl font-extrabold text-surface-900 tracking-tight">

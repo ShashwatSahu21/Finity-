@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import {
-  LayoutDashboard, LineChart, MessageSquare, BookOpen,
+  LayoutDashboard, LineChart, MessageSquare,
   Wallet, Building2, User, Trophy
 } from 'lucide-react';
 import { useStore } from '../store/useStore';
@@ -12,7 +12,6 @@ const navItems: { id: NavSection; label: string; icon: React.ReactNode }[] = [
   { id: 'chat', label: 'AI Coach', icon: <MessageSquare size={20} /> },
   { id: 'budget', label: 'Budget', icon: <Wallet size={20} /> },
   { id: 'loans', label: 'Loans', icon: <Building2 size={20} /> },
-  { id: 'learn', label: 'Learn', icon: <BookOpen size={20} /> },
   { id: 'profile', label: 'Profile', icon: <User size={20} /> },
 ];
 

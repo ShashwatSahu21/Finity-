@@ -68,7 +68,7 @@ export default function Simulator() {
   const totalInvested = amount + monthly * years * 12;
 
   return (
-    <div className="space-y-8 max-w-5xl mx-auto pb-8">
+    <div className="space-y-8 pb-8">
       {/* Header */}
       <motion.div {...fadeUp()}>
         <div className="flex items-center gap-2 mb-2">
