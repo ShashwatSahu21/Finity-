@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-23T08:57:41.108324",
+    "collection_timestamp": "2026-05-23T11:37:05.468936",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-23T08:57:36.193603",
+            "timestamp": "2026-05-23T11:36:59.375722",
             "price": 23719.30078125,
             "change": 48.1015625,
             "open": 23671.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-23T08:57:36.572348",
+            "timestamp": "2026-05-23T11:36:59.897336",
             "price": 75415.3515625,
             "change": 154.9609375,
             "open": 75260.390625,
@@ -642,13 +642,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-23T08:57:36.863109",
-            "price": 74577.203125,
-            "change": -872.4296875,
+            "timestamp": "2026-05-23T11:37:00.182614",
+            "price": 74720.0,
+            "change": -729.6328125,
             "open": 75449.6328125,
             "high": 75569.8671875,
             "low": 74306.71875,
-            "volume": 29981816832,
+            "volume": 30569021440,
             "news": [
                 {
                     "id": "99f6229c-1ba1-41d1-94a3-911e98152fc9",
@@ -702,6 +702,130 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "71f920ec-af45-3468-b8ad-ab09ad774b2d",
+                    "content": {
+                        "id": "71f920ec-af45-3468-b8ad-ab09ad774b2d",
+                        "contentType": "STORY",
+                        "title": "Arthur Hayes Warns Of 'Hunger Games Of Debt' As Bitcoin Eyes ‘Policy Panic’ Rally",
+                        "description": "",
+                        "summary": "Hayes said altcoins are structurally broken and singled out Hyperliquid as the rare exception that gives back 97% of its revenue to token holders.",
+                        "pubDate": "2026-05-23T11:24:04Z",
+                        "displayTime": "2026-05-23T11:24:04Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
+                            "originalWidth": 1280,
+                            "originalHeight": 848,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hTa5Y20mWlDCxPt9.tFdxA--~B/aD04NDg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
+                                    "width": 1280,
+                                    "height": 848,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hsqlF_UdGBJMtPM5EUNjoA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/c34d7abda539def2a466c40f5e27e886",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Stocktwits",
+                            "url": "Stocktwits",
+                            "sourceId": "stocktwits_383"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/arthur-hayes-warns-hunger-games-debt-bitcoin-eyes-policy-panic-rally/cZgPLnyReYf",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-warns-hunger-games-112404238.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "bf5c0a90-f09e-3323-8ffb-7ff36d5a91a2",
+                    "content": {
+                        "id": "bf5c0a90-f09e-3323-8ffb-7ff36d5a91a2",
+                        "contentType": "STORY",
+                        "title": "Strive's Bitcoin-Backed Preferred Shares Hit Record Volume As Strategy's Saylor Calls It 'The Most Interesting Story In Bitcoin Right Now'",
+                        "description": "",
+                        "summary": "Strive CEO Matt Cole said the Bitcoin treasury company was focused on using Bitcoin-backed products to deepen liquidity and maintain yield.",
+                        "pubDate": "2026-05-23T08:52:30Z",
+                        "displayTime": "2026-05-23T08:52:30Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/620ba942afdf3b9cb0dd0810f41c32b4",
+                            "originalWidth": 1280,
+                            "originalHeight": 853,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ERw3yPHY480g1ClmEKOMzA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/620ba942afdf3b9cb0dd0810f41c32b4",
+                                    "width": 1280,
+                                    "height": 853,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/JLgSUXrq5KC9U4mQsW0POQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/620ba942afdf3b9cb0dd0810f41c32b4",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Stocktwits",
+                            "url": "Stocktwits",
+                            "sourceId": "stocktwits_383"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://stocktwits.com/news-articles/markets/equity/strives-bitcoin-backed-strategys-saylor-calls-interesting-story-in-bitcoin-right-now/cZgPOmFReY9",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/strives-bitcoin-backed-preferred-shares-085230571.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -835,136 +959,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "0837fd6d-a666-3416-bc46-613b116a44ba",
-                    "content": {
-                        "id": "0837fd6d-a666-3416-bc46-613b116a44ba",
-                        "contentType": "STORY",
-                        "title": "Jefferies Sees Core Scientific (CORZ) Well Positioned for AI Infrastructure Demand Growth",
-                        "description": "",
-                        "summary": "Core Scientific, Inc. (NASDAQ:CORZ) is one of the 10 Best Stocks in Leopold Aschenbrenner’s Portfolio. Jefferies raised its price target on Core Scientific, Inc. (NASDAQ:CORZ) from $24 to $37 on May 14, 2026. The firm’s analyst kept a Buy rating on the company’s stock. According to them, demand for AI data centers remains strong, with […]",
-                        "pubDate": "2026-05-23T08:22:42Z",
-                        "displayTime": "2026-05-23T08:22:42Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/c5ce77831e9cad461ecfd756a4def5b7",
-                            "originalWidth": 1456,
-                            "originalHeight": 816,
-                            "caption": "Jefferies Sees Core Scientific (CORZ) Well Positioned for AI Infrastructure Demand Growth",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/4ixBBHyZ1FS6oHyTrDRHkQ--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/c5ce77831e9cad461ecfd756a4def5b7",
-                                    "width": 1456,
-                                    "height": 816,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mYT0uhCOhuoEGs8Uxx5KBw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/c5ce77831e9cad461ecfd756a4def5b7",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Insider Monkey",
-                            "url": "http://www.insidermonkey.com",
-                            "sourceId": "insidermonkey.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-core-scientific-corz-082242460.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-sees-core-scientific-corz-082242460.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "15fb0a17-34da-3677-b346-0b9527e6548d",
-                    "content": {
-                        "id": "15fb0a17-34da-3677-b346-0b9527e6548d",
-                        "contentType": "STORY",
-                        "title": "Kevin O'Leary Says Bitcoin And Tokenization Will Remain 'Fringe' Until This Crypto Bill Passes",
-                        "description": "",
-                        "summary": "Influential investor and media personality Kevin O'Leary emphasized on Wednesday the importance of passing the Clarity Act to advance the adoption of tokenization and Bitcoin by institutional investors. Bill Needed For Global Compliance, Says O’Leary O'Leary posted on X a...",
-                        "pubDate": "2026-05-22T22:30:00Z",
-                        "displayTime": "2026-05-22T22:30:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/fb6bd501a8478be1f722b4739a7fb172",
-                            "originalWidth": 1024,
-                            "originalHeight": 683,
-                            "caption": "Kevin O'Leary Says Bitcoin And Tokenization Will Remain 'Fringe' Until This Crypto Bill Passes",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/EU5l_SZhhP7jD9YT05q_tw--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/fb6bd501a8478be1f722b4739a7fb172",
-                                    "width": 1024,
-                                    "height": 683,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/lDgYBxc8CPjGPdnvcqIYzA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/fb6bd501a8478be1f722b4739a7fb172",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-says-bitcoin-tokenization-223000928.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/kevin-oleary-says-bitcoin-tokenization-223000928.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-23T08:57:37.134720",
+            "timestamp": "2026-05-23T11:37:00.587149",
             "price": 1354.5,
             "change": 4.5,
             "open": 1350.0,
@@ -1286,7 +1286,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-23T08:57:37.427624",
+            "timestamp": "2026-05-23T11:37:01.079380",
             "price": 2317.300048828125,
             "change": -13.800048828125,
             "open": 2331.10009765625,
@@ -1608,7 +1608,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-23T08:57:37.792575",
+            "timestamp": "2026-05-23T11:37:01.428551",
             "price": 766.7999877929688,
             "change": 7.64996337890625,
             "open": 759.1500244140625,
@@ -1854,7 +1854,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-23T08:57:38.172214",
+            "timestamp": "2026-05-23T11:37:01.759882",
             "price": 1174.5,
             "change": -8.0,
             "open": 1182.5,
@@ -2100,7 +2100,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-23T08:57:38.433257",
+            "timestamp": "2026-05-23T11:37:02.134644",
             "price": 308.82000732421875,
             "change": 2.70001220703125,
             "open": 306.1199951171875,
@@ -2412,7 +2412,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-23T08:57:38.767229",
+            "timestamp": "2026-05-23T11:37:02.504068",
             "price": 418.57000732421875,
             "change": -0.970001220703125,
             "open": 419.5400085449219,
@@ -2696,7 +2696,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-23T08:57:39.027453",
+            "timestamp": "2026-05-23T11:37:02.938941",
             "price": 382.9700012207031,
             "change": -4.3800048828125,
             "open": 387.3500061035156,
@@ -2760,6 +2760,49 @@
                         "finance": {
                             "premiumFinance": {
                                 "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "61b0d045-675f-30ec-9c37-45ca4d372486",
+                    "content": {
+                        "id": "61b0d045-675f-30ec-9c37-45ca4d372486",
+                        "contentType": "STORY",
+                        "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+                        "description": "",
+                        "summary": "Elon Musk, Sam Altman and Dario Amodei once sparred over how OpenAI could catch Google in AI. Now, the trio are preparing blockbuster flotations...",
+                        "pubDate": "2026-05-23T08:00:06Z",
+                        "displayTime": "2026-05-23T08:00:06Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": null,
+                        "provider": {
+                            "displayName": "Financial Times",
+                            "url": "https://www.ft.com/",
+                            "sourceId": "financial_times_premium_news_167"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-openai-anthropic-ipos-set-080006191.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-openai-anthropic-ipos-set-080006191.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": true,
                                 "isPremiumFreeNews": false
                             }
                         },
@@ -2932,55 +2975,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "749dcd85-f776-3331-806c-82b38fea1e02",
-                    "content": {
-                        "id": "749dcd85-f776-3331-806c-82b38fea1e02",
-                        "contentType": "STORY",
-                        "title": "Citi sees AI price effects as key issue for Warsh",
-                        "description": "",
-                        "summary": "Investing.com -- Strong U.S. macroeconomic performance continues to outpace other developed economies, powered by real GDP growth tracking at a 2% to 3% pace in recent quarters, according to institutional research released by Citi this week.",
-                        "pubDate": "2026-05-23T01:29:20Z",
-                        "displayTime": "2026-05-23T01:29:20Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": null,
-                        "provider": {
-                            "displayName": "Investing.com",
-                            "url": "https://www.investing.com/",
-                            "sourceId": "investing_com_631"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/economy/policy/articles/citi-sees-ai-price-effects-012920564.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/economy/policy/articles/citi-sees-ai-price-effects-012920564.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-23T08:57:39.189632",
+            "timestamp": "2026-05-23T11:37:03.294678",
             "price": 426.010009765625,
             "change": 3.339996337890625,
             "open": 422.6700134277344,
@@ -3113,6 +3113,63 @@
                     }
                 },
                 {
+                    "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+                    "content": {
+                        "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+                        "contentType": "STORY",
+                        "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
+                        "description": "",
+                        "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
+                        "pubDate": "2026-05-23T11:25:48Z",
+                        "displayTime": "2026-05-23T11:25:48Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/879072fd-2d18-3074-b2ec-2e92c37a571e/dow-jones-futures-stock.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
+                            "originalWidth": 1000,
+                            "originalHeight": 563,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Vfvm2EC3sNHYufRoi3EIlA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
+                                    "width": 1000,
+                                    "height": 563,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/FtB1pqfT3DvRySQuy4jtZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Investor's Business Daily",
+                            "url": "http://www.investors.com/",
+                            "sourceId": "ibd.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "0beea411-ec9d-345a-a6f2-1052bc5001c5",
                     "content": {
                         "id": "0beea411-ec9d-345a-a6f2-1052bc5001c5",
@@ -3162,63 +3219,6 @@
                             "region": "US",
                             "lang": "en-US"
                         },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-                    "content": {
-                        "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-                        "contentType": "STORY",
-                        "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
-                        "description": "",
-                        "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
-                        "pubDate": "2026-05-23T02:01:10Z",
-                        "displayTime": "2026-05-23T02:01:10Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/879072fd-2d18-3074-b2ec-2e92c37a571e/dow-jones-futures-stock.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
-                            "originalWidth": 1000,
-                            "originalHeight": 563,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Vfvm2EC3sNHYufRoi3EIlA--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
-                                    "width": 1000,
-                                    "height": 563,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/FtB1pqfT3DvRySQuy4jtZQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/4deb748e91994e99e6e4e082c5f3bb56",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Investor's Business Daily",
-                            "url": "http://www.investors.com/",
-                            "sourceId": "ibd.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-asml-ai-stocks-buy-points/?src=A00220&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
                         "metadata": {
                             "editorsPick": false
                         },
@@ -3297,7 +3297,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-23T08:57:39.500843",
+            "timestamp": "2026-05-23T11:37:03.595456",
             "price": 215.3300018310547,
             "change": -5.5699920654296875,
             "open": 220.89999389648438,
@@ -3425,32 +3425,32 @@
                     }
                 },
                 {
-                    "id": "99fe4d58-0bff-30ce-a22f-fe7853a3e7d4",
+                    "id": "175eec38-0a8f-3863-9c4a-11167ec46284",
                     "content": {
-                        "id": "99fe4d58-0bff-30ce-a22f-fe7853a3e7d4",
+                        "id": "175eec38-0a8f-3863-9c4a-11167ec46284",
                         "contentType": "STORY",
-                        "title": "Memory Chip Supercycle 2026: Why Micron and Sandisk Are the Hottest Bets Now",
+                        "title": "Why Chainlink Could Be the Most Important Cryptocurrency You've Never Heard Of",
                         "description": "",
-                        "summary": "The memory industry's soaring revenue should ensure that the red-hot rally of these stocks continues.",
-                        "pubDate": "2026-05-23T08:43:00Z",
-                        "displayTime": "2026-05-23T08:43:00Z",
+                        "summary": "Chainlink is a pick-and-shovel blockchain play that could soar as adoption grows.",
+                        "pubDate": "2026-05-23T11:25:00Z",
+                        "displayTime": "2026-05-23T11:25:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b6b7df7681be087e8d8d472658beed04",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/eacd3a4d176d68188c342b40ce9c5f73",
                             "originalWidth": 1400,
-                            "originalHeight": 840,
-                            "caption": "Micron's name written in blue outside a company building.",
+                            "originalHeight": 787,
+                            "caption": "People looking at charts on computers in darkened office.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/B7LS41Si5zTYC1UYZ6RDKA--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b6b7df7681be087e8d8d472658beed04",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ldnigCG2zhe2mHFhHdsQWQ--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eacd3a4d176d68188c342b40ce9c5f73",
                                     "width": 1400,
-                                    "height": 840,
+                                    "height": 787,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/TAZumR5QA31NSi8m4IkhdQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b6b7df7681be087e8d8d472658beed04",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/V8DUswyMK3fLf2CT5y0oKQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/eacd3a4d176d68188c342b40ce9c5f73",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3463,13 +3463,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/memory-chip-supercycle-2026-why-micron-and-sandisk/",
+                            "url": "https://www.fool.com/investing/2026/05/23/why-chainlink-could-be-the-most-important-cryptocu/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/memory-chip-supercycle-2026-why-084300203.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/why-chainlink-could-most-important-112500997.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3487,32 +3487,32 @@
                     }
                 },
                 {
-                    "id": "e734ad4f-4680-38f4-b903-0ee0754694b5",
+                    "id": "6cd6eb2c-0605-365a-82d3-9a0225fe6cb5",
                     "content": {
-                        "id": "e734ad4f-4680-38f4-b903-0ee0754694b5",
+                        "id": "6cd6eb2c-0605-365a-82d3-9a0225fe6cb5",
                         "contentType": "STORY",
-                        "title": "The Most Important Marijuana Stock You're Not Watching",
+                        "title": "Jensen Huang Just Made a Surprise Announcement. Here's What It Means for Nvidia Investors.",
                         "description": "",
-                        "summary": "It's an unuaual company, in that it doesn't sell a single ounce of weed.",
-                        "pubDate": "2026-05-23T08:20:00Z",
-                        "displayTime": "2026-05-23T08:20:00Z",
+                        "summary": "The tech giant is entering a new phase in AI dominance.",
+                        "pubDate": "2026-05-23T11:15:00Z",
+                        "displayTime": "2026-05-23T11:15:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d3026d25bd5b7572f10a8f9009e7645d",
-                            "originalWidth": 1400,
-                            "originalHeight": 933,
-                            "caption": "Person in lab gear working with marijuana plants.",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ee260e821757c8858dca047c6a3f6097",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Nvidia's logo overlaid on a shadowy green background.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/oJGAIlebBcI52_F.rzMo6Q--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d3026d25bd5b7572f10a8f9009e7645d",
-                                    "width": 1400,
-                                    "height": 933,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/yQ5WGDrCTySye0_yXm1BEQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ee260e821757c8858dca047c6a3f6097",
+                                    "width": 1200,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/d_kuDQYzcNFDSFY0SSEjjQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d3026d25bd5b7572f10a8f9009e7645d",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/qjcs.FqGW1bGVp9rTQLQaw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ee260e821757c8858dca047c6a3f6097",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3525,13 +3525,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/the-most-important-marijuana-stock-youre-not-watch/",
+                            "url": "https://www.fool.com/investing/2026/05/23/jensen-huang-surprise-announcement-nvidia/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/most-important-marijuana-stock-youre-082000131.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-made-surprise-111500266.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3549,32 +3549,32 @@
                     }
                 },
                 {
-                    "id": "1645cac9-03ec-34d6-9511-31da4588323b",
+                    "id": "c036b2af-5b9b-3f4b-a03b-816e44299cb8",
                     "content": {
-                        "id": "1645cac9-03ec-34d6-9511-31da4588323b",
+                        "id": "c036b2af-5b9b-3f4b-a03b-816e44299cb8",
                         "contentType": "STORY",
-                        "title": "The Smartest Growth Stocks to Buy With $1,000 Right Now",
+                        "title": "Cerebras vs. Nvidia: Which AI Stock Is the Smarter Buy Right Now?",
                         "description": "",
-                        "summary": "If you are building a long-term consumer growth portfolio with just $1,000, these three stocks offer a compelling mix of scale, expansion, and upside potential.",
-                        "pubDate": "2026-05-23T08:15:00Z",
-                        "displayTime": "2026-05-23T08:15:00Z",
+                        "summary": "One is a rising star, while the other is already the center of the AI hardware universe.",
+                        "pubDate": "2026-05-23T10:25:00Z",
+                        "displayTime": "2026-05-23T10:25:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4663c1665de2dfda1b5b76699f3a3c1f",
-                            "originalWidth": 1400,
-                            "originalHeight": 933,
-                            "caption": "A group of people cheers their food bowls together. ",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b7d818208259bd1738d1cd34ba5096b0",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "A person holding a semiconductor wafer.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/FK1uBNXbykH5V0Oj5DNvUQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4663c1665de2dfda1b5b76699f3a3c1f",
-                                    "width": 1400,
-                                    "height": 933,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Ur2SmXtZloeoPOopy5m7PA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b7d818208259bd1738d1cd34ba5096b0",
+                                    "width": 1200,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/CNikQdNg7i92kXCV5WsU_w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4663c1665de2dfda1b5b76699f3a3c1f",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Bv8j3KsucQUSXjoHDYjzAA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b7d818208259bd1738d1cd34ba5096b0",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3587,13 +3587,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/the-smartest-growth-stocks-to-buy-with-1000-right/",
+                            "url": "https://www.fool.com/investing/2026/05/23/cerebras-vs-nvidia-which-ai-stock-is-the-smarter-b/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/smartest-growth-stocks-buy-1-081500876.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-vs-nvidia-ai-stock-102500955.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3611,32 +3611,32 @@
                     }
                 },
                 {
-                    "id": "350840ee-981d-3e1f-824b-8e9566c865c5",
+                    "id": "c7ca43f4-4810-3d0a-a380-e863b31964ea",
                     "content": {
-                        "id": "350840ee-981d-3e1f-824b-8e9566c865c5",
+                        "id": "c7ca43f4-4810-3d0a-a380-e863b31964ea",
                         "contentType": "STORY",
-                        "title": "The AI Stock Retirees Are Adding to Their Portfolios -- and Growth Investors Should, Too",
+                        "title": "IEO’s $0.55 quarterly dividend faces a critical test as oil prices hover near 12-month highs",
                         "description": "",
-                        "summary": "IBM is a reliable AI compounder, pairing real enterprise AI growth with one of the strongest dividend track records in large-cap tech.",
-                        "pubDate": "2026-05-23T07:45:00Z",
-                        "displayTime": "2026-05-23T07:45:00Z",
+                        "summary": "The iShares U.S. Oil & Gas Exploration & Production ETF (NYSEARCA:IEO) just paid a $0.55 distribution in March, the lightest quarterly payment since mid-2024. IEO holders are buying the aggregated dividend policies of America’s largest oil and gas producers, and those policies flex with the commodity. With WTI back above $112 per barrel in mid-May, ... IEO’s $0.55 quarterly dividend faces a critical test as oil prices hover near 12-month highs",
+                        "pubDate": "2026-05-23T10:15:22Z",
+                        "displayTime": "2026-05-23T10:15:22Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/cb337086a19589fbbcb6e32db73f9cf8",
-                            "originalWidth": 1400,
-                            "originalHeight": 933,
-                            "caption": "A retired couple smiles happily.",
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/876b698dc4b091a5f957c764a4b56a7b",
+                            "originalWidth": 1500,
+                            "originalHeight": 1000,
+                            "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/WAR4WgULpjfOSsguA.4MYg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/cb337086a19589fbbcb6e32db73f9cf8",
-                                    "width": 1400,
-                                    "height": 933,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/0jbwCuNKNCVgRoLEZ0sJ0g--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/876b698dc4b091a5f957c764a4b56a7b",
+                                    "width": 1500,
+                                    "height": 1000,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/5FWYiKSquPBxOqhMbmIObg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/cb337086a19589fbbcb6e32db73f9cf8",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/h5WG0lXv_xmfq1hGYtXxQg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/876b698dc4b091a5f957c764a4b56a7b",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3644,18 +3644,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/the-ai-stock-retirees-are-adding-to-their-portfoli/",
+                            "url": "https://247wallst.com/investing/2026/05/23/ieos-0-55-quarterly-dividend-faces-a-critical-test-as-oil-prices-hover-near-12-month-highs/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-retirees-adding-portfolios-074500330.html",
+                            "url": "https://finance.yahoo.com/sectors/energy/articles/ieo-0-55-quarterly-dividend-101522692.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3676,13 +3676,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-23T08:57:39.781490",
-            "price": 2027.1700439453125,
-            "change": -36.3670654296875,
+            "timestamp": "2026-05-23T11:37:03.859063",
+            "price": 2029.8800048828125,
+            "change": -33.6571044921875,
             "open": 2063.537109375,
             "high": 2069.1953125,
             "low": 2020.3631591796875,
-            "volume": 15503512576,
+            "volume": 15488893952,
             "news": [
                 {
                     "id": "99f6229c-1ba1-41d1-94a3-911e98152fc9",
@@ -3996,34 +3996,34 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.107504",
+            "collected_at": "2026-05-23T11:37:04.290941",
+            "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
+            "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
+            "published": "2026-05-23T11:25:48Z",
+            "provider": "Investor's Business Daily"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-23T11:37:04.290953",
+            "title": "Opinion: President Donald Trump Has Set New Fed Chair Kevin Warsh Up for Failure -- and Wall Street Will End Up Paying the Price",
+            "summary": "The new head of the head is taking the helm at one of the most challenging times in modern history.",
+            "published": "2026-05-23T10:56:00Z",
+            "provider": "Motley Fool"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-23T11:37:04.290956",
             "title": "How Investors Are Reacting To Cboe Global Markets (CBOE) Expanding Daily DJX 0DTE Options Trading",
             "summary": "Cboe Global Markets recently expanded its Dow Jones Industrial Average index (DJX) options suite by launching daily expiring DJX options, adding Monday–Thursday P.M.-settled contracts (DJXW) alongside existing Friday weekly and third Friday monthly expiries on its C1 and C2 options exchanges. This move extends Cboe’s growing 0DTE ecosystem, where very short-dated contracts now account for about half of its index options activity, potentially deepening liquidity for traders seeking precise,...",
             "published": "2026-05-23T08:13:54Z",
             "provider": "Simply Wall St."
         },
         {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-23T08:57:40.107515",
-            "title": "Dow Jones Futures: Stock Market Rebounds To Highs; Tesla, These Five AI Plays Are At Buy Points",
-            "summary": "The stock market rebounded for solid weekly gains, with leaders showing bullish action. Tesla is near a buy point along with ASML and several other AI stocks. Here's what to do.",
-            "published": "2026-05-23T02:01:10Z",
-            "provider": "Investor's Business Daily"
-        },
-        {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-23T08:57:40.107517",
-            "title": "Investors Just Can’t Get Enough of Stocks These Days",
-            "summary": "War in the Middle East, the largest energy shock in history and worries about artificial intelligence have done little to cool their ardor.  U.S. corporations are wrapping up a blockbuster earnings season.  Institutional investors are holding 50% more in stocks than their benchmarks, the highest figure since January 2022, according to Bank of America’s latest survey of global fund managers.",
-            "published": "2026-05-23T01:00:00Z",
-            "provider": "The Wall Street Journal"
-        },
-        {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.204093",
+            "collected_at": "2026-05-23T11:37:04.420029",
             "title": "Are mega-IPOs like SpaceX huge opportunities for options trades?",
             "summary": "As part of the latest installment of Yahoo Finance's Options Playbook, BayCrest managing director David Boole explains the influence that mega-IPOs, the likes of SpaceX (SPAX.PVT), Anthropic (ANTH.PVT), and OpenAI (OPAI.PVT), are having on markets (^DJI, ^IXIC, ^GSPC), possible options trades, and proxy trades on other stocks like Elon Musk's Tesla (TSLA).",
             "published": "2026-05-22T19:55:54Z",
@@ -4032,52 +4032,34 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.204102",
-            "title": "2 S&P 500 Stocks with Promising Prospects and 1 Facing Challenges",
-            "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
-            "published": "2026-05-23T08:28:55Z",
-            "provider": "StockStory"
-        },
-        {
-            "source_ticker": "^GSPC",
-            "category": "business",
-            "collected_at": "2026-05-23T08:57:40.204106",
-            "title": "2 S&P 500 Stocks on Our Buy List and 1 That Underwhelm",
-            "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
-            "published": "2026-05-23T08:20:55Z",
-            "provider": "StockStory"
+            "collected_at": "2026-05-23T11:37:04.420040",
+            "title": "SPDR Oil Gas ETF or Invesco Solar ETF: Which is the Smarter Energy ETF to Buy?",
+            "summary": "Take a look at these two top sector-focused ETFs with differing fee structures, risk profiles, and five-year performance trajectories to pick your energy investing bet.",
+            "published": "2026-05-23T11:30:54Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.302515",
+            "collected_at": "2026-05-23T11:37:04.567529",
             "title": "Maybe investors can wait to buy SpaceX after IPO: Lee Munson",
             "summary": "Elon Musk's private space operator, SpaceX (SPAX.PVT), released its S-1 filing this week as it plans to go public via IPO in June. The Wall Street Journal has reported that AI developer OpenAI (OPAI.PVT) is preparing to file for its own mega-IPO. As investors anticipate this mega-IPO, should they be equally cautious as they are bullish on these companies ? Portfolio Wealth Advisors president and CIO Lee Munson, Yahoo Finance Markets and Data Editor Jared Blikre, and Senior Business Reporter Ines Ferré weigh in on the wave of upcoming IPOs.",
             "published": "2026-05-22T15:00:00Z",
             "provider": "Yahoo Finance Video"
         },
         {
-            "source_ticker": "^IXIC",
+            "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.302524",
-            "title": "Review & Preview: On the Bright Side",
-            "summary": "The Dow Jones Industrial Average rose 294 points, or 0.6%, to a record, while the S&P 500 added 0.4%—putting it up for eight straight weeks.  The Nasdaq Composite ended the day 0.2% higher.  There wasn’t much in the way of earnings reports on Friday, but investors were still buoyed by the swell from earlier this week.",
-            "published": "2026-05-22T23:55:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-23T11:37:04.693750",
+            "title": "Metals One is a identifier, financier and developer - ICYMI",
+            "summary": "Metals One PLC (AIM:MET1, FRA:HT7, OTCQB:MTOPF) this week outlined progress across its gold and uranium project portfolio as chief executive Daniel Maling discussed the company’s near-term operational plans and financing strategy in an interview with Proactive. Maling said Metals One...",
+            "published": "2026-05-23T11:01:00Z",
+            "provider": "Proactive"
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.438759",
-            "title": "Gold prices today, Friday, May 22: Gold hangs around $4,500, as it has all week",
-            "summary": "Gold June futures opened at $4,544.20 per troy ounce on Friday, May 22, 2026, flat compared to Thursday’s closing price. The gold price moved even lower in early trading. At 6:45 a.m. ET, the price of gold was down to $4,520.30.",
-            "published": "2026-05-22T11:01:25Z",
-            "provider": "Yahoo Personal Finance"
-        },
-        {
-            "source_ticker": "GC=F",
-            "category": "business",
-            "collected_at": "2026-05-23T08:57:40.438772",
+            "collected_at": "2026-05-23T11:37:04.693761",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
@@ -4086,7 +4068,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.438774",
+            "collected_at": "2026-05-23T11:37:04.693764",
             "title": "Canaccord Maintains Buy Rating on Hudbay Minerals (HBM)",
             "summary": "Hudbay Minerals Inc. (NYSE:HBM) is one of the 10 Best Performing Canadian Stocks So Far in 2026. On May 4, 2026, Canaccord lowered the firm’s price target on Hudbay Minerals Inc. (NYSE:HBM) to C$40 from C$41 previously and maintained a Buy rating on the shares after the company released its Q1 financial and operating results. […]",
             "published": "2026-05-23T02:31:46Z",
@@ -4095,19 +4077,10 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-23T08:57:40.537611",
+            "collected_at": "2026-05-23T11:37:04.824941",
             "title": "Are there any warnings to glean from market's new record highs?",
             "summary": "US stocks (^DJI, ^IXIC, ^GSPC) tick higher at Friday's session open after bond yields (^TYX, ^TNX, ^FVX) surged this week, signaling renewed inflation worries amid market highs. Portfolio Wealth Advisors president and CIO Lee Munson and Yahoo Finance Markets and Data Editor Jared Blikre examine the growth and possible warning signs within the market.",
             "published": "2026-05-22T14:03:57Z",
-            "provider": "Yahoo Finance Video"
-        },
-        {
-            "source_ticker": "CL=F",
-            "category": "business",
-            "collected_at": "2026-05-23T08:57:40.537615",
-            "title": "Oil prices are hard-pressing consumers at bottom of K-shaped economy",
-            "summary": "Walmart (WMT) came out with first quarter results that were in line with earnings and revenue estimates, with executives citing headwinds tied to consumers under additional price stresses. Gradient Investments senior portfolio manager Keith Gangl discusses the impact that higher gas prices (RB=F) are having on consumer sentiment and Walmart's customer base. Catch Yahoo Finance's interview with Walmart CFO John David Rainey.",
-            "published": "2026-05-22T10:00:00Z",
             "provider": "Yahoo Finance Video"
         }
     ],
@@ -4115,7 +4088,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.624890",
+            "collected_at": "2026-05-23T11:37:04.957804",
+            "title": "I left law enforcement with a $60,000 state pension earning 4%. Should I roll it to a Roth TSP instead?",
+            "summary": "On the May 19, 2026 episode of The Clark Howard Podcast, Clay from Kentucky asked advisor Wes Moss whether to leave roughly $60,000 in a vested state law enforcement pension earning a guaranteed 4% annually, or roll it into the Roth Thrift Savings Plan he now contributes to in his new federal job. “This seems ... I left law enforcement with a $60,000 state pension earning 4%. Should I roll it to a Roth TSP instead?",
+            "published": "2026-05-23T10:40:14Z",
+            "provider": "24/7 Wall St."
+        },
+        {
+            "source_ticker": "SPY",
+            "category": "investment",
+            "collected_at": "2026-05-23T11:37:04.957816",
             "title": "S&P 500 Clocks Best Weekly Rally Since 2023, Dow Hits Fresh Record As US-Iran Peace Hope Boosts Risk Sentiment - UBER, GILD, RDDT, FJET, AMD In Focus",
             "summary": "IPO optimism, robust corporate earnings, and a $2 billion quantum computing push aided U.S. stock indices this week.",
             "published": "2026-05-22T21:03:43Z",
@@ -4124,16 +4106,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.624898",
+            "collected_at": "2026-05-23T11:37:04.957818",
             "title": "Stocks Settle Higher on Iran Peace Hopes and Tech Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.37%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. June E-mini S&P futures (ESM26 ) rose +0.35%, and June E-mini Nasdaq futures...",
             "published": "2026-05-22T20:34:34Z",
             "provider": "Barchart"
         },
         {
-            "source_ticker": "SPY",
+            "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.624900",
+            "collected_at": "2026-05-23T11:37:05.081061",
             "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
             "summary": "<p>Is rebalancing killing your gains? The ETF Zoo crew dives into Cathie Wood’s ARK strategy, hyper-growth tech inflows, the wildest new corners of the market, and why ETFs are officially eating the market. </p>",
             "published": "2026-05-22T20:15:22Z",
@@ -4142,7 +4124,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.901747",
+            "collected_at": "2026-05-23T11:37:05.207391",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4151,7 +4133,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.901759",
+            "collected_at": "2026-05-23T11:37:05.207404",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4160,7 +4142,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:40.901761",
+            "collected_at": "2026-05-23T11:37:05.207406",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4169,7 +4151,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:41.006814",
+            "collected_at": "2026-05-23T11:37:05.341163",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4178,7 +4160,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:41.006816",
+            "collected_at": "2026-05-23T11:37:05.341166",
             "title": "Cathie Wood Joins the Cerebras Bandwagon With More Than 100,000 Shares. Wait for It to Deliver Before You Buy In, Too.",
             "summary": "Wood just added Cerebras, the latest hot AI name, to two of her Ark Invest funds.",
             "published": "2026-05-20T13:15:01Z",
@@ -4187,7 +4169,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:41.108240",
+            "collected_at": "2026-05-23T11:37:05.468840",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
@@ -4196,7 +4178,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:41.108248",
+            "collected_at": "2026-05-23T11:37:05.468852",
             "title": "Update: Gold Edges Lower as the Dollar Steadies",
             "summary": "(Updates prices.) Gold prices eased midafternoon Friday, remaining rangebound as the dollar stead",
             "published": "2026-05-22T18:00:09Z",
@@ -4205,7 +4187,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-23T08:57:41.108251",
+            "collected_at": "2026-05-23T11:37:05.468855",
             "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Buoyed by Robust Corporate Earnings Season",
             "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
             "published": "2026-05-22T13:10:38Z",
@@ -4216,7 +4198,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 13,
-        "total_investment_articles": 11
+        "total_business_articles": 10,
+        "total_investment_articles": 12
     }
 }
