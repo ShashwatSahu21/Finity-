@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-24T07:24:01.973478",
+    "collection_timestamp": "2026-05-24T09:14:18.844859",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-24T07:23:58.143183",
+            "timestamp": "2026-05-24T09:14:14.480116",
             "price": 23719.30078125,
             "change": 48.1015625,
             "open": 23671.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-24T07:23:58.352730",
+            "timestamp": "2026-05-24T09:14:14.798425",
             "price": 75415.3515625,
             "change": 154.9609375,
             "open": 75260.390625,
@@ -642,13 +642,13 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-24T07:23:58.541699",
-            "price": 76778.9375,
-            "change": 122.453125,
+            "timestamp": "2026-05-24T09:14:15.000094",
+            "price": 76805.28125,
+            "change": 148.796875,
             "open": 76656.484375,
             "high": 76915.6328125,
             "low": 76546.1796875,
-            "volume": 28227588096,
+            "volume": 26941640704,
             "news": [
                 {
                     "id": "b5db0a6b-7efc-302f-b34e-dca3164af626",
@@ -964,7 +964,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-24T07:23:58.781846",
+            "timestamp": "2026-05-24T09:14:15.274066",
             "price": 1354.5,
             "change": 4.5,
             "open": 1350.0,
@@ -1286,7 +1286,7 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-24T07:23:59.038321",
+            "timestamp": "2026-05-24T09:14:15.544079",
             "price": 2317.300048828125,
             "change": -13.800048828125,
             "open": 2331.10009765625,
@@ -1608,7 +1608,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-24T07:23:59.298676",
+            "timestamp": "2026-05-24T09:14:15.898873",
             "price": 766.7999877929688,
             "change": 7.64996337890625,
             "open": 759.1500244140625,
@@ -1854,7 +1854,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-24T07:23:59.532063",
+            "timestamp": "2026-05-24T09:14:16.189471",
             "price": 1174.5,
             "change": -8.0,
             "open": 1182.5,
@@ -2100,7 +2100,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-24T07:23:59.796886",
+            "timestamp": "2026-05-24T09:14:16.491562",
             "price": 308.82000732421875,
             "change": 2.70001220703125,
             "open": 306.1199951171875,
@@ -2422,7 +2422,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-24T07:24:00.015962",
+            "timestamp": "2026-05-24T09:14:16.774969",
             "price": 418.57000732421875,
             "change": -0.970001220703125,
             "open": 419.5400085449219,
@@ -2430,6 +2430,68 @@
             "low": 416.3299865722656,
             "volume": 22341900,
             "news": [
+                {
+                    "id": "604e2394-70b1-3bcd-8565-ea6c31d7d517",
+                    "content": {
+                        "id": "604e2394-70b1-3bcd-8565-ea6c31d7d517",
+                        "contentType": "STORY",
+                        "title": "The Gates Foundation Just Sold All of Its Microsoft Stock. Is It Time to Panic?",
+                        "description": "",
+                        "summary": "This move was unexpected by many investors.",
+                        "pubDate": "2026-05-24T07:50:00Z",
+                        "displayTime": "2026-05-24T07:50:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "A person looking at a computer screen in panic.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/JodseJEentPjnp8JbHKGrg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/X1hc4jzuJyreKVf0Ko.9UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/the-gates-foundation-just-sold-all-of-their-micros/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-just-sold-microsoft-075000712.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "8f60433d-184f-3e53-b6f9-819d9917076a",
                     "content": {
@@ -2604,7 +2666,7 @@
                         "contentType": "STORY",
                         "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
                         "description": "",
-                        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump Says He’ll Announce Negotiated Deal With Iran ShortlyTrump to Force Foreigners Seeking Green Cards to Go Home FirstNvidia CEO Urges Super Micro to Tighten Up on ComplianceBungie Plans Layoffs After Ending ‘Destiny 2’ De",
+                        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump Says He’ll Announce Negotiated Deal With Iran ShortlyNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump to Force Foreigners Seeking Green Cards to Go Home FirstBungie Plans Layoffs After Ending ‘Destiny 2’ De",
                         "pubDate": "2026-05-23T19:00:00Z",
                         "displayTime": "2026-05-23T19:00:00Z",
                         "isHosted": true,
@@ -2658,34 +2720,46 @@
                         },
                         "storyline": null
                     }
-                },
+                }
+            ]
+        },
+        {
+            "symbol": "GOOGL",
+            "timestamp": "2026-05-24T09:14:16.989285",
+            "price": 382.9700012207031,
+            "change": -4.3800048828125,
+            "open": 387.3500061035156,
+            "high": 388.739990234375,
+            "low": 381.7699890136719,
+            "volume": 20401900,
+            "news": [
                 {
-                    "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+                    "id": "88366efc-7b0a-3ac3-9b4d-b7b694fd3659",
                     "content": {
-                        "id": "6572c638-4bc2-3ddd-9619-f452f40b94f8",
+                        "id": "88366efc-7b0a-3ac3-9b4d-b7b694fd3659",
                         "contentType": "STORY",
-                        "title": "Paul Tudor Jones makes $8 billion bet on small-cap chaos",
+                        "title": "The AI Stock I'm Buying for My Retirement Portfolio -- and Why It Has Nothing to Do With Hype",
                         "description": "",
-                        "summary": "Paul Tudor Jones doesn’t appear to be locked into one stock. That may be the real story. The billionaire investor’s Tudor Investment Corp. reported a massive first-quarter options book that includes big stakes connected to Nvidia (NVDA), Tesla (TSLA), Microsoft (MSFT), Amazon (AMZN), Meta Platforms ...",
-                        "pubDate": "2026-05-23T18:33:00Z",
-                        "displayTime": "2026-05-23T18:33:00Z",
+                        "summary": "It's not easy to find companies you're confident in for the next 30 years, but this artificial intelligence (AI) stock fits the bill for me.",
+                        "pubDate": "2026-05-24T08:43:00Z",
+                        "displayTime": "2026-05-24T08:43:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                             "originalWidth": 1200,
-                            "originalHeight": 675,
-                            "caption": "",
+                            "originalHeight": 800,
+                            "caption": "The Alphabet logo over a red background.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/VJKRRqmYfGSqyBdiViz1hg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/jEoCpRM5hLieKsALhglqXA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                                     "width": 1200,
-                                    "height": 675,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/cAKTObvK1ZJNz38Inj8Gjg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/bd92fa61adeae47af88b16677a890f44",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Jt_I2MMPX_YE0uIJ0MNQVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2693,18 +2767,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.thestreet.com/investing/paul-tudor-jones-makes-8-billion-bet-on-small-cap-chaos",
+                            "url": "https://www.fool.com/investing/2026/05/24/the-ai-stock-im-buying-for-my-retirement-portfolio/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/paul-tudor-jones-makes-8-183300851.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-im-buying-retirement-084300472.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2720,19 +2794,7 @@
                         },
                         "storyline": null
                     }
-                }
-            ]
-        },
-        {
-            "symbol": "GOOGL",
-            "timestamp": "2026-05-24T07:24:00.208976",
-            "price": 382.9700012207031,
-            "change": -4.3800048828125,
-            "open": 387.3500061035156,
-            "high": 388.739990234375,
-            "low": 381.7699890136719,
-            "volume": 20401900,
-            "news": [
+                },
                 {
                     "id": "66365d21-553e-3c90-b7de-3097c46b0043",
                     "content": {
@@ -2980,34 +3042,46 @@
                         },
                         "storyline": null
                     }
-                },
+                }
+            ]
+        },
+        {
+            "symbol": "TSLA",
+            "timestamp": "2026-05-24T09:14:17.193447",
+            "price": 426.010009765625,
+            "change": 3.339996337890625,
+            "open": 422.6700134277344,
+            "high": 431.510009765625,
+            "low": 420.510009765625,
+            "volume": 45944100,
+            "news": [
                 {
-                    "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
+                    "id": "b5710ed7-d705-33d8-9abd-0edccaa99844",
                     "content": {
-                        "id": "5f7f982a-3131-313d-8984-0c737ef29e66",
+                        "id": "b5710ed7-d705-33d8-9abd-0edccaa99844",
                         "contentType": "STORY",
-                        "title": "Citi names Broadcom stock top semiconductor pick for 2026",
+                        "title": "3 Monster Stocks to Hold for the Next 20 Years",
                         "description": "",
-                        "summary": "The AI chip race has produced a handful of clear winners. Broadcom is one of them. But the question heading into its next earnings report is no longer about whether it is a top AI stock to own. The real debate now is: Can a company already pulling in billions from artificial intelligence keep ...",
-                        "pubDate": "2026-05-23T19:13:00Z",
-                        "displayTime": "2026-05-23T19:13:00Z",
+                        "summary": "Three \"monster stocks\" -- Amazon, O'Reilly Automotive, and Nike -- show how dominant companies can keep compounding for decades by layering new growth engines on top of durable, real-world demand trends.",
+                        "pubDate": "2026-05-24T07:45:00Z",
+                        "displayTime": "2026-05-24T07:45:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
-                            "originalWidth": 1200,
-                            "originalHeight": 675,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "An individual works at a car repair shop.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/CKO743LpquibutaIKqebcg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
-                                    "width": 1200,
-                                    "height": 675,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/AaBTjE3ZodlTrCGDyFfTsw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
+                                    "width": 1400,
+                                    "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1ZioGYX8slaNcWlvRw4eAg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/thestreet_881/4464787058bb398b43517f96fe17fb62",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PSoZMGS1mqbgyWTC57KVXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3015,18 +3089,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "TheStreet",
-                            "url": "https://www.thestreet.com/",
-                            "sourceId": "thestreet_881"
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.thestreet.com/investing/stocks/citi-names-broadcom-stock-top-semiconductor-pick-for-2026",
+                            "url": "https://www.fool.com/investing/2026/05/24/3-monster-stocks-to-hold-for-the-next-20-years/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/citi-names-broadcom-stock-top-191300964.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-monster-stocks-hold-next-074500739.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3042,19 +3116,69 @@
                         },
                         "storyline": null
                     }
-                }
-            ]
-        },
-        {
-            "symbol": "TSLA",
-            "timestamp": "2026-05-24T07:24:00.395144",
-            "price": 426.010009765625,
-            "change": 3.339996337890625,
-            "open": 422.6700134277344,
-            "high": 431.510009765625,
-            "low": 420.510009765625,
-            "volume": 45944100,
-            "news": [
+                },
+                {
+                    "id": "2ea634f1-81ae-388b-b799-c77f246b3235",
+                    "content": {
+                        "id": "2ea634f1-81ae-388b-b799-c77f246b3235",
+                        "contentType": "STORY",
+                        "title": "Did Tesla's SpaceX Stake And China FSD Rollout Just Reframe TSLA's AI And Autonomy Story?",
+                        "description": "",
+                        "summary": "In recent days, Tesla’s previously disclosed US$2.00 billion investment in SpaceX, now nearly 19 million SpaceX shares, has drawn fresh attention as SpaceX’s IPO plans, deep commercial ties with Tesla, and Tesla’s long-awaited rollout of Full Self‑Driving (Supervised) in China reshape how investors view the company’s AI and autonomy ambitions. This combination of economic exposure to SpaceX and new FSD access in the world’s largest EV market gives Tesla shareholders a rare dual link to both...",
+                        "pubDate": "2026-05-24T07:09:08Z",
+                        "displayTime": "2026-05-24T07:09:08Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/did-teslas-spacex-stake-china-070908381.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/did-teslas-spacex-stake-china-070908381.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "828d65c8-d216-3577-bccc-f0b97121af36",
                     "content": {
@@ -3216,136 +3340,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "f96ca850-375f-3e7f-b040-782af531a73c",
-                    "content": {
-                        "id": "f96ca850-375f-3e7f-b040-782af531a73c",
-                        "contentType": "STORY",
-                        "title": "Tesla News On India Exit Recall And SpaceX Links Tests Valuation",
-                        "description": "",
-                        "summary": "Tesla has officially cancelled plans to build a manufacturing plant in India, ending years of talks with local authorities. The company is dealing with a recall of more than 14,000 Model Y vehicles in the U.S. tied to a safety label issue. Tesla's commercial ties and equity exposure to SpaceX are growing, feeding ongoing speculation about a possible merger as a SpaceX IPO approaches. For investors watching NasdaqGS:TSLA, these developments land at a time when the stock trades at $426.01 and...",
-                        "pubDate": "2026-05-24T02:07:59Z",
-                        "displayTime": "2026-05-24T02:07:59Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-news-india-exit-recall-020759701.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-news-india-exit-recall-020759701.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "7b092c6a-e5c0-3f41-8df9-9c57a52a9eb3",
-                    "content": {
-                        "id": "7b092c6a-e5c0-3f41-8df9-9c57a52a9eb3",
-                        "contentType": "STORY",
-                        "title": "The 1 AI Stock I'm Buying Every Single Time It Dips Below $10",
-                        "description": "",
-                        "summary": "Most investors don't realize this is an artificial intelligence (AI) stock.",
-                        "pubDate": "2026-05-23T22:58:00Z",
-                        "displayTime": "2026-05-23T22:58:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3fb004e20fb2684469a1472dcdf2b104",
-                            "originalWidth": 1400,
-                            "originalHeight": 840,
-                            "caption": "Rivian truck in front of its headquarters.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/fp389QCGS_KlUsSq05L.Lg--~B/aD04NDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3fb004e20fb2684469a1472dcdf2b104",
-                                    "width": 1400,
-                                    "height": 840,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/6T6nVPeBIK1bC87KqZK4Uw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3fb004e20fb2684469a1472dcdf2b104",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/ai-stock-im-buying-every-single-time-dips-rivn/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-im-buying-225800110.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-24T07:24:00.618481",
+            "timestamp": "2026-05-24T09:14:17.427521",
             "price": 215.3300018310547,
             "change": -5.5699920654296875,
             "open": 220.89999389648438,
@@ -3354,32 +3354,51 @@
             "volume": 168346300,
             "news": [
                 {
-                    "id": "8f60433d-184f-3e53-b6f9-819d9917076a",
+                    "id": "cb34d6d9-2be0-3be1-9e54-16c071f29e3d",
                     "content": {
-                        "id": "8f60433d-184f-3e53-b6f9-819d9917076a",
+                        "id": "cb34d6d9-2be0-3be1-9e54-16c071f29e3d",
                         "contentType": "STORY",
-                        "title": "AI productivity upside could be 10x the current estimates: BofA",
+                        "title": "3 Monster Dividend Stocks to Hold for the Next 10 Years",
                         "description": "",
-                        "summary": "Investing.com -- Artificial intelligence could increase global economic growth by as much as 1 percent annually over the next decade, lifting growth from about 3.5% to 4.5%, as the technology drives productivity gains across industries and tasks, according to a Bank of America analyst report.",
-                        "pubDate": "2026-05-24T06:41:27Z",
-                        "displayTime": "2026-05-24T06:41:27Z",
+                        "summary": "These stocks are built for the long haul. And they pay great dividends.",
+                        "pubDate": "2026-05-24T09:04:00Z",
+                        "displayTime": "2026-05-24T09:04:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
-                        "thumbnail": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/279fb4fbbd93273949cbbd770aee1326",
+                            "originalWidth": 1400,
+                            "originalHeight": 989,
+                            "caption": "\"Dividends\" printed in the center of a chalkboard and surrounded by chalk drawings.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/N3pREiX2LI2Tb3iiUSfs1g--~B/aD05ODk7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/279fb4fbbd93273949cbbd770aee1326",
+                                    "width": 1400,
+                                    "height": 989,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/CvxkAvUxdScMMlCxjvG11g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/279fb4fbbd93273949cbbd770aee1326",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
                         "provider": {
-                            "displayName": "Investing.com",
-                            "url": "https://www.investing.com/",
-                            "sourceId": "investing_com_631"
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/economy/articles/ai-productivity-upside-could-10x-064127173.html",
+                            "url": "https://www.fool.com/investing/2026/05/24/3-monster-dividend-stocks-to-hold-for-the-next-10/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/economy/articles/ai-productivity-upside-could-10x-064127173.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-monster-dividend-stocks-hold-090400863.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3397,32 +3416,32 @@
                     }
                 },
                 {
-                    "id": "de491ad0-bc77-3b8c-adae-0dcd1d728c3a",
+                    "id": "88366efc-7b0a-3ac3-9b4d-b7b694fd3659",
                     "content": {
-                        "id": "de491ad0-bc77-3b8c-adae-0dcd1d728c3a",
+                        "id": "88366efc-7b0a-3ac3-9b4d-b7b694fd3659",
                         "contentType": "STORY",
-                        "title": "Great News for Nvidia Shareholders!",
+                        "title": "The AI Stock I'm Buying for My Retirement Portfolio -- and Why It Has Nothing to Do With Hype",
                         "description": "",
-                        "summary": "Don't give up on the chipmaker just yet.",
-                        "pubDate": "2026-05-24T06:20:00Z",
-                        "displayTime": "2026-05-24T06:20:00Z",
+                        "summary": "It's not easy to find companies you're confident in for the next 30 years, but this artificial intelligence (AI) stock fits the bill for me.",
+                        "pubDate": "2026-05-24T08:43:00Z",
+                        "displayTime": "2026-05-24T08:43:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/86f3b41cf955a0974b4dc06f070454d6",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                             "originalWidth": 1200,
                             "originalHeight": 800,
-                            "caption": "Nvidia logo.",
+                            "caption": "The Alphabet logo over a red background.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/48jfEkTsCdxaTWedA.A4IA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/86f3b41cf955a0974b4dc06f070454d6",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/jEoCpRM5hLieKsALhglqXA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                                     "width": 1200,
                                     "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/qQ2GCj52pcaYiqhyuu9Sgg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/86f3b41cf955a0974b4dc06f070454d6",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/Jt_I2MMPX_YE0uIJ0MNQVw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/ce7de30cf7b2ba1c253451a725087a89",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3435,13 +3454,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/24/great-news-from-nvidia-shareholders/",
+                            "url": "https://www.fool.com/investing/2026/05/24/the-ai-stock-im-buying-for-my-retirement-portfolio/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/great-news-nvidia-shareholders-062000362.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-im-buying-retirement-084300472.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3459,32 +3478,32 @@
                     }
                 },
                 {
-                    "id": "e7a2082a-bf0f-35d5-8173-141616fa7fad",
+                    "id": "604e2394-70b1-3bcd-8565-ea6c31d7d517",
                     "content": {
-                        "id": "e7a2082a-bf0f-35d5-8173-141616fa7fad",
+                        "id": "604e2394-70b1-3bcd-8565-ea6c31d7d517",
                         "contentType": "STORY",
-                        "title": "3 Cryptocurrencies to Watch as the Clarity Act Heads to the Senate",
+                        "title": "The Gates Foundation Just Sold All of Its Microsoft Stock. Is It Time to Panic?",
                         "description": "",
-                        "summary": "Passage of major new crypto legislation could unlock value for these three cryptocurrencies.",
-                        "pubDate": "2026-05-24T04:50:00Z",
-                        "displayTime": "2026-05-24T04:50:00Z",
+                        "summary": "This move was unexpected by many investors.",
+                        "pubDate": "2026-05-24T07:50:00Z",
+                        "displayTime": "2026-05-24T07:50:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/13e2aa98fb0baec9b20fa8122787c5f2",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
                             "originalWidth": 1400,
                             "originalHeight": 933,
-                            "caption": "Investor in business casual attire holding smartphone outside office building.",
+                            "caption": "A person looking at a computer screen in panic.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/MTAxm8TCGBdqWooEz4BOWQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/13e2aa98fb0baec9b20fa8122787c5f2",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/JodseJEentPjnp8JbHKGrg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
                                     "width": 1400,
                                     "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/70BuCBsV0rZdZYFN8tmAVA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/13e2aa98fb0baec9b20fa8122787c5f2",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/X1hc4jzuJyreKVf0Ko.9UQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6a9749df1599e71fbed59c4fd43facb2",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3497,13 +3516,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/24/3-cryptocurrencies-to-watch-as-the-clarity-act-hea/",
+                            "url": "https://www.fool.com/investing/2026/05/24/the-gates-foundation-just-sold-all-of-their-micros/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/3-cryptocurrencies-watch-clarity-act-045000798.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-just-sold-microsoft-075000712.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3521,32 +3540,32 @@
                     }
                 },
                 {
-                    "id": "bfe33f48-7b5f-3131-972a-dbc61532ad3e",
+                    "id": "b5710ed7-d705-33d8-9abd-0edccaa99844",
                     "content": {
-                        "id": "bfe33f48-7b5f-3131-972a-dbc61532ad3e",
+                        "id": "b5710ed7-d705-33d8-9abd-0edccaa99844",
                         "contentType": "STORY",
-                        "title": "2 Stocks With Monster Potential to Hold Through the Next Decade of Uncertainty",
+                        "title": "3 Monster Stocks to Hold for the Next 20 Years",
                         "description": "",
-                        "summary": "Alphabet and TSCM are two of the best-positioned AI stocks for the long term.",
-                        "pubDate": "2026-05-24T01:50:00Z",
-                        "displayTime": "2026-05-24T01:50:00Z",
+                        "summary": "Three \"monster stocks\" -- Amazon, O'Reilly Automotive, and Nike -- show how dominant companies can keep compounding for decades by layering new growth engines on top of durable, real-world demand trends.",
+                        "pubDate": "2026-05-24T07:45:00Z",
+                        "displayTime": "2026-05-24T07:45:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/7076d20188fe8467fae5e893d8842fe7",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
                             "originalWidth": 1400,
-                            "originalHeight": 823,
-                            "caption": "AI chip rendered in multicolored, upright blocks. ",
+                            "originalHeight": 933,
+                            "caption": "An individual works at a car repair shop.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/CG4vSH0VhEOFYCYx_j8ylg--~B/aD04MjM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/7076d20188fe8467fae5e893d8842fe7",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/AaBTjE3ZodlTrCGDyFfTsw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
                                     "width": 1400,
-                                    "height": 823,
+                                    "height": 933,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Xs4QS6VXZUcAn9.Wr1p8zQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/7076d20188fe8467fae5e893d8842fe7",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PSoZMGS1mqbgyWTC57KVXw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/82bab1f76a29f870cb40ada7817b03bc",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3559,13 +3578,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/2-stocks-with-monster-potential-to-hold-through-th/",
+                            "url": "https://www.fool.com/investing/2026/05/24/3-monster-stocks-to-hold-for-the-next-20-years/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-monster-potential-hold-015000700.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-monster-stocks-hold-next-074500739.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3583,32 +3602,32 @@
                     }
                 },
                 {
-                    "id": "53fe1ffe-4ce9-3faf-90ed-575dce1098ed",
+                    "id": "0cb3c5f4-b1e5-3376-9821-e55a98fac0df",
                     "content": {
-                        "id": "53fe1ffe-4ce9-3faf-90ed-575dce1098ed",
+                        "id": "0cb3c5f4-b1e5-3376-9821-e55a98fac0df",
                         "contentType": "STORY",
-                        "title": "Nvidia's Board Just Authorized an Additional $80 Billion Buyback. Here's What That Really Signals to Investors.",
+                        "title": "Is Cava a Buy as Same-Store Sales Start to Sizzle?",
                         "description": "",
-                        "summary": "Returning cash at this scale says a lot about the chip giant's confidence. But it doesn't erase the stock's biggest risks.",
-                        "pubDate": "2026-05-24T01:43:00Z",
-                        "displayTime": "2026-05-24T01:43:00Z",
+                        "summary": "Cava started the year strong with robust same-store sales.",
+                        "pubDate": "2026-05-24T07:35:00Z",
+                        "displayTime": "2026-05-24T07:35:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/85d55a2f7f668acbec1caf0672487dec",
-                            "originalWidth": 1400,
-                            "originalHeight": 787,
-                            "caption": "Computer servers inside of a data center.",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3bd08cea58143f9843646b78fb3042b5",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Cava logo.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Sx_nTpEeRRMPKiY3zpuJ7g--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/85d55a2f7f668acbec1caf0672487dec",
-                                    "width": 1400,
-                                    "height": 787,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3h3LUxCLg3SHbTr8K71msw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3bd08cea58143f9843646b78fb3042b5",
+                                    "width": 1200,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/BXDAgg3eBQ7GXuMBBnZmjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/85d55a2f7f668acbec1caf0672487dec",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/BtVp7FnbrVBqjCQ_6z81BA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3bd08cea58143f9843646b78fb3042b5",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3621,13 +3640,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/23/nvidias-board-just-authorized-an-additional-80-bil/",
+                            "url": "https://www.fool.com/investing/2026/05/24/is-cava-a-buy-as-same-store-sales-start-to-sizzle/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/nvidias-board-just-authorized-additional-014300749.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cava-buy-same-store-sales-073500710.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3648,13 +3667,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-24T07:24:00.799866",
-            "price": 2120.580078125,
-            "change": 5.490478515625,
+            "timestamp": "2026-05-24T09:14:17.639580",
+            "price": 2119.0400390625,
+            "change": 3.950439453125,
             "open": 2115.089599609375,
             "high": 2125.49755859375,
             "low": 2110.897216796875,
-            "volume": 16215738368,
+            "volume": 14024284160,
             "news": [
                 {
                     "id": "e7a2082a-bf0f-35d5-8173-141616fa7fad",
@@ -3973,7 +3992,16 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.012767",
+            "collected_at": "2026-05-24T09:14:17.868299",
+            "title": "Prediction: It's Only a Matter of Time Before President Donald Trump and Fed Chair Kevin Warsh Are Butting Heads -- and Wall Street May Be the Big Loser",
+            "summary": "Economic dynamics and the new Fed chair's strong views on monetary policy have Warsh and Trump on a collision course.",
+            "published": "2026-05-24T08:26:00Z",
+            "provider": "Motley Fool"
+        },
+        {
+            "source_ticker": "^DJI",
+            "category": "business",
+            "collected_at": "2026-05-24T09:14:17.868309",
             "title": "Knowles, Crane NXT, and QuinStreet Shares Skyrocket, What You Need To Know",
             "summary": "A number of stocks jumped in the afternoon session after the Dow Jones Industrial Average climbed more than 300 points and briefly touched a fresh all-time high above 50,700 as market sentiment improved amid falling yields.",
             "published": "2026-05-24T02:44:55Z",
@@ -3982,25 +4010,16 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.012780",
+            "collected_at": "2026-05-24T09:14:17.868312",
             "title": "Diebold Nixdorf, TD SYNNEX, and Brady Shares Skyrocket, What You Need To Know",
             "summary": "A number of stocks jumped in the afternoon session after the Dow Jones Industrial Average climbed more than 300 points and briefly touched a fresh all-time high above 50,700 as market sentiment improved amid falling yields.",
             "published": "2026-05-24T02:44:55Z",
             "provider": "StockStory"
         },
         {
-            "source_ticker": "^DJI",
-            "category": "business",
-            "collected_at": "2026-05-24T07:24:01.012783",
-            "title": "ePlus, Plexus, and Connection Shares Are Soaring, What You Need To Know",
-            "summary": "A number of stocks jumped in the afternoon session after the Dow Jones Industrial Average climbed more than 300 points and briefly touched a fresh all-time high above 50,700 as market sentiment improved amid falling yields.",
-            "published": "2026-05-24T02:36:55Z",
-            "provider": "StockStory"
-        },
-        {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.118693",
+            "collected_at": "2026-05-24T09:14:17.980191",
             "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
             "summary": "Bonds might not be the safety net they used to be if inflation stays high.",
             "published": "2026-05-23T15:54:20Z",
@@ -4009,25 +4028,16 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.118705",
-            "title": "Is Now the Time to Buy MercadoLibre Stock After Hedge Fund Linonia Initiated a Position Worth Over $225 Million?",
-            "summary": "MercadoLibre operates a leading e-commerce and fintech platform serving businesses and consumers across Latin America.",
-            "published": "2026-05-24T05:57:53Z",
-            "provider": "Motley Fool"
-        },
-        {
-            "source_ticker": "^GSPC",
-            "category": "business",
-            "collected_at": "2026-05-24T07:24:01.118708",
-            "title": "Better Financial Sector ETF: Vanguard's VFH vs. State Street's XLF",
-            "summary": "Expense ratios differ by just 0.01%, but portfolio concentration and market-cap coverage set these financial sector ETFs apart.",
-            "published": "2026-05-24T02:20:04Z",
+            "collected_at": "2026-05-24T09:14:17.980205",
+            "title": "Is This S&P 500 Dividend Stock a Smart Buy in 2026?",
+            "summary": "With the benchmark trading in record territory, opportunistic investors might be searching for under-appreciated tickers right now.",
+            "published": "2026-05-24T08:05:00Z",
             "provider": "Motley Fool"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.219162",
+            "collected_at": "2026-05-24T09:14:18.088837",
             "title": "Dow Jones Futures: Trump Says Iran Deal Near With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
             "summary": "President Donald Trump said Saturday that the U.S. and Iran are close to an interim deal that will open the Strait of Hormuz.",
             "published": "2026-05-24T02:17:00Z",
@@ -4036,25 +4046,16 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.219176",
+            "collected_at": "2026-05-24T09:14:18.088839",
             "title": "Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
             "summary": "Although the benchmark S&P 500 has clawed back to record territory and the VIX has settled into a sleepy 16.7 reading, Wall Street’s memory is shorter than its history would suggest. The Dow and the Nasdaq are both riding a heavy year-over-year tailwind, with the S&P 500 up 28% over the past twelve months. The ... Warren Buffett Bought Leveraged Investor’s Berkshire Shares for $40 in the 1973 Crash. They’re Now Worth $700,000",
             "published": "2026-05-23T12:02:27Z",
             "provider": "24/7 Wall St."
         },
         {
-            "source_ticker": "^IXIC",
-            "category": "business",
-            "collected_at": "2026-05-24T07:24:01.219178",
-            "title": "Opinion: President Donald Trump Has Set New Fed Chair Kevin Warsh Up for Failure -- and Wall Street Will End Up Paying the Price",
-            "summary": "The new head of the head is taking the helm at one of the most challenging times in modern history.",
-            "published": "2026-05-23T10:56:00Z",
-            "provider": "Motley Fool"
-        },
-        {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.310364",
+            "collected_at": "2026-05-24T09:14:18.198202",
             "title": "Assessing Frontline (NYSE:FRO) Valuation After Strong Multi‑Year Shareholder Returns",
             "summary": "Why Frontline is on investors’ radar today Frontline (NYSE:FRO) has drawn fresh attention after recent trading left the stock at US$37.12, with returns of 4.3% over the past month and 5.8% in the past 3 months. See our latest analysis for Frontline. That recent pullback of 3.4% in the last session sits against a 1-month share price return of 4.3% and a powerful year-to-date share price return of 80.4%, while the 1-year total shareholder return of 116.1% and very large 5-year total shareholder...",
             "published": "2026-05-24T02:07:46Z",
@@ -4063,7 +4064,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.310376",
+            "collected_at": "2026-05-24T09:14:18.198212",
             "title": "Assessing Coeur Mining (CDE) Valuation After Recent Share Price Pullback And Long Term Gains",
             "summary": "Coeur Mining (CDE) has kept investors busy lately as the stock price shows mixed short term performance, with a small decline over the past month but a stronger gain over the past 3 months. See our latest analysis for Coeur Mining. At a share price of US$17.63, Coeur Mining’s recent 30 day share price return is down 8.7% and its 90 day share price return is down 27.8%. However, the 1 year total shareholder return of 126% and 3 year total shareholder return of almost 5x signal that longer term...",
             "published": "2026-05-24T02:07:27Z",
@@ -4072,7 +4073,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.310379",
+            "collected_at": "2026-05-24T09:14:18.198214",
             "title": "Assessing Murphy Oil (MUR) Valuation After A Strong Year And Recent Pullback",
             "summary": "Murphy Oil overview after recent performance Murphy Oil (MUR) has drawn fresh attention after recent price moves, with the stock last closing at $38. Short term returns were mixed, while longer lookback periods show markedly different outcomes for investors. See our latest analysis for Murphy Oil. Recent trading has been choppy, with the 7 day share price return down 6.5% and the 30 day share price return also lower. At the same time, the 1 year total shareholder return stands at 90.11% and...",
             "published": "2026-05-23T23:13:02Z",
@@ -4081,7 +4082,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.415234",
+            "collected_at": "2026-05-24T09:14:18.307420",
             "title": "Trump: Deal with Iran to be announced soon",
             "summary": "President Trump said Saturday evening an agreement with Iran that will set the framework for renewed peace talks and reopen the Strait of Hormuz would be announced shortly.",
             "published": "2026-05-23T21:48:48Z",
@@ -4090,7 +4091,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.415247",
+            "collected_at": "2026-05-24T09:14:18.307426",
             "title": "Scottish Government will be ‘bold, innovative and ambitious’ on industry – Flynn",
             "summary": "The new Cabinet Secretary for Economy has met former workers of the Grangemouth refinery and Mossmorran ethylene plan.",
             "published": "2026-05-24T06:37:54Z",
@@ -4099,7 +4100,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-24T07:24:01.415249",
+            "collected_at": "2026-05-24T09:14:18.307429",
             "title": "Hope for Iran resolution gives stocks room to rally",
             "summary": "Crude oil is lower on hopes for a resolution with Iran, with WTI well below $100 bbl and Brent crude under $105 bbl. Longer-term interest rates are lower on the prospects for a lower inflation impact, while shorter-term rates are higher on expectations of a more restrictive Central Bank ...",
             "published": "2026-05-24T04:02:35Z",
@@ -4110,7 +4111,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.587664",
+            "collected_at": "2026-05-24T09:14:18.412707",
             "title": "DBMF Is Quietly Beating the 60/40 Portfolio in 2026, and This $3 Billion Fund Leads the Pack",
             "summary": "For retirees who watched bonds fail to cushion equity losses in 2022, the iMGP DBi Managed Futures Strategy ETF (NYSEARCA:DBMF) has changed the conversation by gathering roughly $3 billion in assets and delivering what the 60/40 portfolio failed to deliver then and is again outpacing in 2026: a return stream that does not move in ... DBMF Is Quietly Beating the 60/40 Portfolio in 2026, and This $3 Billion Fund Leads the Pack",
             "published": "2026-05-23T19:51:31Z",
@@ -4119,7 +4120,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.587678",
+            "collected_at": "2026-05-24T09:14:18.412714",
             "title": "ULTY Paid 68.7% in Distributions While Its Stock Price Fell 47%",
             "summary": "YieldMax Ultra Option Income Strategy ETF (NYSEARCA:ULTY) pays weekly cash distributions that annualize to roughly 24% at recent rates. ULTY manages $2.48 billion by selling options against a concentrated basket of high-volatility names. The pitch is simple: a check every week. The risk most ULTY holders miss is the gap between those checks and what ... ULTY Paid 68.7% in Distributions While Its Stock Price Fell 47%",
             "published": "2026-05-23T17:30:12Z",
@@ -4128,16 +4129,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.587681",
-            "title": "PJUL Caps Your S&P 500 Gains at 11% While Protecting Against 40% Crashes: The Math for Retirees",
-            "summary": "A 68-year-old retiree with $400,000 in equities heading into 2026 has a real problem: SPY ran up 27% in the past year, but the VIX still spiked to almost 31 in late March, and the University of Michigan consumer sentiment sits at 53.3, deep in pessimistic territory. The Innovator U.S. Equity Power Buffer ETF, July ... PJUL Caps Your S&P 500 Gains at 11% While Protecting Against 40% Crashes: The Math for Retirees",
-            "published": "2026-05-23T13:54:51Z",
-            "provider": "24/7 Wall St."
+            "collected_at": "2026-05-24T09:14:18.412717",
+            "title": "Broadcom’s AI Packaging Bet Gets Bigger. Wall Street Is Betting on More Upside for AVGO Stock.",
+            "summary": "Broadcom joining Applied Materials’ EPIC platform adds another layer to the AI infrastructure story, as advanced packaging becomes more critical for custom accelerators, networking chips, and next-generation compute systems.",
+            "published": "2026-05-23T16:00:02Z",
+            "provider": "Barchart"
         },
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.684694",
+            "collected_at": "2026-05-24T09:14:18.510630",
             "title": "S&P 500 Clocks Best Weekly Rally Since 2023, Dow Hits Fresh Record As US-Iran Peace Hope Boosts Risk Sentiment - UBER, GILD, RDDT, FJET, AMD In Focus",
             "summary": "IPO optimism, robust corporate earnings, and a $2 billion quantum computing push aided U.S. stock indices this week.",
             "published": "2026-05-22T21:03:43Z",
@@ -4146,7 +4147,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.684707",
+            "collected_at": "2026-05-24T09:14:18.510637",
             "title": "Stocks Settle Higher on Iran Peace Hopes and Tech Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.37%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. June E-mini S&P futures (ESM26 ) rose +0.35%, and June E-mini Nasdaq futures...",
             "published": "2026-05-22T20:34:34Z",
@@ -4155,7 +4156,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.684712",
+            "collected_at": "2026-05-24T09:14:18.510640",
             "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
             "summary": "<p>Is rebalancing killing your gains? The ETF Zoo crew dives into Cathie Wood’s ARK strategy, hyper-growth tech inflows, the wildest new corners of the market, and why ETFs are officially eating the market. </p>",
             "published": "2026-05-22T20:15:22Z",
@@ -4164,7 +4165,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.779660",
+            "collected_at": "2026-05-24T09:14:18.631080",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4173,7 +4174,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.779670",
+            "collected_at": "2026-05-24T09:14:18.631086",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4182,7 +4183,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.779673",
+            "collected_at": "2026-05-24T09:14:18.631089",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4191,7 +4192,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.876275",
+            "collected_at": "2026-05-24T09:14:18.740515",
             "title": "Cathie Wood's ARK Sells Chip Giants, Buys The Dip In Crypto Exchange Bullish And Two Others",
             "summary": "The company also bought 105,810 shares of Twist Bioscience for ARKK, its largest single-stock transaction over the past two days.",
             "published": "2026-05-23T14:48:31Z",
@@ -4200,7 +4201,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.876291",
+            "collected_at": "2026-05-24T09:14:18.740524",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4209,7 +4210,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.973383",
+            "collected_at": "2026-05-24T09:14:18.844773",
             "title": "Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Family Vacation.",
             "summary": "By far, the oldest and longest-standing gold exchange-traded products, or ETPs, generally charge around 0.4% annually in expense ratios. That applies both to closed-ended structures like the Sprott Physical Gold Trust (NYSEARCA: PHYS), which charges 0.39%, and also open-ended ETFs like the SPDR Gold Shares (NYSEARCA: GLD), which charges 0.40%. Long term, those fees matter. ... Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Fa",
             "published": "2026-05-23T15:15:00Z",
@@ -4218,7 +4219,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.973392",
+            "collected_at": "2026-05-24T09:14:18.844781",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
@@ -4227,7 +4228,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T07:24:01.973396",
+            "collected_at": "2026-05-24T09:14:18.844784",
             "title": "Update: Gold Edges Lower as the Dollar Steadies",
             "summary": "(Updates prices.) Gold prices eased midafternoon Friday, remaining rangebound as the dollar stead",
             "published": "2026-05-22T18:00:09Z",
@@ -4238,7 +4239,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 15,
+        "total_business_articles": 13,
         "total_investment_articles": 14
     }
 }
