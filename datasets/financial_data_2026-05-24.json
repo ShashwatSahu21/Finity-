@@ -1,9 +1,9 @@
 {
-    "collection_timestamp": "2026-05-24T15:04:35.896503",
+    "collection_timestamp": "2026-05-24T18:59:10.660756",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-24T15:04:30.120803",
+            "timestamp": "2026-05-24T18:59:03.721353",
             "price": 23719.30078125,
             "change": 48.1015625,
             "open": 23671.19921875,
@@ -325,7 +325,7 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-24T15:04:30.447830",
+            "timestamp": "2026-05-24T18:59:04.233525",
             "price": 75415.3515625,
             "change": 154.9609375,
             "open": 75260.390625,
@@ -585,24 +585,86 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-24T15:04:30.668177",
-            "price": 76428.6796875,
-            "change": -227.8046875,
+            "timestamp": "2026-05-24T18:59:04.776050",
+            "price": 76578.2109375,
+            "change": -78.2734375,
             "open": 76656.484375,
             "high": 77215.5078125,
             "low": 76256.0,
-            "volume": 30723479552,
+            "volume": 23330396160,
             "news": [
                 {
-                    "id": "215551aa-af0c-3daa-932c-52f9439181ac",
+                    "id": "80b5660d-0be6-36ad-9d41-bf5a0e8043d7",
                     "content": {
-                        "id": "215551aa-af0c-3daa-932c-52f9439181ac",
+                        "id": "80b5660d-0be6-36ad-9d41-bf5a0e8043d7",
                         "contentType": "STORY",
-                        "title": "Can CleanSpark’s (CLSK) New Finance Chief Reframe Its Transition From Bitcoin Miner To AI Infrastructure Player?",
+                        "title": "1 Artificial Intelligence (AI) Stock Flying Under the Radar That I Think Every Investor Should Consider",
                         "description": "",
-                        "summary": "In May 2026, CleanSpark, Inc. appointed Ruben Sahakyan as Senior Vice President of Finance, tasking him with leading capital markets, financial planning and analysis, and M&A support after more than 15 years in investment banking and digital assets advisory. This hire brings in a finance leader who has advised on more than US$20.00 billion of transactions across digital assets, infrastructure, and fintech, directly aligning with CleanSpark’s push to expand beyond bitcoin mining into AI and...",
-                        "pubDate": "2026-05-24T12:10:37Z",
-                        "displayTime": "2026-05-24T12:10:37Z",
+                        "summary": "Cipher Digital is an underrated AI stock that can outpace the S&P 500 over the long run.",
+                        "pubDate": "2026-05-24T16:17:00Z",
+                        "displayTime": "2026-05-24T16:17:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/f9d79b1371f7c47403da3400e3374e5c",
+                            "originalWidth": 1201,
+                            "originalHeight": 627,
+                            "caption": "A person holds a glowing ball surrounded by AI icons. ",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/2lTYcohvF38jyjcusa7wJA--~B/aD02Mjc7dz0xMjAxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/f9d79b1371f7c47403da3400e3374e5c",
+                                    "width": 1201,
+                                    "height": 627,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/fVk6wumZIyg3auwVAzELww--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/f9d79b1371f7c47403da3400e3374e5c",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/1-artificial-intelligence-ai-stock-flying-under-th/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/1-artificial-intelligence-ai-stock-161700029.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "332ed895-9bcd-39a1-b97c-d652c2a055ff",
+                    "content": {
+                        "id": "332ed895-9bcd-39a1-b97c-d652c2a055ff",
+                        "contentType": "STORY",
+                        "title": "Cipher Digital Leases Hyperscale AI Capacity And Shifts Beyond Bitcoin Mining",
+                        "description": "",
+                        "summary": "Cipher Digital (NasdaqGS:CIFR) has leased hyperscale AI infrastructure capacity to Amazon Web Services and Google/Fluidstack. The company is pivoting from bitcoin mining toward high performance computing and data center services. Cipher Digital recently leased a third large scale AI data center campus to support a multi gigawatt development pipeline. The new arrangements include substantial contracted cash flows tied to long term AI infrastructure demand. Cipher Digital, historically...",
+                        "pubDate": "2026-05-24T16:12:11Z",
+                        "displayTime": "2026-05-24T16:12:11Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
@@ -632,13 +694,13 @@
                             "sourceId": "simply_wall_st__316"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/cleanspark-clsk-finance-chief-reframe-121037539.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-leases-hyperscale-ai-161211992.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/cleanspark-clsk-finance-chief-reframe-121037539.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cipher-digital-leases-hyperscale-ai-161211992.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -656,32 +718,32 @@
                     }
                 },
                 {
-                    "id": "a546c570-df5f-3eb9-8b39-6f967adf9c7b",
+                    "id": "95dcc99b-cbf7-3850-b870-e026f46ebabc",
                     "content": {
-                        "id": "a546c570-df5f-3eb9-8b39-6f967adf9c7b",
+                        "id": "95dcc99b-cbf7-3850-b870-e026f46ebabc",
                         "contentType": "STORY",
-                        "title": "Covered-Call ETF MSTY Caps Your Gains While You Ride All the Losses",
+                        "title": "Buy, Hodl, Repeat: Adam Back Delivers a Clear Bitcoin Recommendation",
                         "description": "",
-                        "summary": "YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) sells investors on a single promise: harvest unusually rich option premiums on Strategy (NASDAQ:MSTR) shares and pay them out monthly. At a distribution rate that has ranged from roughly 60% to 100% annualized since launch, MSTY has become one of the most discussed single-stock income ETFs in the ... Covered-Call ETF MSTY Caps Your Gains While You Ride All the Losses",
-                        "pubDate": "2026-05-24T11:45:55Z",
-                        "displayTime": "2026-05-24T11:45:55Z",
+                        "summary": "Blockstream CEO Adam Back says efficient markets are catching up with memecoins and air tokens. His advice remains simple: buy Bitcoin, hold.",
+                        "pubDate": "2026-05-24T15:46:53Z",
+                        "displayTime": "2026-05-24T15:46:53Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e",
-                            "originalWidth": 1500,
-                            "originalHeight": 1001,
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/6d5468b96915407883af7291b0a945ac",
+                            "originalWidth": 2368,
+                            "originalHeight": 1332,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/H5TQJ_F3RLhHI8T7ly4ibw--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e",
-                                    "width": 1500,
-                                    "height": 1001,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/q7PHCXH5vle7NtN6L0A79A--~B/aD0xMzMyO3c9MjM2ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/6d5468b96915407883af7291b0a945ac",
+                                    "width": 2368,
+                                    "height": 1332,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/WiQ6MMfYR2Te9F6llZu8Lg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/2fbe2c8024783b5d2615c74bc2d6516e",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/spAYjL9e_gul.QEMOj2wNQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6d5468b96915407883af7291b0a945ac",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -689,18 +751,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
+                            "displayName": "BeInCrypto",
+                            "url": "https://beincrypto.com/",
+                            "sourceId": "beincrypto_us_662"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/24/covered-call-etf-msty-caps-your-gains-while-you-ride-all-the-losses/",
+                            "url": "https://beincrypto.com/adam-back-bitcoin-investment-strategy/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/covered-call-etf-msty-caps-114555553.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/buy-hodl-repeat-adam-back-154653084.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -718,32 +780,32 @@
                     }
                 },
                 {
-                    "id": "b343d786-1348-35a5-93c5-6779ae12a723",
+                    "id": "da1d2f5d-3d6a-364e-8095-aeab68753a71",
                     "content": {
-                        "id": "b343d786-1348-35a5-93c5-6779ae12a723",
+                        "id": "da1d2f5d-3d6a-364e-8095-aeab68753a71",
                         "contentType": "STORY",
-                        "title": "Peter Schiff Says Whales Are Dumping Bitcoin On 'Bag Holders' — The On-Chain Data Says Otherwise",
+                        "title": "US Strategic Bitcoin Reserve Picks Up Speed — Congress Has A Six-Month Window To Make It Law, Warns Congressman Begich",
                         "description": "",
-                        "summary": "Inflation breaks pyramid framing. Bitcoin has a fixed annual issuance of 0.85%, which is lower than gold's and structurally incompatible with pyramid mechanics, in which supply expands.",
-                        "pubDate": "2026-05-24T10:54:48Z",
-                        "displayTime": "2026-05-24T10:54:48Z",
+                        "summary": "Witt warned that if the United States doesn’t set the rules, the crypto industry will follow “somebody else's rulebook.\"",
+                        "pubDate": "2026-05-24T15:34:47Z",
+                        "displayTime": "2026-05-24T15:34:47Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/15a8cd880bc39aabbd1cf901965175ea",
+                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/bbf0de06aef712ca4bf60411827504ca",
                             "originalWidth": 1280,
                             "originalHeight": 853,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/XuNYlKyfQOLvdrIoCItJ6Q--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/15a8cd880bc39aabbd1cf901965175ea",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/qZGWl6I2ZWqT6IaWUBLc1w--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/bbf0de06aef712ca4bf60411827504ca",
                                     "width": 1280,
                                     "height": 853,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/66mnqpLEGW77mwdJ_nwYsQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/15a8cd880bc39aabbd1cf901965175ea",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/sIe7wsAeqd_PUmY8eI8ebg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/bbf0de06aef712ca4bf60411827504ca",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -756,13 +818,13 @@
                             "sourceId": "stocktwits_383"
                         },
                         "canonicalUrl": {
-                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/peter-schiff-dumping-bitcoin-chain-data/cZgEZCsReYK",
+                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/us-strategic-bitcoin-reserve-picks-up-speed-congress-has-a-six-month-window-to-make-it-law/cZgEt0zReYk",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/peter-schiff-says-whales-dumping-105448346.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/us-strategic-bitcoin-picks-speed-153447511.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -780,94 +842,32 @@
                     }
                 },
                 {
-                    "id": "b5db0a6b-7efc-302f-b34e-dca3164af626",
+                    "id": "0e857d4d-ff55-37e9-b809-ffcd9572dd7b",
                     "content": {
-                        "id": "b5db0a6b-7efc-302f-b34e-dca3164af626",
+                        "id": "0e857d4d-ff55-37e9-b809-ffcd9572dd7b",
                         "contentType": "STORY",
-                        "title": "BeInCrypto 100 Institutional Awards Nomination: Nubank for Best Digital Assets Neobank",
+                        "title": "Adam Back Warns Memecoins Are Going To Zero Amid ‘Hyperbitcoinization’ — Dogecoin Rallies Higher",
                         "description": "",
-                        "summary": "Nubank is nominated for Best Digital Assets Neobank after expanding Nubank Crypto with Earn Crypto, lower fees, stablecoin access, and on-chain transfers.",
-                        "pubDate": "2026-05-24T02:31:37Z",
-                        "displayTime": "2026-05-24T02:31:37Z",
+                        "summary": "Bitcoin could revisit $60,000 if the key $75,000 to $76,000 support zone breaks down, an analyst says.",
+                        "pubDate": "2026-05-24T13:22:18Z",
+                        "displayTime": "2026-05-24T13:22:18Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/6c2a5f94671f7ee99d4df6e963e2b937",
-                            "originalWidth": 1672,
-                            "originalHeight": 941,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/JjuU0jmLljZmNhMFgpETyw--~B/aD05NDE7dz0xNjcyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/6c2a5f94671f7ee99d4df6e963e2b937",
-                                    "width": 1672,
-                                    "height": 941,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/epFgWiBi1LajNflh5j.W8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/6c2a5f94671f7ee99d4df6e963e2b937",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://beincrypto.com/nubank-beincrypto-institutional-100-awards-nominee/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/beincrypto-100-institutional-awards-nomination-023137866.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "eeee36ca-faf1-3a08-9f5a-2844a8293860",
-                    "content": {
-                        "id": "eeee36ca-faf1-3a08-9f5a-2844a8293860",
-                        "contentType": "STORY",
-                        "title": "This Week in Crypto: Bitcoin Swing, Iran Deal, Cardano Risk and More",
-                        "description": "",
-                        "summary": "Bitcoin rebounds on US-Iran peace hopes as Fed risk, AI tokens, privacy coins, Cardano, and Grayscale’s CLARITY Act picks shape crypto markets.",
-                        "pubDate": "2026-05-24T01:43:33Z",
-                        "displayTime": "2026-05-24T01:43:33Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/11b722a85f6555ed0d3a6867041a78c3",
+                            "originalUrl": "https://media.zenfs.com/en/stocktwits_383/67696d36c204580eeb3d9fc49623607f",
                             "originalWidth": 1280,
-                            "originalHeight": 720,
+                            "originalHeight": 848,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/uIcmFhc9AXbl0gi3Yopt5A--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/11b722a85f6555ed0d3a6867041a78c3",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/dxX0PJNOG4ek.QaRjrc.lg--~B/aD04NDg7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/67696d36c204580eeb3d9fc49623607f",
                                     "width": 1280,
-                                    "height": 720,
+                                    "height": 848,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/MvvsSpwNdRG3mOPbcreRcQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/11b722a85f6555ed0d3a6867041a78c3",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/tdlppWWVwYrOARc6tPwjJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stocktwits_383/67696d36c204580eeb3d9fc49623607f",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -875,18 +875,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
+                            "displayName": "Stocktwits",
+                            "url": "Stocktwits",
+                            "sourceId": "stocktwits_383"
                         },
                         "canonicalUrl": {
-                            "url": "https://beincrypto.com/this-week-in-crypto-bitcoin-iran-deal-altcoins/",
+                            "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/adam-back-memecoins-zero-hyperbitcoinization-dogecoin-rallies/cZgEYylReYj",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/week-crypto-bitcoin-swing-iran-014333424.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/adam-back-warns-memecoins-going-132218779.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -907,7 +907,7 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-24T15:04:31.025497",
+            "timestamp": "2026-05-24T18:59:05.121712",
             "price": 1354.5,
             "change": 4.5,
             "open": 1350.0,
@@ -1229,12 +1229,12 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-24T15:04:31.483191",
-            "price": 2317.300048828125,
-            "change": -13.800048828125,
-            "open": 2331.10009765625,
-            "high": 2340.0,
-            "low": 2308.10009765625,
+            "timestamp": "2026-05-24T18:59:05.586867",
+            "price": 2286.300048828125,
+            "change": -13.615436777610284,
+            "open": 2299.9154856057353,
+            "high": 2308.696328282268,
+            "low": 2277.223171267918,
             "volume": 2617262,
             "news": [
                 {
@@ -1551,7 +1551,7 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-24T15:04:31.744423",
+            "timestamp": "2026-05-24T18:59:06.047654",
             "price": 766.7999877929688,
             "change": 7.64996337890625,
             "open": 759.1500244140625,
@@ -1797,7 +1797,7 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-24T15:04:32.036388",
+            "timestamp": "2026-05-24T18:59:06.530796",
             "price": 1174.5,
             "change": -8.0,
             "open": 1182.5,
@@ -2043,7 +2043,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-24T15:04:32.512146",
+            "timestamp": "2026-05-24T18:59:07.008074",
             "price": 308.82000732421875,
             "change": 2.70001220703125,
             "open": 306.1199951171875,
@@ -2051,6 +2051,68 @@
             "low": 305.8399963378906,
             "volume": 43627900,
             "news": [
+                {
+                    "id": "253cc50f-2f44-341f-8de8-209e63f112b6",
+                    "content": {
+                        "id": "253cc50f-2f44-341f-8de8-209e63f112b6",
+                        "contentType": "STORY",
+                        "title": "Warren Buffett's Favorite Holdings: 3 Stocks Worth Owning for a Lifetime",
+                        "description": "",
+                        "summary": "New CEO Greg Abel is following in Buffett's footsteps and keeping these positions.",
+                        "pubDate": "2026-05-24T17:50:00Z",
+                        "displayTime": "2026-05-24T17:50:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3ad10e3cca5219c34658dd31a0e628b1",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "Apple store.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/3J2HB9VlSZuypM3Mvu7Fmg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3ad10e3cca5219c34658dd31a0e628b1",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/B.RVl2jeEUUwgKWKi8GsjA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3ad10e3cca5219c34658dd31a0e628b1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/warren-buffetts-favorite-holdings-3-stocks-worth/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-favorite-holdings-3-175000577.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "df433717-bbdc-39d5-9975-396c9b569557",
                     "content": {
@@ -2298,34 +2360,46 @@
                         },
                         "storyline": null
                     }
-                },
+                }
+            ]
+        },
+        {
+            "symbol": "MSFT",
+            "timestamp": "2026-05-24T18:59:07.458765",
+            "price": 418.57000732421875,
+            "change": -0.970001220703125,
+            "open": 419.5400085449219,
+            "high": 424.3999938964844,
+            "low": 416.3299865722656,
+            "volume": 22341900,
+            "news": [
                 {
-                    "id": "a26309de-1ecd-3ae0-90ca-6432dd0f3cd5",
+                    "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
                     "content": {
-                        "id": "a26309de-1ecd-3ae0-90ca-6432dd0f3cd5",
+                        "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
                         "contentType": "STORY",
-                        "title": "Ebola spreads across Congo as flights halted, supplies run low",
+                        "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
                         "description": "",
-                        "summary": "(Bloomberg) -- Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.Most Read from BloombergTrump Says He'll Announce Negotiated Deal With Iran ShortlyNvidia CEO Urges Super Micro to Tighten Up on ComplianceIran, US Signal Progress in Peace Talks as Issues UnresolvedTrump to Force Foreigners Seeking Green Cards to Go Home FirstUAE",
-                        "pubDate": "2026-05-24T00:30:54Z",
-                        "displayTime": "2026-05-24T14:59:02Z",
+                        "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                        "pubDate": "2026-05-24T18:30:52Z",
+                        "displayTime": "2026-05-24T18:30:52Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://s.yimg.com/uu/api/res/1.2/y3FuFkyMtXZ_SkkRexfqNw--~B/aD0zNTc1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/b0f9ae9d-d2ff-422f-b08b-01fc74541fdb",
-                            "originalWidth": 5500,
-                            "originalHeight": 3575,
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                            "originalWidth": 1188,
+                            "originalHeight": 442,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/y3FuFkyMtXZ_SkkRexfqNw--~B/aD0zNTc1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/b0f9ae9d-d2ff-422f-b08b-01fc74541fdb",
-                                    "width": 5500,
-                                    "height": 3575,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RxwyEt9o1PYrp2SKgARGYw--~B/aD00NDI7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                                    "width": 1188,
+                                    "height": 442,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Fz_879WLKeXPZiLtwNdvOQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://d29szjachogqwa.cloudfront.net/images/2026-05/b0f9ae9d-d2ff-422f-b08b-01fc74541fdb",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2333,18 +2407,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/news/ebola-spreads-across-congo-as-flights-halted-supplies-run-low-003054553.html",
+                            "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/news/ebola-spreads-across-congo-as-flights-halted-supplies-run-low-003054553.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-etf-watch-hyperscaler-ai-183052462.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -2360,19 +2434,193 @@
                         },
                         "storyline": null
                     }
-                }
-            ]
-        },
-        {
-            "symbol": "MSFT",
-            "timestamp": "2026-05-24T15:04:32.817496",
-            "price": 418.57000732421875,
-            "change": -0.970001220703125,
-            "open": 419.5400085449219,
-            "high": 424.3999938964844,
-            "low": 416.3299865722656,
-            "volume": 22341900,
-            "news": [
+                },
+                {
+                    "id": "7ebdfd0b-2ea1-3d45-9b58-76a70fd2ba62",
+                    "content": {
+                        "id": "7ebdfd0b-2ea1-3d45-9b58-76a70fd2ba62",
+                        "contentType": "STORY",
+                        "title": "Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
+                        "description": "",
+                        "summary": "On a recent All-In Podcast episode featuring guest Gavin Baker, the roundtable looked at the exact same economic data and came away with completely different investment outlooks. David Friedberg is highly focused on building a global bond crisis and a sovereign debt spiral. Gavin Baker is far more bullish, arguing that America’s energy independence and ... Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
+                        "pubDate": "2026-05-24T18:14:38Z",
+                        "displayTime": "2026-05-24T18:14:38Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                            "originalWidth": 1376,
+                            "originalHeight": 768,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/D_h9cIUU5x39MRxXty.yQw--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                                    "width": 1376,
+                                    "height": 768,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/97IiX.6dQjbqZrm9cZyZIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/24/friedberg-vs-baker-one-sees-a-debt-spiral-the-other-sees-america-winning/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/economy/policy/articles/debt-spirals-vs-ai-factories-181438495.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "626002b1-a4a0-3c9a-bf4c-112c4efdccec",
+                    "content": {
+                        "id": "626002b1-a4a0-3c9a-bf4c-112c4efdccec",
+                        "contentType": "STORY",
+                        "title": "2 Tech Stocks Down More Than 20% That I Think Are Coiled Springs Right Now",
+                        "description": "",
+                        "summary": "These cloud giants continue to report strong results.",
+                        "pubDate": "2026-05-24T17:35:00Z",
+                        "displayTime": "2026-05-24T17:35:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3a24f3f9ae10538b13f525249d736fea",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "A stock chart with a city skyline and money in the background.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/zKeSLG1UAMF5_DgUk4WmYA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3a24f3f9ae10538b13f525249d736fea",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/pSRQExEcmkcai5xNqovYlg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3a24f3f9ae10538b13f525249d736fea",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/2-tech-stocks-down-more-than-20-that-i-think-are/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/2-tech-stocks-down-more-173500444.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "158bcd53-0e81-3e26-8dfc-bec09c4a7025",
+                    "content": {
+                        "id": "158bcd53-0e81-3e26-8dfc-bec09c4a7025",
+                        "contentType": "STORY",
+                        "title": "Is Microsoft Stock a Steal Right Now?",
+                        "description": "",
+                        "summary": "Microsoft stock hasn't been this cheap, measured by the price-to-cash flow ratio, since 2019.",
+                        "pubDate": "2026-05-24T16:02:00Z",
+                        "displayTime": "2026-05-24T16:02:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/3645dea1138e1716d0b7fc6df6387b56",
+                            "originalWidth": 1400,
+                            "originalHeight": 787,
+                            "caption": "Investor analyzing stock.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/PjzMsy8Koe9sW5VlzbyWbg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/3645dea1138e1716d0b7fc6df6387b56",
+                                    "width": 1400,
+                                    "height": 787,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/.z9W1fb8U8vQWbOH16PbRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/3645dea1138e1716d0b7fc6df6387b56",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/is-microsoft-stock-a-steal-right-now/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-steal-now-160200484.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "b7009842-a6cd-3fd7-8f45-3d878a88c59a",
                     "content": {
@@ -2434,260 +2682,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "9462a55f-bad6-3545-a386-1e273bd26795",
-                    "content": {
-                        "id": "9462a55f-bad6-3545-a386-1e273bd26795",
-                        "contentType": "STORY",
-                        "title": "Microsoft (MSFT): One of the Best Long-Term Stocks to Buy Now for High Returns",
-                        "description": "",
-                        "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the Best Long-Term Stocks to Buy Now for High Returns. On May 22, RBC Capital reiterated an “Outperform” rating and a price objective of $640.00 on the company’s stock. This comes after the investor meetings with the company’s executives. The firm remains optimistic about Microsoft Corporation (NASDAQ:MSFT)’s growth opportunity and its […]",
-                        "pubDate": "2026-05-24T13:30:20Z",
-                        "displayTime": "2026-05-24T13:30:20Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
-                            "originalWidth": 1456,
-                            "originalHeight": 816,
-                            "caption": "Microsoft (MSFT): One of the Best Long-Term Stocks to Buy Now for High Returns",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/FPV7LMJx9t7xViBmxMrZWw--~B/aD04MTY7dz0xNDU2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
-                                    "width": 1456,
-                                    "height": 816,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/7FVXaC.qNKFr6Wz4v4sdRQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/insidermonkey.com/ae3cb2a93ad8e5ddf6f94148e71f74b9",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Insider Monkey",
-                            "url": "http://www.insidermonkey.com",
-                            "sourceId": "insidermonkey.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-long-133020127.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-one-best-long-133020127.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-                    "content": {
-                        "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-                        "contentType": "STORY",
-                        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-                        "description": "",
-                        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump Says He’ll Announce Negotiated Deal With Iran ShortlyNvidia CEO Urges Super Micro to Tighten Up on ComplianceIran, US Signal Progress in Peace Talks as Issues UnresolvedTrump to Force Foreigners Seeking Green Cards to G",
-                        "pubDate": "2026-05-24T12:42:06Z",
-                        "displayTime": "2026-05-24T12:42:06Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                            "originalWidth": 2010,
-                            "originalHeight": 1446,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/RGBvx9c93ALzzl6rF4P4HA--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                                    "width": 2010,
-                                    "height": 1446,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/xMq6bCcZJQpNiYj98GH7iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "8e250549-129b-31c6-be57-e2374726cd9f",
-                    "content": {
-                        "id": "8e250549-129b-31c6-be57-e2374726cd9f",
-                        "contentType": "STORY",
-                        "title": "Gates' foundation sold all of its Microsoft shares. Bill Ackman is loading up on the stock. What is Wall Street missing?",
-                        "description": "",
-                        "summary": "Ackman believes investors have missed one crucial detail about Microsoft.",
-                        "pubDate": "2026-05-24T12:15:00Z",
-                        "displayTime": "2026-05-24T12:15:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/5efdeaabd360f7a9826b8b42b261850c",
-                            "originalWidth": 1422,
-                            "originalHeight": 800,
-                            "caption": "Bill Gates and Bill Ackman",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/58yf00uphZSbcJdo.ichfA--~B/aD04MDA7dz0xNDIyO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/moneywise_ecomm_711/5efdeaabd360f7a9826b8b42b261850c",
-                                    "width": 1422,
-                                    "height": 800,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Oiji2_2aZhS1.W9MTccq5g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_ecomm_711/5efdeaabd360f7a9826b8b42b261850c",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Moneywise",
-                            "url": "https://moneywise.com/",
-                            "sourceId": "moneywise_ecomm_711"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-121500412.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-121500412.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "e4764aea-549c-3fd3-9506-e59b7ecc0259",
-                    "content": {
-                        "id": "e4764aea-549c-3fd3-9506-e59b7ecc0259",
-                        "contentType": "STORY",
-                        "title": "TrueWealth Exits $12.8 Million FMB Position -- What Investors Should Know",
-                        "description": "",
-                        "summary": "First Trust Managed Municipal ETF targets tax-exempt income through a diversified portfolio of municipal bonds for fixed income investors.",
-                        "pubDate": "2026-05-24T12:11:28Z",
-                        "displayTime": "2026-05-24T12:11:28Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6df4b60a8ec56b07e8006b55fcfdc96a",
-                            "originalWidth": 800,
-                            "originalHeight": 714,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/.hxFfVCLb6St5vJaYoK8aA--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6df4b60a8ec56b07e8006b55fcfdc96a",
-                                    "width": 800,
-                                    "height": 714,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Y9K.ibguDyU4urMUG6IZvg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6df4b60a8ec56b07e8006b55fcfdc96a",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/coverage/filings/2026/05/24/truewealth-exits-usd12-8-million-fmb-position-what-investors-should-know/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/truewealth-exits-12-8-million-121128226.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-24T15:04:33.004909",
+            "timestamp": "2026-05-24T18:59:07.805813",
             "price": 382.9700012207031,
             "change": -4.3800048828125,
             "open": 387.3500061035156,
@@ -2820,32 +2820,156 @@
                     }
                 },
                 {
-                    "id": "df433717-bbdc-39d5-9975-396c9b569557",
+                    "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
                     "content": {
-                        "id": "df433717-bbdc-39d5-9975-396c9b569557",
+                        "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
                         "contentType": "STORY",
-                        "title": "Boise Cascade Stock Is Down 23%. One Investor Just Trimmed $27 Million",
+                        "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
                         "description": "",
-                        "summary": "Boise Cascade supplies engineered wood products and building materials to construction markets across the U.S. and Canada.",
-                        "pubDate": "2026-05-24T14:15:00Z",
-                        "displayTime": "2026-05-24T14:15:00Z",
+                        "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                        "pubDate": "2026-05-24T18:30:52Z",
+                        "displayTime": "2026-05-24T18:30:52Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c5718b6096ba583eb5530856e9c08112",
-                            "originalWidth": 800,
-                            "originalHeight": 714,
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                            "originalWidth": 1188,
+                            "originalHeight": 442,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/3cjgmPOuJ_IgdtgGQ8caZw--~B/aD03MTQ7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5718b6096ba583eb5530856e9c08112",
-                                    "width": 800,
-                                    "height": 714,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RxwyEt9o1PYrp2SKgARGYw--~B/aD00NDI7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                                    "width": 1188,
+                                    "height": 442,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/HKSfqp5JgWcuBWw17j_OxQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c5718b6096ba583eb5530856e9c08112",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-etf-watch-hyperscaler-ai-183052462.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "7ebdfd0b-2ea1-3d45-9b58-76a70fd2ba62",
+                    "content": {
+                        "id": "7ebdfd0b-2ea1-3d45-9b58-76a70fd2ba62",
+                        "contentType": "STORY",
+                        "title": "Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
+                        "description": "",
+                        "summary": "On a recent All-In Podcast episode featuring guest Gavin Baker, the roundtable looked at the exact same economic data and came away with completely different investment outlooks. David Friedberg is highly focused on building a global bond crisis and a sovereign debt spiral. Gavin Baker is far more bullish, arguing that America’s energy independence and ... Debt Spirals vs. AI Factories: The Great Macro Divide of 2026",
+                        "pubDate": "2026-05-24T18:14:38Z",
+                        "displayTime": "2026-05-24T18:14:38Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                            "originalWidth": 1376,
+                            "originalHeight": 768,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/D_h9cIUU5x39MRxXty.yQw--~B/aD03Njg7dz0xMzc2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                                    "width": 1376,
+                                    "height": 768,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/97IiX.6dQjbqZrm9cZyZIg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/b3311b62881d7c292483c2588335772e",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/24/friedberg-vs-baker-one-sees-a-debt-spiral-the-other-sees-america-winning/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/economy/policy/articles/debt-spirals-vs-ai-factories-181438495.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "d0054530-d8ca-307c-8161-4a05ce01e60f",
+                    "content": {
+                        "id": "d0054530-d8ca-307c-8161-4a05ce01e60f",
+                        "contentType": "STORY",
+                        "title": "3 Ridiculously Cheap AI Stocks That Could Turn $5,000 Into at Least $10,000 by 2028",
+                        "description": "",
+                        "summary": "These AI stocks have reasonable valuations and appealing long-term growth prospects.",
+                        "pubDate": "2026-05-24T17:45:00Z",
+                        "displayTime": "2026-05-24T17:45:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/d0e60ee4022653144817cb7e9e0daf61",
+                            "originalWidth": 1200,
+                            "originalHeight": 774,
+                            "caption": "Upward pointing arrows and a rising chart hover above stacks of coins.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/kff4aJFfXDaqn_TSVgoCEg--~B/aD03NzQ7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/d0e60ee4022653144817cb7e9e0daf61",
+                                    "width": 1200,
+                                    "height": 774,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/4o504ehVzkXGE4eHIbE3uQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/d0e60ee4022653144817cb7e9e0daf61",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -2858,137 +2982,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/coverage/filings/2026/05/24/boise-cascade-stock-is-down-23-one-investor-just-trimmed-usd27-million/",
+                            "url": "https://www.fool.com/investing/2026/05/24/3-ridiculously-cheap-ai-stocks-that-could-turn-500/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/boise-cascade-stock-down-23-141500683.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-                    "content": {
-                        "id": "96911612-26a8-3a0b-897c-f8ce94c1815d",
-                        "contentType": "STORY",
-                        "title": "Hyperscaler Debt Flood Brings Derivatives Bonanza",
-                        "description": "",
-                        "summary": "(Bloomberg) -- As big tech companies raise hundreds of billions of dollars to fund artificial intelligence investments, Wall Street banks are increasingly finding they have to trade more credit derivatives to keep doing business with the hyperscalers.Most Read from BloombergTrump Says He’ll Announce Negotiated Deal With Iran ShortlyNvidia CEO Urges Super Micro to Tighten Up on ComplianceIran, US Signal Progress in Peace Talks as Issues UnresolvedTrump to Force Foreigners Seeking Green Cards to G",
-                        "pubDate": "2026-05-24T12:42:06Z",
-                        "displayTime": "2026-05-24T12:42:06Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                            "originalWidth": 2010,
-                            "originalHeight": 1446,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/RGBvx9c93ALzzl6rF4P4HA--~B/aD0xNDQ2O3c9MjAxMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                                    "width": 2010,
-                                    "height": 1446,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/xMq6bCcZJQpNiYj98GH7iA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_holding_pen_162/4f7f1d102fec351d494ed35e2f09a866",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Bloomberg",
-                            "url": "https://www.bloomberg.com/company",
-                            "sourceId": "bloomberg_holding_pen_162"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/hyperscaler-debt-flood-brings-derivatives-190000196.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "a0ffc14c-2ffa-38bd-a26d-98a16356bc98",
-                    "content": {
-                        "id": "a0ffc14c-2ffa-38bd-a26d-98a16356bc98",
-                        "contentType": "STORY",
-                        "title": "Nvidia Is Going To Have To Do An Apple On Dividends, Says Jim Cramer: Sounds 'Boring' But It Works",
-                        "description": "",
-                        "summary": "CNBC semiconductor correspondent Kristina Partsinevelos argued mega-cap firms like Nvidia Corp are great for investors seeking growth rather than income, as the AI chipmaker’s new dividend payout still reflects lower yields. The chipmaker lifted its quarterly dividend to $0.25 from...",
-                        "pubDate": "2026-05-24T12:32:12Z",
-                        "displayTime": "2026-05-24T12:32:12Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/c142987ecd6028e2c90f5b3eebd7a22f",
-                            "originalWidth": 1024,
-                            "originalHeight": 683,
-                            "caption": "Nvidia Is Going To Have To Do An Apple On Dividends, Says Jim Cramer: Sounds 'Boring' But It Works",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/AYWnGqSgKkpiNi5ptx1l7w--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/c142987ecd6028e2c90f5b3eebd7a22f",
-                                    "width": 1024,
-                                    "height": 683,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/L6_TT90Nao6NGa1kfG3i3w--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/c142987ecd6028e2c90f5b3eebd7a22f",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-going-apple-dividends-says-123212973.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-going-apple-dividends-says-123212973.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-ridiculously-cheap-ai-stocks-174500965.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3009,7 +3009,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-24T15:04:33.317418",
+            "timestamp": "2026-05-24T18:59:08.074568",
             "price": 426.010009765625,
             "change": 3.339996337890625,
             "open": 422.6700134277344,
@@ -3069,6 +3069,182 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+                    "content": {
+                        "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
+                        "contentType": "STORY",
+                        "title": "Dow Jones Futures: Trump Says Iran Deal Near, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points",
+                        "description": "",
+                        "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+                        "pubDate": "2026-05-24T18:47:04Z",
+                        "displayTime": "2026-05-24T18:47:04Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/879072fd-2d18-3074-b2ec-2e92c37a571e/dow-jones-futures-trump-says.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
+                            "originalWidth": 1000,
+                            "originalHeight": 563,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/0051JHi5bOTqYFLZL3APFQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
+                                    "width": 1000,
+                                    "height": 563,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Investor's Business Daily",
+                            "url": "http://www.investors.com/",
+                            "sourceId": "ibd.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "6ebc363f-1bfd-31e3-b49e-d5b5bc81f10b",
+                    "content": {
+                        "id": "6ebc363f-1bfd-31e3-b49e-d5b5bc81f10b",
+                        "contentType": "STORY",
+                        "title": "Elon Musk’s Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?",
+                        "description": "",
+                        "summary": "The episode aired in 1948, but the idea is strangely valid today, except that it’s Elon Musk squaring off with himself.  SpaceX is on the cusp of its initial public offering, which will raise a record amount of money.  SpaceX plans to offer a relatively large amount of its stock to smaller retail investors, the same ones who hold Tesla shares.",
+                        "pubDate": "2026-05-24T16:21:00Z",
+                        "displayTime": "2026-05-24T16:21:00Z",
+                        "isHosted": false,
+                        "bypassModal": false,
+                        "previewUrl": "https://finance.yahoo.com/m/6ebc363f-1bfd-31e3-b49e-d5b5bc81f10b/elon-musk%E2%80%99s-bugs-bunny.html",
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/Barrons.com/f1f7a411ab87a183cc05768da4cd424b",
+                            "originalWidth": 1280,
+                            "originalHeight": 640,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/UBsYgUidq3skWggT6BbsBA--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/f1f7a411ab87a183cc05768da4cd424b",
+                                    "width": 1280,
+                                    "height": 640,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/_fKaM1vWim6lQt.wwqEjyA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Barrons.com/f1f7a411ab87a183cc05768da4cd424b",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Barrons.com",
+                            "url": "http://www.barrons.com/",
+                            "sourceId": "Barrons.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-tesla-stock-3f672899?siteid=yhoof2&yptr=yahoo",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": null,
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "737bb736-2fd8-3028-ab3b-d3aceedc5f34",
+                    "content": {
+                        "id": "737bb736-2fd8-3028-ab3b-d3aceedc5f34",
+                        "contentType": "STORY",
+                        "title": "Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?",
+                        "description": "",
+                        "summary": "The stock market has spent the past year rewarding companies tied to artificial intelligence, data centers, and energy infrastructure. Yet all of those themes may soon take a back seat to a single IPO. On June 12, SpaceX is expected to begin trading publicly in what many investors believe could become the largest IPO in ... Did SpaceX’s $28.5 Trillion Bombshell Reveal Elon Musk’s Genius — or Peak Galaxy Brain?",
+                        "pubDate": "2026-05-24T14:59:22Z",
+                        "displayTime": "2026-05-24T14:59:22Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/8da4835bbbd4abc67c1e3cab7908def0",
+                            "originalWidth": 1366,
+                            "originalHeight": 767,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/P2uxQYx3THMyuyvXY3wtGg--~B/aD03Njc7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/8da4835bbbd4abc67c1e3cab7908def0",
+                                    "width": 1366,
+                                    "height": 767,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/920G_uGTD2NkzNqy1E5F0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/8da4835bbbd4abc67c1e3cab7908def0",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://247wallst.com/investing/2026/05/24/did-spacexs-28-5-trillion-bombshell-reveal-elon-musks-genius-or-peak-galaxy-brain/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/did-spacex-28-5-trillion-145922864.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3140,188 +3316,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-                    "content": {
-                        "id": "879072fd-2d18-3074-b2ec-2e92c37a571e",
-                        "contentType": "STORY",
-                        "title": "Dow Jones Futures: Trump Says Iran Deal Near With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
-                        "description": "",
-                        "summary": "President Donald Trump said Saturday that the U.S. and Iran are close to an interim deal that will open the Strait of Hormuz.",
-                        "pubDate": "2026-05-24T13:28:13Z",
-                        "displayTime": "2026-05-24T13:28:13Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/879072fd-2d18-3074-b2ec-2e92c37a571e/dow-jones-futures-trump-says.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-                            "originalWidth": 1000,
-                            "originalHeight": 563,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/0051JHi5bOTqYFLZL3APFQ--~B/aD01NjM7dz0xMDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-                                    "width": 1000,
-                                    "height": 563,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/9jPu3siFOZSTJeHV49_s2Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/226261e66c607a9e2bbfd75081ee18c9",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Investor's Business Daily",
-                            "url": "http://www.investors.com/",
-                            "sourceId": "ibd.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/?src=A00220&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "a0f690b7-9c38-3b7b-90a8-371b5ea05912",
-                    "content": {
-                        "id": "a0f690b7-9c38-3b7b-90a8-371b5ea05912",
-                        "contentType": "STORY",
-                        "title": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood",
-                        "description": "",
-                        "summary": "Investor Cathie Wood of ARK Invest has hailed the Tesla Inc. Model S following its sunset for kicking off a “revolution” led by Elon Musk in the artificial intelligence, outer space exploration and robotics sectors. Little Did We Know Wood,...",
-                        "pubDate": "2026-05-24T11:31:32Z",
-                        "displayTime": "2026-05-24T11:31:32Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/b147b43391c8c4d070e701c9e59a517f",
-                            "originalWidth": 1024,
-                            "originalHeight": 683,
-                            "caption": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/yzYz8cJxvCE5mlV1d_6i3A--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b147b43391c8c4d070e701c9e59a517f",
-                                    "width": 1024,
-                                    "height": 683,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Jlv0vdwQSbtxym6YwOExUw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b147b43391c8c4d070e701c9e59a517f",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-model-sparked-elon-musks-113132838.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-model-sparked-elon-musks-113132838.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "49444b4c-c43b-32a8-8c3e-0478424ea15b",
-                    "content": {
-                        "id": "49444b4c-c43b-32a8-8c3e-0478424ea15b",
-                        "contentType": "STORY",
-                        "title": "SpaceX’s IPO Is a Bet Gravity Doesn’t Apply to Elon Musk",
-                        "description": "",
-                        "summary": "To launch the biggest offering ever, the space baron is drawing on his real power: everyday investors.",
-                        "pubDate": "2026-05-24T09:30:00Z",
-                        "displayTime": "2026-05-24T09:30:00Z",
-                        "isHosted": false,
-                        "bypassModal": false,
-                        "previewUrl": "https://finance.yahoo.com/m/49444b4c-c43b-32a8-8c3e-0478424ea15b/spacex%E2%80%99s-ipo-is-a-bet-gravity.html",
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/wsj.com/510356478378a930b13f28cad64d897a",
-                            "originalWidth": 1280,
-                            "originalHeight": 640,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/rCNiWuavdvHXBZbjdRBZrw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/wsj.com/510356478378a930b13f28cad64d897a",
-                                    "width": 1280,
-                                    "height": 640,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/L7TKBYtN3OL5J4Yqa0ssrw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/wsj.com/510356478378a930b13f28cad64d897a",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "The Wall Street Journal",
-                            "url": "http://www.wsj.com/",
-                            "sourceId": "wsj.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.wsj.com/tech/spacexs-ipo-is-a-bet-gravity-doesnt-apply-to-elon-musk-f798e814?siteid=yhoof2&yptr=yahoo",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": null,
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-24T15:04:33.682379",
+            "timestamp": "2026-05-24T18:59:08.460918",
             "price": 215.3300018310547,
             "change": -5.5699920654296875,
             "open": 220.89999389648438,
@@ -3454,32 +3454,94 @@
                     }
                 },
                 {
-                    "id": "d876d101-f3da-3841-86dc-3b7698eaddef",
+                    "id": "d8dd2ad4-3c5b-3cfe-bcce-51eb6e726673",
                     "content": {
-                        "id": "d876d101-f3da-3841-86dc-3b7698eaddef",
+                        "id": "d8dd2ad4-3c5b-3cfe-bcce-51eb6e726673",
                         "contentType": "STORY",
-                        "title": "Morgan Stanley Portfolio Manager: ‘I Don’t Think We’re Close’ to a Dot-Com Bubble",
+                        "title": "Is It Too Late to Buy Nvidia Stock? Here's What the Numbers Say.",
                         "description": "",
-                        "summary": "Andrew Slimmon, senior portfolio manager at Morgan Stanley Investment Management, used his recent appearance on Barron’s Streetwise podcast to push back on the loudest narrative in markets right now. “I think about the dot-com bubble, and I don’t think we’re close to it,” Slimmon said. His evidence sits in plain sight on the semiconductor tape, ... Morgan Stanley Portfolio Manager: ‘I Don’t Think We’re Close’ to a Dot-Com Bubble",
-                        "pubDate": "2026-05-24T14:44:22Z",
-                        "displayTime": "2026-05-24T14:44:22Z",
+                        "summary": "A strong quarter didn't lead to a rising stock price.",
+                        "pubDate": "2026-05-24T18:45:00Z",
+                        "displayTime": "2026-05-24T18:45:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/fd302cd4751f40c1fe22db3281e73748",
-                            "originalWidth": 1366,
-                            "originalHeight": 768,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/c17f03c9fe773a09cdc9c231f04d4e44",
+                            "originalWidth": 1200,
+                            "originalHeight": 904,
+                            "caption": "Person with thought bubble over head containing money bag.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/BR0ran2mckxekA2CZZ4mRA--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/fd302cd4751f40c1fe22db3281e73748",
-                                    "width": 1366,
-                                    "height": 768,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/UcS1jbMkLqxf6erKCRSV0A--~B/aD05MDQ7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/c17f03c9fe773a09cdc9c231f04d4e44",
+                                    "width": 1200,
+                                    "height": 904,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/SksvRCvQidOXDXhMm.LYrA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/fd302cd4751f40c1fe22db3281e73748",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/t0neSs2iH5WuDNTv16XG2A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/c17f03c9fe773a09cdc9c231f04d4e44",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/24/too-late-buy-nvidia-stock-what-nubers-say/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-nvidia-stock-heres-184500812.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
+                    "content": {
+                        "id": "ff15692a-ca74-3fbb-8ca9-0a3afd40a37b",
+                        "contentType": "STORY",
+                        "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                        "description": "",
+                        "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                        "pubDate": "2026-05-24T18:30:52Z",
+                        "displayTime": "2026-05-24T18:30:52Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                            "originalWidth": 1188,
+                            "originalHeight": 442,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RxwyEt9o1PYrp2SKgARGYw--~B/aD00NDI7dz0xMTg4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
+                                    "width": 1188,
+                                    "height": 442,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/RiRvbnQzb5gEYovgVxx2aA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/77fba8d93f54327cf6bf4093f25b7f80",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3492,13 +3554,13 @@
                             "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/24/morgan-stanley-portfolio-manager-i-dont-think-were-close-to-a-dot-com-bubble/",
+                            "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-portfolio-manager-don-144422578.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/xovr-etf-watch-hyperscaler-ai-183052462.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3516,32 +3578,32 @@
                     }
                 },
                 {
-                    "id": "5a415e6b-e5d4-3d96-a90f-e86a4eaf4862",
+                    "id": "116cb6f4-ccc4-3039-a3b3-bfab60b1225e",
                     "content": {
-                        "id": "5a415e6b-e5d4-3d96-a90f-e86a4eaf4862",
+                        "id": "116cb6f4-ccc4-3039-a3b3-bfab60b1225e",
                         "contentType": "STORY",
-                        "title": "Wall Street Is Sleeping on This Dividend King Industrial Stock, and That's Your Opportunity",
+                        "title": "FRI’s dividend fell 10% last year, but here’s why income investors shouldn’t panic",
                         "description": "",
-                        "summary": "There's no question that this high-yield Dividend King is dealing with issues, but the biggest problems are already in the rearview mirror.",
-                        "pubDate": "2026-05-24T14:35:00Z",
-                        "displayTime": "2026-05-24T14:35:00Z",
+                        "summary": "First Trust S&P REIT Index Fund (NYSEARCA:FRI) tracks the S&P United States REIT Index and passes through rental cash flow from roughly 140 publicly traded landlords. FRI paid out $0.8155 per share across four quarterly distributions in 2025, and shareholders rely on it for a yield that meaningfully exceeds the S&P 500. With the 10-year ... FRI’s dividend fell 10% last year, but here’s why income investors shouldn’t panic",
+                        "pubDate": "2026-05-24T18:20:09Z",
+                        "displayTime": "2026-05-24T18:20:09Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/fa0dfd02036a600294fc84a4209c437b",
-                            "originalWidth": 1400,
-                            "originalHeight": 933,
-                            "caption": "A person holding a sledgehammer in front of a big hole in a wall.",
+                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
+                            "originalWidth": 1500,
+                            "originalHeight": 1001,
+                            "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/qmsmuV_hzBqLu2MofiAf2g--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/fa0dfd02036a600294fc84a4209c437b",
-                                    "width": 1400,
-                                    "height": 933,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/S13MrQTBjWWr8HByvKdz0w--~B/aD0xMDAxO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
+                                    "width": 1500,
+                                    "height": 1001,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/v4miCWXxIwWVpdijCDcT6Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/fa0dfd02036a600294fc84a4209c437b",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/SCIHVFSZrcQvYTQPvYXvHg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/a32270b7209b25bb3465ee2166736f87",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3549,80 +3611,18 @@
                             ]
                         },
                         "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
+                            "displayName": "24/7 Wall St.",
+                            "url": "https://247wallst.com/",
+                            "sourceId": "24_7_wall_st__718"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/24/wall-street-is-sleeping-on-this-dividend-king-indu/",
+                            "url": "https://247wallst.com/investing/2026/05/24/fris-dividend-fell-10-last-year-but-heres-why-income-investors-shouldnt-panic/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sleeping-dividend-king-143500977.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "da0ba4c6-8750-3a3a-b113-021bfbdc1c43",
-                    "content": {
-                        "id": "da0ba4c6-8750-3a3a-b113-021bfbdc1c43",
-                        "contentType": "STORY",
-                        "title": "SpaceX Is Going Public: Here's the 1 Thing the Company Must Get Right to Justify a $1.5 Trillion Valuation",
-                        "description": "",
-                        "summary": "Is SpaceX worth $1.5 trillion? It had better do this.",
-                        "pubDate": "2026-05-24T14:25:00Z",
-                        "displayTime": "2026-05-24T14:25:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/53fc52a9ab48f4aab03bc5715f2ece65",
-                            "originalWidth": 1400,
-                            "originalHeight": 933,
-                            "caption": "Rocket launching at sunset. ",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/dgMLGeKOOMFrWt.eX8ZRWw--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/53fc52a9ab48f4aab03bc5715f2ece65",
-                                    "width": 1400,
-                                    "height": 933,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/n2ycq.B7faQhywYbyImNJw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/53fc52a9ab48f4aab03bc5715f2ece65",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/24/spacex-is-going-public-1-and-half-trillion/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-going-public-heres-1-142500223.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/fri-dividend-fell-10-last-182009648.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3643,13 +3643,13 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-24T15:04:33.960232",
-            "price": 2096.81005859375,
-            "change": -18.279541015625,
+            "timestamp": "2026-05-24T18:59:08.808460",
+            "price": 2097.2900390625,
+            "change": -17.799560546875,
             "open": 2115.089599609375,
             "high": 2125.49755859375,
             "low": 2085.482421875,
-            "volume": 14324000768,
+            "volume": 13280818176,
             "news": [
                 {
                     "id": "e268e091-57a3-374d-aa7c-0ec0a3c87f8b",
@@ -3968,25 +3968,25 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.212968",
+            "collected_at": "2026-05-24T18:59:09.190976",
             "title": "Stocks and earnings surge, and Iran deal may be imminent: What to watch this week",
-            "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market’s not-so-subtle signals, and whatever distractions, surprises, and unknown unknowns emerge.",
+            "summary": "With earnings season done, the stock market moves into digestion and distraction territory as investors integrate the whole of corporate data with extracurricular corporate news, economic releases, the bond market's not-so-subtle signals, and whatever distractions, surprises, and unknown unknowns emerge.",
             "published": "2026-05-24T11:43:38Z",
             "provider": "Yahoo Finance"
         },
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.212982",
-            "title": "Dow Jones Futures: Trump Says Iran Deal Near With Hormuz 'Opened'; Tesla, AI Stocks Near Buy Points",
-            "summary": "President Donald Trump said Saturday that the U.S. and Iran are close to an interim deal that will open the Strait of Hormuz.",
-            "published": "2026-05-24T13:28:13Z",
+            "collected_at": "2026-05-24T18:59:09.190990",
+            "title": "Dow Jones Futures: Trump Says Iran Deal Near, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points",
+            "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
+            "published": "2026-05-24T18:47:04Z",
             "provider": "Investor's Business Daily"
         },
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.212985",
+            "collected_at": "2026-05-24T18:59:09.190993",
             "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests",
             "summary": "Two concurrent price shocks, which trace back to decisions made by President Donald Trump, threaten to upend a seemingly unstoppable stock market.",
             "published": "2026-05-24T10:56:00Z",
@@ -3995,25 +3995,25 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.347967",
-            "title": "Why bonds may not save investors from the next market shock: Chart of the Day",
-            "summary": "Bonds might not be the safety net they used to be if inflation stays high.",
-            "published": "2026-05-23T15:54:20Z",
-            "provider": "Yahoo Finance"
+            "collected_at": "2026-05-24T18:59:09.342936",
+            "title": "FRI’s dividend fell 10% last year, but here’s why income investors shouldn’t panic",
+            "summary": "First Trust S&P REIT Index Fund (NYSEARCA:FRI) tracks the S&P United States REIT Index and passes through rental cash flow from roughly 140 publicly traded landlords. FRI paid out $0.8155 per share across four quarterly distributions in 2025, and shareholders rely on it for a yield that meaningfully exceeds the S&P 500. With the 10-year ... FRI’s dividend fell 10% last year, but here’s why income investors shouldn’t panic",
+            "published": "2026-05-24T18:20:09Z",
+            "provider": "24/7 Wall St."
         },
         {
-            "source_ticker": "^GSPC",
+            "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.347970",
-            "title": "Adams Street Partners Exits Its 223,000-Share Paymentus (PAY) Position for $5.9 Million",
-            "summary": "This cloud-based payments provider delivers SaaS solutions to enterprise billers across utilities, finance, and healthcare sectors.",
-            "published": "2026-05-24T13:42:05Z",
+            "collected_at": "2026-05-24T18:59:09.497823",
+            "title": "Why GlobalFoundries Stock Skyrocketed This Week",
+            "summary": "GlobalFoundries stock is getting a big boost from excitement surrounding quantum computing.",
+            "published": "2026-05-24T18:04:02Z",
             "provider": "Motley Fool"
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.617964",
+            "collected_at": "2026-05-24T18:59:09.653558",
             "title": "What to Know About This Fund's $10 Million Bet on Gold Miners",
             "summary": "ASA Gold and Precious Metals Limited targets global mining equities, specializing in gold, silver, and other precious minerals investments.",
             "published": "2026-05-24T14:04:22Z",
@@ -4022,7 +4022,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.617978",
+            "collected_at": "2026-05-24T18:59:09.653571",
             "title": "Gold Is Above $4,500 and These 4 Miners Under $45 Are Still Dirt Cheap",
             "summary": "Sovereign debt loads keep climbing, the dollar index is wobbling, and central banks are still net buyers of bullion. That backdrop has pushed realized gold prices into uncharted territory, with major producers booking $3,500 to nearly $4,900 per ounce on Q1 sales. For retail investors scanning for hard-asset exposure without paying $200-plus for a megacap, ... Gold Is Above $4,500 and These 4 Miners Under $45 Are Still Dirt Cheap",
             "published": "2026-05-24T12:16:01Z",
@@ -4031,7 +4031,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.617981",
+            "collected_at": "2026-05-24T18:59:09.653574",
             "title": "Assessing Frontline (NYSE:FRO) Valuation After Strong Multi‑Year Shareholder Returns",
             "summary": "Why Frontline is on investors’ radar today Frontline (NYSE:FRO) has drawn fresh attention after recent trading left the stock at US$37.12, with returns of 4.3% over the past month and 5.8% in the past 3 months. See our latest analysis for Frontline. That recent pullback of 3.4% in the last session sits against a 1-month share price return of 4.3% and a powerful year-to-date share price return of 80.4%, while the 1-year total shareholder return of 116.1% and very large 5-year total shareholder...",
             "published": "2026-05-24T02:07:46Z",
@@ -4040,7 +4040,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.742981",
+            "collected_at": "2026-05-24T18:59:09.812240",
             "title": "Trump says US doesn't want to 'rush into a deal' with Iran, but ongoing talks are 'constructive'",
             "summary": "President Trump said Saturday evening an agreement with Iran that will set the framework for renewed peace talks and reopen the Strait of Hormuz would be announced shortly.",
             "published": "2026-05-23T21:48:48Z",
@@ -4049,27 +4049,27 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-24T15:04:34.742995",
-            "title": "Where Will Enterprise Products Partners Be in 1 Year?",
-            "summary": "Volatile oil prices make the energy sector exciting, but Enterprise Products Partners is boring.",
-            "published": "2026-05-24T13:35:00Z",
-            "provider": "Motley Fool"
-        },
-        {
-            "source_ticker": "CL=F",
-            "category": "business",
-            "collected_at": "2026-05-24T15:04:34.742997",
-            "title": "$5 Gas Is Back on the Table: What 14 Straight Weeks of Inventory Declines Mean for Consumers",
-            "summary": "Memorial Day weekend is arriving with the most expensive gasoline Americans have seen in four years, and the supply data suggests relief is not coming soon. CNBC energy reporter Pippa Stevens, speaking on Closing Bell Overtime on May 22, 2026, laid out a stark setup: gas prices are up more than 60% since the beginning ... $5 Gas Is Back on the Table: What 14 Straight Weeks of Inventory Declines Mean for Consumers",
-            "published": "2026-05-24T13:34:04Z",
-            "provider": "24/7 Wall St."
+            "collected_at": "2026-05-24T18:59:09.812257",
+            "title": "Investors drop bold Fed rate-cut signal to Warsh",
+            "summary": "Is Kevin Warsh going to be a markets-friendly Fed Chair? In one word, yes. But not in the short term, investors agree. They hope that the “regime change” Warsh promised during his nomination process will keep the U.S. economy as resilient as Warsh’s 18 new colleagues at the central bank say it is. ...",
+            "published": "2026-05-24T18:03:00Z",
+            "provider": "TheStreet"
         }
     ],
     "investment_news": [
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:34.901305",
+            "collected_at": "2026-05-24T18:59:09.950676",
+            "title": "After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
+            "summary": "The VIX ripped to 31.05 in late March before settling back near 18, and anyone who watched their growth holdings whip around during that stretch is probably re-reading the case for boring stocks. That is the backdrop for three utility ETFs that get mentioned in the same breath whenever income investors want defensive exposure: The ... After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
+            "published": "2026-05-24T17:48:16Z",
+            "provider": "24/7 Wall St."
+        },
+        {
+            "source_ticker": "SPY",
+            "category": "investment",
+            "collected_at": "2026-05-24T18:59:09.950690",
             "title": "How a $450,000 Portfolio Could Deliver $31,500 a Year While Limiting Market Drawdowns",
             "summary": "A 69-year-old couple with $850,000 in investable assets faces a specific problem: they want equity exposure without the risk of a bear market gutting their principal in the first years of retirement, and they want predictable income they can spend. The pairing strategy splits that problem in two. $400,000 goes into buffered S&P 500 ETFs ... How a $450,000 Portfolio Could Deliver $31,500 a Year While Limiting Market Drawdowns",
             "published": "2026-05-24T13:06:07Z",
@@ -4078,25 +4078,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:34.901318",
+            "collected_at": "2026-05-24T18:59:09.950693",
             "title": "Why This Couple Shouldn’t Pay Off Their $475K Mortgage (Even With $175K Cash)",
             "summary": "On a recent Rich Habits Podcast Q&A, co-host Robert Croak gave a 40-year-old listener named Angela a blunt answer about the $175,000 she and her spouse netted from a recent home sale. They were weighing whether to throw it at their $475,000 mortgage at 5% or invest it. Robert’s verdict: “I would definitely not pay ... Why This Couple Shouldn’t Pay Off Their $475K Mortgage (Even With $175K Cash)",
             "published": "2026-05-24T13:05:34Z",
             "provider": "24/7 Wall St."
         },
         {
-            "source_ticker": "SPY",
-            "category": "investment",
-            "collected_at": "2026-05-24T15:04:34.901320",
-            "title": "Covered-Call ETF MSTY Caps Your Gains While You Ride All the Losses",
-            "summary": "YieldMax MSTR Option Income Strategy ETF (NYSEARCA:MSTY) sells investors on a single promise: harvest unusually rich option premiums on Strategy (NASDAQ:MSTR) shares and pay them out monthly. At a distribution rate that has ranged from roughly 60% to 100% annualized since launch, MSTY has become one of the most discussed single-stock income ETFs in the ... Covered-Call ETF MSTY Caps Your Gains While You Ride All the Losses",
-            "published": "2026-05-24T11:45:55Z",
-            "provider": "24/7 Wall St."
-        },
-        {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.488603",
+            "collected_at": "2026-05-24T18:59:10.212376",
             "title": "S&P 500 Clocks Best Weekly Rally Since 2023, Dow Hits Fresh Record As US-Iran Peace Hope Boosts Risk Sentiment - UBER, GILD, RDDT, FJET, AMD In Focus",
             "summary": "IPO optimism, robust corporate earnings, and a $2 billion quantum computing push aided U.S. stock indices this week.",
             "published": "2026-05-22T21:03:43Z",
@@ -4105,7 +4096,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.488616",
+            "collected_at": "2026-05-24T18:59:10.212391",
             "title": "Stocks Settle Higher on Iran Peace Hopes and Tech Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.37%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. June E-mini S&P futures (ESM26 ) rose +0.35%, and June E-mini Nasdaq futures...",
             "published": "2026-05-22T20:34:34Z",
@@ -4114,7 +4105,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.488619",
+            "collected_at": "2026-05-24T18:59:10.212393",
             "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
             "summary": "<p>Is rebalancing killing your gains? The ETF Zoo crew dives into Cathie Wood’s ARK strategy, hyper-growth tech inflows, the wildest new corners of the market, and why ETFs are officially eating the market. </p>",
             "published": "2026-05-22T20:15:22Z",
@@ -4123,7 +4114,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.600052",
+            "collected_at": "2026-05-24T18:59:10.366876",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4132,7 +4123,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.600066",
+            "collected_at": "2026-05-24T18:59:10.366890",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4141,7 +4132,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.600068",
+            "collected_at": "2026-05-24T18:59:10.366893",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4150,7 +4141,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.751838",
+            "collected_at": "2026-05-24T18:59:10.512387",
             "title": "Cathie Wood's ARK Sells Chip Giants, Buys The Dip In Crypto Exchange Bullish And Two Others",
             "summary": "The company also bought 105,810 shares of Twist Bioscience for ARKK, its largest single-stock transaction over the past two days.",
             "published": "2026-05-23T14:48:31Z",
@@ -4159,7 +4150,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.751855",
+            "collected_at": "2026-05-24T18:59:10.512402",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4168,7 +4159,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.896403",
+            "collected_at": "2026-05-24T18:59:10.660650",
             "title": "Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Family Vacation.",
             "summary": "By far, the oldest and longest-standing gold exchange-traded products, or ETPs, generally charge around 0.4% annually in expense ratios. That applies both to closed-ended structures like the Sprott Physical Gold Trust (NYSEARCA: PHYS), which charges 0.39%, and also open-ended ETFs like the SPDR Gold Shares (NYSEARCA: GLD), which charges 0.40%. Long term, those fees matter. ... Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Fa",
             "published": "2026-05-23T15:15:00Z",
@@ -4177,7 +4168,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.896416",
+            "collected_at": "2026-05-24T18:59:10.660664",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
@@ -4186,7 +4177,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-24T15:04:35.896418",
+            "collected_at": "2026-05-24T18:59:10.660666",
             "title": "Update: Gold Edges Lower as the Dollar Steadies",
             "summary": "(Updates prices.) Gold prices eased midafternoon Friday, remaining rangebound as the dollar stead",
             "published": "2026-05-22T18:00:09Z",
@@ -4197,7 +4188,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 11,
+        "total_business_articles": 10,
         "total_investment_articles": 14
     }
 }
