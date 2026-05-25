@@ -1,82 +1,148 @@
 # 💰 Finity — Premium AI Financial Companion
 
-Finity is a production-grade, premium fintech application designed to help students and young earners in India master their finances. Built with a minimalist, high-fidelity design inspired by Notion and Stripe, Finity combines AI-driven guidance, complex financial simulations, and smart budgeting into a single, unified platform.
+Finity is a production-grade, premium fintech application designed to empower students and young earners in India to master their personal finances. Built with a minimalist, high-fidelity design language inspired by Notion and Stripe, Finity combines conversational AI coaching, advanced Monte Carlo investment simulations, real-time budgeting engines, and machine learning-powered loan eligibility prediction.
 
-![Finity Dashboard Preview](https://via.placeholder.com/1200x600/6366F1/FFFFFF?text=Finity+Premium+Fintech+UI)
+---
+
+## ⚡ Real-Time Market Data Pipeline
+
+Finity features a custom, lightweight, in-memory live market data pipeline that delivers real-time updates to the dashboard without permanent database storage or automated commits. 
+
+```mermaid
+graph TD
+    subgraph Frontend [Client Web Application]
+        UI[React UI Dashboard] -->|5s Silent Polling| API_Client[API Client]
+    end
+
+    subgraph Backend [FastAPI Service]
+        API_Client -->|HTTP GET /market/*| Cache_Reader[In-Memory Cache Reader]
+        Cache_Reader -->|Returns JSON| API_Client
+        
+        Loop[Async Background Update Loop] -->|5s Interval| Stock_Updater[Parallel Stock Updater]
+        Loop -->|60s Interval| News_MF_Updater[News & Mutual Funds Updater]
+        
+        Stock_Updater -->|Stores In-Memory| S_Cache[(_STOCKS_CACHE)]
+        News_MF_Updater -->|Stores In-Memory| N_Cache[(_NEWS_CACHE)]
+        News_MF_Updater -->|Stores In-Memory| M_Cache[(_MUTUAL_FUNDS_CACHE)]
+    end
+
+    subgraph External [External APIs]
+        Stock_Updater -->|yfinance API| YF((Yahoo Finance))
+        News_MF_Updater -->|yfinance API| YF
+        News_MF_Updater -->|httpx GET| AMFI((AMFI API))
+    end
+```
+
+### Key Performance Characteristics:
+* **High-Frequency Refreshes:** Stock tickers (NIFTY 50, SENSEX, Apple, Microsoft, BTC, ETH) update every **5 seconds** using parallelised HTTP fetches via `asyncio.to_thread`.
+* **Zero Database Overhead:** Eliminates SQLite disk writes for price tick data to keep local storage overhead at 0%.
+* **Smart Rate-Limiting:** News headlines and Mutual Fund NAVs update every **60 seconds** to comply with external API limits.
+* **Smart History Caching:** Historical charting endpoints fetch live and cache responses in-memory with a **1-hour Time-To-Live (TTL)**.
+
+---
 
 ## ✨ Core Features
 
 ### 🤖 AI Financial Coach
-- **Conversational Guidance**: Interact with an AI assistant that explains complex financial concepts (SIP, 50/30/20, Tax regimes) in simple terms.
-- **Context-Aware**: Tailors responses based on your risk profile and investment history.
-- **Indic Support**: Designed for the Indian market with multi-lingual capabilities.
+* **Conversational Guidance:** Chat with an AI companion explaining complex concepts (SIPs, ELSS, 50/30/20, Tax Regimes) in simple terms.
+* **Context-Aware Insights:** Tailors recommendation models based on user risk profiles.
 
 ### 📊 Advanced Investment Simulator
-- **Wealth Projection**: Simulate portfolio growth over 30+ years using customizable risk strategies.
-- **Probabilistic Modeling**: Visualize best-case, worst-case, and expected outcomes using Monte Carlo-inspired visualizations.
-- **Interactive Controls**: Fine-tune monthly contributions, duration, and risk appetite with real-time chart updates.
+* **Wealth Projection:** Simulate portfolio growth over 30+ years using customized risk strategies.
+* **Probabilistic Modeling:** Visualize expected, best-case, and worst-case outcomes using Monte Carlo-inspired chart boundaries.
 
 ### 🏦 Smart Budget Tracker
-- **50/30/20 Rule Analysis**: Automatically categorizes your spending into Needs, Wants, and Savings.
-- **Visual Analytics**: Interactive pie charts and bar graphs to compare your actual spending against ideal financial rules.
-- **Expense Ledger**: A clean, high-fidelity transaction history with quick-entry capabilities.
+* **50/30/20 Rule Analysis:** Automatically categorizes expenditures into Needs, Wants, and Savings.
+* **Visual Analytics:** Interactive charts comparing actual spending habits against recommended benchmarks.
 
-### 🏗️ Loan Eligibility AI
-- **Credit Assessment**: Powered by a Random Forest ML model (Loan Genie) to predict loan approval probabilities.
-- **Detailed Breakdown**: Get insights into confidence levels, model heuristics, and actionable tips to improve your eligibility.
+### 🔮 Loan Eligibility Predictor (Loan Genie)
+* **ML-powered Classifier:** Built on a Random Forest classification model to estimate loan approval probabilities.
+* **Actionable Recommendations:** Delivers detailed scoring metrics alongside direct steps to improve eligibility.
 
 ### 🎓 Learning Academy
-- **Bite-sized Lessons**: Gamified financial literacy modules with progress tracking.
-- **Knowledge Checkpoints**: Interactive quizzes to verify mastery of financial concepts.
-- **XP & Levels**: Earn XP and level up as you complete lessons and manage your finances.
+* **Bite-sized Lessons:** Gamified learning paths for essential personal finance concepts.
+* **XP & Badges:** Level up, maintain activity streaks, and unlock achievements.
 
-## 🎨 Design Philosophy
-Finity follows a **Clean, White, Premium** aesthetic:
-- **Glassmorphism**: Soft background blurs and translucent surfaces.
-- **Typography**: High-fidelity Inter Tight and Satoshi-inspired spacing.
-- **Color System**: A curated palette of Indigo (#6366F1) and Purple (#8B5CF6) accents against ultra-clean white surfaces.
-- **Micro-interactions**: Smooth Framer Motion transitions and interactive state changes.
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
-### Frontend
-- **React 18** (Vite + TypeScript)
-- **Tailwind CSS** (Custom Design Tokens)
-- **Framer Motion** (Animations)
-- **Recharts** (Data Visualization)
-- **Zustand** (State Management)
-- **Lucide React** (Iconography)
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | React 18, Vite, TypeScript, Tailwind CSS, Framer Motion, Recharts, Zustand, Lucide Icons |
+| **Backend** | FastAPI (Python 3.11), Uvicorn, httpx, Scikit-learn (Random Forest Model) |
+| **Data Feed** | yfinance (Yahoo Finance API integration), AMFI (Association of Mutual Funds in India API) |
+| **Deployment** | Docker, Docker Compose |
 
-### Backend
-- **FastAPI** (Python)
-- **Machine Learning**: Scikit-learn (Random Forest)
-- **Data Pipeline**: yfinance, GitHub Actions
+---
+
+## 📂 Project Structure
+
+```bash
+Finity-/
+├── backend/
+│   ├── app/
+│   │   ├── api/            # API Endpoints & Routes
+│   │   ├── core/           # Configs & Security
+│   │   ├── models/         # Pydantic schemas / ML wrappers
+│   │   ├── services/       # Core business logic (market_db.py, simulator.py)
+│   │   └── main.py         # Entry point
+│   ├── database/           # DB schemas & local resources
+│   ├── Dockerfile
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   │   ├── components/     # Shared UI components
+│   │   ├── pages/          # Pages (Market.tsx, Dashboard.tsx, Chat.tsx)
+│   │   ├── services/       # Frontend API client
+│   │   └── main.tsx
+│   ├── index.html
+│   ├── Dockerfile
+│   └── package.json
+└── docker-compose.yml      # Orchestrates backend & frontend locally
+```
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (v18+)
-- Python 3.9+
+Ensure you have [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed on your machine.
 
-### Frontend Setup
+### Run with Docker Compose
+
+1. Clone the repository and navigate to the project directory:
+   ```bash
+   git clone https://github.com/ShashwatSahu21/Finity-.git
+   cd Finity-
+   ```
+
+2. Build and launch both frontend and backend services:
+   ```bash
+   docker-compose up --build
+   ```
+
+3. Access the applications:
+   * **Frontend Interface:** [http://localhost:5173](http://localhost:5173)
+   * **Backend REST API:** [http://localhost:8000](http://localhost:8000)
+   * **Swagger API Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
+
+### Run Locally (Development Mode)
+
+If you prefer to run the components directly on your host:
+
+#### Backend:
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+```
+
+#### Frontend:
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-
-### Backend Setup
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-## 📂 Project Structure
-- `frontend/`: React application and design system.
-- `backend/`: FastAPI server and ML models.
-- `scripts/`: Data collection and automated market-data pipelines.
-- `datasets/`: Curated financial data for model training.
 
 ---
 *Created by [Shashwat Sahu](https://github.com/ShashwatSahu21) with ❤️ for financial freedom.*
