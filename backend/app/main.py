@@ -32,9 +32,7 @@ app.include_router(router, prefix=settings.API_PREFIX)
 async def startup_event():
     import asyncio
     from app.services import market_db
-    # Load cache from DB immediately on startup
-    market_db.load_cache_from_db()
-    # Start the autoupdate loop in the background
+    # Start the in-memory autoupdate loop in the background
     asyncio.create_task(market_db.autoupdate_loop())
 
 

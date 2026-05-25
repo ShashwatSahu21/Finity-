@@ -106,10 +106,10 @@ export default function Market() {
   useEffect(() => {
     loadData();
     
-    // Set up silent polling every 30 seconds
+    // Set up silent polling every 5 seconds
     const interval = setInterval(() => {
       loadData(true);
-    }, 30000);
+    }, 5000);
 
     return () => clearInterval(interval);
   }, []);
@@ -167,7 +167,7 @@ export default function Market() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
             </span>
-            Live Autoupdate Active (30s)
+            Live Autoupdate Active (5s)
           </div>
         </div>
       </motion.div>
