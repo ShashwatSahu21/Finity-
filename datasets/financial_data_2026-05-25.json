@@ -1,11 +1,11 @@
 {
-    "collection_timestamp": "2026-05-25T08:24:21.626488",
+    "collection_timestamp": "2026-05-25T08:24:31.786172",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-25T08:24:18.579338",
-            "price": 23972.599609375,
-            "change": 32.349609375,
+            "timestamp": "2026-05-25T08:24:28.537712",
+            "price": 23972.349609375,
+            "change": 32.099609375,
             "open": 23940.25,
             "high": 23995.900390625,
             "low": 23922.849609375,
@@ -325,9 +325,9 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-25T08:24:18.708799",
-            "price": 76318.40625,
-            "change": 182.5859375,
+            "timestamp": "2026-05-25T08:24:28.675134",
+            "price": 76322.4609375,
+            "change": 186.640625,
             "open": 76135.8203125,
             "high": 76386.7109375,
             "low": 76097.0234375,
@@ -585,7 +585,7 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-25T08:24:18.819632",
+            "timestamp": "2026-05-25T08:24:28.798715",
             "price": 77234.5,
             "change": 265.46875,
             "open": 76969.03125,
@@ -907,13 +907,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-25T08:24:18.997096",
+            "timestamp": "2026-05-25T08:24:28.985413",
             "price": 1362.800048828125,
             "change": -4.0,
             "open": 1366.800048828125,
             "high": 1371.0999755859375,
             "low": 1357.0,
-            "volume": 4689531,
+            "volume": 4690728,
             "news": [
                 {
                     "id": "85757e02-bb46-358f-921b-ec6f0835bfce",
@@ -1229,13 +1229,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-25T08:24:19.159392",
-            "price": 2311.60009765625,
-            "change": -13.39990234375,
+            "timestamp": "2026-05-25T08:24:29.161939",
+            "price": 2311.10009765625,
+            "change": -13.89990234375,
             "open": 2325.0,
             "high": 2326.10009765625,
             "low": 2293.0,
-            "volume": 2651495,
+            "volume": 2652547,
             "news": [
                 {
                     "id": "74506265-3e9c-3fab-9ce5-85290cee5954",
@@ -1551,13 +1551,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-25T08:24:19.344110",
+            "timestamp": "2026-05-25T08:24:29.326231",
             "price": 784.0,
             "change": 8.0,
             "open": 776.0,
             "high": 785.9500122070312,
             "low": 775.2000122070312,
-            "volume": 18461288,
+            "volume": 18470066,
             "news": [
                 {
                     "id": "b752a1e8-0b24-31a4-96f1-7876fbb18314",
@@ -1797,13 +1797,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-25T08:24:19.519334",
-            "price": 1171.9000244140625,
-            "change": -11.0999755859375,
+            "timestamp": "2026-05-25T08:24:29.519002",
+            "price": 1172.4000244140625,
+            "change": -10.5999755859375,
             "open": 1183.0,
             "high": 1185.0,
             "low": 1169.4000244140625,
-            "volume": 3950867,
+            "volume": 3951263,
             "news": [
                 {
                     "id": "7df3d17e-13c1-3c58-bb3e-c16223e5c938",
@@ -2043,7 +2043,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-25T08:24:19.730430",
+            "timestamp": "2026-05-25T08:24:29.731169",
             "price": 308.82000732421875,
             "change": 2.70001220703125,
             "open": 306.1199951171875,
@@ -2365,7 +2365,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-25T08:24:19.890871",
+            "timestamp": "2026-05-25T08:24:29.896379",
             "price": 418.57000732421875,
             "change": -0.970001220703125,
             "open": 419.5400085449219,
@@ -2687,7 +2687,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-25T08:24:20.027577",
+            "timestamp": "2026-05-25T08:24:30.045189",
             "price": 382.9700012207031,
             "change": -4.3800048828125,
             "open": 387.3500061035156,
@@ -3009,7 +3009,7 @@
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-25T08:24:20.257951",
+            "timestamp": "2026-05-25T08:24:30.286389",
             "price": 426.010009765625,
             "change": 3.339996337890625,
             "open": 422.6700134277344,
@@ -3326,7 +3326,7 @@
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-25T08:24:20.406485",
+            "timestamp": "2026-05-25T08:24:30.442723",
             "price": 215.3300018310547,
             "change": -5.5699920654296875,
             "open": 220.89999389648438,
@@ -3648,7 +3648,7 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-25T08:24:20.547515",
+            "timestamp": "2026-05-25T08:24:30.678533",
             "price": 2109.72998046875,
             "change": 12.18115234375,
             "open": 2097.548828125,
@@ -3973,7 +3973,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.738737",
+            "collected_at": "2026-05-25T08:24:30.883619",
             "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
             "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
             "published": "2026-05-25T06:35:36Z",
@@ -3982,7 +3982,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.738745",
+            "collected_at": "2026-05-25T08:24:30.883632",
             "title": "Oil Tumbles, Stock Futures Rise Amid Hopes for Iran Deal",
             "summary": "Stock futures were rising late Sunday, and oil futures fell after the Trump administration hinted officials are inching closer to a deal with Iran to end the three-month conflict and reopen the Strait of Hormuz.  Just after 6 p.m. Eastern time, Dow Jones Industrial Average futures were up 0.5% or 235 points.  WTI futures and Brent crude futures were both down about 4%, to $92 a barrel and $96 a barrel, respectively.",
             "published": "2026-05-24T22:13:00Z",
@@ -3991,7 +3991,7 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.738748",
+            "collected_at": "2026-05-25T08:24:30.883635",
             "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests",
             "summary": "Two concurrent price shocks, which trace back to decisions made by President Donald Trump, threaten to upend a seemingly unstoppable stock market.",
             "published": "2026-05-24T10:56:00Z",
@@ -4000,7 +4000,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.844978",
+            "collected_at": "2026-05-25T08:24:30.989923",
             "title": "New Fed Chair Kevin Warsh's First Test Arrives June 17 -- and the Stock Market May Not Like the Answer",
             "summary": "Investors should circle June 17 on their calendars.",
             "published": "2026-05-25T08:05:00Z",
@@ -4009,7 +4009,7 @@
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.844990",
+            "collected_at": "2026-05-25T08:24:30.989934",
             "title": "Politics and Investing Don’t Mix: Why Your Political Affiliation Could Be Hurting Your Returns",
             "summary": "n a contest between intellect and political identity, the latter all too often wins out, a new study finds.",
             "published": "2026-05-25T05:00:00Z",
@@ -4018,7 +4018,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.946122",
+            "collected_at": "2026-05-25T08:24:31.094627",
             "title": "Nasdaq Rebound: 3 Stocks to Buy Before They Hit New All-Time Highs",
             "summary": "These three stocks are well off their highs but could stage big rallies.",
             "published": "2026-05-25T02:05:00Z",
@@ -4027,7 +4027,7 @@
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:20.946125",
+            "collected_at": "2026-05-25T08:24:31.094630",
             "title": "Why GlobalFoundries Stock Skyrocketed This Week",
             "summary": "GlobalFoundries stock is getting a big boost from excitement surrounding quantum computing.",
             "published": "2026-05-24T18:04:02Z",
@@ -4036,7 +4036,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:21.044746",
+            "collected_at": "2026-05-25T08:24:31.190816",
             "title": "Gold Rises on U.S.-Iran Optimism, Weaker Dollar",
             "summary": "Gold prices rose on a weaker dollar and optimism that a potential breakthrough in U.S.-Iran peace negotiations could improve the inflation outlook.",
             "published": "2026-05-25T06:58:00Z",
@@ -4045,7 +4045,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:21.044752",
+            "collected_at": "2026-05-25T08:24:31.190823",
             "title": "In Sudan’s war economy, gold keeps flowing as miners risk mercury and collapse",
             "summary": "The men carried metal detectors as they scanned a mountainous area in northern Sudan in search of gold.  The mine is one of thousands of small-scale and artisanal mines scattered across Sudan, part of a sector that is at the center of the devastating war that has at times pushed parts of the country into famine.  Gold has become a major source of funding for Sudan’s treasury after the country lost over two-thirds of its oil revenues with the secession of South Sudan in 2011.",
             "published": "2026-05-25T05:21:08Z",
@@ -4054,7 +4054,7 @@
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:21.044755",
+            "collected_at": "2026-05-25T08:24:31.190826",
             "title": "Gold rises on weaker dollar as investor weigh US-Iran peace deal prospects",
             "summary": "May 25 (Reuters) - Gold prices rose more than 1% on Monday, supported by a weaker dollar and lower oil prices, as investors weighed prospects of a breakthrough in U.S.-Iran peace negotiations.",
             "published": "2026-05-25T01:18:57Z",
@@ -4063,7 +4063,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:21.140406",
+            "collected_at": "2026-05-25T08:24:31.281479",
             "title": "Oil prices fall after Trump says Iran deal to be announced shortly",
             "summary": "Oil prices dropped at the start of futures trading on Sunday after President Trump said the US and Iran were close to announcing a deal that would reopen the Strait of Hormuz.",
             "published": "2026-05-24T22:14:04Z",
@@ -4072,7 +4072,7 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:21.140421",
+            "collected_at": "2026-05-25T08:24:31.281489",
             "title": "Oil falls, stocks climb on hopes of US-Iran Hormuz deal",
             "summary": "Oil prices fell and Asian stocks climbed on Monday over hopes a deal between the United States and Iran to open the Strait of Hormuz could be brokered.Several sticking points have tempered hopes of a resolution to end the conflict and reopen the Strait of Hormuz, a critical energy corridor.",
             "published": "2026-05-25T07:48:20Z",
@@ -4083,7 +4083,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.238326",
+            "collected_at": "2026-05-25T08:24:31.381195",
+            "title": "AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
+            "summary": "The iShares Core Growth Allocation ETF (NYSEARCA:AOR) is the kind of fund a financial advisor recommends when they want to give a client one ticker and never think about it again. AOR holds roughly 60% equities and 40% bonds through a stack of underlying iShares funds, charges 0.15%, and manages around $3 billion in assets. ... AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
+            "published": "2026-05-25T08:21:40Z",
+            "provider": "24/7 Wall St."
+        },
+        {
+            "source_ticker": "SPY",
+            "category": "investment",
+            "collected_at": "2026-05-25T08:24:31.381202",
             "title": "The ‘Stock Market Maestros’ Author Has a Brutally Simple Rule for Long-Term Investors",
             "summary": "Clare Flynn Levy, author of Stock Market Maestros, recently appeared on the Afford Anything podcast and delivered what may be the most deflating advice a long-term investor can hear: stop trying to be clever. “If you’re being long-term, and you are actually being it, that’s all you need to do,” she told host Paula Pant. ... The ‘Stock Market Maestros’ Author Has a Brutally Simple Rule for Long-Term Investors",
             "published": "2026-05-24T18:56:41Z",
@@ -4092,25 +4101,16 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.238333",
+            "collected_at": "2026-05-25T08:24:31.381204",
             "title": "After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
             "summary": "The VIX ripped to 31.05 in late March before settling back near 18, and anyone who watched their growth holdings whip around during that stretch is probably re-reading the case for boring stocks. That is the backdrop for three utility ETFs that get mentioned in the same breath whenever income investors want defensive exposure: The ... After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
             "published": "2026-05-24T17:48:16Z",
             "provider": "24/7 Wall St."
         },
         {
-            "source_ticker": "SPY",
-            "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.238336",
-            "title": "How a $450,000 Portfolio Could Deliver $31,500 a Year While Limiting Market Drawdowns",
-            "summary": "A 69-year-old couple with $850,000 in investable assets faces a specific problem: they want equity exposure without the risk of a bear market gutting their principal in the first years of retirement, and they want predictable income they can spend. The pairing strategy splits that problem in two. $400,000 goes into buffered S&P 500 ETFs ... How a $450,000 Portfolio Could Deliver $31,500 a Year While Limiting Market Drawdowns",
-            "published": "2026-05-24T13:06:07Z",
-            "provider": "24/7 Wall St."
-        },
-        {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.334397",
+            "collected_at": "2026-05-25T08:24:31.484585",
             "title": "When Growth Stocks Finally Collapse, You’ll Want This 1 Anti-Beta ETF in Your Portfolio",
             "summary": "Knowing how to use this tool will help ensure you are a step ahead of the game the next time the stock market rolls over.",
             "published": "2026-05-24T13:30:02Z",
@@ -4119,7 +4119,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.334403",
+            "collected_at": "2026-05-25T08:24:31.484591",
             "title": "S&P 500 Clocks Best Weekly Rally Since 2023, Dow Hits Fresh Record As US-Iran Peace Hope Boosts Risk Sentiment - UBER, GILD, RDDT, FJET, AMD In Focus",
             "summary": "IPO optimism, robust corporate earnings, and a $2 billion quantum computing push aided U.S. stock indices this week.",
             "published": "2026-05-22T21:03:43Z",
@@ -4128,7 +4128,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.334406",
+            "collected_at": "2026-05-25T08:24:31.484594",
             "title": "Stocks Settle Higher on Iran Peace Hopes and Tech Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.37%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. June E-mini S&P futures (ESM26 ) rose +0.35%, and June E-mini Nasdaq futures...",
             "published": "2026-05-22T20:34:34Z",
@@ -4137,7 +4137,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.429111",
+            "collected_at": "2026-05-25T08:24:31.589573",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4146,7 +4146,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.429117",
+            "collected_at": "2026-05-25T08:24:31.589580",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4155,7 +4155,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.429120",
+            "collected_at": "2026-05-25T08:24:31.589583",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4164,7 +4164,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.524711",
+            "collected_at": "2026-05-25T08:24:31.686225",
             "title": "Cathie Wood's ARK Sells Chip Giants, Buys The Dip In Crypto Exchange Bullish And Two Others",
             "summary": "The company also bought 105,810 shares of Twist Bioscience for ARKK, its largest single-stock transaction over the past two days.",
             "published": "2026-05-23T14:48:31Z",
@@ -4173,7 +4173,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.524719",
+            "collected_at": "2026-05-25T08:24:31.686232",
             "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
             "summary": "<p>Is rebalancing killing your gains? The ETF Zoo crew dives into Cathie Wood’s ARK strategy, hyper-growth tech inflows, the wildest new corners of the market, and why ETFs are officially eating the market. </p>",
             "published": "2026-05-22T20:15:22Z",
@@ -4182,7 +4182,7 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.524722",
+            "collected_at": "2026-05-25T08:24:31.686235",
             "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
             "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
             "published": "2026-05-21T13:00:02Z",
@@ -4191,7 +4191,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.626396",
+            "collected_at": "2026-05-25T08:24:31.786067",
             "title": "‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
             "summary": "Jim Cramer’s blunt line to a young first-time homebuyer on the May 22 episode of Mad Money: “Expect corrections and don’t rely on hope as an investing strategy.” The caller, a younger investor, had just used a significant portion of his investment assets as a down payment on his first home and asked how to ... ‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
             "published": "2026-05-24T22:21:54Z",
@@ -4200,7 +4200,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.626406",
+            "collected_at": "2026-05-25T08:24:31.786080",
             "title": "Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Family Vacation.",
             "summary": "By far, the oldest and longest-standing gold exchange-traded products, or ETPs, generally charge around 0.4% annually in expense ratios. That applies both to closed-ended structures like the Sprott Physical Gold Trust (NYSEARCA: PHYS), which charges 0.39%, and also open-ended ETFs like the SPDR Gold Shares (NYSEARCA: GLD), which charges 0.40%. Long term, those fees matter. ... Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Fa",
             "published": "2026-05-23T15:15:00Z",
@@ -4209,7 +4209,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:21.626409",
+            "collected_at": "2026-05-25T08:24:31.786083",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
