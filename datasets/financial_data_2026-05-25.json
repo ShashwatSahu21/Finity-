@@ -1,13 +1,13 @@
 {
-    "collection_timestamp": "2026-05-25T08:24:31.786172",
+    "collection_timestamp": "2026-05-25T11:04:49.141355",
     "market_data": [
         {
             "symbol": "^NSEI",
-            "timestamp": "2026-05-25T08:24:28.537712",
-            "price": 23972.349609375,
-            "change": 32.099609375,
+            "timestamp": "2026-05-25T11:04:45.096944",
+            "price": 24031.69921875,
+            "change": 91.44921875,
             "open": 23940.25,
-            "high": 23995.900390625,
+            "high": 24054.44921875,
             "low": 23922.849609375,
             "volume": 0,
             "news": [
@@ -325,11 +325,11 @@
         },
         {
             "symbol": "^BSESN",
-            "timestamp": "2026-05-25T08:24:28.675134",
-            "price": 76322.4609375,
-            "change": 186.640625,
+            "timestamp": "2026-05-25T11:04:45.280847",
+            "price": 76488.9609375,
+            "change": 353.140625,
             "open": 76135.8203125,
-            "high": 76386.7109375,
+            "high": 76559.0703125,
             "low": 76097.0234375,
             "volume": 0,
             "news": [
@@ -585,165 +585,41 @@
         },
         {
             "symbol": "BTC-USD",
-            "timestamp": "2026-05-25T08:24:28.798715",
-            "price": 77234.5,
-            "change": 265.46875,
+            "timestamp": "2026-05-25T11:04:45.475308",
+            "price": 77371.15625,
+            "change": 402.125,
             "open": 76969.03125,
-            "high": 77473.0859375,
+            "high": 77563.3984375,
             "low": 76842.6953125,
-            "volume": 21740890112,
+            "volume": 21743022080,
             "news": [
                 {
-                    "id": "bfd0c985-9fcf-3592-bcaf-58122a28586d",
+                    "id": "189c9eb3-71e8-3ce7-ae28-3a7f5e54feb7",
                     "content": {
-                        "id": "bfd0c985-9fcf-3592-bcaf-58122a28586d",
+                        "id": "189c9eb3-71e8-3ce7-ae28-3a7f5e54feb7",
                         "contentType": "STORY",
-                        "title": "Bitcoin’s Quietest Accumulation in 18 Months Is Happening Right Now",
+                        "title": "Strategy: A Potential Millionaire-Maker Stock for Long-Term Investors",
                         "description": "",
-                        "summary": "Bitcoin price builds a proactive setup as whale positioning hits a yearly high while retail demand drops to its most bearish level of 2026.",
-                        "pubDate": "2026-05-25T07:06:47Z",
-                        "displayTime": "2026-05-25T07:06:47Z",
+                        "summary": "With the share price 66% off its peak, investors who buy now would be making a highly contrarian bet.",
+                        "pubDate": "2026-05-25T10:30:00Z",
+                        "displayTime": "2026-05-25T10:30:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/022e74664a97cb7512f66e768acc4e0d",
-                            "originalWidth": 2368,
-                            "originalHeight": 1332,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/XJ8R2ZGwZrKMVHDlh3XLfA--~B/aD0xMzMyO3c9MjM2ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/022e74664a97cb7512f66e768acc4e0d",
-                                    "width": 2368,
-                                    "height": 1332,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/2vObjO5.ixssl6y4SMGqfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/022e74664a97cb7512f66e768acc4e0d",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "BeInCrypto",
-                            "url": "https://beincrypto.com/",
-                            "sourceId": "beincrypto_us_662"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://beincrypto.com/bitcoin-price-proactive-setup-whales-yearly-high/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-quietest-accumulation-18-months-070647052.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "af06e0ac-8b0b-3b3d-8438-c911a1619c2c",
-                    "content": {
-                        "id": "af06e0ac-8b0b-3b3d-8438-c911a1619c2c",
-                        "contentType": "STORY",
-                        "title": "Michael Saylor’s Strategy Buys Bonds Over Bitcoin, Here’s Why It’s Bullish",
-                        "description": "",
-                        "summary": "Strategy (formerly MicroStrategy) pauses its Bitcoin purchase this week and decides to buy bonds, Michael Saylor confirms. This has sparked discussions among crypto and stock investors about whether it’s good or bad, as the company announced potential Bitcoin sales to purchase bonds. While MSTR stock tumbled more than 5% last week, Strategy still holds 843,738",
-                        "pubDate": "2026-05-25T06:12:20Z",
-                        "displayTime": "2026-05-25T06:12:20Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/coingape_360/9ac4599356d5e2268247d2d855fd0863",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/a3731c2fa03f94025ce8519bd263acd1",
                             "originalWidth": 1200,
                             "originalHeight": 800,
-                            "caption": "Michael Saylor's Strategy Buys Bonds Over Bitcoin, Here's Why It's Bullish",
+                            "caption": "The Strategy logo against an orange filter.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/kv6rpUaKtII6ArZG1.W.Mw--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coingape_360/9ac4599356d5e2268247d2d855fd0863",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/n9kN62qRjhzmUQToiuz7pQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a3731c2fa03f94025ce8519bd263acd1",
                                     "width": 1200,
                                     "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jIubmgyEyUPh.TO0MMKAvw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/9ac4599356d5e2268247d2d855fd0863",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "CoinGape",
-                            "url": "https://coingape.com/",
-                            "sourceId": "coingape_360"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://coingape.com/michael-saylors-strategy-buys-bonds-over-bitcoin-heres-why-its-bullish/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-strategy-buys-bonds-061220657.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "c1168bd3-7e39-38e0-a880-d9283bad2a1c",
-                    "content": {
-                        "id": "c1168bd3-7e39-38e0-a880-d9283bad2a1c",
-                        "contentType": "STORY",
-                        "title": "Is Litecoin a Better Buy Than Bitcoin Right Now?",
-                        "description": "",
-                        "summary": "This coin has survived for a long time, but can it ever thrive?",
-                        "pubDate": "2026-05-25T05:35:00Z",
-                        "displayTime": "2026-05-25T05:35:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/43dfb1e6739f390ea39c48b4e04ccbac",
-                            "originalWidth": 1400,
-                            "originalHeight": 787,
-                            "caption": "A Bitcoin stands on top of a wallet that's perched on top of a phone.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/mRMeBleM8jsknfiyKsfJ8Q--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/43dfb1e6739f390ea39c48b4e04ccbac",
-                                    "width": 1400,
-                                    "height": 787,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ORVXgfPqwNqsNuXr_zMu6g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/43dfb1e6739f390ea39c48b4e04ccbac",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/jADL09S3XeIMShgIhBya7A--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/a3731c2fa03f94025ce8519bd263acd1",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -756,13 +632,13 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/25/is-litecoin-a-better-buy-than-bitcoin-right-now/",
+                            "url": "https://www.fool.com/investing/2026/05/25/strategy-a-potential-millionaire-maker-stock-for-l/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/litecoin-better-buy-bitcoin-now-053500902.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-potential-millionaire-maker-stock-103000375.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -780,32 +656,94 @@
                     }
                 },
                 {
-                    "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
+                    "id": "27fbefd2-f1f6-3ff6-9d1a-c224070cce89",
                     "content": {
-                        "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
+                        "id": "27fbefd2-f1f6-3ff6-9d1a-c224070cce89",
                         "contentType": "STORY",
-                        "title": "Why Is The Crypto Market Up Today?",
+                        "title": "Bitcoin Price Prediction: BTC Options Coming to Nasdaq",
                         "description": "",
-                        "summary": "Crypto market adds $3.42 billion as Trump's patient Iran strategy resets risk premium and Bitcoin holds $77,000 above Hormuz Letter caveat.",
-                        "pubDate": "2026-05-25T04:19:54Z",
-                        "displayTime": "2026-05-25T04:19:54Z",
+                        "summary": "The Bitcoin price prediction today shows the asset is trading around $77,400 after a modest +0.9% pump over the past 24 hours. Institutional infrastructure is expanding at its fastest pace in years, yet the spot price is in a technically fragile zone that analysts call “the edge of a cliff.”Last ...",
+                        "pubDate": "2026-05-25T10:15:29Z",
+                        "displayTime": "2026-05-25T10:15:29Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/517daee03e3209a1add82c78dae25c5a",
-                            "originalWidth": 1920,
-                            "originalHeight": 1080,
+                            "originalUrl": "https://media.zenfs.com/en/cryptonews_us_711/09cfcdec85ca81d8ae805a83bb4cf939",
+                            "originalWidth": 1024,
+                            "originalHeight": 572,
                             "caption": "",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/Nm0u9knMqeVJrm1rU7ncgg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/517daee03e3209a1add82c78dae25c5a",
-                                    "width": 1920,
-                                    "height": 1080,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/cioMxnYLsZ8j4dhGT3HpbA--~B/aD01NzI7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/cryptonews_us_711/09cfcdec85ca81d8ae805a83bb4cf939",
+                                    "width": 1024,
+                                    "height": 572,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/PdaYFo4xxFakuNLtfisI0g--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/517daee03e3209a1add82c78dae25c5a",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/9m0iS5noZLImNdGhXMselg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cryptonews_us_711/09cfcdec85ca81d8ae805a83bb4cf939",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Cryptonews",
+                            "url": "https://cryptonews.com/",
+                            "sourceId": "cryptonews_us_711"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://cryptonews.com/news/bitcoin-price-prediction-nasdaq-options-cftc/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/options/articles/bitcoin-price-prediction-btc-options-101529819.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "cdc6aeae-89cd-317b-9bd8-313a4cb32fcc",
+                    "content": {
+                        "id": "cdc6aeae-89cd-317b-9bd8-313a4cb32fcc",
+                        "contentType": "STORY",
+                        "title": "Michael Saylor Didn’t Buy Bitcoin This Week: Here’s What Strategy Bought Instead",
+                        "description": "",
+                        "summary": "Strategy repurchased $1.5B in convertible bonds instead of Bitcoin this week. Saylor says the BitVac is charging for the next round.",
+                        "pubDate": "2026-05-25T09:56:19Z",
+                        "displayTime": "2026-05-25T09:56:19Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/bf95db56ad3d6fd7a6dd0c62e169fcec",
+                            "originalWidth": 1280,
+                            "originalHeight": 720,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/eLitmbATNpmpZ5iFHApsRg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/beincrypto_us_662/bf95db56ad3d6fd7a6dd0c62e169fcec",
+                                    "width": 1280,
+                                    "height": 720,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/l.MoYy5vk9_l.ztZNHY5vg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/bf95db56ad3d6fd7a6dd0c62e169fcec",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -818,13 +756,13 @@
                             "sourceId": "beincrypto_us_662"
                         },
                         "canonicalUrl": {
-                            "url": "https://beincrypto.com/why-is-the-crypto-market-up-today/",
+                            "url": "https://beincrypto.com/saylor-didnt-buy-bitcoin-this-week/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/why-crypto-market-today-035345690.html",
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-didn-t-buy-095619374.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -842,32 +780,32 @@
                     }
                 },
                 {
-                    "id": "54b4bfd7-d01a-3c6c-8eb0-14668bd9e565",
+                    "id": "88c245dd-6edb-3d4c-8bf5-7f4949862756",
                     "content": {
-                        "id": "54b4bfd7-d01a-3c6c-8eb0-14668bd9e565",
+                        "id": "88c245dd-6edb-3d4c-8bf5-7f4949862756",
                         "contentType": "STORY",
-                        "title": "Bitcoin, Ethereum, XRP, Dogecoin Flat Amid Iran Deal Uncertainty: Crypto Commentator Says 'Everyone's Bearish' On ETH, But Data Isn't",
+                        "title": "Cathie Wood Doubles Down On Peter Thiel's Bullish, Ark Sells Taiwan Semiconductor Stock Amid Spike",
                         "description": "",
-                        "summary": "Leading cryptocurrencies paused gains, while stock futures surged on Sunday after President Donald Trump urged officials not to rush into a deal with Iran. Cryptocurrency24-Hour Gains +/-Price (Recorded at 9:20 p.m. EDT)Bitcoin (CRYPTO: BTC)+0.47%$77,121.91Ethereum (CRYPTO: ETH) -0.73%$2,103.98XRP (CRYPTO: XRP) -0.58%$1.35Solana (CRYPTO: SOL) -0.57%$85.43Dogecoin (CRYPTO: DOGE) -0.56%$0.1024 Crypto Market Lacks Momentum Bitcoin declined to $76,000 during the evening hours, rebounding to $77,000",
-                        "pubDate": "2026-05-25T01:56:32Z",
-                        "displayTime": "2026-05-25T01:56:32Z",
+                        "summary": "On Thursday, Cathie Wood-led Ark Invest made significant trades, notably increasing its stake in Bullish Inc. while reducing its position in Taiwan Semiconductor Manufacturing Co., Ltd.. These trades reflect Ark’s strategic adjustments amid evolving market conditions. The Bullish Trade Ark...",
+                        "pubDate": "2026-05-25T09:46:30Z",
+                        "displayTime": "2026-05-25T09:46:30Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/Benzinga/8f887ae11f0e96720eba695d1ee0c2fa",
+                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
                             "originalWidth": 1024,
-                            "originalHeight": 689,
-                            "caption": "",
+                            "originalHeight": 683,
+                            "caption": "Cathie Wood Doubles Down On Peter Thiel's Bullish, Ark Sells Taiwan Semiconductor Stock Amid Spike",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/jnJr.eisDDciPxN7SQqQXQ--~B/aD02ODk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Benzinga/8f887ae11f0e96720eba695d1ee0c2fa",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/FQNXGbff6TAsFEzHNvmwUA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
                                     "width": 1024,
-                                    "height": 689,
+                                    "height": 683,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/1kC.6KL.lA1jw6dFto5KCw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/8f887ae11f0e96720eba695d1ee0c2fa",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/OEey3QdTO6PMNAAeNtRRTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -876,17 +814,79 @@
                         },
                         "provider": {
                             "displayName": "Benzinga",
-                            "url": "http://www.benzinga.com/",
-                            "sourceId": "Benzinga"
+                            "url": "https://www.benzinga.com/",
+                            "sourceId": "benzinga_79"
                         },
                         "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015632937.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-peter-094630153.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-flat-015632937.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-peter-094630153.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "4a492ff7-9d07-3e5c-a395-31cc15f9f8ef",
+                    "content": {
+                        "id": "4a492ff7-9d07-3e5c-a395-31cc15f9f8ef",
+                        "contentType": "STORY",
+                        "title": "Ripple EX-CTO Mocks Lawsuit Claiming Ownership of 3.7 Million Abandoned Bitcoins",
+                        "description": "",
+                        "summary": "Schwartz mocked a NY suit claiming 3.79M bitcoins as abandoned property, quipping only BSV would honor a court ruling.",
+                        "pubDate": "2026-05-25T08:23:18Z",
+                        "displayTime": "2026-05-25T08:23:18Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/beincrypto_us_662/e1a19ca63f0182a07909a42d150f547e",
+                            "originalWidth": 5120,
+                            "originalHeight": 2880,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/fuiHtb5TodxrZCJUV68nNQ--~B/aD0yODgwO3c9NTEyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/beincrypto_us_662/e1a19ca63f0182a07909a42d150f547e",
+                                    "width": 5120,
+                                    "height": 2880,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/8p0meNtlAPn0rNp4SM_ysg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/beincrypto_us_662/e1a19ca63f0182a07909a42d150f547e",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "BeInCrypto",
+                            "url": "https://beincrypto.com/",
+                            "sourceId": "beincrypto_us_662"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://beincrypto.com/schwartz-mocks-abandoned-bitcoin-ownership-lawsuit/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-ex-cto-mocks-lawsuit-082318283.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -907,13 +907,13 @@
         },
         {
             "symbol": "RELIANCE.NS",
-            "timestamp": "2026-05-25T08:24:28.985413",
-            "price": 1362.800048828125,
-            "change": -4.0,
+            "timestamp": "2026-05-25T11:04:45.755854",
+            "price": 1367.0,
+            "change": 0.199951171875,
             "open": 1366.800048828125,
             "high": 1371.0999755859375,
             "low": 1357.0,
-            "volume": 4690728,
+            "volume": 6747569,
             "news": [
                 {
                     "id": "85757e02-bb46-358f-921b-ec6f0835bfce",
@@ -1229,13 +1229,13 @@
         },
         {
             "symbol": "TCS.NS",
-            "timestamp": "2026-05-25T08:24:29.161939",
-            "price": 2311.10009765625,
-            "change": -13.89990234375,
+            "timestamp": "2026-05-25T11:04:46.035573",
+            "price": 2308.199951171875,
+            "change": -16.800048828125,
             "open": 2325.0,
             "high": 2326.10009765625,
             "low": 2293.0,
-            "volume": 2652547,
+            "volume": 3296957,
             "news": [
                 {
                     "id": "74506265-3e9c-3fab-9ce5-85290cee5954",
@@ -1551,13 +1551,13 @@
         },
         {
             "symbol": "HDFCBANK.NS",
-            "timestamp": "2026-05-25T08:24:29.326231",
-            "price": 784.0,
-            "change": 8.0,
+            "timestamp": "2026-05-25T11:04:46.327403",
+            "price": 786.8499755859375,
+            "change": 10.8499755859375,
             "open": 776.0,
-            "high": 785.9500122070312,
+            "high": 787.8499755859375,
             "low": 775.2000122070312,
-            "volume": 18470066,
+            "volume": 26040225,
             "news": [
                 {
                     "id": "b752a1e8-0b24-31a4-96f1-7876fbb18314",
@@ -1797,13 +1797,13 @@
         },
         {
             "symbol": "INFY.NS",
-            "timestamp": "2026-05-25T08:24:29.519002",
-            "price": 1172.4000244140625,
-            "change": -10.5999755859375,
+            "timestamp": "2026-05-25T11:04:46.596485",
+            "price": 1168.5,
+            "change": -14.5,
             "open": 1183.0,
             "high": 1185.0,
-            "low": 1169.4000244140625,
-            "volume": 3951263,
+            "low": 1166.0999755859375,
+            "volume": 5849688,
             "news": [
                 {
                     "id": "7df3d17e-13c1-3c58-bb3e-c16223e5c938",
@@ -2043,7 +2043,7 @@
         },
         {
             "symbol": "AAPL",
-            "timestamp": "2026-05-25T08:24:29.731169",
+            "timestamp": "2026-05-25T11:04:46.876591",
             "price": 308.82000732421875,
             "change": 2.70001220703125,
             "open": 306.1199951171875,
@@ -2365,7 +2365,7 @@
         },
         {
             "symbol": "MSFT",
-            "timestamp": "2026-05-25T08:24:29.896379",
+            "timestamp": "2026-05-25T11:04:47.117894",
             "price": 418.57000732421875,
             "change": -0.970001220703125,
             "open": 419.5400085449219,
@@ -2687,7 +2687,7 @@
         },
         {
             "symbol": "GOOGL",
-            "timestamp": "2026-05-25T08:24:30.045189",
+            "timestamp": "2026-05-25T11:04:47.300387",
             "price": 382.9700012207031,
             "change": -4.3800048828125,
             "open": 387.3500061035156,
@@ -2820,6 +2820,130 @@
                     }
                 },
                 {
+                    "id": "dcb7385e-6a01-3b6b-bd6c-e48ba1bc1484",
+                    "content": {
+                        "id": "dcb7385e-6a01-3b6b-bd6c-e48ba1bc1484",
+                        "contentType": "STORY",
+                        "title": "Move Over, AST SpaceMobile: Alphabet Has a Surprising New No. 1 Holding... and It's From the Financial Sector",
+                        "description": "",
+                        "summary": "Google parent Alphabet has taken a $1 billion stake in a company that holds a virtual monopoly in a niche segment of the financial services market.",
+                        "pubDate": "2026-05-25T09:26:00Z",
+                        "displayTime": "2026-05-25T09:26:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/b6a37c75f87077070e714749ea118e59",
+                            "originalWidth": 1200,
+                            "originalHeight": 780,
+                            "caption": "A New York Stock Exchange floor trader who's looking up in bewilderment at a computer monitor.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/4YROYmCRmGZYGxoP1oilQQ--~B/aD03ODA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/b6a37c75f87077070e714749ea118e59",
+                                    "width": 1200,
+                                    "height": 780,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/wbCOrD3Bqia_ENC9XZfmHQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/b6a37c75f87077070e714749ea118e59",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/25/move-over-asts-googl-has-a-new-no-1-holding-cme/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/move-over-ast-spacemobile-alphabet-092600842.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "375e91d4-8ae2-3755-af3c-7dbe86b532fb",
+                    "content": {
+                        "id": "375e91d4-8ae2-3755-af3c-7dbe86b532fb",
+                        "contentType": "STORY",
+                        "title": "Prediction: Alphabet Stock Is a Buy Before June 2026",
+                        "description": "",
+                        "summary": "Shares in the leading AI company have skyrocketed 130% during the past 12 months.",
+                        "pubDate": "2026-05-25T08:50:00Z",
+                        "displayTime": "2026-05-25T08:50:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/13a595762bd385c6896ee3e08c7eaa38",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Alphabet company name on red filter with office in background.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/jisCRPRRMtGF5RNiXa9_2A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/13a595762bd385c6896ee3e08c7eaa38",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/hgrB7ThshHHFUUSslZv3fQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/13a595762bd385c6896ee3e08c7eaa38",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/25/prediction-alphabet-stock-is-buy-before-june-2026/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-stock-buy-june-085000511.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
                     "id": "d7f97501-0ad5-327a-a098-cf758f1d163f",
                     "content": {
                         "id": "d7f97501-0ad5-327a-a098-cf758f1d163f",
@@ -2880,136 +3004,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "90376ef6-f37d-30c4-8bfa-ba8f55dbdde1",
-                    "content": {
-                        "id": "90376ef6-f37d-30c4-8bfa-ba8f55dbdde1",
-                        "contentType": "STORY",
-                        "title": "This Tech Stock Is Trading Below Where It Was a Year Ago -- but Its Business Has Never Been Stronger",
-                        "description": "",
-                        "summary": "Despite a surge in revenue and a massive opportunity ahead of it, Microsoft's stock has slipped over the last year.",
-                        "pubDate": "2026-05-25T06:27:00Z",
-                        "displayTime": "2026-05-25T06:27:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/8c7a405a1318f88cabf500781a21575d",
-                            "originalWidth": 1200,
-                            "originalHeight": 800,
-                            "caption": "The Microsoft logo on a blue background",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/DV59E33VD1L5ktuDGKQQRg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/8c7a405a1318f88cabf500781a21575d",
-                                    "width": 1200,
-                                    "height": 800,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/OS0mGF6dJmeR89HSc23xKw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/8c7a405a1318f88cabf500781a21575d",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/25/this-tech-stock-is-trading-below-where-it-was-a-ye/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tech-stock-trading-below-where-062700899.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "db81e645-731b-3345-9f5f-c52dff11c460",
-                    "content": {
-                        "id": "db81e645-731b-3345-9f5f-c52dff11c460",
-                        "contentType": "STORY",
-                        "title": "‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
-                        "description": "",
-                        "summary": "Jim Cramer’s blunt line to a young first-time homebuyer on the May 22 episode of Mad Money: “Expect corrections and don’t rely on hope as an investing strategy.” The caller, a younger investor, had just used a significant portion of his investment assets as a down payment on his first home and asked how to ... ‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
-                        "pubDate": "2026-05-24T22:21:54Z",
-                        "displayTime": "2026-05-24T22:21:54Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-                            "originalWidth": 1366,
-                            "originalHeight": 768,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/X5HJZvzudqfGr9NFzTSLHw--~B/aD03Njg7dz0xMzY2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-                                    "width": 1366,
-                                    "height": 768,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/zqrAHIW07BHaI3X8.gXKiw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/132aa5b74d960dcdb675aaba7d4ad89c",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/personal-finance/2026/05/24/expect-corrections-and-dont-rely-on-hope-cramers-reality-check-for-a-first-time-homebuyer/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/expect-corrections-don-t-rely-222154839.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "TSLA",
-            "timestamp": "2026-05-25T08:24:30.286389",
+            "timestamp": "2026-05-25T11:04:47.502836",
             "price": 426.010009765625,
             "change": 3.339996337890625,
             "open": 422.6700134277344,
@@ -3069,6 +3069,68 @@
                         },
                         "metadata": {
                             "editorsPick": true
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "d4085e7e-fdcf-3d6d-acf3-520c07428733",
+                    "content": {
+                        "id": "d4085e7e-fdcf-3d6d-acf3-520c07428733",
+                        "contentType": "STORY",
+                        "title": "This Week In Electric Vehicles - Liquid-Cooled Cables Propel Ultra-Fast Charging Growth",
+                        "description": "",
+                        "summary": "The global market for liquid-cooled EV charging cables is experiencing significant growth due to the accelerating adoption of electric vehicles and the increasing demand for ultra-fast charging capabilities. With the pursuit of higher power outputs, advanced cable systems are being developed to handle the substantial electrical loads required for high-speed charging, enhancing efficiency, safety, and performance. The deployment of high-capacity charging infrastructure is crucial as newer...",
+                        "pubDate": "2026-05-25T10:40:08Z",
+                        "displayTime": "2026-05-25T10:40:08Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                            "originalWidth": 1194,
+                            "originalHeight": 432,
+                            "caption": "",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/ODlYi3nHktkFW50mOSNHFw--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 1194,
+                                    "height": 432,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/yPBOQTg31bGRcz2Ne5m3kQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ed4196a3e5d347f9099ba2d6552cadc1",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Simply Wall St.",
+                            "url": "https://simplywall.st/",
+                            "sourceId": "simply_wall_st__316"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/sectors/energy/articles/week-electric-vehicles-liquid-cooled-104008691.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/sectors/energy/articles/week-electric-vehicles-liquid-cooled-104008691.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
                         },
                         "finance": {
                             "premiumFinance": {
@@ -3259,74 +3321,12 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "4fae57ab-4ff4-3d95-af6d-0f3f08552ebc",
-                    "content": {
-                        "id": "4fae57ab-4ff4-3d95-af6d-0f3f08552ebc",
-                        "contentType": "STORY",
-                        "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
-                        "description": "",
-                        "summary": "Elon Musk-led commercial spaceflight giant SpaceX‘s IPO could become a problem for Tesla Inc. investors and shareholders as the market readies itself for the June IPO date. Muskonomy The upcoming IPO could take investors’ appetite away from Tesla and onto...",
-                        "pubDate": "2026-05-24T18:01:53Z",
-                        "displayTime": "2026-05-24T18:01:53Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/b395ecece16cdcba0529aa06d55c67bf",
-                            "originalWidth": 1024,
-                            "originalHeight": 576,
-                            "caption": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/4cD0Q2x_E1buUIycMaxmJw--~B/aD01NzY7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/b395ecece16cdcba0529aa06d55c67bf",
-                                    "width": 1024,
-                                    "height": 576,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/KgkkGEz2vdJgidtlcdnARQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/b395ecece16cdcba0529aa06d55c67bf",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Benzinga",
-                            "url": "https://www.benzinga.com/",
-                            "sourceId": "benzinga_79"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-180153130.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-180153130.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         },
         {
             "symbol": "NVDA",
-            "timestamp": "2026-05-25T08:24:30.442723",
+            "timestamp": "2026-05-25T11:04:47.694913",
             "price": 215.3300018310547,
             "change": -5.5699920654296875,
             "open": 220.89999389648438,
@@ -3459,156 +3459,32 @@
                     }
                 },
                 {
-                    "id": "8bd2ec5b-3dc3-34d2-a13e-5d3bc3a959a1",
+                    "id": "c4048859-f22a-3325-9fe5-138f49152f3e",
                     "content": {
-                        "id": "8bd2ec5b-3dc3-34d2-a13e-5d3bc3a959a1",
+                        "id": "c4048859-f22a-3325-9fe5-138f49152f3e",
                         "contentType": "STORY",
-                        "title": "AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
+                        "title": "Is Walmart Stock Still a Safe Haven as Its Price Sinks With Consumer Pressures Intensifying?",
                         "description": "",
-                        "summary": "The iShares Core Growth Allocation ETF (NYSEARCA:AOR) is the kind of fund a financial advisor recommends when they want to give a client one ticker and never think about it again. AOR holds roughly 60% equities and 40% bonds through a stack of underlying iShares funds, charges 0.15%, and manages around $3 billion in assets. ... AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
-                        "pubDate": "2026-05-25T08:21:40Z",
-                        "displayTime": "2026-05-25T08:21:40Z",
+                        "summary": "Walmart stock has traditionally outperformed during recessions.",
+                        "pubDate": "2026-05-25T10:40:00Z",
+                        "displayTime": "2026-05-25T10:40:00Z",
                         "isHosted": true,
                         "bypassModal": false,
                         "previewUrl": null,
                         "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/752f8ad7f096776286f17e0d69d39861",
-                            "originalWidth": 1500,
-                            "originalHeight": 1000,
-                            "caption": "",
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4d683a832ecd3df3955979e2e873ea0e",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Walmart logo.",
                             "resolutions": [
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/NPDsRXKL6q9VbKtSG5j4mw--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/752f8ad7f096776286f17e0d69d39861",
-                                    "width": 1500,
-                                    "height": 1000,
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/B._6L1o8vXh2tV9l1qdStA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4d683a832ecd3df3955979e2e873ea0e",
+                                    "width": 1200,
+                                    "height": 800,
                                     "tag": "original"
                                 },
                                 {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/R6f9yWXfY54EBqSQejuvVQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/752f8ad7f096776286f17e0d69d39861",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/25/aors-60-40-allocation-has-lagged-a-simple-sp-500-by-60-points-over-a-decade-and-built-in-rebalancing-did-not-help/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/options/articles/aor-60-40-allocation-lagged-082140132.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "8103571f-c79f-3c60-9f1e-f434591de10c",
-                    "content": {
-                        "id": "8103571f-c79f-3c60-9f1e-f434591de10c",
-                        "contentType": "STORY",
-                        "title": "NVIDIA Extends AI Story With Quantum Center And Alice And Bob Bet",
-                        "description": "",
-                        "summary": "NVIDIA (NasdaqGS:NVDA) has launched a quantum research center as part of its push into quantum computing. The company is partnering with and investing in quantum startups, including French firm Alice & Bob, which focuses on error resistant qubits. These steps come while other companies such as Microsoft and IonQ are also focusing on quantum computing progress. NVIDIA is widely known for AI chips and data center hardware, which sit at the core of many current AI and accelerated computing...",
-                        "pubDate": "2026-05-25T08:07:53Z",
-                        "displayTime": "2026-05-25T08:07:53Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
-                            "originalWidth": 1194,
-                            "originalHeight": 432,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/ThKtT6bZ2uQ.hQLRanR2Wg--~B/aD00MzI7dz0xMTk0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
-                                    "width": 1194,
-                                    "height": 432,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/aO.m6F7TtQB8yU2PeCFGfg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/simply_wall_st__316/ce92e7ae6d602b61807a836f4291633e",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Simply Wall St.",
-                            "url": "https://simplywall.st/",
-                            "sourceId": "simply_wall_st__316"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-extends-ai-story-quantum-080753084.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-extends-ai-story-quantum-080753084.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "84c20530-5910-3817-8758-9c73000a55fe",
-                    "content": {
-                        "id": "84c20530-5910-3817-8758-9c73000a55fe",
-                        "contentType": "STORY",
-                        "title": "Walmart vs. Costco: Which Is the Better \"Recession-Proof\" Stock to Buy Now?",
-                        "description": "",
-                        "summary": "These seemingly boring dividend stocks have crushed the S&P 500 and Nasdaq over the last five years.",
-                        "pubDate": "2026-05-25T07:35:00Z",
-                        "displayTime": "2026-05-25T07:35:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/4f6c92f6617c112c6d279de94d7ebb5d",
-                            "originalWidth": 1201,
-                            "originalHeight": 815,
-                            "caption": "Person on road, holding umbrella and looking at storm breaking over city skyline. ",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/YpwnZx9uAR3dQ2N54wg4mw--~B/aD04MTU7dz0xMjAxO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/4f6c92f6617c112c6d279de94d7ebb5d",
-                                    "width": 1201,
-                                    "height": 815,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/.gVF6ai3CYOIT7ddCA4RxA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4f6c92f6617c112c6d279de94d7ebb5d",
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/tgTy80r6pf8ZOIlgJVxXdg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/4d683a832ecd3df3955979e2e873ea0e",
                                     "width": 170,
                                     "height": 128,
                                     "tag": "170x128"
@@ -3621,13 +3497,137 @@
                             "sourceId": "motleyfool.com"
                         },
                         "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/25/walmart-vs-costco-buy-recession-proof-stock/",
+                            "url": "https://www.fool.com/investing/2026/05/25/walmart-stock-safe-haven-recession-pressure/",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
                         },
                         "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-vs-costco-better-recession-073500417.html",
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-still-safe-haven-104000075.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "948d74a1-82ac-3696-b6a9-5e8fe4293bd4",
+                    "content": {
+                        "id": "948d74a1-82ac-3696-b6a9-5e8fe4293bd4",
+                        "contentType": "STORY",
+                        "title": "3 Stocks I'd Buy Without Hesitation During a Market Plunge",
+                        "description": "",
+                        "summary": "These stocks are must-buys on the dip.",
+                        "pubDate": "2026-05-25T10:20:00Z",
+                        "displayTime": "2026-05-25T10:20:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/08d48a04accfb0eecd2106d84c422250",
+                            "originalWidth": 1400,
+                            "originalHeight": 933,
+                            "caption": "A person at a supermarket buying eggs off the shelf.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/m_xD7PVTPS_eBp97qZpcQQ--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/08d48a04accfb0eecd2106d84c422250",
+                                    "width": 1400,
+                                    "height": 933,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/kbiMh5AzhoGvmVGSgawg8Q--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/08d48a04accfb0eecd2106d84c422250",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/25/3-stocks-id-buy-without-hesitation-during-a-market/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-id-buy-without-102000488.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "bbcbb6c4-0290-3623-9e4e-831020a0e2a9",
+                    "content": {
+                        "id": "bbcbb6c4-0290-3623-9e4e-831020a0e2a9",
+                        "contentType": "STORY",
+                        "title": "Gas Shortages Are Coming, and Chevron's CEO Says Economies Will Have to Slow. These Consumer Stocks Are Most at Risk.",
+                        "description": "",
+                        "summary": "You may already be factoring the impact of higher gas prices into your investment strategies, but are you prepared for the imminent global oil shortage?",
+                        "pubDate": "2026-05-25T09:47:00Z",
+                        "displayTime": "2026-05-25T09:47:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/54681f2c29b2d281a00cdef3a8351ce9",
+                            "originalWidth": 1400,
+                            "originalHeight": 937,
+                            "caption": "Someone is dumping a bucket of cash into his car's gas tank.",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/tEfE0G_yRVY0VviZzzcpBA--~B/aD05Mzc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/54681f2c29b2d281a00cdef3a8351ce9",
+                                    "width": 1400,
+                                    "height": 937,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/vCzYXp1XBCLVLNKkVQmRuw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/54681f2c29b2d281a00cdef3a8351ce9",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Motley Fool",
+                            "url": "http://www.fool.com/",
+                            "sourceId": "motleyfool.com"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://www.fool.com/investing/2026/05/25/gas-shortages-are-coming-and-chevrons-ceo-says-eco/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/sectors/energy/articles/gas-shortages-coming-chevrons-ceo-094700396.html",
                             "site": "finance",
                             "region": "US",
                             "lang": "en-US"
@@ -3648,14 +3648,138 @@
         },
         {
             "symbol": "ETH-USD",
-            "timestamp": "2026-05-25T08:24:30.678533",
-            "price": 2109.72998046875,
-            "change": 12.18115234375,
+            "timestamp": "2026-05-25T11:04:47.854944",
+            "price": 2114.0,
+            "change": 16.451171875,
             "open": 2097.548828125,
-            "high": 2113.951904296875,
+            "high": 2119.8154296875,
             "low": 2091.43896484375,
-            "volume": 11329100800,
+            "volume": 11246821376,
             "news": [
+                {
+                    "id": "88c245dd-6edb-3d4c-8bf5-7f4949862756",
+                    "content": {
+                        "id": "88c245dd-6edb-3d4c-8bf5-7f4949862756",
+                        "contentType": "STORY",
+                        "title": "Cathie Wood Doubles Down On Peter Thiel's Bullish, Ark Sells Taiwan Semiconductor Stock Amid Spike",
+                        "description": "",
+                        "summary": "On Thursday, Cathie Wood-led Ark Invest made significant trades, notably increasing its stake in Bullish Inc. while reducing its position in Taiwan Semiconductor Manufacturing Co., Ltd.. These trades reflect Ark’s strategic adjustments amid evolving market conditions. The Bullish Trade Ark...",
+                        "pubDate": "2026-05-25T09:46:30Z",
+                        "displayTime": "2026-05-25T09:46:30Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
+                            "originalWidth": 1024,
+                            "originalHeight": 683,
+                            "caption": "Cathie Wood Doubles Down On Peter Thiel's Bullish, Ark Sells Taiwan Semiconductor Stock Amid Spike",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/FQNXGbff6TAsFEzHNvmwUA--~B/aD02ODM7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
+                                    "width": 1024,
+                                    "height": 683,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/OEey3QdTO6PMNAAeNtRRTQ--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/benzinga_79/5ae83734560eefb41f0e07c75bccbd4b",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "Benzinga",
+                            "url": "https://www.benzinga.com/",
+                            "sourceId": "benzinga_79"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-peter-094630153.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-peter-094630153.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
+                {
+                    "id": "d9c397c5-d8c4-3a6c-86a8-f583cff0a9dc",
+                    "content": {
+                        "id": "d9c397c5-d8c4-3a6c-86a8-f583cff0a9dc",
+                        "contentType": "STORY",
+                        "title": "Who is The 3-month Old Ethereum Foundation Director Behind Vitalik Buterin’s New ETH Plan",
+                        "description": "",
+                        "summary": "Ethereum Foundation:- When Vitalik Buterin announced on Sunday that the Ethereum Foundation is becoming leaner, making less ETH sells, restructuring itself, the debate about its merits or demerits exploded across crypto social media. But hidden inside that announcement and behind the current executive strategy is another name: Bastian Aue. While Vitalik has been the most",
+                        "pubDate": "2026-05-25T09:03:00Z",
+                        "displayTime": "2026-05-25T09:03:00Z",
+                        "isHosted": true,
+                        "bypassModal": false,
+                        "previewUrl": null,
+                        "thumbnail": {
+                            "originalUrl": "https://media.zenfs.com/en/coingape_360/9ac28db9542735644d63709a08b72756",
+                            "originalWidth": 1200,
+                            "originalHeight": 800,
+                            "caption": "Ethereum Foundation Director",
+                            "resolutions": [
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/jBCsxGu7UPtV3z.xX7FEzQ--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coingape_360/9ac28db9542735644d63709a08b72756",
+                                    "width": 1200,
+                                    "height": 800,
+                                    "tag": "original"
+                                },
+                                {
+                                    "url": "https://s.yimg.com/uu/api/res/1.2/QK4ciUZlCLVgLgbO4GbXLA--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/coingape_360/9ac28db9542735644d63709a08b72756",
+                                    "width": 170,
+                                    "height": 128,
+                                    "tag": "170x128"
+                                }
+                            ]
+                        },
+                        "provider": {
+                            "displayName": "CoinGape",
+                            "url": "https://coingape.com/",
+                            "sourceId": "coingape_360"
+                        },
+                        "canonicalUrl": {
+                            "url": "https://coingape.com/block-of-fame/pulse/ethereum-foundation-director-behind-vitalik-buterins-new-eth-plan/",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "clickThroughUrl": {
+                            "url": "https://finance.yahoo.com/markets/crypto/articles/3-month-old-ethereum-foundation-090300304.html",
+                            "site": "finance",
+                            "region": "US",
+                            "lang": "en-US"
+                        },
+                        "metadata": {
+                            "editorsPick": false
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": false,
+                                "isPremiumFreeNews": false
+                            }
+                        },
+                        "storyline": null
+                    }
+                },
                 {
                     "id": "a073a26d-d1e4-3ccc-a0ae-5ba418ba6862",
                     "content": {
@@ -3841,130 +3965,6 @@
                         },
                         "storyline": null
                     }
-                },
-                {
-                    "id": "3179ebc5-07d7-37cf-b367-15dff8096ac0",
-                    "content": {
-                        "id": "3179ebc5-07d7-37cf-b367-15dff8096ac0",
-                        "contentType": "STORY",
-                        "title": "Harvard University Sold Some Bitcoin and Ethereum in Q1. Should You?",
-                        "description": "",
-                        "summary": "Some investors are concerned that the sales are a sign of renewed institutional skittishness about key cryptoassets.",
-                        "pubDate": "2026-05-25T00:09:00Z",
-                        "displayTime": "2026-05-25T00:09:00Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/motleyfool.com/6722a5b31b24aed5c4ae3eec4709d9eb",
-                            "originalWidth": 1400,
-                            "originalHeight": 787,
-                            "caption": "A large golden Bitcoin rests on top of a screen displaying stock price data.",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/gHWkIvMvl7Sbu0nbHuy9tg--~B/aD03ODc7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/6722a5b31b24aed5c4ae3eec4709d9eb",
-                                    "width": 1400,
-                                    "height": 787,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/E0ldg2mztvQ90_EiG_LxTg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/motleyfool.com/6722a5b31b24aed5c4ae3eec4709d9eb",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "Motley Fool",
-                            "url": "http://www.fool.com/",
-                            "sourceId": "motleyfool.com"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://www.fool.com/investing/2026/05/24/harvard-university-sold-some-bitcoin-and-ethereum/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/harvard-university-sold-bitcoin-ethereum-000900505.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
-                },
-                {
-                    "id": "fad65a23-5b31-38ee-aba6-a7c75924891c",
-                    "content": {
-                        "id": "fad65a23-5b31-38ee-aba6-a7c75924891c",
-                        "contentType": "STORY",
-                        "title": "Will Ethereum Ever Move Past $4,000 Again?",
-                        "description": "",
-                        "summary": "Ethereum (CRYPTO: ETH) is trading around $2,091 today, down 57% from its all-time high of $4,946, set in August 2025. To move past $4,000 again, Ethereum needs to nearly double from its current price. Ethereum nearly doubling from here is a stretch, but the case for it is stronger than the price suggests. So, we ... Will Ethereum Ever Move Past $4,000 Again?",
-                        "pubDate": "2026-05-24T21:43:44Z",
-                        "displayTime": "2026-05-24T21:43:44Z",
-                        "isHosted": true,
-                        "bypassModal": false,
-                        "previewUrl": null,
-                        "thumbnail": {
-                            "originalUrl": "https://media.zenfs.com/en/24_7_wall_st__718/60691ae01debd15a0f500b66e8e4be1a",
-                            "originalWidth": 1500,
-                            "originalHeight": 1000,
-                            "caption": "",
-                            "resolutions": [
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/vPafvhsc3Jvn.sAQbCYyHg--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/24_7_wall_st__718/60691ae01debd15a0f500b66e8e4be1a",
-                                    "width": 1500,
-                                    "height": 1000,
-                                    "tag": "original"
-                                },
-                                {
-                                    "url": "https://s.yimg.com/uu/api/res/1.2/l92Bm.yPDW7aZc6eMBp0Sw--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/24_7_wall_st__718/60691ae01debd15a0f500b66e8e4be1a",
-                                    "width": 170,
-                                    "height": 128,
-                                    "tag": "170x128"
-                                }
-                            ]
-                        },
-                        "provider": {
-                            "displayName": "24/7 Wall St.",
-                            "url": "https://247wallst.com/",
-                            "sourceId": "24_7_wall_st__718"
-                        },
-                        "canonicalUrl": {
-                            "url": "https://247wallst.com/investing/2026/05/24/will-ethereum-ever-move-past-4000-again/",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "clickThroughUrl": {
-                            "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-ever-move-past-4-214344099.html",
-                            "site": "finance",
-                            "region": "US",
-                            "lang": "en-US"
-                        },
-                        "metadata": {
-                            "editorsPick": false
-                        },
-                        "finance": {
-                            "premiumFinance": {
-                                "isPremiumNews": false,
-                                "isPremiumFreeNews": false
-                            }
-                        },
-                        "storyline": null
-                    }
                 }
             ]
         }
@@ -3973,97 +3973,97 @@
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:30.883619",
-            "title": "Dow Jones Futures Rise, Oil Prices Fall: Trump Says No 'Rush' For Iran Deal",
-            "summary": "President Donald Trump said an interim agreement is close that would open the Strait of Hormuz, but negotiations continue.",
-            "published": "2026-05-25T06:35:36Z",
-            "provider": "Investor's Business Daily"
+            "collected_at": "2026-05-25T11:04:48.046845",
+            "title": "3 Stocks I'd Buy Without Hesitation During a Market Plunge",
+            "summary": "These stocks are must-buys on the dip.",
+            "published": "2026-05-25T10:20:00Z",
+            "provider": "Motley Fool"
         },
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:30.883632",
-            "title": "Oil Tumbles, Stock Futures Rise Amid Hopes for Iran Deal",
-            "summary": "Stock futures were rising late Sunday, and oil futures fell after the Trump administration hinted officials are inching closer to a deal with Iran to end the three-month conflict and reopen the Strait of Hormuz.  Just after 6 p.m. Eastern time, Dow Jones Industrial Average futures were up 0.5% or 235 points.  WTI futures and Brent crude futures were both down about 4%, to $92 a barrel and $96 a barrel, respectively.",
-            "published": "2026-05-24T22:13:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-25T11:04:48.046860",
+            "title": "Global Growth Companies Insiders Favor With Up To 40% Earnings Growth",
+            "summary": "As global markets navigate a complex landscape marked by record-low U.S. consumer sentiment, rising inflation pressures, and geopolitical uncertainties, major indices like the Dow Jones and S&P 500 have nevertheless reached new heights. Amidst this backdrop, investors are increasingly drawn to growth companies with high insider ownership—an indicator that can signal confidence in a company's potential to achieve substantial earnings growth even in challenging economic conditions.",
+            "published": "2026-05-25T09:35:57Z",
+            "provider": "Simply Wall St."
         },
         {
             "source_ticker": "^DJI",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:30.883635",
-            "title": "\"Trumpflation\" Is Roiling Wall Street -- and It May Not Be a Short-Term Issue as the President Suggests",
-            "summary": "Two concurrent price shocks, which trace back to decisions made by President Donald Trump, threaten to upend a seemingly unstoppable stock market.",
-            "published": "2026-05-24T10:56:00Z",
-            "provider": "Motley Fool"
+            "collected_at": "2026-05-25T11:04:48.046862",
+            "title": "Global's Top 3 Dividend Stocks To Consider",
+            "summary": "As global markets navigate a complex landscape marked by record-low consumer sentiment and persistent inflation concerns, major indices like the Dow Jones Industrial Average and S&P 500 have reached new highs, fueled in part by enthusiasm for artificial intelligence stocks. In this environment of mixed economic signals, dividend stocks can offer a measure of stability and income potential, making them an attractive option for investors seeking to balance growth with reliable returns.",
+            "published": "2026-05-25T09:31:51Z",
+            "provider": "Simply Wall St."
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:30.989923",
-            "title": "New Fed Chair Kevin Warsh's First Test Arrives June 17 -- and the Stock Market May Not Like the Answer",
-            "summary": "Investors should circle June 17 on their calendars.",
-            "published": "2026-05-25T08:05:00Z",
-            "provider": "Motley Fool"
+            "collected_at": "2026-05-25T11:04:48.209536",
+            "title": "3 Services Stocks for Long-Term Investors",
+            "summary": "Business services providers play a critical role for enterprises, assisting them with everything from new hardware integrations to consulting and marketing. Furthermore, the demand for their offerings is rising as more clients outsource non-core functions, a trend that has enabled the industry to return 12.9% over the past six months. At the same time, the S&P 500 was up 10%.",
+            "published": "2026-05-25T10:43:51Z",
+            "provider": "StockStory"
         },
         {
             "source_ticker": "^GSPC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:30.989934",
-            "title": "Politics and Investing Don’t Mix: Why Your Political Affiliation Could Be Hurting Your Returns",
-            "summary": "n a contest between intellect and political identity, the latter all too often wins out, a new study finds.",
-            "published": "2026-05-25T05:00:00Z",
-            "provider": "Barrons.com"
+            "collected_at": "2026-05-25T11:04:48.209552",
+            "title": "2 Industrials Stocks with Exciting Potential and 1 We Turn Down",
+            "summary": "Whether you see them or not, industrials businesses play a crucial part in our daily activities. They are also bound to benefit from a friendlier regulatory environment with the Trump administration, and this excitement has led to a six-month gain of 18% for the sector - higher than the S&P 500’s 10% return.",
+            "published": "2026-05-25T09:31:51Z",
+            "provider": "StockStory"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:31.094627",
-            "title": "Nasdaq Rebound: 3 Stocks to Buy Before They Hit New All-Time Highs",
-            "summary": "These three stocks are well off their highs but could stage big rallies.",
-            "published": "2026-05-25T02:05:00Z",
-            "provider": "Motley Fool"
+            "collected_at": "2026-05-25T11:04:48.358636",
+            "title": "Is the stock market open today? What to know about Memorial Day hours",
+            "summary": "The New York Stock Exchange, Nasdaq and bond markets all close for certain holidays throughout the year. See schedule.",
+            "published": "2026-05-25T10:02:37Z",
+            "provider": "Detroit Free Press"
         },
         {
             "source_ticker": "^IXIC",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:31.094630",
-            "title": "Why GlobalFoundries Stock Skyrocketed This Week",
-            "summary": "GlobalFoundries stock is getting a big boost from excitement surrounding quantum computing.",
-            "published": "2026-05-24T18:04:02Z",
+            "collected_at": "2026-05-25T11:04:48.358638",
+            "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market.",
+            "summary": "Dissent within the Federal Open Market Committee (FOMC) appears to be far greater than initially believed.",
+            "published": "2026-05-25T08:26:00Z",
             "provider": "Motley Fool"
         },
         {
             "source_ticker": "GC=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:31.190816",
+            "collected_at": "2026-05-25T11:04:48.461912",
+            "title": "Aben Gold secures Yukon mining licence for five-year exploration",
+            "summary": "The approval applies to the company's 7,400ha, 100%-owned Justin Gold Tungsten Project in southeast Yukon.",
+            "published": "2026-05-25T10:37:31Z",
+            "provider": "Mining Technology"
+        },
+        {
+            "source_ticker": "GC=F",
+            "category": "business",
+            "collected_at": "2026-05-25T11:04:48.461927",
+            "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns",
+            "summary": "(Bloomberg) -- Gold advanced as signs the US and Iran are closing in on a deal that would reopen the Strait of Hormuz tempered inflation concerns.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He’ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, SanctionsBullion rose as much as 1.6%",
+            "published": "2026-05-25T08:09:44Z",
+            "provider": "Bloomberg"
+        },
+        {
+            "source_ticker": "GC=F",
+            "category": "business",
+            "collected_at": "2026-05-25T11:04:48.461929",
             "title": "Gold Rises on U.S.-Iran Optimism, Weaker Dollar",
             "summary": "Gold prices rose on a weaker dollar and optimism that a potential breakthrough in U.S.-Iran peace negotiations could improve the inflation outlook.",
             "published": "2026-05-25T06:58:00Z",
             "provider": "The Wall Street Journal"
         },
         {
-            "source_ticker": "GC=F",
-            "category": "business",
-            "collected_at": "2026-05-25T08:24:31.190823",
-            "title": "In Sudan’s war economy, gold keeps flowing as miners risk mercury and collapse",
-            "summary": "The men carried metal detectors as they scanned a mountainous area in northern Sudan in search of gold.  The mine is one of thousands of small-scale and artisanal mines scattered across Sudan, part of a sector that is at the center of the devastating war that has at times pushed parts of the country into famine.  Gold has become a major source of funding for Sudan’s treasury after the country lost over two-thirds of its oil revenues with the secession of South Sudan in 2011.",
-            "published": "2026-05-25T05:21:08Z",
-            "provider": "Associated Press"
-        },
-        {
-            "source_ticker": "GC=F",
-            "category": "business",
-            "collected_at": "2026-05-25T08:24:31.190826",
-            "title": "Gold rises on weaker dollar as investor weigh US-Iran peace deal prospects",
-            "summary": "May 25 (Reuters) - Gold prices rose more than 1% on Monday, supported by a weaker dollar and lower oil prices, as investors weighed prospects of a breakthrough in U.S.-Iran peace negotiations.",
-            "published": "2026-05-25T01:18:57Z",
-            "provider": "Reuters"
-        },
-        {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:31.281479",
+            "collected_at": "2026-05-25T11:04:48.562491",
             "title": "Oil prices fall after Trump says Iran deal to be announced shortly",
             "summary": "Oil prices dropped at the start of futures trading on Sunday after President Trump said the US and Iran were close to announcing a deal that would reopen the Strait of Hormuz.",
             "published": "2026-05-24T22:14:04Z",
@@ -4072,18 +4072,27 @@
         {
             "source_ticker": "CL=F",
             "category": "business",
-            "collected_at": "2026-05-25T08:24:31.281489",
-            "title": "Oil falls, stocks climb on hopes of US-Iran Hormuz deal",
-            "summary": "Oil prices fell and Asian stocks climbed on Monday over hopes a deal between the United States and Iran to open the Strait of Hormuz could be brokered.Several sticking points have tempered hopes of a resolution to end the conflict and reopen the Strait of Hormuz, a critical energy corridor.",
-            "published": "2026-05-25T07:48:20Z",
-            "provider": "AFP"
+            "collected_at": "2026-05-25T11:04:48.562505",
+            "title": "Soft Inflation Dynamics Give Bank of Canada Room to Stay Patient, Says TD",
+            "summary": "Canadian financial markets seemingly \"exhaled\" a bit last week, \"catalyzed\" by constructive developm",
+            "published": "2026-05-25T10:55:27Z",
+            "provider": "MT Newswires"
+        },
+        {
+            "source_ticker": "CL=F",
+            "category": "business",
+            "collected_at": "2026-05-25T11:04:48.562508",
+            "title": "Market Chatter: Oil Sands Firms Can Afford Carbon Capture, Canadian Energy Minister Says",
+            "summary": "Canadian Energy Minister Tim Hodgson said he's \"highly confident\" that Alberta oil sands companies c",
+            "published": "2026-05-25T10:45:10Z",
+            "provider": "MT Newswires"
         }
     ],
     "investment_news": [
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.381195",
+            "collected_at": "2026-05-25T11:04:48.665285",
             "title": "AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
             "summary": "The iShares Core Growth Allocation ETF (NYSEARCA:AOR) is the kind of fund a financial advisor recommends when they want to give a client one ticker and never think about it again. AOR holds roughly 60% equities and 40% bonds through a stack of underlying iShares funds, charges 0.15%, and manages around $3 billion in assets. ... AOR’s 60/40 Allocation Has Lagged a Simple S&P 500 by 60 Points Over a Decade, And Built In Rebalancing Did Not Help",
             "published": "2026-05-25T08:21:40Z",
@@ -4092,7 +4101,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.381202",
+            "collected_at": "2026-05-25T11:04:48.665299",
             "title": "The ‘Stock Market Maestros’ Author Has a Brutally Simple Rule for Long-Term Investors",
             "summary": "Clare Flynn Levy, author of Stock Market Maestros, recently appeared on the Afford Anything podcast and delivered what may be the most deflating advice a long-term investor can hear: stop trying to be clever. “If you’re being long-term, and you are actually being it, that’s all you need to do,” she told host Paula Pant. ... The ‘Stock Market Maestros’ Author Has a Brutally Simple Rule for Long-Term Investors",
             "published": "2026-05-24T18:56:41Z",
@@ -4101,7 +4110,7 @@
         {
             "source_ticker": "SPY",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.381204",
+            "collected_at": "2026-05-25T11:04:48.665302",
             "title": "After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
             "summary": "The VIX ripped to 31.05 in late March before settling back near 18, and anyone who watched their growth holdings whip around during that stretch is probably re-reading the case for boring stocks. That is the backdrop for three utility ETFs that get mentioned in the same breath whenever income investors want defensive exposure: The ... After Years of Watching Volatility Spikes These Are the 3 Utility ETFs Built for Investors Who Want Income Without Sleepless Nights",
             "published": "2026-05-24T17:48:16Z",
@@ -4110,7 +4119,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.484585",
+            "collected_at": "2026-05-25T11:04:48.763732",
             "title": "When Growth Stocks Finally Collapse, You’ll Want This 1 Anti-Beta ETF in Your Portfolio",
             "summary": "Knowing how to use this tool will help ensure you are a step ahead of the game the next time the stock market rolls over.",
             "published": "2026-05-24T13:30:02Z",
@@ -4119,7 +4128,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.484591",
+            "collected_at": "2026-05-25T11:04:48.763746",
             "title": "S&P 500 Clocks Best Weekly Rally Since 2023, Dow Hits Fresh Record As US-Iran Peace Hope Boosts Risk Sentiment - UBER, GILD, RDDT, FJET, AMD In Focus",
             "summary": "IPO optimism, robust corporate earnings, and a $2 billion quantum computing push aided U.S. stock indices this week.",
             "published": "2026-05-22T21:03:43Z",
@@ -4128,7 +4137,7 @@
         {
             "source_ticker": "QQQ",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.484594",
+            "collected_at": "2026-05-25T11:04:48.763749",
             "title": "Stocks Settle Higher on Iran Peace Hopes and Tech Strength",
             "summary": "The S&P 500 Index ($SPX ) (SPY ) on Friday closed up +0.37%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +0.58%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.42%. June E-mini S&P futures (ESM26 ) rose +0.35%, and June E-mini Nasdaq futures...",
             "published": "2026-05-22T20:34:34Z",
@@ -4137,7 +4146,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.589573",
+            "collected_at": "2026-05-25T11:04:48.866180",
             "title": "If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "summary": "Hindsight is 20/20, but in 1995, going long fixed-income duration really was the correct move. Duration is essentially a measure of a bond portfolio’s sensitivity to changes in interest rates. The longer the duration, the more a bond’s price tends to move when rates change. Back then, interest rates across much of the developed world ... If Your Advisor Said to Add Bonds at 65, They Were Right (in 1995). Here’s What That Advice Should Sound Like Today.",
             "published": "2026-05-21T13:30:03Z",
@@ -4146,7 +4155,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.589580",
+            "collected_at": "2026-05-25T11:04:48.866195",
             "title": "Vanguard Total Stock Market Index Fund ETF Shares (VTI): Graham Stephan Remains Bullish",
             "summary": "We just covered the Graham Stephan Stock Portfolio: Top 11 Stocks and Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI) ranks 8th on this list. Graham Stephan is a big proponent of investing in funds like Vanguard Total Stock Market Index Fund ETF Shares (NYSE:VTI). He believes they lower the risk profile of the […]",
             "published": "2026-05-20T19:50:26Z",
@@ -4155,7 +4164,7 @@
         {
             "source_ticker": "VTI",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.589583",
+            "collected_at": "2026-05-25T11:04:48.866197",
             "title": "VTI vs VOO: Which One Is the Smarter Buy Today?",
             "summary": "The Vanguard S&P 500 ETF (VOO) and the Vanguard Total Stock Market ETF (VTI) look and act very similar. One of them has a big advantage at the moment.",
             "published": "2026-05-19T10:05:00Z",
@@ -4164,7 +4173,16 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.686225",
+            "collected_at": "2026-05-25T11:04:49.034152",
+            "title": "Cathie Wood Doubles Down On Peter Thiel's Bullish, Ark Sells Taiwan Semiconductor Stock Amid Spike",
+            "summary": "On Thursday, Cathie Wood-led Ark Invest made significant trades, notably increasing its stake in Bullish Inc. while reducing its position in Taiwan Semiconductor Manufacturing Co., Ltd.. These trades reflect Ark’s strategic adjustments amid evolving market conditions. The Bullish Trade Ark...",
+            "published": "2026-05-25T09:46:30Z",
+            "provider": "Benzinga"
+        },
+        {
+            "source_ticker": "ARKK",
+            "category": "investment",
+            "collected_at": "2026-05-25T11:04:49.034167",
             "title": "Cathie Wood's ARK Sells Chip Giants, Buys The Dip In Crypto Exchange Bullish And Two Others",
             "summary": "The company also bought 105,810 shares of Twist Bioscience for ARKK, its largest single-stock transaction over the past two days.",
             "published": "2026-05-23T14:48:31Z",
@@ -4173,25 +4191,16 @@
         {
             "source_ticker": "ARKK",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.686232",
+            "collected_at": "2026-05-25T11:04:49.034170",
             "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
             "summary": "<p>Is rebalancing killing your gains? The ETF Zoo crew dives into Cathie Wood’s ARK strategy, hyper-growth tech inflows, the wildest new corners of the market, and why ETFs are officially eating the market. </p>",
             "published": "2026-05-22T20:15:22Z",
             "provider": "etf.com"
         },
         {
-            "source_ticker": "ARKK",
-            "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.686235",
-            "title": "Cerebras Just Got Fast-Tracked Into the S&P 500. Here’s What It Means for Investors",
-            "summary": "Cerebras jumps from IPO hype to S&P inclusion, turning early momentum into a forced buying event for index funds.",
-            "published": "2026-05-21T13:00:02Z",
-            "provider": "Barchart"
-        },
-        {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.786067",
+            "collected_at": "2026-05-25T11:04:49.141249",
             "title": "‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
             "summary": "Jim Cramer’s blunt line to a young first-time homebuyer on the May 22 episode of Mad Money: “Expect corrections and don’t rely on hope as an investing strategy.” The caller, a younger investor, had just used a significant portion of his investment assets as a down payment on his first home and asked how to ... ‘Expect Corrections and Don’t Rely on Hope’: Cramer’s Reality Check for a First-Time Homebuyer",
             "published": "2026-05-24T22:21:54Z",
@@ -4200,7 +4209,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.786080",
+            "collected_at": "2026-05-25T11:04:49.141263",
             "title": "Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Family Vacation.",
             "summary": "By far, the oldest and longest-standing gold exchange-traded products, or ETPs, generally charge around 0.4% annually in expense ratios. That applies both to closed-ended structures like the Sprott Physical Gold Trust (NYSEARCA: PHYS), which charges 0.39%, and also open-ended ETFs like the SPDR Gold Shares (NYSEARCA: GLD), which charges 0.40%. Long term, those fees matter. ... Most Gold ETFs Skim 0.40% Off the Top Every Year. One Charges a Quarter of That. Run the Math and the Difference Is a Fa",
             "published": "2026-05-23T15:15:00Z",
@@ -4209,7 +4218,7 @@
         {
             "source_ticker": "GLD",
             "category": "investment",
-            "collected_at": "2026-05-25T08:24:31.786083",
+            "collected_at": "2026-05-25T11:04:49.141265",
             "title": "GLD vs IAU: Same Gold. Different Fees. Here Is Which One Long-Term Investors Should Actually Own",
             "summary": "SPDR Gold Shares and iShares Gold Trust have many similarities and one glaring difference.",
             "published": "2026-05-23T07:35:00Z",
@@ -4220,7 +4229,7 @@
         "tickers_tracked": 13,
         "business_sources": 5,
         "investment_sources": 5,
-        "total_business_articles": 12,
+        "total_business_articles": 13,
         "total_investment_articles": 15
     }
 }
